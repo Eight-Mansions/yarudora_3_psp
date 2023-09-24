@@ -1,0 +1,1 @@
+tools\yarudora_script_merge.exe trans\trans.txt trans\orig trans
