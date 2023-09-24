@@ -11,955 +11,1069 @@
 
 // 000001BD
 // Pos : 00005C0D
-//#WRITE(PTR, $00001FF2)
-//#WRITE(PTR, $000020EC)
-////『ボーイはあれっきり姿を見せない』
-//<$00>
-//
+#WRITE(PTR, $00001FF2)
+#WRITE(PTR, $000020EC)
+//『ボーイはあれっきり姿を見せない』
+Boy hadn't shown his face since.
+<$00>
+
 
 
 // 000001E0
 // Pos : 00005C30
-//#WRITE(PTR, $0000202C)
-////『もうすく゛１２月になろうとしていた…』
-//<$00>
-//
+#WRITE(PTR, $0000202C)
+//『もうすく゛１２月になろうとしていた…』
+December had loomed right around the corner.
+<$00>
+
 
 
 // 0000021C
 // Pos : 00005C6C
-//#WRITE(PTR, $00002126)
-////『マリアとも、と゛こかよそよそしい関係か゛続いている』
-//<$00>
-//
+#WRITE(PTR, $00002126)
+//『マリアとも、と゛こかよそよそしい関係か゛続いている』
+My relationship with Maria had, meanwhile, come to a halt.
+<$00>
+
 
 
 // 0000024B
 // Pos : 00005C9B
-//#WRITE(PTR, $00002160)
-////『なんた゛かマリアか゛遠くなってしまったように感し゛る』
-//<$00>
-//
+#WRITE(PTR, $00002160)
+//『なんた゛かマリアか゛遠くなってしまったように感し゛る』
+It felt as though Maria only drifted further and further away from me.
+<$00>
+
 
 
 // 0000027A
 // Pos : 00005CCA
-//#WRITE(PTR, $0000219A)
-////『もうすく゛１２月…』
-//<$00>
-//
+#WRITE(PTR, $0000219A)
+//『もうすく゛１２月…』
+December had almost come.
+<$00>
+
 
 
 // 000002FD
 // Pos : 00005D4D
-//#WRITE(PTR, $00002246)
-//#WRITE(PTR, $0000232E)
-//#WRITE(PTR, $0000238C)
-//#WRITE(PTR, $0000246B)
-//#WRITE(PTR, $000024A1)
-//#WRITE(PTR, $0000250D)
-//#WRITE(PTR, $000025D7)
-//#WRITE(PTR, $00002635)
-//#WRITE(PTR, $000026CA)
-//#WRITE(PTR, $00002727)
-//#WRITE(PTR, $000027E1)
-//#WRITE(PTR, $00002851)
-//#WRITE(PTR, $000028F6)
-//#WRITE(PTR, $00002A8F)
-//#WRITE(PTR, $00002B04)
-//#WRITE(PTR, $00002B62)
-//#WRITE(PTR, $00002CE9)
-//#WRITE(PTR, $00002DB5)
-//#WRITE(PTR, $00002E48)
-//#WRITE(PTR, $00002F3A)
-//#WRITE(PTR, $000044FF)
-//#WRITE(PTR, $00004621)
-//#WRITE(PTR, $000046E7)
-//#WRITE(PTR, $00004834)
-//#WRITE(PTR, $00004900)
-//#WRITE(PTR, $00004950)
-//#WRITE(PTR, $00004B2D)
-//#WRITE(PTR, $00004B5F)
-////D1佐藤
-//<$00>
-//
+#WRITE(PTR, $00002246)
+#WRITE(PTR, $0000232E)
+#WRITE(PTR, $0000238C)
+#WRITE(PTR, $0000246B)
+#WRITE(PTR, $000024A1)
+#WRITE(PTR, $0000250D)
+#WRITE(PTR, $000025D7)
+#WRITE(PTR, $00002635)
+#WRITE(PTR, $000026CA)
+#WRITE(PTR, $00002727)
+#WRITE(PTR, $000027E1)
+#WRITE(PTR, $00002851)
+#WRITE(PTR, $000028F6)
+#WRITE(PTR, $00002A8F)
+#WRITE(PTR, $00002B04)
+#WRITE(PTR, $00002B62)
+#WRITE(PTR, $00002CE9)
+#WRITE(PTR, $00002DB5)
+#WRITE(PTR, $00002E48)
+#WRITE(PTR, $00002F3A)
+#WRITE(PTR, $000044FF)
+#WRITE(PTR, $00004621)
+#WRITE(PTR, $000046E7)
+#WRITE(PTR, $00004834)
+#WRITE(PTR, $00004900)
+#WRITE(PTR, $00004950)
+#WRITE(PTR, $00004B2D)
+#WRITE(PTR, $00004B5F)
+//D1佐藤
+D1Satoh
+<$00>
+
 
 
 // 00000304
 // Pos : 00005D54
-//#WRITE(PTR, $00002251)
-////「ヘイ、ユーーーッ！！」
-//<$00>
-//
+#WRITE(PTR, $00002251)
+//「ヘイ、ユーーーッ！！」
+"HEY, YOU!"
+<$00>
+
 
 
 // 00000334
 // Pos : 00005D84
-//#WRITE(PTR, $00002298)
-////『こ、この声は…』
-//<$00>
-//
+#WRITE(PTR, $00002298)
+//『こ、この声は…』
+That voice...!
+<$00>
+
 
 
 // 0000035E
 // Pos : 00005DAE
-//#WRITE(PTR, $000022E1)
-////『やっは゜り…』
-//<$00>
-//
+#WRITE(PTR, $000022E1)
+//『やっは゜り…』
+Ugh, of course.
+<$00>
+
 
 
 // 0000039D
 // Pos : 00005DED
-//#WRITE(PTR, $00002339)
-////「ひっさしふ゛りし゛ゃん！」
-//<$00>
-//
+#WRITE(PTR, $00002339)
+//「ひっさしふ゛りし゛ゃん！」
+"Long time, no see!"
+<$00>
+
 
 
 // 000003E0
 // Pos : 00005E30
-//#WRITE(PTR, $00002397)
-////「と゛うしてた？ 馬場先輩のところには行ったのかい？」
-//<$00>
-//
+#WRITE(PTR, $00002397)
+//「と゛うしてた？ 馬場先輩のところには行ったのかい？」
+"How'd everything go? Did you ever go speak with Mr. Baba?"
+<$00>
+
 
 
 // 00000420
 // Pos : 00005E70
-//#WRITE(PTR, $000023F5)
-////「ああ…」
-//<$00>
-//
+#WRITE(PTR, $000023F5)
+//「ああ…」
+"Oh, right."
+<$00>
+
 
 
 // 00000474
 // Pos : 00005EC4
-//#WRITE(PTR, $00002476)
-////「いい人た゛ろ」
-//<$00>
-//
+#WRITE(PTR, $00002476)
+//「いい人た゛ろ」
+"He's a good guy!"
+<$00>
+
 
 
 // 00000492
 // Pos : 00005EE2
-//#WRITE(PTR, $000024AC)
-////「グッドパースンた゛ね」
-//<$00>
-//
+#WRITE(PTR, $000024AC)
+//「グッドパースンた゛ね」
+"A solid gent, indeed!"
+<$00>
+
 
 
 // 000004EB
 // Pos : 00005F3B
-//#WRITE(PTR, $00002518)
-////「ところて゛マリアちゃん元気？」
-//<$00>
-//
+#WRITE(PTR, $00002518)
+//「ところて゛マリアちゃん元気？」
+"By the way! How goes Maria these days?"
+<$00>
+
 
 
 // 00000520
 // Pos : 00005F70
-//#WRITE(PTR, $00002566)
-////「まあな…」
-//<$00>
-//
+#WRITE(PTR, $00002566)
+//「まあな…」
+"Eh, she's goin'."
+<$00>
+
 
 
 // 0000055C
 // Pos : 00005FAC
-//#WRITE(PTR, $000025E2)
-////「今度さァ、合コンにマリアちゃん連れてこいよ」
-//<$00>
-//
+#WRITE(PTR, $000025E2)
+//「今度さァ、合コンにマリアちゃん連れてこいよ」
+"You should really bring her to the next hangout."
+<$00>
+
 
 
 // 000005B2
 // Pos : 00006002
-//#WRITE(PTR, $00002640)
-////「彼女かわいいしなあ…」
-//<$00>
-//
+#WRITE(PTR, $00002640)
+//「彼女かわいいしなあ…」
+"You can't keep such a 'Q-T 3.14' all to yourself!"
+<$00>
+
 
 
 // 000005CD
 // Pos : 0000601D
-//#WRITE(PTR, $0000268A)
-////『もう…カンベンしてくれよ…』
-//<$00>
-//
+#WRITE(PTR, $0000268A)
+//『もう…カンベンしてくれよ…』
+That one was dorky, I'll let it slide.
+<$00>
+
 
 
 // 00000616
 // Pos : 00006066
-//#WRITE(PTR, $000026D5)
-////「そうそう」
-//<$00>
-//
+#WRITE(PTR, $000026D5)
+//「そうそう」
+"No pressure, of course."
+<$00>
+
 
 
 // 00000651
 // Pos : 000060A1
-//#WRITE(PTR, $00002732)
-////「キミか゛フィリピンの子とつきあってるって言ったら、みんな騒いし゛ゃってさ」
-//<$00>
-//
+#WRITE(PTR, $00002732)
+//「キミか゛フィリピンの子とつきあってるって言ったら、みんな騒いし゛ゃってさ」
+"If people found out YOU we're going out with a 10/10 Filipina like her, everyone would FREAK!"
+<$00>
+
 
 
 // 000006A0
 // Pos : 000060F0
-//#WRITE(PTR, $00002780)
-////「余計な事を言うなよ！」
-//<$00>
-//
+#WRITE(PTR, $00002780)
+//「余計な事を言うなよ！」
+"A little discretion, thanks!"
+<$00>
+
 
 
 // 000006F9
 // Pos : 00006149
-//#WRITE(PTR, $000027EC)
-//#WRITE(PTR, $00004B6A)
-////「ソ～リ～」
-//<$00>
-//
+#WRITE(PTR, $000027EC)
+#WRITE(PTR, $00004B6A)
+//「ソ～リ～」
+"Sorryyy!"
+<$00>
+
 
 
 // 00000734
 // Pos : 00006184
-//#WRITE(PTR, $0000285C)
-////「て゛、と゛うなの？ フィリピンの子って…」
-//<$00>
-//
+#WRITE(PTR, $0000285C)
+//「て゛、と゛うなの？ フィリピンの子って…」
+"But what IS the status on that, hmm? Are you and her, uh..."
+<$00>
+
 
 
 // 0000077C
 // Pos : 000061CC
-//#WRITE(PTR, $0000288B)
-////「と゛うって、何か゛」
-//<$00>
-//
+#WRITE(PTR, $0000288B)
+//「と゛うって、何か゛」
+"'Uh', what?"
+<$00>
+
 
 
 // 000007BD
 // Pos : 0000620D
-//#WRITE(PTR, $00002901)
-////「やっは゜りいいのかな？ アノときなんか…」
-//<$00>
-//
+#WRITE(PTR, $00002901)
+//「やっは゜りいいのかな？ アノときなんか…」
+"Remember? We talked about this at the arcade? Are you two getting sweaty or what?"
+<$00>
+
 
 
 // 000007E3
 // Pos : 00006233
-//#WRITE(PTR, $00002953)
-////『こ、この野郎…』
-//<$00>
-//
+#WRITE(PTR, $00002953)
+//『こ、この野郎…』
+Man, he's a piece of work...
+<$00>
+
 
 
 // 000007FD
 // Pos : 0000624D
-//#WRITE(PTR, $00002982)
-////僕はガマン出来す゛に佐藤を殴った
-//<$00>
-//
+#WRITE(PTR, $00002982)
+//僕はガマン出来す゛に佐藤を殴った
+Punch Satoh
+<$00>
+
 
 
 // 00000817
 // Pos : 00006267
-//#WRITE(PTR, $0000298B)
-////ここはグッとこらえた
-//<$00>
-//
+#WRITE(PTR, $0000298B)
+//ここはグッとこらえた
+Let it slide
+<$00>
+
 
 
 // 0000086F
 // Pos : 000062BF
-//#WRITE(PTR, $00002A11)
-////「冗談はやめてくれ」
-//<$00>
-//
+#WRITE(PTR, $00002A11)
+//「冗談はやめてくれ」
+"Stop joking like that!"
+<$00>
+
 
 
 // 000008C0
 // Pos : 00006310
-//#WRITE(PTR, $00002A9A)
-////「ふーーーん…」
-//<$00>
-//
+#WRITE(PTR, $00002A9A)
+//「ふーーーん…」
+"Hmph!"
+<$00>
+
 
 
 // 00000911
 // Pos : 00006361
-//#WRITE(PTR, $00002B0F)
-////「わりと本気なんた゛けと゛な」
-//<$00>
-//
+#WRITE(PTR, $00002B0F)
+//「わりと本気なんた゛けと゛な」
+"Too bad SOMEONE'S being a goody two-snooze today!"
+<$00>
+
 
 
 // 00000957
 // Pos : 000063A7
-//#WRITE(PTR, $00002B6D)
-////「まァいいや。マリアちゃんによろしくゥ！」
-//<$00>
-//
+#WRITE(PTR, $00002B6D)
+//「まァいいや。マリアちゃんによろしくゥ！」
+"...oh well! Give my REGARDS to Maria."
+<$00>
+
 
 
 // 00000994
 // Pos : 000063E4
-//#WRITE(PTR, $00002BD0)
-////『疲れた…アイツに会うとホントに疲れる…』
-//<$00>
-//
+#WRITE(PTR, $00002BD0)
+//『疲れた…アイツに会うとホントに疲れる…』
+That guy sucks the life out of me, I swear.
+<$00>
+
 
 
 // 00000A10
 // Pos : 00006460
-//#WRITE(PTR, $00002C88)
-////「思い知ったか！」
-//<$00>
-//
+#WRITE(PTR, $00002C88)
+//「思い知ったか！」
+"What the hell's your problem?"
+<$00>
+
 
 
 // 00000A50
 // Pos : 000064A0
-//#WRITE(PTR, $00002CF4)
-////「いっ痛いな！ 超ムカついたそ゛ボクは…！！」
-//<$00>
-//
+#WRITE(PTR, $00002CF4)
+//「いっ痛いな！ 超ムカついたそ゛ボクは…！！」
+"Hey, that HURT! NOW you've done it!"
+<$00>
+
 
 
 // 00000A90
 // Pos : 000064E0
-//#WRITE(PTR, $00002D42)
-////「おまえなんか殴られて当然た゛！」
-//<$00>
-//
+#WRITE(PTR, $00002D42)
+//「おまえなんか殴られて当然た゛！」
+"Someone needed to put a sock in it for you."
+<$00>
+
 
 
 // 00000AD6
 // Pos : 00006526
-//#WRITE(PTR, $00002DC0)
-////「言ったなァ～～～っ」
-//<$00>
-//
+#WRITE(PTR, $00002DC0)
+//「言ったなァ～～～っ」
+"Put a SOCK in it...?!"
+<$00>
+
 
 
 // 00000B37
 // Pos : 00006587
-//#WRITE(PTR, $00002E53)
-////「おっおほ゛えてろよ！ キミの悪いウワサをサークル仲間に言いふらしてやる！！」
-//<$00>
-//
+#WRITE(PTR, $00002E53)
+//「おっおほ゛えてろよ！ キミの悪いウワサをサークル仲間に言いふらしてやる！！」
+Oh, I'll REMEMBER this！ I'll YOU! EVERYONE'll know what you did to me!"
+<$00>
+
 
 
 // 00000BB7
 // Pos : 00006607
-//#WRITE(PTR, $00002EC4)
-////「勝手にやってろ！」
-//<$00>
-//
+#WRITE(PTR, $00002EC4)
+//「勝手にやってろ！」
+"Up yours!"
+<$00>
+
 
 
 // 00000BE2
 // Pos : 00006632
-//#WRITE(PTR, $00002F45)
-////「おほ゛えてろォォォォォ！」
-//<$00>
-//
+#WRITE(PTR, $00002F45)
+//「おほ゛えてろォォォォォ！」
+"I WON'T FORGET THIIIS!"
+<$00>
+
 
 
 // 00000C18
 // Pos : 00006668
-//#WRITE(PTR, $00002FD1)
-////『疲れた…』
-//<$00>
-//
+#WRITE(PTR, $00002FD1)
+//『疲れた…』
+Man, am I war-torn!
+<$00>
+
 
 
 // 00000C2E
 // Pos : 0000667E
-//#WRITE(PTR, $0000300B)
-////『佐藤にはなにかされるかもしれないけれと゛、なあに、構うものか…』
-//<$00>
-//
+#WRITE(PTR, $0000300B)
+//『佐藤にはなにかされるかもしれないけれと゛、なあに、構うものか…』
+Even if it were beneficial to settle things with Satoh differently, I didn't see much point.
+<$00>
+
 
 
 // 00000D0C
 // Pos : 0000675C
-//#WRITE(PTR, $0000318F)
-////『ボーイか゛歩いている。あれ！？ て゛も…』
-//<$00>
-//
+#WRITE(PTR, $0000318F)
+//『ボーイか゛歩いている。あれ！？ て゛も…』
+Over there. Is that... Boy?
+<$00>
+
 
 
 // 00000D5B
 // Pos : 000067AB
-//#WRITE(PTR, $00003232)
-////『後ろからつけているあの男達は？』
-//<$00>
-//
+#WRITE(PTR, $00003232)
+//『後ろからつけているあの男達は？』
+Who are those shady types walking up behind him?
+<$00>
+
 
 
 // 00000DA3
 // Pos : 000067F3
-//#WRITE(PTR, $000032B6)
-////『拳銃た゛！！』
-//<$00>
-//
+#WRITE(PTR, $000032B6)
+//『拳銃た゛！！』
+...a handgun!
+<$00>
+
 
 
 // 00000E08
 // Pos : 00006858
-//#WRITE(PTR, $0000336B)
-////『それは一瞬の出来事た゛った…』
-//<$00>
-//
+#WRITE(PTR, $0000336B)
+//『それは一瞬の出来事た゛った…』
+It all happened in an instant.
+<$00>
+
 
 
 // 00000E61
 // Pos : 000068B1
-//#WRITE(PTR, $00003420)
-////『僕は恐ろしさのあまり、声を発することか゛出来なかった』
-//<$00>
-//
+#WRITE(PTR, $00003420)
+//『僕は恐ろしさのあまり、声を発することか゛出来なかった』
+I was too terrified to speak up.
+<$00>
+
 
 
 // 00000EF4
 // Pos : 00006944
-//#WRITE(PTR, $00003534)
-////「し゛ゃあ、学校行ってくる…」
-//<$00>
-//
+#WRITE(PTR, $00003534)
+//「し゛ゃあ、学校行ってくる…」
+"Well, I'm off to class."
+<$00>
+
 
 
 // 00000F37
 // Pos : 00006987
-//#WRITE(PTR, $000035AC)
-////「行ってらっしゃい」
-//<$00>
-//
+#WRITE(PTR, $000035AC)
+//「行ってらっしゃい」
+"Take care!"
+<$00>
+
 
 
 // 00000F6E
 // Pos : 000069BE
-//#WRITE(PTR, $00003627)
-////『僕たちの生活は続いていた』
-//<$00>
-//
+#WRITE(PTR, $00003627)
+//『僕たちの生活は続いていた』
+Our lives went on as normal.
+<$00>
+
 
 
 // 00000F83
 // Pos : 000069D3
-//#WRITE(PTR, $0000364A)
-////『マリアはボーイの死を知らない』
-//<$00>
-//
+#WRITE(PTR, $0000364A)
+//『マリアはボーイの死を知らない』
+Maria never learned of Boy's death.
+<$00>
+
 
 
 // 00000FA8
 // Pos : 000069F8
-//#WRITE(PTR, $00003684)
-////『あのとき僕か゛ボーイに叫んて゛いれは゛…』
-//<$00>
-//
+#WRITE(PTR, $00003684)
+//『あのとき僕か゛ボーイに叫んて゛いれは゛…』
+I should have shouted out to Boy.
+<$00>
+
 
 
 // 00000FD1
 // Pos : 00006A21
-//#WRITE(PTR, $000036BE)
-////『と゛うして何も言えなかったのか…』
-//<$00>
-//
+#WRITE(PTR, $000036BE)
+//『と゛うして何も言えなかったのか…』
+What stopped me from saving Boy?
+<$00>
+
 
 
 // 00000FE9
 // Pos : 00006A39
-//#WRITE(PTR, $000036E1)
-////『あの夜、コインランドリーのときた゛って…』
-//<$00>
-//
+#WRITE(PTR, $000036E1)
+//『あの夜、コインランドリーのときた゛って…』
+Was I all talk back at the laundromat?
+<$00>
+
 
 
 // 00001052
 // Pos : 00006AA2
-//#WRITE(PTR, $00003753)
-////『くそっ…』
-//<$00>
-//
+#WRITE(PTR, $00003753)
+//『くそっ…』
+Damn...
+<$00>
+
 
 
 // 0000107D
 // Pos : 00006ACD
-//#WRITE(PTR, $00003795)
-////『僕は呪う』
-//<$00>
-//
+#WRITE(PTR, $00003795)
+//『僕は呪う』
+I feel cursed.
+<$00>
+
 
 
 // 00001093
 // Pos : 00006AE3
-//#WRITE(PTR, $000037CF)
-////『自分の勇気のなさを…』
-//<$00>
-//
+#WRITE(PTR, $000037CF)
+//『自分の勇気のなさを…』
+Robbed of the courage I thought I had.
+<$00>
+
 
 
 // 000010C8
 // Pos : 00006B18
-//#WRITE(PTR, $0000387A)
-////L384欠番:
-//<$00>
-//
+#WRITE(PTR, $0000387A)
+//L384欠番:
+
+<$00>
+
 
 
 // 000010D2
 // Pos : 00006B22
-//#WRITE(PTR, $00003891)
-////L385欠番:
-//<$00>
-//
+#WRITE(PTR, $00003891)
+//L385欠番:
+
+<$00>
+
 
 
 // 000010DC
 // Pos : 00006B2C
-//#WRITE(PTR, $000038A8)
-////L386欠番:
-//<$00>
-//
+#WRITE(PTR, $000038A8)
+//L386欠番:
+
+<$00>
+
 
 
 // 000010E6
 // Pos : 00006B36
-//#WRITE(PTR, $000038BF)
-////L387欠番:
-//<$00>
-//
+#WRITE(PTR, $000038BF)
+//L387欠番:
+
+<$00>
+
 
 
 // 000010F0
 // Pos : 00006B40
-//#WRITE(PTR, $000038D6)
-////L388欠番:
-//<$00>
-//
+#WRITE(PTR, $000038D6)
+//L388欠番:
+
+<$00>
+
 
 
 // 0000113C
 // Pos : 00006B8C
-//#WRITE(PTR, $0000392D)
-////「ボーイ！！」
-//<$00>
-//
+#WRITE(PTR, $0000392D)
+//「ボーイ！！」
+"Boy!"
+<$00>
+
 
 
 // 000011DD
 // Pos : 00006C2D
-//#WRITE(PTR, $00003A8A)
-////『逃け゛なきゃ…』
-//<$00>
-//
+#WRITE(PTR, $00003A8A)
+//『逃け゛なきゃ…』
+I need to get out of here.
+<$00>
+
 
 
 // 00001227
 // Pos : 00006C77
-//#WRITE(PTR, $00003AF2)
-////『僕は夢中て゛逃け゛出した』
-//<$00>
-//
+#WRITE(PTR, $00003AF2)
+//『僕は夢中て゛逃け゛出した』
+I was entranced. Where do I run to?
+<$00>
+
 
 
 // 00001247
 // Pos : 00006C97
-//#WRITE(PTR, $00003B21)
-////工場の裏を逃け゛る
-//<$00>
-//
+#WRITE(PTR, $00003B21)
+//工場の裏を逃け゛る
+The factory
+<$00>
+
 
 
 // 00001255
 // Pos : 00006CA5
-//#WRITE(PTR, $00003B2C)
-////川沿いの路地を逃け゛る
-//<$00>
-//
+#WRITE(PTR, $00003B2C)
+//川沿いの路地を逃け゛る
+The riverside alley
+<$00>
+
 
 
 // 00001266
 // Pos : 00006CB6
-//#WRITE(PTR, $00003B36)
-////公園内を逃け゛る
-//<$00>
-//
+#WRITE(PTR, $00003B36)
+//公園内を逃け゛る
+The park
+<$00>
+
 
 
 // 000012F5
 // Pos : 00006D45
-//#WRITE(PTR, $00003C17)
-//#WRITE(PTR, $00003C6A)
-////『歩道橋からおりたところにある工場の裏を…』
-//<$00>
-//
+#WRITE(PTR, $00003C17)
+#WRITE(PTR, $00003C6A)
+//『歩道橋からおりたところにある工場の裏を…』
+I flew down the flight of stairs from the bridge in an attempt to escape behind the factory.
+<$00>
+
 
 
 // 00001365
 // Pos : 00006DB5
-//#WRITE(PTR, $00003CE1)
-////『くそ！ 行き止まりか…』
-//<$00>
-//
+#WRITE(PTR, $00003CE1)
+//『くそ！ 行き止まりか…』
+Dammit! A dead end.
+<$00>
+
 
 
 // 000014A7
 // Pos : 00006EF7
-//#WRITE(PTR, $00003F18)
-////D1ヤクザ
-//<$00>
-//
+#WRITE(PTR, $00003F18)
+//D1ヤクザ
+D1Yakuza Member
+<$00>
+
 
 
 // 000014B0
 // Pos : 00006F00
-//#WRITE(PTR, $00003F23)
-////「運か゛悪かったな兄ちゃん。もう一回やってくれや」
-//<$00>
-//
+#WRITE(PTR, $00003F23)
+//「運か゛悪かったな兄ちゃん。もう一回やってくれや」
+"You're one unlucky brother. Better luck next time."
+<$00>
+
 
 
 // 00001527
 // Pos : 00006F77
-//#WRITE(PTR, $0000400F)
-//#WRITE(PTR, $00004062)
-////『ひと気のない公園の中を…』
-//<$00>
-//
+#WRITE(PTR, $0000400F)
+#WRITE(PTR, $00004062)
+//『ひと気のない公園の中を…』
+What if I could blend in with some crowd in the park?
+<$00>
+
 
 
 // 0000157F
 // Pos : 00006FCF
-//#WRITE(PTR, $000040AB)
-//#WRITE(PTR, $00004239)
-////『ああ…て゛も追いつかれる！』
-//<$00>
-//
+#WRITE(PTR, $000040AB)
+#WRITE(PTR, $00004239)
+//『ああ…て゛も追いつかれる！』
+Oh no, he caught up with me!
+<$00>
+
 
 
 // 000015EE
 // Pos : 0000703E
-//#WRITE(PTR, $000041B3)
-////『表通りからフェンスを乗り越え、川沿いの路地を…』
-//<$00>
-//
+#WRITE(PTR, $000041B3)
+//『表通りからフェンスを乗り越え、川沿いの路地を…』
+Pulling off the main street, I leapt over the fence into the riverside alley.
+<$00>
+
 
 
 // 000016B3
 // Pos : 00007103
-//#WRITE(PTR, $00004326)
-////『人混みて゛こ゛ったか゛えしている商店街を…』
-//<$00>
-//
+#WRITE(PTR, $00004326)
+//『人混みて゛こ゛ったか゛えしている商店街を…』
+I landed in a shopping district that was bustling with pedestrians.
+<$00>
+
 
 
 // 00001738
 // Pos : 00007188
-//#WRITE(PTR, $000043CC)
-////「うわ！」
-//<$00>
-//
+#WRITE(PTR, $000043CC)
+//「うわ！」
+"Hey!"
+<$00>
+
 
 
 // 0000175F
 // Pos : 000071AF
-//#WRITE(PTR, $00004413)
-////『と、突然僕は誰かの手によって、路地へ引きこまれた』
-//<$00>
-//
+#WRITE(PTR, $00004413)
+//『と、突然僕は誰かの手によって、路地へ引きこまれた』
+Out of nowhere, someone grabbed my by the arm and yanked me into an alley.
+<$00>
+
 
 
 // 000017DD
 // Pos : 0000722D
-//#WRITE(PTR, $00004473)
-////「さ、佐藤！」
-//<$00>
-//
+#WRITE(PTR, $00004473)
+//「さ、佐藤！」
+"Satoh!"
+<$00>
+
 
 
 // 0000182F
 // Pos : 0000727F
-//#WRITE(PTR, $0000450A)
-////「あんな侮辱を受けたのは生まれてはし゛めてた゛。ボクは絶対キミを許さないからな」
-//<$00>
-//
+#WRITE(PTR, $0000450A)
+//「あんな侮辱を受けたのは生まれてはし゛めてた゛。ボクは絶対キミを許さないからな」
+"Never in my LIFE have I been so insulted! I could NEVER forgive you for what you did to me!"
+<$00>
+
 
 
 // 000018AB
 // Pos : 000072FB
-//#WRITE(PTR, $00004580)
-////「は、離せよ！」
-//<$00>
-//
+#WRITE(PTR, $00004580)
+//「は、離せよ！」
+"Let me go, Satoh!"
+<$00>
+
 
 
 // 00001910
 // Pos : 00007360
-//#WRITE(PTR, $0000462C)
-////「ヤーダよ！！」
-//<$00>
-//
+#WRITE(PTR, $0000462C)
+//「ヤーダよ！！」
+"Not on your LIFE!!!"
+<$00>
+
 
 
 // 0000193A
 // Pos : 0000738A
-//#WRITE(PTR, $00004683)
-////「お願いた゛から離してくれよ！ 謝るからさ！」
-//<$00>
-//
+#WRITE(PTR, $00004683)
+//「お願いた゛から離してくれよ！ 謝るからさ！」
+"I'm begging you, just let me go! I'm sorry!"
+<$00>
+
 
 
 // 00001987
 // Pos : 000073D7
-//#WRITE(PTR, $000046F2)
-////「イヤダったらイヤダっ！！」
-//<$00>
-//
+#WRITE(PTR, $000046F2)
+//「イヤダったらイヤダっ！！」
+"Blah, blah, blah, blah, BLAH!"
+<$00>
+
 
 
 // 000019B8
 // Pos : 00007408
-//#WRITE(PTR, $0000474C)
-////仕方ない、言いなりになろう
-//<$00>
-//
+#WRITE(PTR, $0000474C)
+//仕方ない、言いなりになろう
+I'll do anything!
+<$00>
+
 
 
 // 000019C9
 // Pos : 00007419
-//#WRITE(PTR, $00004755)
-////仕方ない、許せ！ 佐藤！
-//<$00>
-//
+#WRITE(PTR, $00004755)
+//仕方ない、許せ！ 佐藤！
+Let me go, Satoh!
+<$00>
+
 
 
 // 00001A70
 // Pos : 000074C0
-//#WRITE(PTR, $0000483F)
-////「ん？」
-//<$00>
-//
+#WRITE(PTR, $0000483F)
+//「ん？」
+"Yes?"
+<$00>
+
 
 
 // 00001AB2
 // Pos : 00007502
-//#WRITE(PTR, $000048C3)
-////『ア…』
-//<$00>
-//
+#WRITE(PTR, $000048C3)
+//『ア…』
+Urk...
+<$00>
+
 
 
 // 00001AD8
 // Pos : 00007528
-//#WRITE(PTR, $0000490B)
-////「あららららら…」
-//<$00>
-//
+#WRITE(PTR, $0000490B)
+//「あららららら…」
+"Aye, aye, aye..."
+<$00>
+
 
 
 // 00001B13
 // Pos : 00007563
-//#WRITE(PTR, $0000495B)
-////「にょほほほほ…」
-//<$00>
-//
+#WRITE(PTR, $0000495B)
+//「にょほほほほ…」
+"Hyuck, hyuck, hyuck!"
+<$00>
+
 
 
 // 00001BCC
 // Pos : 0000761C
-//#WRITE(PTR, $00004B38)
-////「ボクを怒らすからこうなるのサ。て゛もまさか殺されちゃうとはね」
-//<$00>
-//
+#WRITE(PTR, $00004B38)
+//「ボクを怒らすからこうなるのサ。て゛もまさか殺されちゃうとはね」
+"Insulting me like that was no doubt a grave mistake, but who knew it would actually get you killed!"
+<$00>
+
 
 
 // 00001C52
 // Pos : 000076A2
-//#WRITE(PTR, $00004C4F)
-////『そして隣町の繁華街を抜ける』
-//<$00>
-//
+#WRITE(PTR, $00004C4F)
+//『そして隣町の繁華街を抜ける』
+Then, I crossed into the shopping district of an adjacent town.
+<$00>
+
 
 
 // 00001CDE
 // Pos : 0000772E
-//#WRITE(PTR, $00004D52)
-////『さっきのあれは！？ ボーイっていったい…』
-//<$00>
-//
+#WRITE(PTR, $00004D52)
+//『さっきのあれは！？ ボーイっていったい…』
+What the heck happened just now? What became of Boy?
+<$00>
+
 
 
 // 00001D1C
 // Pos : 0000776C
-//#WRITE(PTR, $00004DA3)
-////『僕はいきなりの出来事に、混乱と不安を感し゛てアパートへ急いた゛』
-//<$00>
-//
+#WRITE(PTR, $00004DA3)
+//『僕はいきなりの出来事に、混乱と不安を感し゛てアパートへ急いた゛』
+Left with confusion and anxiety after the sudden turn of events, I raced back to the apartment.
+<$00>
+
 
 
 // 00001D7C
 // Pos : 000077CC
-//#WRITE(PTR, $00004DFA)
-////「たた゛いま…」
-//<$00>
-//
+#WRITE(PTR, $00004DFA)
+//「たた゛いま…」
+"Hey, I'm back."
+<$00>
+
 
 
 // 00001DDB
 // Pos : 0000782B
-//#WRITE(PTR, $00004EB6)
-//#WRITE(PTR, $000052D8)
-//#WRITE(PTR, $000058B1)
-////「ボーイ…」
-//<$00>
-//
+#WRITE(PTR, $00004EB6)
+#WRITE(PTR, $000052D8)
+#WRITE(PTR, $000058B1)
+//「ボーイ…」
+Boy...
+<$00>
+
 
 
 // 00001DE5
 // Pos : 00007835
-//#WRITE(PTR, $00004ECD)
-////L407欠番:
-//<$00>
-//
+#WRITE(PTR, $00004ECD)
+//L407欠番:
+
+<$00>
+
 
 
 // 0000200D
 // Pos : 00007A5D
-//#WRITE(PTR, $000051AE)
-//#WRITE(PTR, $00005259)
-//#WRITE(PTR, $00005533)
-//#WRITE(PTR, $000055FA)
-//#WRITE(PTR, $00005674)
-//#WRITE(PTR, $000056CD)
-//#WRITE(PTR, $00005737)
-//#WRITE(PTR, $00005818)
-////D1ボーイ
-//<$00>
-//
+#WRITE(PTR, $000051AE)
+#WRITE(PTR, $00005259)
+#WRITE(PTR, $00005533)
+#WRITE(PTR, $000055FA)
+#WRITE(PTR, $00005674)
+#WRITE(PTR, $000056CD)
+#WRITE(PTR, $00005737)
+#WRITE(PTR, $00005818)
+//D1ボーイ
+D1Boy
+<$00>
+
 
 
 // 00002015
 // Pos : 00007A65
-//#WRITE(PTR, $000051B9)
-////「オレは小さい時からこう言われて育ってきた…」
-//<$00>
-//
+#WRITE(PTR, $000051B9)
+//「オレは小さい時からこう言われて育ってきた…」
+"I've gone by this old saying since I was a kid:"
+<$00>
+
 
 
 // 00002064
 // Pos : 00007AB4
-//#WRITE(PTR, $00005264)
-////「恩は石に刻め、恨みは水に流せ…と」
-//<$00>
-//
+#WRITE(PTR, $00005264)
+//「恩は石に刻め、恨みは水に流せ…と」
+"Debts are etched in stone. Resentments, wiped clean."
+<$00>
+
 
 
 // 00002156
 // Pos : 00007BA6
-//#WRITE(PTR, $0000543F)
-////L416欠番:
-//<$00>
-//
+#WRITE(PTR, $0000543F)
+//L416欠番:
+
+<$00>
+
 
 
 // 00002187
 // Pos : 00007BD7
-//#WRITE(PTR, $000054B9)
-////「！！ボーイ！！」
-//<$00>
-//
+#WRITE(PTR, $000054B9)
+//「！！ボーイ！！」
+"BOY!!!"
+<$00>
+
 
 
 // 000021A1
 // Pos : 00007BF1
-//#WRITE(PTR, $000054EA)
-////「ダメた゛よ、そんな体て゛！！」
-//<$00>
-//
+#WRITE(PTR, $000054EA)
+//「ダメた゛よ、そんな体て゛！！」
+"No! What happened to your chest?!"
+<$00>
+
 
 
 // 000021FC
 // Pos : 00007C4C
-//#WRITE(PTR, $0000553E)
-////「ダイジョブた゛。いつまて゛もココにはイラレナイ」
-//<$00>
-//
+#WRITE(PTR, $0000553E)
+//「ダイジョブた゛。いつまて゛もココにはイラレナイ」
+"I'll be fine. Still, we can't stay here."
+<$00>
+
 
 
 // 0000223E
 // Pos : 00007C8E
-//#WRITE(PTR, $00005590)
-////「ダッテ…」
-//<$00>
-//
+#WRITE(PTR, $00005590)
+//「ダッテ…」
+"What's wrong...!"
+<$00>
+
 
 
 // 0000228E
 // Pos : 00007CDE
-//#WRITE(PTR, $00005605)
-////「オレのコトはいい…ジブンのコトた゛けを考えろ」
-//<$00>
-//
+#WRITE(PTR, $00005605)
+//「オレのコトはいい…ジブンのコトた゛けを考えろ」
+"I'll be fine. You, fend for yourself."
+<$00>
+
 
 
 // 000022D8
 // Pos : 00007D28
-//#WRITE(PTR, $0000567F)
-////「サラマット」
-//<$00>
-//
+#WRITE(PTR, $0000567F)
+//「サラマット」
+"Salamat!"
+<$00>
+
 
 
 // 00002329
 // Pos : 00007D79
-//#WRITE(PTR, $000056D8)
-////「カパティッド…」
-//<$00>
-//
+#WRITE(PTR, $000056D8)
+//「カパティッド…」
+"Kapatid..."
+<$00>
+
 
 
 // 00002381
 // Pos : 00007DD1
-//#WRITE(PTR, $00005742)
-////「アリガトウ、キョウダイ…」
-//<$00>
-//
+#WRITE(PTR, $00005742)
+//「アリガトウ、キョウダイ…」
+"Thank you, my brother."
+<$00>
+
 
 
 // 000023BB
 // Pos : 00007E0B
-//#WRITE(PTR, $000057AA)
-////『え……？』
-//<$00>
-//
+#WRITE(PTR, $000057AA)
+//『え……？』
+'Brother'?
+<$00>
+
 
 
 // 0000240E
 // Pos : 00007E5E
-//#WRITE(PTR, $00005823)
-////「来ルナッ！！」
-//<$00>
-//
+#WRITE(PTR, $00005823)
+//「来ルナッ！！」
+"Don't come after me!"
+<$00>
+
 
 
 // 000024E9
 // Pos : 00007F39
-//#WRITE(PTR, $00005997)
-////『僕とマリアはボーイの出ていったドアを見つめて、いつまて゛も立ち尽くしていた』
-//<$00>
-//
+#WRITE(PTR, $00005997)
+//『僕とマリアはボーイの出ていったドアを見つめて、いつまて゛も立ち尽くしていた』
+Maria and I stood and stared at the door. We lost track of time after Boy left.
+<$00>
+
 
 
 // 00002534
 // Pos : 00007F84
-//#WRITE(PTR, $00005A24)
-////セーブ１０
-//<$00>
-//
+#WRITE(PTR, $00005A24)
+//セーブ１０
+SAVE 10
+<$00>
+
 
 
 #WRITE(APTR, $00000008)

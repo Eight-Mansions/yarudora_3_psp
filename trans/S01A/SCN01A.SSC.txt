@@ -11,755 +11,847 @@
 
 // 000001A0
 // Pos : 00004FF0
-//#WRITE(PTR, $00001FAB)
-////『アレッ…！？』
-//<$00>
-//
+#WRITE(PTR, $00001FAB)
+//『アレッ…！？』
+Huh...?
+<$00>
+
 
 
 // 000001D3
 // Pos : 00005023
-//#WRITE(PTR, $0000200E)
-////『なにしてるんた゛ろう、僕は…？』
-//<$00>
-//
+#WRITE(PTR, $0000200E)
+//『なにしてるんた゛ろう、僕は…？』
+What happened to me?
+<$00>
+
 
 
 // 00000229
 // Pos : 00005079
-//#WRITE(PTR, $000020C7)
-////『視界に光か゛戻ってくる』
-//<$00>
-//
+#WRITE(PTR, $000020C7)
+//『視界に光か゛戻ってくる』
+Light struck my vision.
+<$00>
+
 
 
 // 0000026E
 // Pos : 000050BE
-//#WRITE(PTR, $00002140)
-////『忙しけ゛な辺りのさ゛わめきか゛、耳に聞こえてくる』
-//<$00>
-//
+#WRITE(PTR, $00002140)
+//『忙しけ゛な辺りのさ゛わめきか゛、耳に聞こえてくる』
+My ears told me I was in a bustling area.
+<$00>
+
 
 
 // 000002AC
 // Pos : 000050FC
-//#WRITE(PTR, $00002190)
-////D1男の声
-//<$00>
-//
+#WRITE(PTR, $00002190)
+//D1男の声
+D1Male Voice
+<$00>
+
 
 
 // 000002B4
 // Pos : 00005104
-//#WRITE(PTR, $0000219B)
-////「はい、おはようこ゛さ゛います。石川商事て゛こ゛さ゛いますか゛」
-//<$00>
-//
+#WRITE(PTR, $0000219B)
+//「はい、おはようこ゛さ゛います。石川商事て゛こ゛さ゛いますか゛」
+"Oh! Good morning! Are you Ishikawa Shoji?"
+<$00>
+
 
 
 // 0000039A
 // Pos : 000051EA
-//#WRITE(PTR, $00002292)
-////『書類を持った女の人か゛近つ゛いてくる』
-//<$00>
-//
+#WRITE(PTR, $00002292)
+//『書類を持った女の人か゛近つ゛いてくる』
+A woman with a document in hand approached.
+<$00>
+
 
 
 // 000003E8
 // Pos : 00005238
-//#WRITE(PTR, $000022F7)
-////「あの、すみませんか゛…」
-//<$00>
-//
+#WRITE(PTR, $000022F7)
+//「あの、すみませんか゛…」
+"Um, excuse me."
+<$00>
+
 
 
 // 0000042D
 // Pos : 0000527D
-//#WRITE(PTR, $0000235C)
-////D1女の人
-//<$00>
-//
+#WRITE(PTR, $0000235C)
+//D1女の人
+D1Girl
+<$00>
+
 
 
 // 00000435
 // Pos : 00005285
-//#WRITE(PTR, $00002367)
-////「課長、見積もりのまとめて゛す」
-//<$00>
-//
+#WRITE(PTR, $00002367)
+//「課長、見積もりのまとめて゛す」
+"Sir, I've brought the latest estimate summaries."
+<$00>
+
 
 
 // 00000475
 // Pos : 000052C5
-//#WRITE(PTR, $000023C6)
-////「え…！？」
-//<$00>
-//
+#WRITE(PTR, $000023C6)
+//「え…！？」
+"What was THAT?!"
+<$00>
+
 
 
 // 000004DE
 // Pos : 0000532E
-//#WRITE(PTR, $0000247E)
-////『あ…、僕の手か゛透けてる…』
-//<$00>
-//
+#WRITE(PTR, $0000247E)
+//『あ…、僕の手か゛透けてる…』
+Whoa. Is my hand see-through?
+<$00>
+
 
 
 // 0000052A
 // Pos : 0000537A
-//#WRITE(PTR, $00002514)
-////『僕はと゛うやら幽霊になってしまったらしい』
-//<$00>
-//
+#WRITE(PTR, $00002514)
+//『僕はと゛うやら幽霊になってしまったらしい』
+Must mean I'm some sort of ghost now.
+<$00>
+
 
 
 // 00000565
 // Pos : 000053B5
-//#WRITE(PTR, $00002577)
-////『しかも、死んて゛から既に二年近くか゛経っているのた゛』
-//<$00>
-//
+#WRITE(PTR, $00002577)
+//『しかも、死んて゛から既に二年近くか゛経っているのた゛』
+A little under two years had passed since I'd died.
+<$00>
+
 
 
 // 000005BF
 // Pos : 0000540F
-//#WRITE(PTR, $0000260D)
-////『そう考えてみると、僕はこの二年間、あの場所て゛眠り続けていたことになる』
-//<$00>
-//
+#WRITE(PTR, $0000260D)
+//『そう考えてみると、僕はこの二年間、あの場所て゛眠り続けていたことになる』
+When I thought about it, I decided I must've been asleep that whole time.
+<$00>
+
 
 
 // 0000060F
 // Pos : 0000545F
-//#WRITE(PTR, $00002680)
-////『あの新しい会社の人たちには、なにか迷惑をかけなかったた゛ろうか？』
-//<$00>
-//
+#WRITE(PTR, $00002680)
+//『あの新しい会社の人たちには、なにか迷惑をかけなかったた゛ろうか？』
+I hoped my presence hadn't scared any employees from the new company that'd bought out the building since.
+<$00>
+
 
 
 // 0000067C
 // Pos : 000054CC
-//#WRITE(PTR, $0000271A)
-////『僕は思わす゛向き直り、あの、元ヤクザ達のいたマンションに向かい軽く頭を下け゛た』
-//<$00>
-//
+#WRITE(PTR, $0000271A)
+//『僕は思わす゛向き直り、あの、元ヤクザ達のいたマンションに向かい軽く頭を下け゛た』
+I turned myself around on a whim, facing the former apartment building those yakuza once took roost in.
+<$00>
+
 
 
 // 000006D9
 // Pos : 00005529
-//#WRITE(PTR, $00002784)
-////『……ゴメンナサイ』
-//<$00>
-//
+#WRITE(PTR, $00002784)
+//『……ゴメンナサイ』
+I'm sorry!
+<$00>
+
 
 
 // 00000723
 // Pos : 00005573
-//#WRITE(PTR, $0000281B)
-////『幽霊になってわかったことか゛ある』
-//<$00>
-//
+#WRITE(PTR, $0000281B)
+//『幽霊になってわかったことか゛ある』
+Being a ghost, there were some things I have come to accept.
+<$00>
+
 
 
 // 00000759
 // Pos : 000055A9
-//#WRITE(PTR, $0000288E)
-////『幽霊になっても、マンガみたいに空を飛へ゛るわけし゛ゃないんた゛』
-//<$00>
-//
+#WRITE(PTR, $0000288E)
+//『幽霊になっても、マンガみたいに空を飛へ゛るわけし゛ゃないんた゛』
+For one, ghosts don't get to fly around in the air like media tells you they do.
+<$00>
+
 
 
 // 000007B9
 // Pos : 00005609
-//#WRITE(PTR, $0000293D)
-////『重力とか慣性の法則とかは、しっかりあって』
-//<$00>
-//
+#WRITE(PTR, $0000293D)
+//『重力とか慣性の法則とかは、しっかりあって』
+The laws of gravity and intertia faltered for no one.
+<$00>
+
 
 
 // 000007F7
 // Pos : 00005647
-//#WRITE(PTR, $000029A0)
-////『遠くへ移動するときには、やはり乗り物にのらなくてはいけない』
-//<$00>
-//
+#WRITE(PTR, $000029A0)
+//『遠くへ移動するときには、やはり乗り物にのらなくてはいけない』
+If you wanted to travel long distances, you still had to take a car, like everyone else.
+<$00>
+
 
 
 // 00000853
 // Pos : 000056A3
-//#WRITE(PTR, $00002A3E)
-////『て゛も、切符を買わなくても怒られることはないけと゛…』
-//<$00>
-//
+#WRITE(PTR, $00002A3E)
+//『て゛も、切符を買わなくても怒られることはないけと゛…』
+Except, if you wanted to take the train, you never had to by a ticket.
+<$00>
+
 
 
 // 000008B8
 // Pos : 00005708
-//#WRITE(PTR, $00002AF8)
-////『僕はこれまて゛のいきさつを教えてもらおうと義兄の家へやってきた』
-//<$00>
-//
+#WRITE(PTR, $00002AF8)
+//『僕はこれまて゛のいきさつを教えてもらおうと義兄の家へやってきた』
+I paid a visit to my brother-in-law's house. To let him know how I'm doing.
+<$00>
+
 
 
 // 00000916
 // Pos : 00005766
-//#WRITE(PTR, $00002B63)
-////『幽霊になって何か゛不便かというと、普通の人とは、話か゛出来ないことた゛』
-//<$00>
-//
+#WRITE(PTR, $00002B63)
+//『幽霊になって何か゛不便かというと、普通の人とは、話か゛出来ないことた゛』
+Another inconveniece of being a ghost was that you couldn't walk up next to a person and start a conversation.
+<$00>
+
 
 
 // 00000968
 // Pos : 000057B8
-//#WRITE(PTR, $00002BC6)
-////『て゛も、その人の夢の中て゛なら…』
-//<$00>
-//
+#WRITE(PTR, $00002BC6)
+//『て゛も、その人の夢の中て゛なら…』
+If the person in question were dreaming, however...
+<$00>
+
 
 
 // 00000A02
 // Pos : 00005852
-//#WRITE(PTR, $00002CAB)
-//#WRITE(PTR, $00002D8B)
-//#WRITE(PTR, $00002E1E)
-//#WRITE(PTR, $00002EB2)
-//#WRITE(PTR, $00002EF9)
-//#WRITE(PTR, $00002F8D)
-//#WRITE(PTR, $000031DB)
-//#WRITE(PTR, $000032D0)
-//#WRITE(PTR, $000033A9)
-//#WRITE(PTR, $0000343D)
-//#WRITE(PTR, $000034D1)
-//#WRITE(PTR, $00003636)
-//#WRITE(PTR, $000036CC)
-//#WRITE(PTR, $00003750)
-//#WRITE(PTR, $000037E8)
-////D1水島
-//<$00>
-//
+#WRITE(PTR, $00002CAB)
+#WRITE(PTR, $00002D8B)
+#WRITE(PTR, $00002E1E)
+#WRITE(PTR, $00002EB2)
+#WRITE(PTR, $00002EF9)
+#WRITE(PTR, $00002F8D)
+#WRITE(PTR, $000031DB)
+#WRITE(PTR, $000032D0)
+#WRITE(PTR, $000033A9)
+#WRITE(PTR, $0000343D)
+#WRITE(PTR, $000034D1)
+#WRITE(PTR, $00003636)
+#WRITE(PTR, $000036CC)
+#WRITE(PTR, $00003750)
+#WRITE(PTR, $000037E8)
+//D1水島
+D1Mizushima
+<$00>
+
 
 
 // 00000A09
 // Pos : 00005859
-//#WRITE(PTR, $00002CB6)
-////「と゛うした？ 久しふ゛りし゛ゃないか。まあ、立ってないて゛座らないか」
-//<$00>
-//
+#WRITE(PTR, $00002CB6)
+//「と゛うした？ 久しふ゛りし゛ゃないか。まあ、立ってないて゛座らないか」
+"Hey, what's going on? Long time, no see, eh? Come now, don't just stand there. Sit down!"
+<$00>
+
 
 
 // 00000A51
 // Pos : 000058A1
-//#WRITE(PTR, $00002D04)
-////「義兄さん」
-//<$00>
-//
+#WRITE(PTR, $00002D04)
+//「義兄さん」
+"Hideo."
+<$00>
+
 
 
 // 00000AAE
 // Pos : 000058FE
-//#WRITE(PTR, $00002D96)
-////「わかっているよ」
-//<$00>
-//
+#WRITE(PTR, $00002D96)
+//「わかっているよ」
+"I know."
+<$00>
+
 
 
 // 00000B19
 // Pos : 00005969
-//#WRITE(PTR, $00002E29)
-////「これは夢て゛、おまえはすて゛に死んて゛いるんた゛」
-//<$00>
-//
+#WRITE(PTR, $00002E29)
+//「これは夢て゛、おまえはすて゛に死んて゛いるんた゛」
+"This is a dream. You are no longer with us."
+<$00>
+
 
 
 // 00000B96
 // Pos : 000059E6
-//#WRITE(PTR, $00002EBD)
-////「て゛もな、虫の知らせというのかな」
-//<$00>
-//
+#WRITE(PTR, $00002EBD)
+//「て゛もな、虫の知らせというのかな」
+"I had a foreboding, still."
+<$00>
+
 
 
 // 00000BCA
 // Pos : 00005A1A
-//#WRITE(PTR, $00002F04)
-////「そろそろおまえか゛訪ねてくるんし゛ゃないかと思っていたんた゛」
-//<$00>
-//
+#WRITE(PTR, $00002F04)
+//「そろそろおまえか゛訪ねてくるんし゛ゃないかと思っていたんた゛」
+"A feeling that you would come soon to see me."
+<$00>
+
 
 
 // 00000C4D
 // Pos : 00005A9D
-//#WRITE(PTR, $00002F98)
-////「それにな…実は先週マニラから帰って来たは゛かりて゛な」
-//<$00>
-//
+#WRITE(PTR, $00002F98)
+//「それにな…実は先週マニラから帰って来たは゛かりて゛な」
+"Actually, I just got back from Manila last week."
+<$00>
+
 
 
 // 00000CA8
 // Pos : 00005AF8
-//#WRITE(PTR, $00003005)
-////『義兄の話によれは゛、あのヤクザとの戦いて゛$マリアをのそ゛いてボーイもその仲間たちも』
-//<$00>
-//
+#WRITE(PTR, $00003005)
+//『義兄の話によれは゛、あのヤクザとの戦いて゛$マリアをのそ゛いてボーイもその仲間たちも』
+According to Hideo, Maria, Boy and his men all fought back against the yakuza.
+<$00>
+
 
 
 // 00000D04
 // Pos : 00005B54
-//#WRITE(PTR, $00003068)
-////『ほとんと゛か゛死んて゛しまったそうた゛』
-//<$00>
-//
+#WRITE(PTR, $00003068)
+//『ほとんと゛か゛死んて゛しまったそうた゛』
+Most of them died in the skirmish.
+<$00>
+
 
 
 // 00000D3C
 // Pos : 00005B8C
-//#WRITE(PTR, $000030CB)
-////『そしてマリアはフィリピンに強制送還になったという…』
-//<$00>
-//
+#WRITE(PTR, $000030CB)
+//『そしてマリアはフィリピンに強制送還になったという…』
+Following the incident, he said, Maria was deported to the Philippines.
+<$00>
+
 
 
 // 00000DED
 // Pos : 00005C3D
-//#WRITE(PTR, $00003186)
-////「ちょっ、ちょっと待って…、それし゛ゃあ義兄さん」
-//<$00>
-//
+#WRITE(PTR, $00003186)
+//「ちょっ、ちょっと待って…、それし゛ゃあ義兄さん」
+"Hold on a moment. So, you're saying..."
+<$00>
+
 
 
 // 00000E2A
 // Pos : 00005C7A
-//#WRITE(PTR, $000031E6)
-////「うん、
-//<$00>
-//
+#WRITE(PTR, $000031E6)
+//「うん、
+"Yeah, 
+<$00>
+
 
 
 // 00000E70
 // Pos : 00005CC0
-//#WRITE(PTR, $00003247)
-////会ってきたそ゛、マリアは元気た゛」
-//<$00>
-//
+#WRITE(PTR, $00003247)
+//会ってきたそ゛、マリアは元気た゛」
+ Yep! Just saw her. Maria is alive and well!"
+<$00>
+
 
 
 // 00000EE8
 // Pos : 00005D38
-//#WRITE(PTR, $000032DB)
-////「それともうひとつ…」
-//<$00>
-//
+#WRITE(PTR, $000032DB)
+//「それともうひとつ…」
+"There's just, uh, one teeny tiny thing..."
+<$00>
+
 
 
 // 00000F14
 // Pos : 00005D64
-//#WRITE(PTR, $00003329)
-////「なに？」
-//<$00>
-//
+#WRITE(PTR, $00003329)
+//「なに？」
+"What?"
+<$00>
+
 
 
 // 00000F6F
 // Pos : 00005DBF
-//#WRITE(PTR, $000033B4)
-////「いや、やめておこう」
-//<$00>
-//
+#WRITE(PTR, $000033B4)
+//「いや、やめておこう」
+"No, I'd better stop there."
+<$00>
+
 
 
 // 00000FDB
 // Pos : 00005E2B
-//#WRITE(PTR, $00003448)
-////「おまえか゛直接会いに行ったほうか゛いいた゛ろう」
-//<$00>
-//
+#WRITE(PTR, $00003448)
+//「おまえか゛直接会いに行ったほうか゛いいた゛ろう」
+"You ought to visit Maria and see."
+<$00>
+
 
 
 // 00001059
 // Pos : 00005EA9
-//#WRITE(PTR, $000034DC)
-////「そら、これか゛今のマリアの住所た゛」
-//<$00>
-//
+#WRITE(PTR, $000034DC)
+//「そら、これか゛今のマリアの住所た゛」
+"Take this. It's Maria's current address."
+<$00>
+
 
 
 // 000010A8
 // Pos : 00005EF8
-//#WRITE(PTR, $00003549)
-////『僕はメモをもらって立ち上か゛り、帰り際に言う』
-//<$00>
-//
+#WRITE(PTR, $00003549)
+//『僕はメモをもらって立ち上か゛り、帰り際に言う』
+I took the memo, stood up, and told him I'd be on my way.
+<$00>
+
 
 
 // 00001100
 // Pos : 00005F50
-//#WRITE(PTR, $000035AD)
-////「義兄さん、姉さんから母さんに伝えてくれないかな。ゴメンネって」
-//<$00>
-//
+#WRITE(PTR, $000035AD)
+//「義兄さん、姉さんから母さんに伝えてくれないかな。ゴメンネって」
+Hideo. Can you go scare the missus for me? She is my sister and all. Sorry for the trouble."
+<$00>
+
 
 
 // 00001191
 // Pos : 00005FE1
-//#WRITE(PTR, $00003641)
-////「心配するな。人にはいろんな生き方も死に方も」
-//<$00>
-//
+#WRITE(PTR, $00003641)
+//「心配するな。人にはいろんな生き方も死に方も」
+"None at all. All a part of living and dying."
+<$00>
+
 
 
 // 000011FD
 // Pos : 0000604D
-//#WRITE(PTR, $000036D7)
-////「そしておまえを見てると死んて゛からの過こ゛し方もあるようた゛」
-//<$00>
-//
+#WRITE(PTR, $000036D7)
+//「そしておまえを見てると死んて゛からの過こ゛し方もあるようた゛」
+"But, seeing as you're faring well in the afterlife, I'm glad you're making the most of it."
+<$00>
+
 
 
 // 0000126C
 // Pos : 000060BC
-//#WRITE(PTR, $0000375B)
-////「ン……」
-//<$00>
-//
+#WRITE(PTR, $0000375B)
+//「ン……」
+"Mhmm."
+<$00>
+
 
 
 // 000012D5
 // Pos : 00006125
-//#WRITE(PTR, $000037F3)
-////「後のことはまかせろ」
-//<$00>
-//
+#WRITE(PTR, $000037F3)
+//「後のことはまかせろ」
+"We'll pick this up later."
+<$00>
+
 
 
 // 00001301
 // Pos : 00006151
-//#WRITE(PTR, $00003851)
-////「ありか゛とう、義兄さん」
-//<$00>
-//
+#WRITE(PTR, $00003851)
+//「ありか゛とう、義兄さん」
+"Thank you, Hideo."
+<$00>
+
 
 
 // 0000133B
 // Pos : 0000618B
-//#WRITE(PTR, $000038D1)
-////『僕は義兄からもらったメモを握りしめて、マニラに旅立った』
-//<$00>
-//
+#WRITE(PTR, $000038D1)
+//『僕は義兄からもらったメモを握りしめて、マニラに旅立った』
+I took the address Hideo gave me, and left for Manila.
+<$00>
+
 
 
 // 000013B9
 // Pos : 00006209
-//#WRITE(PTR, $00003949)
-////『僕は今、マニラの街を走っている』
-//<$00>
-//
+#WRITE(PTR, $00003949)
+//『僕は今、マニラの街を走っている』
+I'm now running into the city of Manila.
+<$00>
+
 
 
 // 000013E7
 // Pos : 00006237
-//#WRITE(PTR, $00003995)
-////『あのジプニーという乗り物に乗って…』
-//<$00>
-//
+#WRITE(PTR, $00003995)
+//『あのジプニーという乗り物に乗って…』
+And also riding in a bus known as a "jeepney".
+<$00>
+
 
 
 // 00001435
 // Pos : 00006285
-//#WRITE(PTR, $00003A01)
-////『もうすく゛マリアに会えるんた゛』
-//<$00>
-//
+#WRITE(PTR, $00003A01)
+//『もうすく゛マリアに会えるんた゛』
+I'll be able to see Maria any minute now!
+<$00>
+
 
 
 // 0000146C
 // Pos : 000062BC
-//#WRITE(PTR, $00003A4B)
-////『うれしい。ものすこ゛くうれしい』
-//<$00>
-//
+#WRITE(PTR, $00003A4B)
+//『うれしい。ものすこ゛くうれしい』
+Happy. Everyone's so... amazingly happy.
+<$00>
+
 
 
 // 000014B5
 // Pos : 00006305
-//#WRITE(PTR, $00003AC6)
-////『うれしいついて゛に驚いたことか゛ある』
-//<$00>
-//
+#WRITE(PTR, $00003AC6)
+//『うれしいついて゛に驚いたことか゛ある』
+I'm shocked to see people in such good spirits.
+<$00>
+
 
 
 // 00001502
 // Pos : 00006352
-//#WRITE(PTR, $00003B41)
-////『わかるんた゛…みんなの話している事か゛…！』
-//<$00>
-//
+#WRITE(PTR, $00003B41)
+//『わかるんた゛…みんなの話している事か゛…！』
+Wait! Do I understand Tagalog? I understand what everyone is saying.
+<$00>
+
 
 
 // 00001556
 // Pos : 000063A6
-//#WRITE(PTR, $00003BBC)
-////『なせ゛かわからないけと゛、この国の言葉か゛わかるんた゛！！』
-//<$00>
-//
+#WRITE(PTR, $00003BBC)
+//『なせ゛かわからないけと゛、この国の言葉か゛わかるんた゛！！』
+I don't know how, but I understand this country's language perfectly now!
+<$00>
+
 
 
 // 000015BA
 // Pos : 0000640A
-//#WRITE(PTR, $00003C3F)
-////『幽霊になったからた゛ろうか…？』
-//<$00>
-//
+#WRITE(PTR, $00003C3F)
+//『幽霊になったからた゛ろうか…？』
+Is it because I'm a ghost?
+<$00>
+
 
 
 // 000015DE
 // Pos : 0000642E
-//#WRITE(PTR, $00003C80)
-////『た゛としたら幽霊も捨てたもんし゛ゃない』
-//<$00>
-//
+#WRITE(PTR, $00003C80)
+//『た゛としたら幽霊も捨てたもんし゛ゃない』
+Even if that's the case, this ghost is not giving up!
+<$00>
+
 
 
 // 0000162F
 // Pos : 0000647F
-//#WRITE(PTR, $00003CE9)
-////『夜になって、ようやくトンドというところにたと゛り着いた』
-//<$00>
-//
+#WRITE(PTR, $00003CE9)
+//『夜になって、ようやくトンドというところにたと゛り着いた』
+By nightfall, I finally arrived at a place known as Tondo.
+<$00>
+
 
 
 // 0000168A
 // Pos : 000064DA
-//#WRITE(PTR, $00003D63)
-////『マリアの住んて゛いるところか゛近つ゛く』
-//<$00>
-//
+#WRITE(PTR, $00003D63)
+//『マリアの住んて゛いるところか゛近つ゛く』
+The place where Maria lived.
+<$00>
+
 
 
 // 000016C7
 // Pos : 00006517
-//#WRITE(PTR, $00003DD6)
-////『何た゛ろう？ たくさんの人か゛集まっている』
-//<$00>
-//
+#WRITE(PTR, $00003DD6)
+//『何た゛ろう？ たくさんの人か゛集まっている』
+I wonder what was going on. A lot of people were gathering in one specific spot.
+<$00>
+
 
 
 // 00001731
 // Pos : 00006581
-//#WRITE(PTR, $00003E50)
-////『僕はみんなか゛集まっている先の一軒の家をのそ゛いた』
-//<$00>
-//
+#WRITE(PTR, $00003E50)
+//『僕はみんなか゛集まっている先の一軒の家をのそ゛いた』
+I peeked into the house where everyone was.
+<$00>
+
 
 
 // 00001775
 // Pos : 000065C5
-//#WRITE(PTR, $00003EC6)
-////『すると…』
-//<$00>
-//
+#WRITE(PTR, $00003EC6)
+//『すると…』
+And that...
+<$00>
+
 
 
 // 000017DF
 // Pos : 0000662F
-//#WRITE(PTR, $00003F80)
-////『これか……』
-//<$00>
-//
+#WRITE(PTR, $00003F80)
+//『これか……』
+was where... 
+<$00>
+
 
 
 // 0000180B
 // Pos : 0000665B
-//#WRITE(PTR, $00003FF3)
-////『これか゛義兄さんの言ってたもうひとつのことか…』
-//<$00>
-//
+#WRITE(PTR, $00003FF3)
+//『これか゛義兄さんの言ってたもうひとつのことか…』
+I saw the other thing my brother-in-law had wanted to mention.
+<$00>
+
 
 
 // 0000186C
 // Pos : 000066BC
-//#WRITE(PTR, $000040B5)
-////『そこには子供を抱いた、あのなつかしいマリアか゛いた』
-//<$00>
-//
+#WRITE(PTR, $000040B5)
+//『そこには子供を抱いた、あのなつかしいマリアか゛いた』
+In her arms, my dear Maria held an infant.
+<$00>
+
 
 
 // 0000190A
 // Pos : 0000675A
-//#WRITE(PTR, $000041D6)
-////『マリア…そうた゛ったのか…』
-//<$00>
-//
+#WRITE(PTR, $000041D6)
+//『マリア…そうた゛ったのか…』
+Maria. It's really her...!
+<$00>
+
 
 
 // 00001973
 // Pos : 000067C3
-//#WRITE(PTR, $00004267)
-////『今日はその子の一歳の誕生パーティーて゛…』
-//<$00>
-//
+#WRITE(PTR, $00004267)
+//『今日はその子の一歳の誕生パーティーて゛…』
+I stood in the middle of the infant's first birthday celebration.
+<$00>
+
 
 
 // 000019B6
 // Pos : 00006806
-//#WRITE(PTR, $000042E3)
-////『そしてその子は僕と…』
-//<$00>
-//
+#WRITE(PTR, $000042E3)
+//『そしてその子は僕と…』
+Was there any chance that the baby was mine?
+<$00>
+
 
 
 // 000019E7
 // Pos : 00006837
-//#WRITE(PTR, $00004356)
-////『僕とマリアの…』
-//<$00>
-//
+#WRITE(PTR, $00004356)
+//『僕とマリアの…』
+Are you mine and Maria's?
+<$00>
+
 
 
 // 00001A6B
 // Pos : 000068BB
-//#WRITE(PTR, $00004441)
-////『あれ？ この子には僕の姿か゛見えるんた゛ろうか』
-//<$00>
-//
+#WRITE(PTR, $00004441)
+//『あれ？ この子には僕の姿か゛見えるんた゛ろうか』
+Hold on! There's no way this baby can see my finger, is there?
+<$00>
+
 
 
 // 00001AE9
 // Pos : 00006939
-//#WRITE(PTR, $000044FB)
-////「と゛うしたの？ そんなにいっは゜い手をのは゛して…」
-//<$00>
-//
+#WRITE(PTR, $000044FB)
+//「と゛うしたの？ そんなにいっは゜い手をのは゛して…」
+"What are you trying to hard to grab at, little one? 
+<$00>
+
 
 
 // 00001B5E
 // Pos : 000069AE
-//#WRITE(PTR, $00004567)
-////「ン？…」
-//<$00>
-//
+#WRITE(PTR, $00004567)
+//「ン？…」
+"Hm?"
+<$00>
+
 
 
 // 00001BA9
 // Pos : 000069F9
-//#WRITE(PTR, $0000461C)
-////「なあに？ た゛れかいるの？」
-//<$00>
-//
+#WRITE(PTR, $0000461C)
+//「なあに？ た゛れかいるの？」
+"Hey, is someone here?"
+<$00>
+
 
 
 // 00001C04
 // Pos : 00006A54
-//#WRITE(PTR, $000046B3)
-////『マリア…』
-//<$00>
-//
+#WRITE(PTR, $000046B3)
+//『マリア…』
+Maria...
+<$00>
+
 
 
 // 00001C6C
 // Pos : 00006ABC
-//#WRITE(PTR, $00004769)
-//#WRITE(PTR, $00004CCE)
-////「ア…」
-//<$00>
-//
+#WRITE(PTR, $00004769)
+#WRITE(PTR, $00004CCE)
+//「ア…」
+"Ah...!"
+<$00>
+
 
 
 // 00001CB4
 // Pos : 00006B04
-//#WRITE(PTR, $000047E4)
-////『不意の停電た゛った』
-//<$00>
-//
+#WRITE(PTR, $000047E4)
+//『不意の停電た゛った』
+"Suddenly, power went out."
+<$00>
+
 
 
 // 00001D36
 // Pos : 00006B86
-//#WRITE(PTR, $000048BA)
-////『しは゛らくして電気か゛戻ったとき、ひとりのおは゛あさんか゛言ったものた゛』
-//<$00>
-//
+#WRITE(PTR, $000048BA)
+//『しは゛らくして電気か゛戻ったとき、ひとりのおは゛あさんか゛言ったものた゛』
+Once the power came back on, the lone, old woman of the house spoke.
+<$00>
+
 
 
 // 00001DA3
 // Pos : 00006BF3
-//#WRITE(PTR, $00004942)
-//#WRITE(PTR, $00004A43)
-//#WRITE(PTR, $00004AAF)
-////D1老女
-//<$00>
-//
+#WRITE(PTR, $00004942)
+#WRITE(PTR, $00004A43)
+#WRITE(PTR, $00004AAF)
+//D1老女
+D1Old Woman
+<$00>
+
 
 
 // 00001DAA
 // Pos : 00006BFA
-//#WRITE(PTR, $0000494D)
-////「本当に愛されているんた゛ね、マリアは」
-//<$00>
-//
+#WRITE(PTR, $0000494D)
+//「本当に愛されているんた゛ね、マリアは」
+"Miss Maria is truly loved."
+<$00>
+
 
 
 // 00001DEF
 // Pos : 00006C3F
-//#WRITE(PTR, $000049BA)
-////「え？」
-//<$00>
-//
+#WRITE(PTR, $000049BA)
+//「え？」
+"My purse?"
+<$00>
+
 
 
 // 00001E54
 // Pos : 00006CA4
-//#WRITE(PTR, $00004A4E)
-////「今のはネ。死んた゛旦那さんか゛ここに来て、$マリアにキスしていったんた゛よ」
-//<$00>
-//
+#WRITE(PTR, $00004A4E)
+//「今のはネ。死んた゛旦那さんか゛ここに来て、$マリアにキスしていったんた゛よ」
+"See, children? That flicker was her long-lost love. He came to give her a kiss."
+<$00>
+
 
 
 // 00001EC7
 // Pos : 00006D17
-//#WRITE(PTR, $00004ABA)
-////「た゛から神様か゛気をきかせて、
-//<$00>
-//
+#WRITE(PTR, $00004ABA)
+//「た゛から神様か゛気をきかせて、
+"The Lord wanted to give these two a little privacy,
+<$00>
+
 
 
 // 00001EE7
 // Pos : 00006D37
-//#WRITE(PTR, $00004AE1)
-////ほんのちょっとた゛け電気を消したのさ」
-//<$00>
-//
+#WRITE(PTR, $00004AE1)
+//ほんのちょっとた゛け電気を消したのさ」
+ so he turned off aaall the lights for that one instant!"
+<$00>
+
 
 
 // 00001F34
 // Pos : 00006D84
-//#WRITE(PTR, $00004B51)
-////D1子供たち
-//<$00>
-//
+#WRITE(PTR, $00004B51)
+//D1子供たち
+D1Children
+<$00>
+
 
 
 // 00001F3D
 // Pos : 00006D8D
-//#WRITE(PTR, $00004B5C)
-////「わあ～～～～～」
-//<$00>
-//
+#WRITE(PTR, $00004B5C)
+//「わあ～～～～～」
+"Aww!"
+<$00>
+
 
 
 // 00002048
 // Pos : 00006E98
-//#WRITE(PTR, $00004D20)
-////『僕は幸せな気分とともに思う』
-//<$00>
-//
+#WRITE(PTR, $00004D20)
+//『僕は幸せな気分とともに思う』
+I felt something truly warm inside.
+<$00>
+
 
 
 // 00002094
 // Pos : 00006EE4
-//#WRITE(PTR, $00004D9B)
-////『幽霊っていうのもそんなに悪いものし゛ゃないなって…』
-//<$00>
-//
+#WRITE(PTR, $00004D9B)
+//『幽霊っていうのもそんなに悪いものし゛ゃないなって…』
+Being a ghost didn't seem so bad after all!
+<$00>
+
 
 
 #WRITE(APTR, $00000008)

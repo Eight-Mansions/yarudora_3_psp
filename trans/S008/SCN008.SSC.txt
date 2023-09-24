@@ -11,534 +11,600 @@
 
 // 000001A8
 // Pos : 000037B8
-//#WRITE(PTR, $00001FA5)
-////足もとのバッグについて聞いてみよう
-//<$00>
-//
+#WRITE(PTR, $00001FA5)
+//足もとのバッグについて聞いてみよう
+Ask about her purse
+<$00>
+
 
 
 // 000001BF
 // Pos : 000037CF
-//#WRITE(PTR, $00001FAE)
-////フィリピンのことについて聞いてみよう
-//<$00>
-//
+#WRITE(PTR, $00001FAE)
+//フィリピンのことについて聞いてみよう
+Ask about the Phillipines
+<$00>
+
 
 
 // 000001D8
 // Pos : 000037E8
-//#WRITE(PTR, $00001FB8)
-////おとなしくしていよう
-//<$00>
-//
+#WRITE(PTR, $00001FB8)
+//おとなしくしていよう
+Remain silent
+<$00>
+
 
 
 // 00000256
 // Pos : 00003866
-//#WRITE(PTR, $00002099)
-////『気ます゛い空気のなか、僕とマリアは言葉を交わすこともなく、時は過き゛ていった…』
-//<$00>
-//
+#WRITE(PTR, $00002099)
+//『気ます゛い空気のなか、僕とマリアは言葉を交わすこともなく、時は過き゛ていった…』
+Time passed in awkward silence. Neither of us said a word to the other.
+<$00>
+
 
 
 // 000002A5
 // Pos : 000038B5
-//#WRITE(PTR, $00002124)
-////『朝になって、彼女は出ていった…』
-//<$00>
-//
+#WRITE(PTR, $00002124)
+//『朝になって、彼女は出ていった…』
+She left in the morning.
+<$00>
+
 
 
 // 000002D4
 // Pos : 000038E4
-//#WRITE(PTR, $0000214F)
-////『さよならも言わす゛、と゛こか気恥す゛かしそうにして…』
-//<$00>
-//
+#WRITE(PTR, $0000214F)
+//『さよならも言わす゛、と゛こか気恥す゛かしそうにして…』
+I wanted to say goodbye, but I chickened out at the last minute.
+<$00>
+
 
 
 // 0000030D
 // Pos : 0000391D
-//#WRITE(PTR, $00002197)
-////『ゆうへ゛の出来事はなんた゛ったんた゛ろう…』
-//<$00>
-//
+#WRITE(PTR, $00002197)
+//『ゆうへ゛の出来事はなんた゛ったんた゛ろう…』
+What had happened before our chance meeting in the alley?
+<$00>
+
 
 
 // 0000032B
 // Pos : 0000393B
-//#WRITE(PTR, $000021BA)
-////『気になることた゛らけた゛。額の傷、真っ赤なドレス…』
-//<$00>
-//
+#WRITE(PTR, $000021BA)
+//『気になることた゛らけた゛。額の傷、真っ赤なドレス…』
+Why had she been scared? How had she been cut? Why had she been wearing that bright red dress?
+<$00>
+
 
 
 // 00000352
 // Pos : 00003962
-//#WRITE(PTR, $000021DD)
-////『そして自分の名前しか思い出せないこと…』
-//<$00>
-//
+#WRITE(PTR, $000021DD)
+//『そして自分の名前しか思い出せないこと…』
+Why was her name all that she had remembered?
+<$00>
+
 
 
 // 000003B4
 // Pos : 000039C4
-//#WRITE(PTR, $0000225B)
-////『しかし、何より気になるのは…』
-//<$00>
-//
+#WRITE(PTR, $0000225B)
+//『しかし、何より気になるのは…』
+In the end, one question stuck with me more than any other:
+<$00>
+
 
 
 // 000003D5
 // Pos : 000039E5
-//#WRITE(PTR, $00002295)
-////『た゛し゛ゃれに詳しい…』
-//<$00>
-//
+#WRITE(PTR, $00002295)
+//『た゛し゛ゃれに詳しい…』
+Who tought her all of those puns?
+<$00>
+
 
 
 // 0000043E
 // Pos : 00003A4E
-//#WRITE(PTR, $0000233B)
-////『そうか、わかった…』
-//<$00>
-//
+#WRITE(PTR, $0000233B)
+//『そうか、わかった…』
+Don't worry. I know the answer.
+<$00>
+
 
 
 // 0000047B
 // Pos : 00003A8B
-//#WRITE(PTR, $00002394)
-////『彼女もお笑い研究会た゛ったんた゛…』
-//<$00>
-//
+#WRITE(PTR, $00002394)
+//『彼女もお笑い研究会た゛ったんた゛…』
+Maria must have taken that Comedic Studies class!
+<$00>
+
 
 
 // 000004AF
 // Pos : 00003ABF
-//#WRITE(PTR, $000023EF)
-////『て゛も彼女か゛何者なのかなんて問題し゛ゃない…』
-//<$00>
-//
+#WRITE(PTR, $000023EF)
+//『て゛も彼女か゛何者なのかなんて問題し゛ゃない…』
+Maybe it didn't matter who she was.
+<$00>
+
 
 
 // 000004DD
 // Pos : 00003AED
-//#WRITE(PTR, $00002429)
-////『問題はこの僕た゛…』
-//<$00>
-//
+#WRITE(PTR, $00002429)
+//『問題はこの僕た゛…』
+I was the bigger problem, after all.
+<$00>
+
 
 
 // 000004EF
 // Pos : 00003AFF
-//#WRITE(PTR, $0000244C)
-////『せっかく自分の国の言葉を教えてくれてたのに…』
-//<$00>
-//
+#WRITE(PTR, $0000244C)
+//『せっかく自分の国の言葉を教えてくれてたのに…』
+She tried to teach me all those phrases from her home country.
+<$00>
+
 
 
 // 00000511
 // Pos : 00003B21
-//#WRITE(PTR, $0000246F)
-////『あんな態度をとっちゃって…』
-//<$00>
-//
+#WRITE(PTR, $0000246F)
+//『あんな態度をとっちゃって…』
+All I did was cop an attitude.
+<$00>
+
 
 
 // 00000552
 // Pos : 00003B62
-//#WRITE(PTR, $00002515)
-////『また会えないかな…』
-//<$00>
-//
+#WRITE(PTR, $00002515)
+//『また会えないかな…』
+I suppose we'll never meet again.
+<$00>
+
 
 
 // 00000578
 // Pos : 00003B88
-//#WRITE(PTR, $0000256E)
-////『こ゛めんね、マリア…』
-//<$00>
-//
+#WRITE(PTR, $0000256E)
+//『こ゛めんね、マリア…』
+Pasensya na, Maria.
+<$00>
+
 
 
 // 000005A2
 // Pos : 00003BB2
-//#WRITE(PTR, $000025C9)
-////『何となくうちとけあった僕とマリアは、そのまま朝方近くまて゛おしゃへ゛りを続けた…』
-//<$00>
-//
+#WRITE(PTR, $000025C9)
+//『何となくうちとけあった僕とマリアは、そのまま朝方近くまて゛おしゃへ゛りを続けた…』
+I couldn't tell you how it'd happened exactly, but Maria and I had opened up, talking and talking until morning. 
+<$00>
+
 
 
 // 000005E5
 // Pos : 00003BF5
-//#WRITE(PTR, $00002603)
-////『話しなか゛ら、マリアはよく笑った。僕もうれしくて、つられて笑った』
-//<$00>
-//
+#WRITE(PTR, $00002603)
+//『話しなか゛ら、マリアはよく笑った。僕もうれしくて、つられて笑った』
+Maria had laughed a lot as she went. I'd found myself nodding and smiling along in return.
+<$00>
+
 
 
 // 00000611
 // Pos : 00003C21
-//#WRITE(PTR, $00002626)
-////『気の合うふたり、これは素敵な出会いなのかもしれない』
-//<$00>
-//
+#WRITE(PTR, $00002626)
+//『気の合うふたり、これは素敵な出会いなのかもしれない』
+The two of us had made some sort of connection, meaning my efforts had likely paid off.
+<$00>
+
 
 
 // 00000652
 // Pos : 00003C62
-//#WRITE(PTR, $000026E3)
-////『目か゛覚めたとき、彼女の姿はなかった…』
-//<$00>
-//
+#WRITE(PTR, $000026E3)
+//『目か゛覚めたとき、彼女の姿はなかった…』
+...by the time I woke up, she was long gone.
+<$00>
+
 
 
 // 00000688
 // Pos : 00003C98
-//#WRITE(PTR, $0000274A)
-////『僕か゛ウトウトしていたスキに、出ていってしまったようた゛』
-//<$00>
-//
+#WRITE(PTR, $0000274A)
+//『僕か゛ウトウトしていたスキに、出ていってしまったようた゛』
+She let herself out after I dozed off.
+<$00>
+
 
 
 // 000006BD
 // Pos : 00003CCD
-//#WRITE(PTR, $000027A9)
-////『僕のすく゛そは゛に、置き手紙か゛あった』
-//<$00>
-//
+#WRITE(PTR, $000027A9)
+//『僕のすく゛そは゛に、置き手紙か゛あった』
+She wrote me a note.
+<$00>
+
 
 
 // 000006E5
 // Pos : 00003CF5
-//#WRITE(PTR, $000027E3)
-////『し゛つは彼女は国際大学に通う留学生た゛そうた゛』
-//<$00>
-//
+#WRITE(PTR, $000027E3)
+//『し゛つは彼女は国際大学に通う留学生た゛そうた゛』
+As it turned out, she was an international college student.
+<$00>
+
 
 
 // 00000717
 // Pos : 00003D27
-//#WRITE(PTR, $0000281D)
-////『昨夜はパーティーの帰りて゛、ひと゛く酔っていたらしい』
-//<$00>
-//
+#WRITE(PTR, $0000281D)
+//『昨夜はパーティーの帰りて゛、ひと゛く酔っていたらしい』
+We must've left some party together after a few too many drinks.
+<$00>
+
 
 
 // 0000073D
 // Pos : 00003D4D
-//#WRITE(PTR, $00002840)
-////『僕の部屋て゛の出来事も、よく覚えていなかったらしく』
-//<$00>
-//
+#WRITE(PTR, $00002840)
+//『僕の部屋て゛の出来事も、よく覚えていなかったらしく』
+For the life of me, I can't remember what we'd done together last night.
+<$00>
+
 
 
 // 00000762
 // Pos : 00003D72
-//#WRITE(PTR, $00002863)
-////『気か゛ついたら、見知らぬ人のアパートて゛朝を迎えていたわけた゛』
-//<$00>
-//
+#WRITE(PTR, $00002863)
+//『気か゛ついたら、見知らぬ人のアパートて゛朝を迎えていたわけた゛』
+For her to have woken up in "some guy's apartment," no wonder she got out of here.
+<$00>
+
 
 
 // 0000079B
 // Pos : 00003DAB
-//#WRITE(PTR, $0000289D)
-////『手紙には、「こ゛迷惑をおかけしました」と、しめくくられていた…』
-//<$00>
-//
+#WRITE(PTR, $0000289D)
+//『手紙には、「こ゛迷惑をおかけしました」と、しめくくられていた…』
+She signed the letter with a simple, "Sorry for the trouble."
+<$00>
+
 
 
 // 000007F8
 // Pos : 00003E08
-//#WRITE(PTR, $0000294B)
-////『マリア…』
-//<$00>
-//
+#WRITE(PTR, $0000294B)
+//『マリア…』
+Maria...
+<$00>
+
 
 
 // 00000812
 // Pos : 00003E22
-//#WRITE(PTR, $00002985)
-////『そ、そりゃないよ…』
-//<$00>
-//
+#WRITE(PTR, $00002985)
+//『そ、そりゃないよ…』
+Well, that's not it.
+<$00>
+
 
 
 // 00000857
 // Pos : 00003E67
-//#WRITE(PTR, $00002A3A)
-////『言葉の意味なんてわかってもらえなくたっていいんた゛』
-//<$00>
-//
+#WRITE(PTR, $00002A3A)
+//『言葉の意味なんてわかってもらえなくたっていいんた゛』
+What if she doesn't understand the meaning of the words that well.
+<$00>
+
 
 
 // 00000879
 // Pos : 00003E89
-//#WRITE(PTR, $00002A5D)
-////『この場の空気か゛少して゛も明るくなれは゛…』
-//<$00>
-//
+#WRITE(PTR, $00002A5D)
+//『この場の空気か゛少して゛も明るくなれは゛…』
+Whatever it takes to brighten up the atmosphere in here...
+<$00>
+
 
 
 // 00000899
 // Pos : 00003EA9
-//#WRITE(PTR, $00002A80)
-////『中学生のときは、お笑い研究会の部長た゛ったこともある』
-//<$00>
-//
+#WRITE(PTR, $00002A80)
+//『中学生のときは、お笑い研究会の部長た゛ったこともある』
+Actually, I'd served as captain of the Comedic Studies Club back in middle school.
+<$00>
+
 
 
 // 000008C1
 // Pos : 00003ED1
-//#WRITE(PTR, $00002AA3)
-////『い、今こそ、その成果を発揮するとき…』
-//<$00>
-//
+#WRITE(PTR, $00002AA3)
+//『い、今こそ、その成果を発揮するとき…』
+All these years later, it was time I showed the fruits of my efforts!
+<$00>
+
 
 
 // 000008DE
 // Pos : 00003EEE
-//#WRITE(PTR, $00002AC6)
-////『…って、なに張り切ってるんた゛か…？』
-//<$00>
-//
+#WRITE(PTR, $00002AC6)
+//『…って、なに張り切ってるんた゛か…？』
+So, what kind of pun might Maria like?
+<$00>
+
 
 
 // 00000903
 // Pos : 00003F13
-//#WRITE(PTR, $00002AF5)
-////かなり恥す゛かしいやつて゛、いってみよう
-//<$00>
-//
+#WRITE(PTR, $00002AF5)
+//かなり恥す゛かしいやつて゛、いってみよう
+Force yourself through it
+<$00>
+
 
 
 // 00000919
 // Pos : 00003F29
-//#WRITE(PTR, $00002AFE)
-////と゛うしようもないやつて゛、いってみよう
-//<$00>
-//
+#WRITE(PTR, $00002AFE)
+//と゛うしようもないやつて゛、いってみよう
+Have a little fun
+<$00>
+
 
 
 // 0000092E
 // Pos : 00003F3E
-//#WRITE(PTR, $00002B08)
-////とことん下らないやつて゛、いってみよう
-//<$00>
-//
+#WRITE(PTR, $00002B08)
+//とことん下らないやつて゛、いってみよう
+Don't try after all
+<$00>
+
 
 
 // 00000989
 // Pos : 00003F99
-//#WRITE(PTR, $00002BB1)
-////『よし！ ここはひとつ…』
-//<$00>
-//
+#WRITE(PTR, $00002BB1)
+//『よし！ ここはひとつ…』
+"All right! Here's one..."
+<$00>
+
 
 
 // 000009B7
 // Pos : 00003FC7
-//#WRITE(PTR, $00002BEF)
-//#WRITE(PTR, $00002E7E)
-//#WRITE(PTR, $000031F1)
-////「ねえ。こういうの知ってる？」
-//<$00>
-//
+#WRITE(PTR, $00002BEF)
+#WRITE(PTR, $00002E7E)
+#WRITE(PTR, $000031F1)
+//「ねえ。こういうの知ってる？」
+"Here. Maybe you know this one."
+<$00>
+
 
 
 // 000009E9
 // Pos : 00003FF9
-//#WRITE(PTR, $00002C4B)
-////「忍者はね、全部て゛…」
-//<$00>
-//
+#WRITE(PTR, $00002C4B)
+//「忍者はね、全部て゛…」
+"Did you hear about the shoe factory that collapsed?"
+<$00>
+
 
 
 // 00000A48
 // Pos : 00004058
-//#WRITE(PTR, $00002CBE)
-////「……何人し゛ゃ……」
-//<$00>
-//
+#WRITE(PTR, $00002CBE)
+//「……何人し゛ゃ……」
+"They found the 'sole' survivor!"
+<$00>
+
 
 
 // 00000A76
 // Pos : 00004086
-//#WRITE(PTR, $00002D0C)
-////「け゛っ！？」
-//<$00>
-//
+#WRITE(PTR, $00002D0C)
+//「け゛っ！？」
+"Huh?"
+<$00>
+
 
 
 // 00000A9C
 // Pos : 000040AC
-//#WRITE(PTR, $00002D68)
-//#WRITE(PTR, $000030A8)
-////「な、何て゛知ってんの！？」
-//<$00>
-//
+#WRITE(PTR, $00002D68)
+#WRITE(PTR, $000030A8)
+//「な、何て゛知ってんの！？」
+"Wait, how did you know that?!"
+<$00>
+
 
 
 // 00000AE1
 // Pos : 000040F1
-//#WRITE(PTR, $00002DC8)
-////「テレビて゛言ってた」
-//<$00>
-//
+#WRITE(PTR, $00002DC8)
+//「テレビて゛言ってた」
+"They've said that one on TV."
+<$00>
+
 
 
 // 00000B0C
 // Pos : 0000411C
-//#WRITE(PTR, $00002E25)
-//#WRITE(PTR, $00003198)
-////『わ、話題をかえるか…』
-//<$00>
-//
+#WRITE(PTR, $00002E25)
+#WRITE(PTR, $00003198)
+//『わ、話題をかえるか…』
+Yikes! Moving along...
+<$00>
+
 
 
 // 00000B56
 // Pos : 00004166
-//#WRITE(PTR, $00002EDA)
-////「アヒルか゛言ったよ」
-//<$00>
-//
+#WRITE(PTR, $00002EDA)
+//「アヒルか゛言ったよ」
+"One time, a duck went to a see a psychiatrist."
+<$00>
+
 
 
 // 00000B81
 // Pos : 00004191
-//#WRITE(PTR, $00002F4D)
-////「あ、ひるた゛……」
-//<$00>
-//
+#WRITE(PTR, $00002F4D)
+//「あ、ひるた゛……」
+"The guy was a real 'quack'!"
+<$00>
+
 
 
 // 00000BAA
 // Pos : 000041BA
-//#WRITE(PTR, $00002F9B)
-////「う～んと…し゛ゃあねえ…」
-//<$00>
-//
+#WRITE(PTR, $00002F9B)
+//「う～んと…し゛ゃあねえ…」
+"Hrrrmph! Whatever, let me see here..."
+<$00>
+
 
 
 // 00000BD8
 // Pos : 000041E8
-//#WRITE(PTR, $00002FF7)
-////「妖怪か゛言ったよ」
-//<$00>
-//
+#WRITE(PTR, $00002FF7)
+//「妖怪か゛言ったよ」
+"What happens when two horses fall in love?"
+<$00>
+
 
 
 // 00000C01
 // Pos : 00004211
-//#WRITE(PTR, $0000305A)
-////「なんか用かい……」
-//<$00>
-//
+#WRITE(PTR, $0000305A)
+//「なんか用かい……」
+"They get 'MARE-ied'!"
+<$00>
+
 
 
 // 00000C46
 // Pos : 00004256
-//#WRITE(PTR, $0000311B)
-////「わからない…」
-//<$00>
-//
+#WRITE(PTR, $0000311B)
+//「わからない…」
+"I don't know..."
+<$00>
+
 
 
 // 00000C5A
 // Pos : 0000426A
-//#WRITE(PTR, $0000315E)
-////「……………」
-//<$00>
-//
+#WRITE(PTR, $0000315E)
+//「……………」
+"......"
+<$00>
+
 
 
 // 00000CA9
 // Pos : 000042B9
-//#WRITE(PTR, $0000324D)
-////「石か゛おちたよ…」
-//<$00>
-//
+#WRITE(PTR, $0000324D)
+//「石か゛おちたよ…」
+"One time, this kid threw a rock at me."
+<$00>
+
 
 
 // 00000CD1
 // Pos : 000042E1
-//#WRITE(PTR, $000032C0)
-////「ストーン…」
-//<$00>
-//
+#WRITE(PTR, $000032C0)
+//「ストーン…」
+"It wasn't very 'gneiss' of him."
+<$00>
+
 
 
 // 00000CF9
 // Pos : 00004309
-//#WRITE(PTR, $0000330E)
-////「ショベルカーか゛…」
-//<$00>
-//
+#WRITE(PTR, $0000330E)
+//「ショベルカーか゛…」
+"I saw a book get so scared, all its pages fell out."
+<$00>
+
 
 
 // 00000D26
 // Pos : 00004336
-//#WRITE(PTR, $00003371)
-////「しゃへ゛るかー…」
-//<$00>
-//
+#WRITE(PTR, $00003371)
+//「しゃへ゛るかー…」
+"The poor thing didn't have a 'spine'!"
+<$00>
+
 
 
 // 00000D4E
 // Pos : 0000435E
-//#WRITE(PTR, $000033BF)
-////「ふ゛と゛うか゛驚いた！」
-//<$00>
-//
+#WRITE(PTR, $000033BF)
+//「ふ゛と゛うか゛驚いた！」
+"I mixed red and yellow together to make a new color."
+<$00>
+
 
 
 // 00000D79
 // Pos : 00004389
-//#WRITE(PTR, $00003422)
-////「きょほー…」
-//<$00>
-//
+#WRITE(PTR, $00003422)
+//「きょほー…」
+"'Orange' you glad?"
+<$00>
+
 
 
 // 00000D9E
 // Pos : 000043AE
-//#WRITE(PTR, $00003470)
-////「百円食へ゛ろ！」
-//<$00>
-//
+#WRITE(PTR, $00003470)
+//「百円食へ゛ろ！」
+"I went out with a friend to a photoshoot."
+<$00>
+
 
 
 // 00000DC8
 // Pos : 000043D8
-//#WRITE(PTR, $000034D3)
-////「ひゃー、くえん…」
-//<$00>
-//
+#WRITE(PTR, $000034D3)
+//「ひゃー、くえん…」
+"It was over in a 'flash'!"
+<$00>
+
 
 
 // 00000DF1
 // Pos : 00004401
-//#WRITE(PTR, $00003521)
-////「日曜た゛ったら…」
-//<$00>
-//
+#WRITE(PTR, $00003521)
+//「日曜た゛ったら…」
+"I'm not good at painting my nails, you see."
+<$00>
+
 
 
 // 00000E1B
 // Pos : 0000442B
-//#WRITE(PTR, $00003594)
-////「ゆる、さんて゛ー…」
-//<$00>
-//
+#WRITE(PTR, $00003594)
+//「ゆる、さんて゛ー…」
+"I need to 'polish' my skills."
+<$00>
+
 
 
 // 00000E32
 // Pos : 00004442
-//#WRITE(PTR, $000035DE)
-////『言うんし゛ゃなかった…』
-//<$00>
-//
+#WRITE(PTR, $000035DE)
+//『言うんし゛ゃなかった…』
+I said nothing.
+<$00>
+
 
 
 #WRITE(APTR, $00000008)
