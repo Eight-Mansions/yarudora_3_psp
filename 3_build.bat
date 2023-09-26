@@ -8,12 +8,12 @@ copy exe\EBOOT.BIN.ORIG exe\UCJS10014.BIN
 
 tools\armips code\exe.asm
 
-echo trans\00304FB0.txt >> error.txt
-tools\atlas exe\UCJS10014.BIN trans\00304FB0.txt >> error.txt
-echo trans\exe_emb.txt >> error.txt
-tools\atlas exe\UCJS10014.BIN trans\exe_emb.txt >> error.txt
-echo trans\exe_menu_options.txt >> error.txt
-tools\atlas exe\UCJS10014.BIN trans\exe_menu_options.txt >> error.txt
+REM echo trans\00304FB0.txt >> error.txt
+REM tools\atlas exe\UCJS10014.BIN trans\00304FB0.txt >> error.txt
+REM echo trans\exe_emb.txt >> error.txt
+REM tools\atlas exe\UCJS10014.BIN trans\exe_emb.txt >> error.txt
+REM echo trans\exe_menu_options.txt >> error.txt
+REM tools\atlas exe\UCJS10014.BIN trans\exe_menu_options.txt >> error.txt
 
 tools\sign_np-v1.0.4-windows-x86_x64.exe -elf exe\UCJS10014.BIN exe\EBOOT.BIN 02
 
