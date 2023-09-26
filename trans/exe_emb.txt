@@ -1,0 +1,43 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", 128, 32)
+
+#STRINGALIGN(2)
+
+#JMP($001003E8)
+//このデータの続きを始めますか？
+Continue from this file?
+<$00>
+#WARN($00100407, "WARNME")
+
+#JMP($001003B0)
+//%sのゲームデータが$全て削除されますがよろしいですか？
+Delete this file?
+<$00>
+#WARN($001003E7, "WARNME")
+
+#JMP($000FC6E0)
+//“メモリースティック”をチェックしています$抜かないでください
+Reading memory card. Do not remove.
+<$00>
+#WARN($000FC71F, "WARNME")
+
+#JMP($000FCF80)
+//“メモリースティック”をチェックしています$抜かないでください
+Reading memory card. Do not remove.
+<$00>
+#WARN($000FCFBF, "WARNME")
+
+#JMP($000FF658)
+//“メモリースティック”をチェックしています$抜かないでください
+Reading memory card. Do not remove.
+<$00>
+#WARN($000FF697, "WARNME")
+
+#JMP($00100620)
+//“メモリースティック”をチェックしています$抜かないでください
+Reading memory card. Do not remove.
+<$00>
+#WARN($0010065F, "WARNME")

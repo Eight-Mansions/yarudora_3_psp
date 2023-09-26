@@ -1,0 +1,723 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", 128, 32)
+
+#JMP($00106728)
+
+// Ptr: 00106728
+#WRITE(PTR, $00304FB0)
+//ダブルキャスト
+. Double Cast
+<$00>
+
+// Ptr: 00106738
+#WRITE(PTR, $00304FB4)
+//志穂
+. Shiho
+<$00>
+
+// Ptr: 00106740
+#WRITE(PTR, $00304FB8)
+//美月
+. Mitsuki
+<$00>
+
+// Ptr: 00106748
+#WRITE(PTR, $00304FBC)
+//とらわれた心
+. Captured Hearts
+<$00>
+
+// Ptr: 00106758
+#WRITE(PTR, $00304FC0)
+//翔子
+. Shouko
+<$00>
+
+// Ptr: 00106760
+#WRITE(PTR, $00304FC4)
+//映研
+. Film Studies
+<$00>
+
+// Ptr: 00106768
+#WRITE(PTR, $00304FC8)
+//親友
+. Bosom Buddies
+<$00>
+
+// Ptr: 00106770
+#WRITE(PTR, $00304FCC)
+//麻由
+. Mayu
+<$00>
+
+// Ptr: 00106778
+#WRITE(PTR, $00304FD0)
+#WRITE(PTR, $003050F4)
+//マリア
+. Maria
+<$00>
+
+// Ptr: 00106780
+#WRITE(PTR, $00304FD4)
+//花織
+. Kaori
+<$00>
+
+// Ptr: 00106788
+#WRITE(PTR, $00304FD8)
+//少女
+. A Girl
+<$00>
+
+// Ptr: 00106790
+#WRITE(PTR, $00304FDC)
+//夢のつづき
+. Living The Dream
+<$00>
+
+// Ptr: 0010679C
+#WRITE(PTR, $00304FE0)
+//狂気（１）
+. Madness A
+<$00>
+
+// Ptr: 001067A8
+#WRITE(PTR, $00304FE4)
+//狂気（２）
+. Madness B
+<$00>
+
+// Ptr: 001067B4
+#WRITE(PTR, $00304FE8)
+//狂気（３）
+. Madness C
+<$00>
+
+// Ptr: 001067C0
+#WRITE(PTR, $00304FEC)
+//狂気（４）
+. Madness D
+<$00>
+
+// Ptr: 001067CC
+#WRITE(PTR, $00304FF0)
+//狂気（５）
+. Madness E
+<$00>
+
+// Ptr: 001067D8
+#WRITE(PTR, $00304FF4)
+//狂気（６）
+. Madness F
+<$00>
+
+// Ptr: 001067E4
+#WRITE(PTR, $00304FF8)
+//かこひめの寝屋
+. Her Inner Sanctum
+<$00>
+
+// Ptr: 001067F4
+#WRITE(PTR, $00304FFC)
+//殺人鬼
+. Cutthroat
+<$00>
+
+// Ptr: 001067FC
+#WRITE(PTR, $00305000)
+//真犯人（１）
+. The Real Culprit A
+<$00>
+
+// Ptr: 0010680C
+#WRITE(PTR, $00305004)
+//真犯人（２）
+. The Real Culprit B
+<$00>
+
+// Ptr: 0010681C
+#WRITE(PTR, $00305008)
+//とどかぬ想い
+. Out of Touch
+<$00>
+
+// Ptr: 0010682C
+#WRITE(PTR, $0030500C)
+//姉妹
+. Sisters
+<$00>
+
+// Ptr: 00106834
+#WRITE(PTR, $00305010)
+//終焉
+. Downfall
+<$00>
+. 
+// Ptr: 0010683C
+#WRITE(PTR, $00305014)
+//記憶
+. Recollection
+<$00>
+
+// Ptr: 00106844
+#WRITE(PTR, $00305018)
+//真実は…
+. The Truth is...
+<$00>
+
+// Ptr: 00106850
+#WRITE(PTR, $0030501C)
+//麻由編
+. Mayu
+<$00>
+
+// Ptr: 00106858
+#WRITE(PTR, $00305020)
+//桜の精編
+. Cherry Blosson Fairy
+<$00>
+
+// Ptr: 00106864
+#WRITE(PTR, $00305024)
+//トモコ編
+. Tomoko
+<$00>
+
+// Ptr: 00106870
+#WRITE(PTR, $00305028)
+//お姉さん編
+. Big Sis
+<$00>
+
+// Ptr: 0010687C
+#WRITE(PTR, $0030502C)
+//ベリーグッド！
+. Very good!
+<$00>
+
+// Ptr: 0010688C
+#WRITE(PTR, $00305030)
+//トモコ雨の中編
+. Tomoko in The Rain
+<$00>
+
+// Ptr: 0010689C
+#WRITE(PTR, $00305034)
+//麻由の妹は？編
+. Mayu's Sister?
+<$00>
+
+// Ptr: 001068AC
+#WRITE(PTR, $00305038)
+//麻由はどこへ？編
+. Where's Mayu?
+<$00>
+
+// Ptr: 001068C0
+#WRITE(PTR, $0030503C)
+//ぼくの春編
+. My Spring
+<$00>
+
+// Ptr: 001068CC
+#WRITE(PTR, $00305040)
+//春の日の妄想編
+. Spring Fever
+<$00>
+
+// Ptr: 001068DC
+#WRITE(PTR, $00305044)
+//いやらしいボク編
+. Me? A Creep?!
+<$00>
+
+// Ptr: 001068F0
+#WRITE(PTR, $00305048)
+//男の浪漫編
+. The Romantic
+<$00>
+
+// Ptr: 001068FC
+#WRITE(PTR, $0030504C)
+//怖いおじさん編
+. Eerie Old Man
+<$00>
+
+// Ptr: 0010690C
+#WRITE(PTR, $00305050)
+//幻の写真集を見た編
+. Ghost Album
+<$00>
+
+// Ptr: 00106920
+#WRITE(PTR, $00305054)
+//不安な春編その１
+. Spring Fever A
+<$00>
+
+// Ptr: 00106934
+#WRITE(PTR, $00305058)
+//不安な春編その２
+. Spring Fever B
+<$00>
+
+// Ptr: 00106948
+#WRITE(PTR, $0030505C)
+//桜伝説編その１
+. Sakura Legend A
+<$00>
+
+// Ptr: 00106958
+#WRITE(PTR, $00305060)
+//桜伝説編その２
+. Sakura Legend B
+<$00>
+
+// Ptr: 00106968
+#WRITE(PTR, $00305064)
+//桜伝説編その３
+. Sakura Legend C
+<$00>
+
+// Ptr: 00106978
+#WRITE(PTR, $00305068)
+//もうボクは若くない編
+. I'm Too Old For This
+<$00>
+
+// Ptr: 00106990
+#WRITE(PTR, $0030506C)
+//トモコ三連発編
+. Triple Threat Tomoko
+<$00>
+
+// Ptr: 001069A0
+#WRITE(PTR, $00305070)
+//そして誰も来なかった編
+. And No One Came
+<$00>
+
+// Ptr: 001069B8
+#WRITE(PTR, $00305074)
+//ちぎられたキーホルダー編
+. Broken Keychain
+<$00>
+
+// Ptr: 001069D4
+#WRITE(PTR, $00305078)
+//そしてボクは一人編
+. And Now I'm Alone
+<$00>
+
+// Ptr: 001069E8
+#WRITE(PTR, $0030507C)
+//トモコ去る編
+. Tomoko Leaves
+<$00>
+
+// Ptr: 001069F8
+#WRITE(PTR, $00305080)
+//一撃必殺拳編
+. One Punch Girl
+<$00>
+
+// Ptr: 00106A08
+#WRITE(PTR, $00305084)
+//春の日の反省編
+. Springtime Reflection
+<$00>
+
+// Ptr: 00106A18
+#WRITE(PTR, $00305088)
+//手紙
+. The Letter
+<$00>
+
+// Ptr: 00106A20
+#WRITE(PTR, $0030508C)
+//再会
+. Reunion
+<$00>
+
+// Ptr: 00106A28
+#WRITE(PTR, $00305090)
+//永遠に
+. Eternally
+<$00>
+
+// Ptr: 00106A30
+#WRITE(PTR, $00305094)
+//ふたり
+. In Twos
+<$00>
+
+// Ptr: 00106A38
+#WRITE(PTR, $00305098)
+//マハル・キタ
+. Mahal Kita
+<$00>
+
+// Ptr: 00106A48
+#WRITE(PTR, $0030509C)
+//希望
+. Aspiration
+<$00>
+
+// Ptr: 00106A50
+#WRITE(PTR, $003050A0)
+//想い
+. Sentiment
+<$00>
+
+// Ptr: 00106A58
+#WRITE(PTR, $003050A4)
+//不思議な体験
+. Strange Occurance
+<$00>
+
+// Ptr: 00106A68
+#WRITE(PTR, $003050A8)
+//ひととき
+. In the Moment
+<$00>
+
+// Ptr: 00106A74
+#WRITE(PTR, $003050AC)
+//恐れ
+. Anxiety
+<$00>
+
+// Ptr: 00106A7C
+#WRITE(PTR, $003050B0)
+//オオカミ
+. Big Bad Wolf
+<$00>
+
+// Ptr: 00106A88
+#WRITE(PTR, $003050B4)
+//煩悩
+. Worldly Desires
+<$00>
+
+// Ptr: 00106A90
+#WRITE(PTR, $003050B8)
+//他人
+. Strangers
+<$00>
+
+// Ptr: 00106A98
+#WRITE(PTR, $003050BC)
+//僕の人生
+. My Slice of Life
+<$00>
+
+// Ptr: 00106AA4
+#WRITE(PTR, $003050C0)
+//サヨナラ
+. Sayonara
+<$00>
+
+// Ptr: 00106AB0
+#WRITE(PTR, $003050C4)
+//あやまち
+. Faux Pas
+<$00>
+
+// Ptr: 00106ABC
+#WRITE(PTR, $003050C8)
+//初心
+. Intentions
+<$00>
+
+// Ptr: 00106AC4
+#WRITE(PTR, $003050CC)
+//生活
+. Livelihood
+<$00>
+
+// Ptr: 00106ACC
+#WRITE(PTR, $003050D0)
+//佐藤
+. Sato
+<$00>
+
+// Ptr: 00106AD4
+#WRITE(PTR, $003050D4)
+//別離
+. Parting
+<$00>
+
+// Ptr: 00106ADC
+#WRITE(PTR, $003050D8)
+//出会いとは…
+. The Encounter
+<$00>
+
+// Ptr: 00106AEC
+#WRITE(PTR, $003050DC)
+//勇気
+. Valor
+<$00>
+
+// Ptr: 00106AF4
+#WRITE(PTR, $003050E0)
+//不運
+. Ill Fortune
+<$00>
+
+// Ptr: 00106AFC
+#WRITE(PTR, $003050E4)
+//執念
+. Obsession
+<$00>
+
+// Ptr: 00106B04
+#WRITE(PTR, $003050E8)
+//甘さ
+. Tenderness
+<$00>
+
+// Ptr: 00106B0C
+#WRITE(PTR, $003050EC)
+//非力
+. Powerless
+<$00>
+
+// Ptr: 00106B14
+#WRITE(PTR, $003050F0)
+//悲運
+. Misery
+<$00>
+
+// Ptr: 00106B1C
+#WRITE(PTR, $003050F8)
+//雪解け
+. Snowmelt
+<$00>
+
+// Ptr: 00106B24
+#WRITE(PTR, $003050FC)
+//夕暮れ
+. Evening
+<$00>
+
+// Ptr: 00106B2C
+#WRITE(PTR, $00305100)
+//雪割り草
+. Yukiwari
+<$00>
+
+// Ptr: 00106B38
+#WRITE(PTR, $00305104)
+//旅立ち
+. Departure
+<$00>
+
+// Ptr: 00106B40
+#WRITE(PTR, $00305108)
+//二年後の春
+. Two Springs Later
+<$00>
+
+// Ptr: 00106B4C
+#WRITE(PTR, $0030510C)
+//睡眠
+. Sleep
+<$00>
+
+// Ptr: 00106B54
+#WRITE(PTR, $00305110)
+//退出
+. Withdrawal
+<$00>
+
+// Ptr: 00106B5C
+#WRITE(PTR, $00305114)
+//屋上の悲劇
+. Rooftop Tragedy
+<$00>
+
+// Ptr: 00106B68
+#WRITE(PTR, $00305118)
+//煙草の匂い
+. Smell of Cigarettes
+<$00>
+
+//!!!!!!!!!!!!!!!!!!!!!
+#JMP($00185640)
+
+
+// Ptr: 00106B74
+#WRITE(PTR, $0030511C)
+//恋人として
+. Like Lovers Do
+<$00>
+
+// Ptr: 00106B80
+#WRITE(PTR, $00305120)
+//食堂
+. Dining Hall
+<$00>
+
+// Ptr: 00106B88
+#WRITE(PTR, $00305124)
+//コマル
+. Komaru
+<$00>
+
+// Ptr: 00106B90
+#WRITE(PTR, $00305128)
+//電話
+. Phone Call
+<$00>
+
+// Ptr: 00106B98
+#WRITE(PTR, $0030512C)
+//写真
+. Photograph
+<$00>
+
+// Ptr: 00106BA0
+#WRITE(PTR, $00305130)
+//意地っ張り
+. Dragged Heels
+<$00>
+
+// Ptr: 00106BAC
+#WRITE(PTR, $00305134)
+//街灯の傍で
+Under the Streetlight
+<$00>
+
+// Ptr: 00106BB8
+#WRITE(PTR, $00305138)
+//誕生日
+. Birthday
+<$00>
+
+// Ptr: 00106BC0
+#WRITE(PTR, $0030513C)
+//プレゼント
+. Present
+<$00>
+
+// Ptr: 00106BCC
+#WRITE(PTR, $00305140)
+//混乱
+. Chaos
+<$00>
+
+// Ptr: 00106BD4
+#WRITE(PTR, $00305144)
+//孤独
+. Solitude
+<$00>
+
+// Ptr: 00106BDC
+#WRITE(PTR, $00305148)
+//早すぎた電話
+. The Early Call
+<$00>
+
+// Ptr: 00106BEC
+#WRITE(PTR, $0030514C)
+//夜中の電話
+. The Late Call
+<$00>
+
+// Ptr: 00106BF8
+#WRITE(PTR, $00305150)
+//雪の日
+. Snow Day
+<$00>
+
+// Ptr: 00106C00
+#WRITE(PTR, $00305154)
+//南
+South
+<$00>
+
+// Ptr: 00106C04
+#WRITE(PTR, $00305158)
+//逃亡
+. Escape
+<$00>
+
+// Ptr: 00106C0C
+#WRITE(PTR, $0030515C)
+//何処へ…
+. To Nowhere...
+<$00>
+
+// Ptr: 00106C18
+#WRITE(PTR, $00305160)
+//思い出の場所
+. A Sentimental Place
+<$00>
+
+// Ptr: 00106C28
+#WRITE(PTR, $00305164)
+//一人で捜して
+Searching Alone
+<$00>
+
+// Ptr: 00106C38
+#WRITE(PTR, $00305168)
+//昂
+. Takashi
+<$00>
+
+// Ptr: 00106C3C
+#WRITE(PTR, $0030516C)
+//遠すぎた春
+. Far From Spring
+<$00>
+
+// Ptr: 00106C48
+#WRITE(PTR, $00305170)
+//リフレイン
+. Refrain
+<$00>
+
+// Ptr: 00106C54
+#WRITE(PTR, $00305174)
+//悪夢
+. Nightmare
+<$00>
+
+// Ptr: 00106C5C
+#WRITE(PTR, $00305178)
+//卑劣
+. Despicable
+<$00>
+
+// Ptr: 00106C64
+#WRITE(PTR, $0030517C)
+//婚約指輪
+. Engagement Ring
+<$00>
+
+// Ptr: 00106C70
+#WRITE(PTR, $00305180)
+//ありがとう
+. Thank you
+<$00>
+
+// Ptr: 00106C7C
+#WRITE(PTR, $00305184)
+//昂の思い出
+. Memories of Takashi
+<$00>
+
+// Ptr: 00106C88
+#WRITE(PTR, $00305188)
+//花織よりも早く
+. Faster Than Kaori
+<$00>
+
+
+#WARN($00106C96, "WARNME")
