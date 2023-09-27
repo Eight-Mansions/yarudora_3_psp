@@ -97,6 +97,10 @@ del cd\yarudora_3\PSP_GAME\SYSDIR\EBOOT.BIN
 copy exe\eboot.bin cd\yarudora_3\PSP_GAME\SYSDIR\EBOOT.BIN
 
 xcopy graphics\font21.arc cd\yarudora_3\PSP_GAME\USRDIR\font21.arc /Y
+xcopy graphics\font21.arc cd\yarudora_3\PSP_GAME\USRDIR\font22.arc /Y
+xcopy graphics\font21.arc cd\yarudora_3\PSP_GAME\USRDIR\font23.arc /Y
+xcopy graphics\font21.arc cd\yarudora_3\PSP_GAME\USRDIR\font24.arc /Y
+
 xcopy graphics\data\*.arc cd\yarudora_3\PSP_GAME\USRDIR\data\* /Y
 
 xcopy ins\* cd\yarudora_3\PSP_GAME\USRDIR\data\IGX003\* /Y /s
