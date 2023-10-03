@@ -1,0 +1,678 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#VAR(APTR, CUSTOMPOINTER)
+#VAR(BPTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", $00004BD0, 16)
+#CREATEPTR(APTR, "LINEAR", $00000000, 32)
+#CREATEPTR(BPTR, "LINEAR", $00000030, 32)
+#JMP(-1)
+
+// 000001F6
+// Pos : 00004DC6
+#WRITE(PTR, $0000205C)
+//『パ、パトカーた゛』
+Dangit. A police vehicle!
+<$00>
+
+
+
+// 00000211
+// Pos : 00004DE1
+#WRITE(PTR, $00002096)
+//『やた゛な…。さっきの感し゛の悪い警官た゛ったらと゛うしよう…』
+And I've got a feeling it's that same officer I spoke with earlier.
+<$00>
+
+
+
+// 0000023A
+// Pos : 00004E0A
+#WRITE(PTR, $000020B9)
+//『きっと何か言われるにちか゛いない』
+There's a good chance he'll stop us.
+<$00>
+
+
+
+// 00000251
+// Pos : 00004E21
+#WRITE(PTR, $000020DC)
+//『それに彼女た゛って…』
+If that officer so much as sees her...
+<$00>
+
+
+
+// 000002E9
+// Pos : 00004EB9
+#WRITE(PTR, $00002208)
+//『おひ゛えてる…？』
+Is she scared of the police?
+<$00>
+
+
+
+// 00000327
+// Pos : 00004EF7
+#WRITE(PTR, $0000231B)
+//『そういえは゛この子、あんなところに隠れたりして、今夜の警察の騒き゛と関係あるんた゛ろうか…？』
+Come to think of it, the police search might explain why she was hiding in the alley.
+<$00>
+
+
+
+// 00000370
+// Pos : 00004F40
+#WRITE(PTR, $00002355)
+//『て゛もと゛うしよう…、このままし゛ゃ見つかってしまう』
+Great, now what do I do? I can't let them see me like this!
+<$00>
+
+
+
+// 0000039B
+// Pos : 00004F6B
+#WRITE(PTR, $000023AD)
+//『パ、パトカーた゛。ます゛いそ゛』
+Dangit. A police vehicle! What if it stops us?
+<$00>
+
+
+
+// 000003BD
+// Pos : 00004F8D
+#WRITE(PTR, $000023E7)
+//『あの警官た゛ったらと゛うしよう…。それに今度は…』
+And what do I do if it's that same officer I spoke with earlier?
+<$00>
+
+
+
+// 0000041C
+// Pos : 00004FEC
+#WRITE(PTR, $00002523)
+//『やっは゜りおひ゛えてる…』
+She's getting scared...
+<$00>
+
+
+
+// 00000459
+// Pos : 00005029
+#WRITE(PTR, $00002622)
+//『あきらかに彼女は警察を嫌か゛ってる。と゛うすれは゛いい…？』
+She must not want the police to see her. What should I do?
+<$00>
+
+
+
+// 0000048D
+// Pos : 0000505D
+#WRITE(PTR, $0000265C)
+//『このままし゛ゃ見つかってしまう』
+At this rate, we'll be spotted!
+<$00>
+
+
+
+// 000004E2
+// Pos : 000050B2
+#WRITE(PTR, $000026CF)
+#WRITE(PTR, $00002742)
+//暗か゛りに隠れる
+Hide in the dark
+<$00>
+
+
+
+// 000004ED
+// Pos : 000050BD
+#WRITE(PTR, $000026D8)
+#WRITE(PTR, $0000274B)
+//走って逃け゛る
+Run away
+<$00>
+
+
+
+// 0000052D
+// Pos : 000050FD
+#WRITE(PTR, $00002755)
+//保護してもらうかと彼女にたす゛ねる
+Persuade the woman
+<$00>
+
+
+
+// 00000596
+// Pos : 00005166
+#WRITE(PTR, $0000287C)
+//「いい、隠れるからね。しっかりつかまってて」
+"We'd better hide. Hold on tight, okay?"
+<$00>
+
+
+
+// 0000065E
+// Pos : 0000522E
+#WRITE(PTR, $00002A17)
+//「し゛っとしてて…」
+"I said hold tight...!"
+<$00>
+
+
+
+// 000006ED
+// Pos : 000052BD
+#WRITE(PTR, $00002B47)
+//「と゛うやら行ったみたいた゛…」
+"Looks like they're gone."
+<$00>
+
+
+
+// 0000071D
+// Pos : 000052ED
+#WRITE(PTR, $00002BB3)
+//「大丈夫た゛った？」
+"You okay back there?"
+<$00>
+
+
+
+// 00000765
+// Pos : 00005335
+#WRITE(PTR, $00002C35)
+//「し゛ゃあ早く帰ろう」
+"We need to hurry."
+<$00>
+
+
+
+// 000007DA
+// Pos : 000053AA
+#WRITE(PTR, $00002D2F)
+//「よ、よし…」
+"Okay."
+<$00>
+
+
+
+// 000007F7
+// Pos : 000053C7
+#WRITE(PTR, $00002D93)
+//住宅地に逃け゛る
+Enter the neighborhood
+<$00>
+
+
+
+// 00000804
+// Pos : 000053D4
+#WRITE(PTR, $00002D9C)
+//公園に逃け゛る
+Enter the park
+<$00>
+
+
+
+// 00000858
+// Pos : 00005428
+#WRITE(PTR, $00002E1D)
+#WRITE(PTR, $00002EFE)
+#WRITE(PTR, $00004183)
+#WRITE(PTR, $000048C8)
+//「いい？ しっかりつかまってるんた゛よ」
+"Is that better? Hold on tight for me."
+<$00>
+
+
+
+// 00000945
+// Pos : 00005515
+#WRITE(PTR, $00002FEE)
+//『僕はマリアを背負って走った』
+"I ran with Maria in tow."
+<$00>
+
+
+
+// 00000968
+// Pos : 00005538
+#WRITE(PTR, $00003028)
+//『もうすく゛、あの角を曲か゛れは゛…』
+Once I turn the next corner, we'll be in the clear...
+<$00>
+
+
+
+// 00000981
+// Pos : 00005551
+#WRITE(PTR, $0000304B)
+#WRITE(PTR, $00004BA8)
+//『そう思ったとたん…』
+...or so I thought.
+<$00>
+
+
+
+// 000009BB
+// Pos : 0000558B
+#WRITE(PTR, $000030C2)
+//『僕たちは突然、強烈なライトの中にとらえられた』
+An intense flash froze me in my tracks.
+<$00>
+
+
+
+// 00000A77
+// Pos : 00005647
+#WRITE(PTR, $000031CC)
+//『まさか…、そんなのってないよ』
+There's no way. There's just no way!
+<$00>
+
+
+
+// 00000AD8
+// Pos : 000056A8
+#WRITE(PTR, $000032B6)
+//『マリア…君っていったい…？』
+Maria... Who in the world are you?
+<$00>
+
+
+
+// 00000B16
+// Pos : 000056E6
+#WRITE(PTR, $00003361)
+//『まさか…、そんなにたくさんのパトカーか゛巡回していたなんて…』
+There's no way. Why are so many police pursuing this one woman?
+<$00>
+
+
+
+// 00000B5E
+// Pos : 0000572E
+#WRITE(PTR, $00003439)
+//『て゛もマリア…君は何をしたの？』
+Maria... What did you do?
+<$00>
+
+
+
+// 00000B83
+// Pos : 00005753
+#WRITE(PTR, $00003482)
+//『君っていったい…？』
+Who in the world are you?
+<$00>
+
+
+
+// 00000C03
+// Pos : 000057D3
+#WRITE(PTR, $000035AE)
+//「アナタの背中、あたたかかったヨ」
+Your back was so warm.
+<$00>
+
+
+
+// 00000C78
+// Pos : 00005848
+#WRITE(PTR, $00003665)
+//「ゴメンね。せっかく知り合えたのに…」
+It's a shame we never get to know eachother.
+<$00>
+
+
+
+// 00000CC7
+// Pos : 00005897
+#WRITE(PTR, $00003726)
+//『なせ゛た゛ろう、不思議な高揚感か゛あった』
+Somehow or other, I got a second wind.
+<$00>
+
+
+
+// 00000CF0
+// Pos : 000058C0
+#WRITE(PTR, $00003760)
+//『パトカーから逃け゛ているというのに』
+I managed to get away from the police on patrol.
+<$00>
+
+
+
+// 00000D14
+// Pos : 000058E4
+#WRITE(PTR, $0000379A)
+//『て゛も…』
+But at what cost?
+<$00>
+
+
+
+// 00000D28
+// Pos : 000058F8
+#WRITE(PTR, $000037D4)
+//『日頃の運動不足のせいて゛、みるみる足腰か゛重くなって…』
+I'd skimped on exercise for a good while. My legs were about to give out on me!
+<$00>
+
+
+
+// 00000DA4
+// Pos : 00005974
+#WRITE(PTR, $0000385A)
+//「こ…ここまて゛くれは゛安心た゛よ」
+"We're... safe now, I think."
+<$00>
+
+
+
+// 00000E07
+// Pos : 000059D7
+#WRITE(PTR, $00003916)
+//「ダイジョウブ…？」
+"Are you okay?"
+<$00>
+
+
+
+// 00000E4A
+// Pos : 00005A1A
+#WRITE(PTR, $000039CA)
+//「キャッ…！！」
+"Eek!"
+<$00>
+
+
+
+// 00000E77
+// Pos : 00005A47
+#WRITE(PTR, $00003A71)
+//『と、突然、耳元て゛ささやくなんて…』
+She breathed heavily behind my ear.
+<$00>
+
+
+
+// 00000E9C
+// Pos : 00005A6C
+#WRITE(PTR, $00003AAB)
+//『そ、そんな…』
+Badump, badump...
+<$00>
+
+
+
+// 00000EE5
+// Pos : 00005AB5
+#WRITE(PTR, $00003B37)
+//「あ、ああ…大丈夫、かな？」
+"Uhm, uh... Are you feeling better?"
+<$00>
+
+
+
+// 00000F3B
+// Pos : 00005B0B
+#WRITE(PTR, $00003BEE)
+//「ヨカった…」
+"I feel good now."
+<$00>
+
+
+
+// 00000F50
+// Pos : 00005B20
+#WRITE(PTR, $00003C3A)
+//『ドキッ……』
+Woof!
+<$00>
+
+
+
+// 00000FA6
+// Pos : 00005B76
+#WRITE(PTR, $00003D1B)
+//「ここた゛よ。ここに住んて゛るんた゛」
+"Here. This is my apartment."
+<$00>
+
+
+
+// 00000FC5
+// Pos : 00005B95
+#WRITE(PTR, $00003DAD)
+//セーブ１
+SAVE 1
+<$00>
+
+
+
+// 0000102A
+// Pos : 00005BFA
+#WRITE(PTR, $00003E74)
+//「ねえ、保護してもらったほうか゛いいんし゛ゃないの？」
+"Listen. Why don't you go with them?"
+<$00>
+
+
+
+// 00001079
+// Pos : 00005C49
+#WRITE(PTR, $00003F1F)
+//「イヤ…」
+"I can't..."
+<$00>
+
+
+
+// 00001096
+// Pos : 00005C66
+#WRITE(PTR, $00003F91)
+//『困ったな…と゛うしよう』
+Well, this is weird. What do I do?
+<$00>
+
+
+
+// 000010B2
+// Pos : 00005C82
+#WRITE(PTR, $00001B47)
+#WRITE(PTR, $00003FC0)
+//やっは゜り隠れたほうか゛いい
+Hide, I guess
+<$00>
+
+
+
+// 000010C2
+// Pos : 00005C92
+#WRITE(PTR, $00003FC9)
+//やっは゜り走って逃け゛たほうか゛いい
+Run, I guess
+<$00>
+
+
+
+// 000010D7
+// Pos : 00005CA7
+#WRITE(PTR, $00003FD3)
+//やっは゜り保護してもらったほうか゛いい
+Turn her in, I guess
+<$00>
+
+
+
+// 00001141
+// Pos : 00005D11
+#WRITE(PTR, $000040F9)
+//住宅地に逃け゛よう！
+Enter the neighborhood
+<$00>
+
+
+
+// 00001151
+// Pos : 00005D21
+#WRITE(PTR, $00004102)
+//公園に逃け゛よう！
+Enter the park
+<$00>
+
+
+
+// 000011D0
+// Pos : 00005DA0
+#WRITE(PTR, $0000426F)
+//『しかたない…』
+I couldn't help myself.
+<$00>
+
+
+
+// 000011DC
+// Pos : 00005DAC
+#WRITE(PTR, $00004292)
+//『僕はパトカーの前に進み出る』
+I stepped out in front of the car.
+<$00>
+
+
+
+// 000011FF
+// Pos : 00005DCF
+#WRITE(PTR, $000042CC)
+//『ライトか゛僕とマリアを照らし出す』
+Its headlights nearly blinded Maria and me.
+<$00>
+
+
+
+// 00001295
+// Pos : 00005E65
+#WRITE(PTR, $000043E8)
+//『こ゛めんね。て゛もこれて゛いいんた゛』
+Sure, I felt bad, but it was better this way.
+<$00>
+
+
+
+// 000012CA
+// Pos : 00005E9A
+#WRITE(PTR, $000044A6)
+//『最後に僕を見た彼女の表情を、僕は忘れる事か゛出来ないた゛ろう』
+I would never forget the way she looked at me that one last time.
+<$00>
+
+
+
+// 00001335
+// Pos : 00005F05
+#WRITE(PTR, $000045C7)
+//「アナタのしたコトまちか゛ってないヨ」
+Why would you do such a thing?!
+<$00>
+
+
+
+// 00001380
+// Pos : 00005F50
+#WRITE(PTR, $00004670)
+//「て゛も、もう少し一緒にいたかったナ」
+All I wanted was to stay with you a little longer.
+<$00>
+
+
+
+// 000013C1
+// Pos : 00005F91
+#WRITE(PTR, $0000476E)
+//『いちかは゛ちかた゛！』
+This was do or die!
+<$00>
+
+
+
+// 000013DB
+// Pos : 00005FAB
+#WRITE(PTR, $000047A8)
+//『僕はマリアを背負って思いきりダッシュした』
+As Maria held on, I gathered all of my strength and broke into a jolt.
+<$00>
+
+
+
+// 0000141D
+// Pos : 00005FED
+#WRITE(PTR, $00004880)
+//『なんとかパトカーはやり過こ゛したようた゛』
+Who knew losing the police would be that easy?
+<$00>
+
+
+
+// 0000147F
+// Pos : 0000604F
+#WRITE(PTR, $000049A7)
+//『雨粒か゛目にはいる。衣服は張りつき何度も転ひ゛そうになる』
+Rain droplets fell into my eyes and clung to my clothes.
+<$00>
+
+
+
+// 000014B3
+// Pos : 00006083
+#WRITE(PTR, $000049E1)
+//『女の子を背負って逃け゛てるなんて…』
+I ran, and ran, and ran as the woman held onto me.
+<$00>
+
+
+
+// 000014D9
+// Pos : 000060A9
+#WRITE(PTR, $00004A1B)
+//『僕は夢て゛も見ているのた゛ろうか』
+This has to be some sort of weird dream.
+<$00>
+
+
+
+// 0000150D
+// Pos : 000060DD
+#WRITE(PTR, $00004A58)
+//「ワタシやっは゜り下ります」
+"I'm going to slip!"
+<$00>
+
+
+
+// 0000153D
+// Pos : 0000610D
+#WRITE(PTR, $00004AA0)
+//「た゛っ大丈夫た゛よ。もうすく゛着くから…」
+「You'll be fine! We'll get there soon...」
+<$00>
+
+
+
+// 0000156D
+// Pos : 0000613D
+#WRITE(PTR, $00004B6E)
+//『やっと着いた。もう安心た゛…』
+"Much to my relief, we made it home."
+<$00>
+
+
+
+#WRITE(APTR, $00000008)
+#WRITE(BPTR, $0000000C)
+

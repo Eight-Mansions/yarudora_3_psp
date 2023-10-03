@@ -95,7 +95,8 @@ D1Boy
 // Pos : 00005379
 #WRITE(PTR, $0000236D)
 //『僕はマリアを求めて、ふたたひ゛廊下へ戻った』
-I returned to the corridor in search of Maria.
+I returned to the corridor in search of\n
+Maria.
 <$00>
 
 
@@ -224,7 +225,8 @@ Keep hiding
 // Pos : 00005C0E
 #WRITE(PTR, $000033AB)
 //『ボーイと別れた僕は、マリアを探すため廊下へ戻った』
-I left Boy and returned to the corridor in search of Maria.
+I left Boy and returned to the corridor in\n
+search of Maria.
 <$00>
 
 
@@ -251,7 +253,8 @@ Have I found the way?
 // Pos : 00005F74
 #WRITE(PTR, $000039B5)
 //『ここはまた゛、ボーイ達は踏みこんて゛ないみたいた゛』
-It didn't look like Boy and his men had come this way yet.
+It didn't look like Boy and his men had come\n
+this way yet.
 <$00>
 
 
@@ -288,7 +291,8 @@ D1Yakuza Boss
 // Pos : 000060F8
 #WRITE(PTR, $00003C30)
 //「ダメた゛よ、おにいちゃん。ドアはノックするもんた゛よ。学校て゛習わなかったの？」
-"Tsk, tsk. Shame on you for not knocking, kid. Don't they teach manners in school?"
+"Tsk, tsk. Shame on you for not knocking,\n
+kid. Don't they teach manners in school?"
 <$00>
 
 
@@ -318,7 +322,8 @@ D1Yakuza Member
 // Pos : 00006217
 #WRITE(PTR, $00003DAC)
 //「ったく…、これた゛からド素人は使えねえんた゛よ」
-"Hoo boy, I can't believe they called in some the bedwetters for this."
+"Hoo boy, I can't believe they called in some\n
+the bedwetters for this."
 <$00>
 
 
@@ -417,7 +422,8 @@ I got it.
 // Pos : 00006702
 #WRITE(PTR, $0000466B)
 //「単身乗り込んて゛勝てると思ったのかい？」
-"You really thought you could waltz in and win by yourself?"
+"You really thought you could waltz in and\n
+win by yourself?"
 <$00>
 
 
@@ -453,7 +459,8 @@ My back feels hot. I'm burning...
 // Pos : 00006889
 #WRITE(PTR, $0000497F)
 //『と゛うしたんた゛ろう……君の顔か゛遠さ゛かってゆく……』
-Something's wrong... Your face is fading away...
+Something's wrong... Your face is fading\n
+away...
 <$00>
 
 
@@ -543,7 +550,8 @@ Maria...
 // Pos : 00006B2E
 #WRITE(PTR, $00004DD1)
 //『結局、言いそひ゛れてしまったけれと゛…』
-In the end, there was still something I'd failed to tell you.
+In the end, there was still something I'd\n
+failed to tell you.
 <$00>
 
 
@@ -552,7 +560,8 @@ In the end, there was still something I'd failed to tell you.
 // Pos : 00006B69
 #WRITE(PTR, $00004E34)
 //『君のためにとっておいた言葉か゛あるんた゛』
-Words I'd learned from that Dahil Sa'yo song.
+Words I'd learned from that Dahil Sa'yo\n
+song.
 <$00>
 
 

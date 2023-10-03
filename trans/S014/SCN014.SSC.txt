@@ -22,7 +22,8 @@ Maria didn't come back that night.
 // Pos : 00006A50
 #WRITE(PTR, $00002009)
 //『僕は一晩中、写真をなか゛めていて気か゛ついた』
-All I could do was stare at photos until the sun came up.
+All I could do was stare at photos until the\n
+sun came up.
 <$00>
 
 
@@ -40,7 +41,8 @@ That man was Boy.
 // Pos : 00006AB1
 #WRITE(PTR, $00002085)
 //『あいつは写真の中て゛、マリアの肩を抱いて怒ったような顔をしていたあの男の子た゛…』
-In this photo, he had his arm wrapped around Maria and wore a scowl.
+In this photo, he had his arm wrapped\n
+around Maria and wore a scowl.
 <$00>
 
 
@@ -49,7 +51,8 @@ In this photo, he had his arm wrapped around Maria and wore a scowl.
 // Pos : 00006B0D
 #WRITE(PTR, $000020C7)
 //『その後、僕はサリリング・アティンのラン$ディに連絡をとってみた』
-Once I gathered myself, I got a hold of Randy from Sariling Atin.
+Once I gathered myself, I got a hold of Randy\n
+from Sariling Atin.
 <$00>
 
 
@@ -67,7 +70,8 @@ I tried asking him about Boy.
 // Pos : 00006B5D
 #WRITE(PTR, $0000210D)
 //『ランディによれは゛、彼はいきなり店を辞めると電話て゛告け゛たまま、それっきり姿を見せないという』
-According to Randy, Boy quit his job on the spot without explanation.
+According to Randy, Boy quit his job on the\n
+spot without explanation.
 <$00>
 
 
@@ -112,7 +116,8 @@ A week had passed without Maria.
 // Pos : 00006CCC
 #WRITE(PTR, $00002342)
 //『僕は大学もバイトも行かす゛に、部屋て゛呆けていた』
-Between my treks to work and school, I'd felt a moment of weakness coming on.
+Between my treks to work and school, I'd\n
+felt a moment of weakness coming on.
 <$00>
 
 
@@ -157,7 +162,8 @@ Visit
 // Pos : 00006D8F
 #WRITE(PTR, $00002446)
 //『僕はマリアの残していったバッグの中身を、テーブルの上に並へ゛てみる』
-I lined up the contents from Maria's purse across the table.
+I lined up the contents from Maria's purse\n
+across the table.
 <$00>
 
 
@@ -166,7 +172,8 @@ I lined up the contents from Maria's purse across the table.
 // Pos : 00006DE4
 #WRITE(PTR, $0000248A)
 //『僕はもう一度話を聞こうと、ランディの店を訪ねた』
-I stopped by Randy's store in hopes to check in.
+I stopped by Randy's store in hopes to check\n
+in.
 <$00>
 
 
@@ -193,7 +200,8 @@ D1Randy
 // Pos : 00006E7B
 #WRITE(PTR, $00002523)
 //『ランディは相変わらす゛陽気に、僕を迎えてくれた』
-Randy, jovial, as was his nature, greeted me at the door.
+Randy, jovial, as was his nature, greeted\n
+me at the door.
 <$00>
 
 
@@ -202,7 +210,8 @@ Randy, jovial, as was his nature, greeted me at the door.
 // Pos : 00006F0E
 #WRITE(PTR, $000025B9)
 //『ランディか゛言うには、あの男は一月ほと゛前に知り合いの中国人から紹介されたのた゛という』
-Randy said "Danny" was introduced to him by a Chinese acquaintance about a month ago.
+Randy said "Danny" was introduced to him by a\n
+Chinese acquaintance about a month ago.
 <$00>
 
 
@@ -211,7 +220,8 @@ Randy said "Danny" was introduced to him by a Chinese acquaintance about a month
 // Pos : 00006F59
 #WRITE(PTR, $000025F3)
 //『あまりしゃへ゛らない男て゛、詳しい素性はランディも聞かなかったそうた゛…』
-The man didn't talk much, and Randy didn't bother to press for his background.
+The man didn't talk much, and Randy didn't\n
+bother to press for his background.
 <$00>
 
 
@@ -220,7 +230,8 @@ The man didn't talk much, and Randy didn't bother to press for his background.
 // Pos : 00006FAD
 #WRITE(PTR, $00002635)
 //『その日も店の中には、届いたは゛かりのサンパギータか゛強い香りを漂わせていた…』
-The scent of the sampaguita lingered in the store.
+The scent of the sampaguita lingered in the\n
+store.
 <$00>
 
 
@@ -238,7 +249,8 @@ This was a dead end.
 // Pos : 0000702F
 #WRITE(PTR, $000026D0)
 //『僕は重い足と゛りて゛アパートへ戻ってきた…』
-I returned to the apartment with a heavy heart.
+I returned to the apartment with a heavy\n
+heart.
 <$00>
 
 
@@ -247,7 +259,9 @@ I returned to the apartment with a heavy heart.
 // Pos : 0000715D
 #WRITE(PTR, $0000288B)
 //『あの大きな樹の下に立ってみる。掘り起こした跡はない』
-I stood underneath the massive tree. There were no signs of disturbance to be seen in the soil.
+I stood underneath the massive tree. There\n
+were no signs of disturbance to be seen in the\n
+soil.
 <$00>
 
 
@@ -256,7 +270,8 @@ I stood underneath the massive tree. There were no signs of disturbance to be se
 // Pos : 00007182
 #WRITE(PTR, $000028AE)
 //『拳銃はまた゛この下に埋もれたままた゛』
-The handgun was still buried beneath this very plot of soil.
+The handgun was still buried beneath this\n
+very plot of soil.
 <$00>
 
 
@@ -265,7 +280,8 @@ The handgun was still buried beneath this very plot of soil.
 // Pos : 000071C7
 #WRITE(PTR, $0000292E)
 //『重い体を起こして僕は、押入れの奥からアレを取り出す』
-With tired hands, I dug around until I plucked out the object I was after.
+With tired hands, I dug around until I\n
+plucked out the object I was after.
 <$00>
 
 
@@ -283,7 +299,8 @@ The handgun was real after all.
 // Pos : 00007233
 #WRITE(PTR, $000029B2)
 //『マリアか゛居なくなってもこいつの重さは変わらない…』
-With Maria gone, the weight of the handgun was left my only constant.
+With Maria gone, the weight of the\n
+handgun was left my only constant.
 <$00>
 
 
@@ -301,7 +318,9 @@ I reburied the handgun.
 // Pos : 00007290
 #WRITE(PTR, $00002A2E)
 //『マリアの残していったバッグの中身を、テーブルの上に並へ゛てみる』
-I poked through the contents of Maria's purse. It was right on the table where she had left it.
+I poked through the contents of Maria's\n
+purse. It was right on the table where she\n
+had left it.
 <$00>
 
 
@@ -310,7 +329,10 @@ I poked through the contents of Maria's purse. It was right on the table where s
 // Pos : 000072EC
 #WRITE(PTR, $00002AA1)
 //『アパートに戻った僕は、マリアの残していったバッグの中身をテーブルの上に並へ゛てみる』
-As I returned to the apartment, I poked through the contents of Maria's purse. It was right on the table where she had left it.
+As I returned to the apartment, I poked\n
+through the contents of Maria's purse. It\n
+was right on the table where she had left\n
+it.
 <$00>
 
 
@@ -319,7 +341,8 @@ As I returned to the apartment, I poked through the contents of Maria's purse. I
 // Pos : 0000734D
 #WRITE(PTR, $00002AE3)
 //『口紅、コンパクト、いくつかの化粧品、$カセットテープ』
-Okay. Lipstick, hand mirror, other cosmetics, $casette tape.
+Okay. Lipstick, hand mirror, other\n
+cosmetics, $casette tape.
 <$00>
 
 
@@ -328,7 +351,8 @@ Okay. Lipstick, hand mirror, other cosmetics, $casette tape.
 // Pos : 00007386
 #WRITE(PTR, $00002B1D)
 //『札束、そしてマリアとボーイの写真』
-Then we have banknotes and old photos of Maria and Boy.
+Then we have banknotes and old photos of\n
+Maria and Boy.
 <$00>
 
 
@@ -376,7 +400,9 @@ Take the hand mirror
 // Pos : 0000759C
 #WRITE(PTR, $00002E02)
 //『口紅を手にすると、あの日のマリアか゛思い出される』
-As I held the lipstick in my hand, I remembered how Maria looked with it on the other night.
+As I held the lipstick in my hand, I\n
+remembered how Maria looked with it on\n
+the other night.
 <$00>
 
 
@@ -404,7 +430,8 @@ Maria...
 // Pos : 0000766D
 #WRITE(PTR, $00002F52)
 //『楽しかったあの夜…。もう一度あの思い出か゛よみか゛えるなら…』
-That had been a fun time. I wondered what other memories I could stir up. 
+That had been a fun time. I wondered what\n
+other memories I could stir up.
 <$00>
 
 
@@ -422,7 +449,8 @@ That had been a fun time. I wondered what other memories I could stir up.
 // Pos : 000076FE
 #WRITE(PTR, $00003016)
 //『僕の空しさは、さらにつのった…』
-The whirring void in my mind grew ever stronger.
+The whirring void in my mind grew ever\n
+stronger.
 <$00>
 
 
@@ -431,7 +459,9 @@ The whirring void in my mind grew ever stronger.
 // Pos : 00007735
 #WRITE(PTR, $0000305A)
 //『そこにはマリアを失って、途方にくれた僕の顔か゛あった…』
-All I had to show for myself was the dumbfounded look that stained my face after losing Maria.
+All I had to show for myself was the\n
+dumbfounded look that stained my face\n
+after losing Maria.
 <$00>
 
 
@@ -449,7 +479,8 @@ Dahil Sa'yo. "Because of you", huh... Hm.
 // Pos : 0000781D
 #WRITE(PTR, $000031B4)
 //『何た゛か無性に、涙か゛止まらなくなった…』
-Somehow, I could't stop my tears from falling.
+Somehow, I could't stop my tears from\n
+falling.
 <$00>
 
 
@@ -467,7 +498,8 @@ I took a look at her photos.
 // Pos : 000078C1
 #WRITE(PTR, $0000329B)
 //『写真を置きかけて僕はふと、ある事を思い出す』
-Holding the photograph, and immediately rememberd something.
+Holding the photograph, and immediately\n
+rememberd something.
 <$00>
 
 
@@ -476,7 +508,8 @@ Holding the photograph, and immediately rememberd something.
 // Pos : 0000793B
 #WRITE(PTR, $00003332)
 //『そうた゛…姉さんのところへ電話してみよう…』
-That's right. I should give my sister a call.
+That's right. I should give my sister a\n
+call.
 <$00>
 
 
@@ -494,7 +527,8 @@ Her husband will pick up, I'm sure.
 // Pos : 00007985
 #WRITE(PTR, $000033A6)
 //『アジアのと゛こかの国へ行ってるって言ってたっけ…』
-He said she was going to a certain country in Asia.
+He said she was going to a certain country in\n
+Asia.
 <$00>
 
 
@@ -503,7 +537,8 @@ He said she was going to a certain country in Asia.
 // Pos : 000079C9
 #WRITE(PTR, $0000341C)
 //『ラッキーた゛った。新聞記者をやっている義兄は』
-Luckily for me, my brother-in-law is a reporter for the paper.
+Luckily for me, my brother-in-law is a\n
+reporter for the paper.
 <$00>
 
 
@@ -512,7 +547,10 @@ Luckily for me, my brother-in-law is a reporter for the paper.
 // Pos : 000079F7
 #WRITE(PTR, $00003456)
 //『５年ほと゛フィリピンのマニラ支局へ行っていて、今年のはし゛めに帰って来たのた゛という』
-He left for the Phillipines to work in their Manila branch. He'd been there for almost 5 years now, and this is the first he'd really been back home.
+He left for the Phillipines to work in\n
+their Manila branch. He'd been there for\n
+almost 5 years now, and this is the first\n
+he'd really been back home.
 <$00>
 
 
@@ -521,7 +559,8 @@ He left for the Phillipines to work in their Manila branch. He'd been there for 
 // Pos : 00007A57
 #WRITE(PTR, $000034BE)
 //『５年ふ゛りに会う義兄は、いつの間にか口ひけ゛をはやすようになっていた』
-Five years after I'd first met him, I didn't realize we had this much talk in us.
+Five years after I'd first met him, I\n
+didn't realize we had this much talk in us.
 <$00>
 
 
@@ -551,7 +590,8 @@ Discuss things further
 #WRITE(PTR, $000047AA)
 #WRITE(PTR, $0000528C)
 //『僕はこれまて゛のところを、かいつまんて゛話した』
-I spoke with him for a while about everything that had transpired.
+I spoke with him for a while about\n
+everything that had transpired.
 <$00>
 
 
@@ -563,7 +603,8 @@ I spoke with him for a while about everything that had transpired.
 #WRITE(PTR, $000047E4)
 #WRITE(PTR, $000052C6)
 //『拳銃のことは伏せておいたけと゛…』
-Naturally, I left out the bit about the handgun.
+Naturally, I left out the bit about the\n
+handgun.
 <$00>
 
 
@@ -572,7 +613,8 @@ Naturally, I left out the bit about the handgun.
 // Pos : 00007BDC
 #WRITE(PTR, $00003698)
 //『義兄は興味深い話を聞かせてくれた』
-My brother-in-law responded with an interesting story.
+My brother-in-law responded with an\n
+interesting story.
 <$00>
 
 
@@ -581,7 +623,8 @@ My brother-in-law responded with an interesting story.
 // Pos : 00007C03
 #WRITE(PTR, $000036D2)
 //『フィリピンのこと、ストリートチルドレンのこと…』
-He told me about all the street children he saw in the Phillipines.
+He told me about all the street children he\n
+saw in the Phillipines.
 <$00>
 
 
@@ -590,7 +633,8 @@ He told me about all the street children he saw in the Phillipines.
 // Pos : 00007C39
 #WRITE(PTR, $0000370C)
 //『マリアの生い立ちについても、何となくわかったような気か゛した』
-I think it helped me understand Maria's childhood a ways better.
+I think it helped me understand Maria's\n
+childhood a ways better.
 <$00>
 
 
@@ -610,7 +654,8 @@ Afterwards, he told me to keep my chin up.
 #WRITE(PTR, $00004315)
 #WRITE(PTR, $00004FBF)
 //『丁寧にお礼を言って僕は立ち上か゛った』
-I politely thanked him for the talk before we parted ways.
+I politely thanked him for the talk\n
+before we parted ways.
 <$00>
 
 
@@ -702,7 +747,9 @@ D1Mizushima
 // Pos : 00007D98
 #WRITE(PTR, $000038E0)
 //「アジアの三大スラムと言われているところて゛ね。取材て゛す゛いふ゛ん通ったもんた゛」
-"It's said to be the third largest slum in Southeast Asia. We went through there a lot in our research."
+"It's said to be the third largest slum in\n
+Southeast Asia. We went through there a\n
+lot in our research."
 <$00>
 
 
@@ -711,7 +758,8 @@ D1Mizushima
 // Pos : 00007E02
 #WRITE(PTR, $0000393F)
 //「このサンパギータを売っている子供達はね」
-"Children used to sell sampaguita flowers there."
+"Children used to sell sampaguita flowers\n
+there."
 <$00>
 
 
@@ -720,7 +768,8 @@ D1Mizushima
 // Pos : 00007E3E
 #WRITE(PTR, $00003996)
 //「ストリートチルドレンのように言われているけれと゛、ちょっと違うんた゛な」
-"For the lack of a better word, all those kids were homeless."
+"For the lack of a better word, all those\n
+kids were homeless."
 <$00>
 
 
@@ -738,7 +787,8 @@ D1Mizushima
 // Pos : 00007EDD
 #WRITE(PTR, $00003A3C)
 //「この子たちの面倒は、シンジケートか゛みているんた゛」
-"The crime syndicates in the area took care of them."
+"The crime syndicates in the area took care\n
+of them."
 <$00>
 
 
@@ -747,7 +797,8 @@ D1Mizushima
 // Pos : 00007F49
 #WRITE(PTR, $00003AA7)
 //「ちゃんとこ゛飯を食へ゛させているし、寝るところもある。
-"Gave them food, gave them a place to sleep...
+"Gave them food, gave them a place to\n
+sleep...
 <$00>
 
 
@@ -756,7 +807,8 @@ D1Mizushima
 // Pos : 00007F69
 #WRITE(PTR, $00003AB7)
 //$  こうしてサンパギータを売っているのも、この子たちにとっては生きていくためのビジネスなんた゛よ」
-$  In return, the children would sell these flowers for income."
+\n$ In return, the children would sell these\n
+flowers for income."
 <$00>
 
 
@@ -765,7 +817,8 @@ $  In return, the children would sell these flowers for income."
 // Pos : 00008000
 #WRITE(PTR, $00003B58)
 //「ところて゛なんなんた゛問題は？ フィリピンの娘にて゛も惚れたか？」
-"But why ask me all this? Get a crush on a girl from the Phillipines?"
+"But why ask me all this? Get a crush on a\n
+girl from the Phillipines?"
 <$00>
 
 
@@ -774,7 +827,8 @@ $  In return, the children would sell these flowers for income."
 // Pos : 00008088
 #WRITE(PTR, $00003C31)
 //「うーん、血はつなか゛っていないた゛ろうか゛、$マリアとそのボーイというのは兄妹た゛な」
-"While perhaps not by blood, $Maria and that Boy fellow are brother and sister."
+"While perhaps not by blood, $Maria and\n
+that Boy fellow are brother and sister."
 <$00>
 
 
@@ -792,7 +846,8 @@ $  In return, the children would sell these flowers for income."
 // Pos : 00008191
 #WRITE(PTR, $00003D68)
 //「ところて゛その…中国系マフィアとの関連な」
-"But what if that man... has relations to the Triad?"
+"But what if that man... has relations to\n
+the Triad?"
 <$00>
 
 
@@ -801,7 +856,8 @@ $  In return, the children would sell these flowers for income."
 // Pos : 00008209
 #WRITE(PTR, $00003E04)
 //「フィリピンというのは華僑の力か゛非常に強いところて゛な」
-"Even from overseas, the Chinese still hold a lot of power in the Phillipines"
+"Even from overseas, the Chinese still\n
+hold a lot of power in the Phillipines"
 <$00>
 
 
@@ -810,7 +866,8 @@ $  In return, the children would sell these flowers for income."
 // Pos : 00008259
 #WRITE(PTR, $00003E72)
 //「可能性としてはあるかもしれんな」
-"I'm only saying it's a slight possibility."
+"I'm only saying it's a slight\n
+possibility."
 <$00>
 
 
@@ -837,7 +894,8 @@ $  In return, the children would sell these flowers for income."
 // Pos : 0000831C
 #WRITE(PTR, $00003FB8)
 //「このボーイというのか゛非常に優秀な人材て゛」
-"Boy seems like a man of many particular talents."
+"Boy seems like a man of many particular\n
+talents."
 <$00>
 
 
@@ -846,7 +904,9 @@ $  In return, the children would sell these flowers for income."
 // Pos : 00008379
 #WRITE(PTR, $00004022)
 //「写真にあるような小さな時分に、華僑にスカウトされた…」
-"From what I see in the photo, he looks like the kind of kid the Chinese mafia scouts for."
+"From what I see in the photo, he looks like\n
+the kind of kid the Chinese mafia scouts\n
+for."
 <$00>
 
 
@@ -855,7 +915,9 @@ $  In return, the children would sell these flowers for income."
 // Pos : 000083FC
 #WRITE(PTR, $000040B6)
 //「言葉を変えれは゛、シンジケートから華僑に売り渡された…その時」
-"By 'scout', I mean that they bought children like him from local crime sindicates around the Phillipines."
+"By 'scout', I mean that they bought\n
+children like him from local crime\n
+sindicates around the Phillipines."
 <$00>
 
 
@@ -882,7 +944,7 @@ $  In return, the children would sell these flowers for income."
 // Pos : 0000854B
 #WRITE(PTR, $00004243)
 //そして東京ってところかな」
-and then from Hong Kong to Tokyo."
+\nand then from Hong Kong to Tokyo."
 <$00>
 
 
@@ -919,7 +981,8 @@ He wondered why I didn't go to the police.
 // Pos : 000086C5
 #WRITE(PTR, $00004503)
 //「おまえも一度くらいは行ってみたらと゛うた゛？」
-"If that's something you'd like to see too, I say go for it."
+"If that's something you'd like to see\n
+too, I say go for it."
 <$00>
 
 
@@ -928,7 +991,9 @@ He wondered why I didn't go to the police.
 // Pos : 0000873C
 #WRITE(PTR, $00004597)
 //「いろんなことを言う人もいるた゛ろうけれと゛…」
-"People are always going to have something to say this way or the other, and blah-blah-blah, but..."
+"People are always going to have something\n
+to say this way or the other, and\n
+blah-blah-blah, but..."
 <$00>
 
 
@@ -947,7 +1012,8 @@ He wondered why I didn't go to the police.
 #WRITE(PTR, $00004694)
 #WRITE(PTR, $00005D1D)
 //『そう言って義兄は、似合わないウインクをした』
-My brother-in-law winked at me when he said that.
+My brother-in-law winked at me when he\n
+said that.
 <$00>
 
 
@@ -956,7 +1022,9 @@ My brother-in-law winked at me when he said that.
 // Pos : 00008831
 #WRITE(PTR, $000046D6)
 //『帰り道、信号待ちをしなか゛ら僕は、ビルに映った夕焼けをなか゛める』
-While waiting for a traffic light on my walk home, I gazed at the sunset that reflected off the buildings.
+While waiting for a traffic light on my\n
+walk home, I gazed at the sunset that\n
+reflected off the buildings.
 <$00>
 
 
@@ -974,7 +1042,8 @@ While waiting for a traffic light on my walk home, I gazed at the sunset that re
 // Pos : 00008887
 #WRITE(PTR, $00004741)
 //『マニラか…。考えてみれは゛フィリピンって外国なんた゛よな…』
-Manila? I have to take into consideration that this was in a foreign country.
+Manila? I have to take into consideration\n
+that this was in a foreign country.
 <$00>
 
 
@@ -1001,7 +1070,8 @@ Manila? I have to take into consideration that this was in a foreign country.
 // Pos : 00008983
 #WRITE(PTR, $000049CB)
 //「悪いことは言わん。この問題からは手をひいたほうか゛いい」
-"I hate to break it to you, but you need to run while you still can."
+"I hate to break it to you, but you need to run\n
+while you still can."
 <$00>
 
 
@@ -1010,7 +1080,8 @@ Manila? I have to take into consideration that this was in a foreign country.
 // Pos : 000089C4
 #WRITE(PTR, $00004A23)
 //「おまえひとりの力て゛と゛うにかなる問題し゛ゃないことは」
-"Your strength alone won't help you resolve this."
+"Your strength alone won't help you\n
+resolve this."
 <$00>
 
 
@@ -1019,7 +1090,8 @@ Manila? I have to take into consideration that this was in a foreign country.
 // Pos : 00008A03
 #WRITE(PTR, $00004A6A)
 //「言われなくてもわかるた゛ろう？」
-"But even if I say that, you're not going to listen, are you."
+"But even if I say that, you're not going to\n
+listen, are you."
 <$00>
 
 
@@ -1046,7 +1118,8 @@ Manila? I have to take into consideration that this was in a foreign country.
 // Pos : 00008A9D
 #WRITE(PTR, $00004BB7)
 //「惚れた相手か゛マフィアに関係していたとはな…」
-"You fell in love with a woman who may or may not be in the Chinese mafia. The triads."
+"You fell in love with a woman who may or may\n
+not be in the Chinese mafia. The triads."
 <$00>
 
 
@@ -1055,7 +1128,8 @@ Manila? I have to take into consideration that this was in a foreign country.
 // Pos : 00008AE9
 #WRITE(PTR, $00004C25)
 //「彼らの実体はまた゛当局て゛もつかみきれていない」
-"The authorities won't help you help her."
+"The authorities won't help you help\n
+her."
 <$00>
 
 
@@ -1064,7 +1138,8 @@ Manila? I have to take into consideration that this was in a foreign country.
 // Pos : 00008B3C
 #WRITE(PTR, $00004CB9)
 //「その子のこともあきらめたほうか゛いいんし゛ゃないかな」
-"That begs the question, who's the better party to surrender your ladyfriend to?"
+"That begs the question, who's the better\n
+party to surrender your ladyfriend to?"
 <$00>
 
 
@@ -1091,7 +1166,8 @@ Manila? I have to take into consideration that this was in a foreign country.
 // Pos : 00008BE2
 #WRITE(PTR, $00004DE9)
 //「おまえか゛事件に巻き込まれるんし゛ゃないかってな」
-"The last thing you want is to get your hair caught in all this."
+"The last thing you want is to get your hair\n
+caught in all this."
 <$00>
 
 
@@ -1100,7 +1176,8 @@ Manila? I have to take into consideration that this was in a foreign country.
 // Pos : 00008C1F
 #WRITE(PTR, $00004E40)
 //「そうなってからし゛ゃおそいんた゛。いいか」
-"This hasn't been going on for very long, right? Listen."
+"This hasn't been going on for very long,\n
+right? Listen."
 <$00>
 
 
@@ -1118,7 +1195,9 @@ Manila? I have to take into consideration that this was in a foreign country.
 // Pos : 00008C9A
 #WRITE(PTR, $00004F7E)
 //『ひとます゛両親のもとへ戻ったほうか゛いいんし゛ゃないか、という義兄の言葉に』
-If I couldn't run to my parents about this, the least I could do was listen to my brother-in-law.
+If I couldn't run to my parents about this,\n
+the least I could do was listen to my\n
+brother-in-law.
 <$00>
 
 
@@ -1127,7 +1206,9 @@ If I couldn't run to my parents about this, the least I could do was listen to m
 // Pos : 00008CE1
 #WRITE(PTR, $00005018)
 //『信号待ちをしなか゛ら僕は、義兄に言われたことを考えている』
-Waiting for the traffic signal, I reflected on what my brother-in-law had told me.
+Waiting for the traffic signal, I\n
+reflected on what my brother-in-law had\n
+told me.
 <$00>
 
 
@@ -1163,7 +1244,8 @@ I could never do that to Maria.
 // Pos : 00008DE7
 #WRITE(PTR, $0000518C)
 //「そうか、おまえにも彼女か゛て゛きたか。あんなにおとなしかったおまえか゛なあ…」
-"From the picture, you two look like you get along. What's got you so shy?"
+"From the picture, you two look like you get\n
+along. What's got you so shy?"
 <$00>
 
 
@@ -1181,7 +1263,8 @@ I could never do that to Maria.
 // Pos : 00008E9F
 #WRITE(PTR, $00005333)
 //「う～ん、彼女か゛帰ってくるかと゛うかは」
-"Hmmm, I wonder if she will come back or not."
+"Hmmm, I wonder if she will come back or\n
+not."
 <$00>
 
 
@@ -1199,7 +1282,8 @@ I could never do that to Maria.
 // Pos : 00008F5C
 #WRITE(PTR, $000054A3)
 //「故国へ返してやりたいのか」
-"Does he want to take her back to their home country?"
+"Does he want to take her back to their home\n
+country?"
 <$00>
 
 
@@ -1208,7 +1292,8 @@ I could never do that to Maria.
 // Pos : 00008F97
 #WRITE(PTR, $00005511)
 //「あるいは組織の一員として利用するつもりなのか」
-"Or, will he force her to join the organization he's in?"
+"Or, will he force her to join the\n
+organization he's in?"
 <$00>
 
 
@@ -1226,7 +1311,8 @@ I could never do that to Maria.
 // Pos : 0000902A
 #WRITE(PTR, $0000561F)
 //「おれからはなんとも言えんな」
-"You probably considered this already, but..."
+"You probably considered this already,\n
+but..."
 <$00>
 
 
@@ -1235,7 +1321,8 @@ I could never do that to Maria.
 // Pos : 00009063
 #WRITE(PTR, $00005696)
 //「て゛もな、写真て゛みるかき゛りボーイとマリアは兄妹のようなものた゛ろう？」
-"I'd look at this photo. Maria and Boy almost look like family."
+"I'd look at this photo. Maria and Boy\n
+almost look like family."
 <$00>
 
 
@@ -1253,7 +1340,8 @@ I could never do that to Maria.
 // Pos : 000090FD
 #WRITE(PTR, $00005781)
 //「多分ボーイはマリアを悪いようにはしないた゛ろう」
-"See, I want to think he had no bad intentions for taking Maria."
+"See, I want to think he had no bad\n
+intentions for taking Maria."
 <$00>
 
 
@@ -1262,7 +1350,8 @@ I could never do that to Maria.
 // Pos : 00009153
 #WRITE(PTR, $00005815)
 //「おれか゛兄貴ならそうするな」
-"If I were her brother, I'd want to be noble for her."
+"If I were her brother, I'd want to be\n
+noble for her."
 <$00>
 
 
@@ -1271,7 +1360,9 @@ I could never do that to Maria.
 // Pos : 00009183
 #WRITE(PTR, $00005864)
 //「たた゛し、組織か゛この件に深く関わっているとなると…」
-"I can't say the same thing about this organization he's involved with, though."
+"I can't say the same thing about this\n
+organization he's involved with,\n
+though."
 <$00>
 
 
@@ -1289,7 +1380,8 @@ I could never do that to Maria.
 // Pos : 00009212
 #WRITE(PTR, $000059A9)
 //『あまり悪いほうに考えるな、という義兄の言葉に』
-Afterwards, he told me to stop hanging my head.
+Afterwards, he told me to stop hanging my\n
+head.
 <$00>
 
 
@@ -1298,7 +1390,8 @@ Afterwards, he told me to stop hanging my head.
 // Pos : 0000923E
 #WRITE(PTR, $000059E3)
 //『僕は丁寧にお礼を言って立ち上か゛った』
-I politely thanked him for the talk before we parted ways.
+I politely thanked him for the talk\n
+before we parted ways.
 <$00>
 
 
@@ -1316,7 +1409,8 @@ I politely thanked him for the talk before we parted ways.
 // Pos : 000092EC
 #WRITE(PTR, $00005B8C)
 //「彼女はおまえのもとに帰ってくるような気か゛するよ」
-"I have the feeling that she will come home to you."
+"I have the feeling that she will come\n
+home to you."
 <$00>
 
 
@@ -1343,7 +1437,8 @@ I politely thanked him for the talk before we parted ways.
 // Pos : 000093BD
 #WRITE(PTR, $00005D5F)
 //『義兄さんの言うとおりマリアは帰ってくるた゛ろうか…』
-My brother-in-law believed that Maria would come back to me.
+My brother-in-law believed that Maria\n
+would come back to me.
 <$00>
 
 
@@ -1361,7 +1456,8 @@ If so, all I could do was wait for a sign.
 // Pos : 00009485
 #WRITE(PTR, $00005EBF)
 //『部屋の電気か゛点いてる…？ もしかして！！』
-The light in my room is on? Does that mean...?!
+The light in my room is on? Does that\n
+mean...?!
 <$00>
 
 
@@ -1379,7 +1475,8 @@ The light in my room is on? Does that mean...?!
 // Pos : 00009550
 #WRITE(PTR, $00005FFB)
 //「マリア！！ 離さない、もう離すもんか！！」
-"Maria! Don't leave me again! I can't let you go!"
+"Maria! Don't leave me again! I can't let\n
+you go!"
 <$00>
 
 
@@ -1424,7 +1521,7 @@ Keep holding her
 // Pos : 000096D5
 #WRITE(PTR, $0000629A)
 //「ゴ、ゴメン、
-"I'm sorry, 
+"I'm sorry,
 <$00>
 
 
@@ -1433,7 +1530,7 @@ Keep holding her
 // Pos : 0000972E
 #WRITE(PTR, $00006311)
 //て゛も、ほら…
-but, look...
+\nbut, look...
 <$00>
 
 
@@ -1442,7 +1539,7 @@ but, look...
 // Pos : 0000976A
 #WRITE(PTR, $00006357)
 //あの、なんて言ったらいいのか…」
-I just don't know what to say!"
+\nI just don't know what to say!"
 <$00>
 
 
@@ -1505,7 +1602,7 @@ Maria pressed her lips against mine.
 // Pos : 00009975
 #WRITE(PTR, $00006705)
 //「ウン…
-"No. 
+"No.
 <$00>
 
 
@@ -1514,7 +1611,7 @@ Maria pressed her lips against mine.
 // Pos : 000099D6
 #WRITE(PTR, $00006786)
 //もうひとりし゛ゃないから…」
-I'm not alone anymore."
+\nI'm not alone anymore."
 <$00>
 
 
@@ -1523,7 +1620,8 @@ I'm not alone anymore."
 // Pos : 00009A03
 #WRITE(PTR, $000067E0)
 //『それ以上マリアの視線に耐えきれす゛、僕は明かりを消した』
-Before I could let Maria's gaze swallow me whole, I turned off the light.
+Before I could let Maria's gaze swallow me\n
+whole, I turned off the light.
 <$00>
 
 

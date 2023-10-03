@@ -106,7 +106,8 @@ No, no, no, no, nooo!
 #WRITE(PTR, $00002856)
 #WRITE(PTR, $00002B36)
 //「と、とにかく着替えた方か゛いいよ」
-Annnyways! Let's say we get you out of those wet clothes!
+Annnyways! Let's say we get you out of those\n
+wet clothes!
 <$00>
 
 
@@ -124,7 +125,8 @@ Huh...?
 // Pos : 00006297
 #WRITE(PTR, $000025B4)
 //『身体を隠すようにして僕をにらむなんて…』
-She concealed her body in a way that told me, "You're suspicious."
+She concealed her body in a way that told me,\n
+"You're suspicious."
 <$00>
 
 
@@ -142,7 +144,8 @@ Oh, geez.
 // Pos : 00006364
 #WRITE(PTR, $00002716)
 //「こ、これはね、悪い友達か゛置いていったものて゛…」
-Yeaaah, sorry. Some creepy friend left that. Nothing to see here!
+Yeaaah, sorry. Some creepy friend left\n
+that. Nothing to see here!
 <$00>
 
 
@@ -151,7 +154,8 @@ Yeaaah, sorry. Some creepy friend left that. Nothing to see here!
 // Pos : 0000638E
 #WRITE(PTR, $0000276E)
 //『た゛っ、ダメた゛！　言えは゛言うほと゛おかしくなる…』
-The heck sort of excuse was that?! I must look even creepier!
+The heck sort of excuse was that?! I must\n
+look even creepier!
 <$00>
 
 
@@ -178,7 +182,8 @@ Avert! Avert thine eyes!
 // Pos : 00006472
 #WRITE(PTR, $0000299B)
 //「た゛っ、た゛からさ、これは僕の友達に佐藤ってやつか゛いて、そいつか゛置いてったもんて゛…」
-"The mags are Satoh's. That miscreant lives and breathes off the stuff."
+"The mags are Satoh's. That miscreant\n
+lives and breathes off the stuff."
 <$00>
 
 
@@ -196,7 +201,8 @@ Avert! Avert thine eyes!
 // Pos : 000064FA
 #WRITE(PTR, $00002A53)
 //「ということはつまり、言えは゛言うほと゛僕は泥沼にはまっちゃうわけて゛…」
-"I'm as, uhm, innocent a bystander as they come, a-yup..."
+"I'm as, uhm, innocent a bystander as they\n
+come, a-yup..."
 <$00>
 
 
@@ -259,7 +265,8 @@ By the time I woke up, she was long gone.
 // Pos : 00006708
 #WRITE(PTR, $00002E6C)
 //『左の頬か゛ズキンと痛んた゛…』
-My sore left cheek throbbed all the while.
+My sore left cheek throbbed all the\n
+while.
 <$00>
 
 
@@ -268,7 +275,8 @@ My sore left cheek throbbed all the while.
 // Pos : 0000672C
 #WRITE(PTR, $00002EA6)
 //『あの時僕は…』
-I couldn't help but ask myself one thing...
+I couldn't help but ask myself one\n
+thing...
 <$00>
 
 
@@ -277,7 +285,8 @@ I couldn't help but ask myself one thing...
 // Pos : 00006744
 #WRITE(PTR, $00002EE0)
 //『たふ゛んこんなことを言ったんた゛と思う…』
-"What the hell did you say to her last night?"
+"What the hell did you say to her last\n
+night?"
 <$00>
 
 
@@ -286,7 +295,8 @@ I couldn't help but ask myself one thing...
 // Pos : 000067C7
 #WRITE(PTR, $00002FC7)
 //「くしゃみしてたね。寒いんし゛ゃないの？」
-"Did you sneeze? You're not catching a cold, are you?"
+"Did you sneeze? You're not catching a cold,\n
+are you?"
 <$00>
 
 
@@ -304,7 +314,8 @@ I couldn't help but ask myself one thing...
 // Pos : 0000684D
 #WRITE(PTR, $000030A6)
 //「僕も君も服か゛ひ゛しょぬれた゛。早いとこ脱いた゛ほうか゛いいよ」
-"We're both pretty soaked from the rain. We should change clothes."
+"We're both pretty soaked from the rain.\n
+We should change clothes."
 <$00>
 
 
@@ -322,7 +333,8 @@ I couldn't help but ask myself one thing...
 // Pos : 000068BF
 #WRITE(PTR, $0000315E)
 //「寒い夜た゛からふたりて゛身体を温めあおう」
-"It's awfully cold tonight. We should warm eachother with our bodies."
+"It's awfully cold tonight. We should\n
+warm eachother with our bodies."
 <$00>
 
 
@@ -358,7 +370,8 @@ I'm sorry! I'm sorry!
 // Pos : 00006A0F
 #WRITE(PTR, $0000344A)
 //「ウ～～ン、叱ってあけ゛たいところた゛けと゛、まあ許してあけ゛る」
-"Hmph! You had that one coming, but I'll give you another chance."
+"Hmph! You had that one coming, but I'll\n
+give you another chance."
 <$00>
 
 
@@ -376,7 +389,8 @@ I'm sorry! I'm sorry!
 // Pos : 00006AB3
 #WRITE(PTR, $00003524)
 //「し゛ゃあね。また会いましょう」
-"I have to go now, but let's meet again sometime!"
+"I have to go now, but let's meet again\n
+sometime!"
 <$00>
 
 
@@ -385,7 +399,8 @@ I'm sorry! I'm sorry!
 // Pos : 00006AD0
 #WRITE(PTR, $000035CD)
 //『しまった、あいつか゛置いていった雑誌か゛出しっは゜なした゛！！』
-Oh, man. Satoh WOULD leave those out in the open, wouldn't he!
+Oh, man. Satoh WOULD leave those out in the\n
+open, wouldn't he!
 <$00>
 
 
@@ -430,7 +445,8 @@ Let this play out
 // Pos : 00006BD6
 #WRITE(PTR, $0000372D)
 //「ほら！ すこ゛いて゛しょう！」
-"Check this out! Who knew the human body could do that?"
+"Check this out! Who knew the human body\n
+could do that?"
 <$00>
 
 
@@ -466,7 +482,8 @@ Let this play out
 // Pos : 00006C8C
 #WRITE(PTR, $000038B3)
 //「し゛ゃっ、し゛ゃあこっちなんかもっとすこ゛いんた゛よ。ホラ、ホラホラ…」
-"And those're just the nips of the iceburg, hehe. Now, look at THESE..." 
+"And those're just the nips of the\n
+iceburg, hehe. Now, look at THESE..."
 <$00>
 
 
@@ -493,7 +510,8 @@ Ah. The hubris of mine youth...
 // Pos : 00006D41
 #WRITE(PTR, $00003B22)
 //「しょうか゛ないのかな。アナタ少し酔ってたみたいた゛し…」
-"What else was I supposed to do?! You should have sobered up sooner."
+"What else was I supposed to do?! You should\n
+have sobered up sooner."
 <$00>
 
 
@@ -502,7 +520,8 @@ Ah. The hubris of mine youth...
 // Pos : 00006D96
 #WRITE(PTR, $00003BD3)
 //「それにもうす゛いふ゛んたくさんプレイしてくれたんて゛しょ？」
-"You don't prey on girls all the time, do you?"
+"You don't prey on girls all the time, do\n
+you?"
 <$00>
 
 
@@ -511,7 +530,8 @@ Ah. The hubris of mine youth...
 // Pos : 00006DD7
 #WRITE(PTR, $00003C2A)
 //「ホントにありか゛とう。またネ」
-"Thanks for helping me out of the rain. See you around!"
+"Thanks for helping me out of the rain. See\n
+you around!"
 <$00>
 
 
@@ -520,7 +540,8 @@ Ah. The hubris of mine youth...
 // Pos : 00006E0A
 #WRITE(PTR, $00003D11)
 //『わあ、不安そうな顔してる…。軽蔑されちゃったかな…』
-She looks absolutely done with me... She must be disgusted!
+She looks absolutely done with me... She\n
+must be disgusted!
 <$00>
 
 
@@ -529,7 +550,8 @@ She looks absolutely done with me... She must be disgusted!
 // Pos : 00006E54
 #WRITE(PTR, $00003DE2)
 //「こっ、これ…。風邪ひかないように早く着替えた方か゛いいよ」
-Here. You should change... before you catch cold."
+Here. You should change... before you\n
+catch cold."
 <$00>
 
 
@@ -538,7 +560,8 @@ Here. You should change... before you catch cold."
 // Pos : 00006ED1
 #WRITE(PTR, $00003ED1)
 //「な、なにか僕、あったかいものて゛も買ってくるからさ」
-"I'll run to the store to buy you something warmer."
+"I'll run to the store to buy you something\n
+warmer."
 <$00>
 
 
@@ -556,7 +579,8 @@ Here. You should change... before you catch cold."
 // Pos : 00006F3A
 #WRITE(PTR, $00003F99)
 //「た゛から今のうちに着替えておいてね」
-"You must want some privacy right now, huh."
+"You must want some privacy right now,\n
+huh."
 <$00>
 
 
@@ -574,7 +598,8 @@ Here. You should change... before you catch cold."
 // Pos : 00006FD1
 #WRITE(PTR, $000040FD)
 //『傘はないし、全財産は５６０円た゛し…
-I didn't even bring an umbrella. All I had on me was 560 yen.
+I didn't even bring an umbrella. All I had\n
+on me was 560 yen.
 <$00>
 
 
@@ -583,7 +608,7 @@ I didn't even bring an umbrella. All I had on me was 560 yen.
 // Pos : 00007001
 #WRITE(PTR, $00004132)
 //まっ、いいか』
-I wanted to make this quick.
+\nI wanted to make this quick.
 <$00>
 
 
@@ -611,7 +636,8 @@ Should I grab coffee?
 // Pos : 000070EA
 #WRITE(PTR, $00004309)
 //『そういえは゛額をケガしてたよな…』
-Oh, yeah. She also had that cut on her forehead.
+Oh, yeah. She also had that cut on her\n
+forehead.
 <$00>
 
 
@@ -638,7 +664,8 @@ D1Police Officer's Voice
 // Pos : 0000715E
 #WRITE(PTR, $000043BA)
 //「それて゛は何かありましたら、よろしくお願いします」
-"Thank you. If you see anything, give us a call."
+"Thank you. If you see anything, give us a\n
+call."
 <$00>
 
 
@@ -728,7 +755,8 @@ What are you... doing in there?!
 // Pos : 00007541
 #WRITE(PTR, $00004B30)
 //「ホントに風邪ひいちゃうよ。早く着か゛えたら？」
-"Do you want to catch cold?! Why didn't you get dressed sooner?"
+"Do you want to catch cold?! Why didn't you\n
+get dressed sooner?"
 <$00>
 
 
@@ -758,7 +786,8 @@ The air was freezing.
 #WRITE(PTR, $00004D11)
 #WRITE(PTR, $00004EDC)
 //『彼女、名前は確かマリアって言ってたよな』
-This woman clearly stated that her name was Maria.
+This woman clearly stated that her name\n
+was Maria.
 <$00>
 
 
@@ -767,7 +796,8 @@ This woman clearly stated that her name was Maria.
 // Pos : 0000768E
 #WRITE(PTR, $00004D4B)
 //『トイレに隠れなくちゃならないほと゛おひ゛えているなんて…』
-Maria hid inside of the bathroom. She was that scared.
+Maria hid inside of the bathroom. She was\n
+that scared.
 <$00>
 
 
@@ -776,7 +806,8 @@ Maria hid inside of the bathroom. She was that scared.
 // Pos : 000076BE
 #WRITE(PTR, $00004D85)
 //『やっは゜り警察に追われているんた゛ろうか？』
-She really is wanted by the police, isn't she.
+She really is wanted by the police, isn't\n
+she.
 <$00>
 
 
@@ -984,7 +1015,8 @@ RED ALERT!
 // Pos : 00007F34
 #WRITE(PTR, $00005B42)
 //『その後、気ます゛くなった僕は早々と布団を敷き、電気も消さす゛に横になった…』
-I curled up on the futon with nary a word after turning out the overhead light.
+I curled up on the futon with nary a word\n
+after turning out the overhead light.
 <$00>
 
 
@@ -993,7 +1025,8 @@ I curled up on the futon with nary a word after turning out the overhead light.
 // Pos : 00007F8F
 #WRITE(PTR, $00005C30)
 //『朝、目を覚ますとテレビの横には誰もいない』
-When I woke up that morning, no one was sitting next to the TV.
+When I woke up that morning, no one was\n
+sitting next to the TV.
 <$00>
 
 
@@ -1011,7 +1044,9 @@ It was as natural an outcome as any.
 // Pos : 00008004
 #WRITE(PTR, $00005CB4)
 //『おひ゛えてトイレに隠れるような彼女を、さらに傷つけてしまったんた゛から…』
-She was so terrified already, to be hiding in a bathroom. All I did was scare her more.
+She was so terrified already, to be hiding\n
+in a bathroom. All I did was scare her\n
+more.
 <$00>
 
 
@@ -1029,7 +1064,8 @@ Boy, did I blow it.
 // Pos : 00008076
 #WRITE(PTR, $00005D30)
 //『僕は深いため息とともに、大きく肩を落とした』
-I heaved a heavy sigh and slunked my heavy shoulders.
+I heaved a heavy sigh and slunked my heavy\n
+shoulders.
 <$00>
 
 

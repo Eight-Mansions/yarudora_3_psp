@@ -103,7 +103,8 @@ Instead, I let time pass us by in silence.
 // Pos : 000033A6
 #WRITE(PTR, $000025BD)
 //『マリアは目をいっは゜いに見開いて、おひ゛えた子猫のような顔をしている……』
-Maria's eyes went wide, like those of a small kitten, frightened by the world.
+Maria's eyes went wide, like those of a\n
+small kitten, frightened by the world.
 <$00>
 
 
@@ -130,7 +131,8 @@ I knew why.
 // Pos : 000034B1
 #WRITE(PTR, $0000272D)
 //『自分か゛何者かもわからないし、僕にも心を許してないんた゛もの…』
-Maria didn't remember who she was, and now, she was in a room with a stranger.
+Maria didn't remember who she was, and\n
+now, she was in a room with a stranger.
 <$00>
 
 
@@ -139,7 +141,8 @@ Maria didn't remember who she was, and now, she was in a room with a stranger.
 // Pos : 000034E6
 #WRITE(PTR, $00002767)
 //『そんな状態て゛暗闇の中にいるのは耐えられないのた゛ろう…』
-Were I in her shoes, I'd want to keep the light on too.
+Were I in her shoes, I'd want to keep the\n
+light on too.
 <$00>
 
 
@@ -193,7 +196,8 @@ I sleep in the dark!
 // Pos : 000035E5
 #WRITE(PTR, $000028C9)
 //「て゛も、消さないと僕は眠れないんた゛」
-"Listen, I sleep in the dark! The light needs to go off."
+"Listen, I sleep in the dark! The light\n
+needs to go off."
 <$00>
 
 
@@ -292,7 +296,8 @@ Let your eyes adjust!
 // Pos : 00003814
 #WRITE(PTR, $00002DC5)
 //『僕は電気を消さす゛に畳の上て゛横になった…』
-I curled up on the tatami mat and turned out the overhead light.
+I curled up on the tatami mat and turned out\n
+the overhead light.
 <$00>
 
 

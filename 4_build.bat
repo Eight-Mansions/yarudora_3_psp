@@ -1,19 +1,16 @@
 del error.txt
 
-del cd\yarudora_3.iso
-REM copy cd\orig\yarudora_3.iso cd\yarudora_3.iso
-
 del exe\EBOOT.BIN
 copy exe\EBOOT.BIN.ORIG exe\UCJS10014.BIN
 
 tools\armips code\exe.asm
 
-REM echo trans\00304FB0.txt >> error.txt
-REM tools\atlas exe\UCJS10014.BIN trans\00304FB0.txt >> error.txt
-REM echo trans\exe_emb.txt >> error.txt
-REM tools\atlas exe\UCJS10014.BIN trans\exe_emb.txt >> error.txt
-REM echo trans\exe_menu_options.txt >> error.txt
-REM tools\atlas exe\UCJS10014.BIN trans\exe_menu_options.txt >> error.txt
+echo trans\00304FB0.txt >> error.txt
+tools\atlas exe\UCJS10014.BIN trans\00304FB0.txt >> error.txt
+echo trans\exe_emb.txt >> error.txt
+tools\atlas exe\UCJS10014.BIN trans\exe_emb.txt >> error.txt
+echo trans\exe_menu_options.txt >> error.txt
+tools\atlas exe\UCJS10014.BIN trans\exe_menu_options.txt >> error.txt
 
 tools\sign_np-v1.0.4-windows-x86_x64.exe -elf exe\UCJS10014.BIN exe\EBOOT.BIN 02
 
@@ -105,4 +102,5 @@ xcopy graphics\data\*.arc cd\yarudora_3\PSP_GAME\USRDIR\data\* /Y
 
 xcopy ins\* cd\yarudora_3\PSP_GAME\USRDIR\data\IGX003\* /Y /s
 
+del cd\yarudora_3.iso
 tools\mkisofs -iso-level 4 -xa -A "PSP GAME" -V "SAMPAGUITA" -sysid "PSP GAME" -volset "" -p "" -publisher "" -o cd/yarudora_3.iso cd/yarudora_3

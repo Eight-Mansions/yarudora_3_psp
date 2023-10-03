@@ -1,0 +1,797 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#VAR(APTR, CUSTOMPOINTER)
+#VAR(BPTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", $00005010, 16)
+#CREATEPTR(APTR, "LINEAR", $00000000, 32)
+#CREATEPTR(BPTR, "LINEAR", $00000030, 32)
+#JMP(-1)
+
+// 00000187
+// Pos : 00005197
+#WRITE(PTR, $00001F80)
+//『あれは…！？』
+What was that?!
+<$00>
+
+
+
+// 000001B5
+// Pos : 000051C5
+#WRITE(PTR, $00001FD4)
+//『マリアた゛！！』
+It was Maria!
+<$00>
+
+
+
+// 00000240
+// Pos : 00005250
+#WRITE(PTR, $000020D1)
+//『マリア！！…ああマリア！！』
+Maria! Oh, no! Maria!
+<$00>
+
+
+
+// 000002A1
+// Pos : 000052B1
+#WRITE(PTR, $000021A3)
+//『しゃか゛みこんた゛僕たちの背に』
+We fell to our knees.
+<$00>
+
+
+
+// 000002C1
+// Pos : 000052D1
+#WRITE(PTR, $000021DD)
+//『パトカーのサイレンか゛幾つにも幾つにも重なって近つ゛いてきた』
+Behind us, police sirens blared as police officers piled onto the scene.
+<$00>
+
+
+
+// 0000036E
+// Pos : 0000537E
+#WRITE(PTR, $0000230D)
+#WRITE(PTR, $0000238E)
+//D1刑事
+D1Detective
+<$00>
+
+
+
+// 00000375
+// Pos : 00005385
+#WRITE(PTR, $00002318)
+//「と゛うもこ゛協力ありか゛とうこ゛さ゛いました。なにかありましたらこ゛連絡くた゛さい」
+"Thank you for your cooperation. If you have anything else, don't hesitate to contact me."
+<$00>
+
+
+
+// 000003D6
+// Pos : 000053E6
+#WRITE(PTR, $00002399)
+//「て゛は…」
+"Good day."
+<$00>
+
+
+
+// 00000412
+// Pos : 00005422
+#WRITE(PTR, $00002437)
+//『僕は、なんた゛か急に広くなった室内をなか゛めて、力なく腰を下ろした』
+I stepped into the apartment and sat down. The room felt so... empty to me now.
+<$00>
+
+
+
+// 0000044A
+// Pos : 0000545A
+#WRITE(PTR, $00002478)
+//『警察の人か゛、マリアの持ち物を全部持っていったのた゛…』
+A police officer came and confiscated all of Maria's belongings.
+<$00>
+
+
+
+// 000004B3
+// Pos : 000054C3
+#WRITE(PTR, $000024FA)
+//『ひとつた゛け渡さなかったものか゛ある』
+That said, there was one thing I refused to hand over.
+<$00>
+
+
+
+// 000004EB
+// Pos : 000054FB
+#WRITE(PTR, $0000253C)
+//『て゛も、た゛からといってそれて゛と゛うなるものて゛もない…』
+Not that it changed anything...
+<$00>
+
+
+
+// 0000055E
+// Pos : 0000556E
+#WRITE(PTR, $00002621)
+//『寒さを増してきた街は、クリスマスの準備て゛慌たた゛しい』
+The closer Christmas had come over the town, the colder it all felt.
+<$00>
+
+
+
+// 00000589
+// Pos : 00005599
+#WRITE(PTR, $00002644)
+//『僕は新聞社の下の喫茶店から出てきたは゛かりた゛』
+I just stepped out of a coffee shop based downstairs from a newspaper company.
+<$00>
+
+
+
+// 000005EE
+// Pos : 000055FE
+#WRITE(PTR, $000026C2)
+//『記者をやっている義兄に会うのは、し゛つに５年ふ゛りた゛った』
+It had been five years since I last heard from my brother-in-law, who had become a reporter.
+<$00>
+
+
+
+// 00000621
+// Pos : 00005631
+#WRITE(PTR, $000026FC)
+//『その義兄か゛警視庁の知り合いに頼んて゛その後を聞いてきてくれたのた゛』
+He had called an acquaintance of his in the Metropolitan Police Department for details on the incident.
+<$00>
+
+
+
+// 0000065C
+// Pos : 0000566C
+#WRITE(PTR, $00002738)
+//『義兄か゛警視庁の知り合いに頼んて゛その後を聞いてきてくれたのた゛』
+My brother-in-law called an acquaintance of his in the Metropolitan Police Department for details on the incident.
+<$00>
+
+
+
+// 000006C8
+// Pos : 000056D8
+#WRITE(PTR, $0000279E)
+#WRITE(PTR, $0000281B)
+#WRITE(PTR, $000028A3)
+#WRITE(PTR, $000028FA)
+#WRITE(PTR, $000029A1)
+#WRITE(PTR, $00002B35)
+#WRITE(PTR, $000031B6)
+//D1水島
+D1Mizushima
+<$00>
+
+
+
+// 000006CF
+// Pos : 000056DF
+#WRITE(PTR, $000027A9)
+//「結局はなわ張りと、麻薬の利権に関する争いた゛な」
+"Ultimately, the conflict had stemmed from a terf war. A dispute over narcotics."
+<$00>
+
+
+
+// 00000742
+// Pos : 00005752
+#WRITE(PTR, $00002826)
+//「ボーイというフィリピン人はと゛うやら死んて゛しまったらしい…」
+"A Filipino man named Boy was found dead at the scene."
+<$00>
+
+
+
+// 000007D2
+// Pos : 000057E2
+#WRITE(PTR, $000028AE)
+//「それと、おまえの言ってたマリアという女性」
+"Then, there's the woman you know. Maria."
+<$00>
+
+
+
+// 0000080C
+// Pos : 0000581C
+#WRITE(PTR, $00002905)
+//「彼女は事件に直接関わりか゛なかったとして、強制送還になったそうた゛」　　　　　　
+"While she had criminal involvement with the incident, she was forcibly repatriated to her home country."
+<$00>
+
+
+
+// 000008B7
+// Pos : 000058C7
+#WRITE(PTR, $000029AC)
+//「まあ、俺か゛知ってるのはここまて゛た゛な」
+"That's all I know."
+<$00>
+
+
+
+// 0000098B
+// Pos : 0000599B
+#WRITE(PTR, $00002B40)
+//「と゛うするんた゛、これから…？」
+"What's your next move?"
+<$00>
+
+
+
+// 000009DC
+// Pos : 000059EC
+#WRITE(PTR, $00002BD8)
+//『本当にと゛うしよう…』
+I didn't know how to answer.
+<$00>
+
+
+
+// 000009F8
+// Pos : 00005A08
+#WRITE(PTR, $00002C40)
+//『ボーイか゛死んた゛…』
+Boy's dead.
+<$00>
+
+
+
+// 00000A0B
+// Pos : 00005A1B
+#WRITE(PTR, $00002C63)
+//『そしてマリアはもう日本にはいない…』
+Maria's gone from Japan.
+<$00>
+
+
+
+// 00000A31
+// Pos : 00005A41
+#WRITE(PTR, $00002C9F)
+//『僕は鉛色の空を仰いて゛、大きくため息をついた』
+I stared up into the grey skies and sighed heavily.
+<$00>
+
+
+
+// 00000A73
+// Pos : 00005A83
+#WRITE(PTR, $00002CF9)
+//『アパートて゛は、誰もいない部屋か゛待っている』
+There's no one waiting for me at my apartment.
+<$00>
+
+
+
+// 00000ABF
+// Pos : 00005ACF
+#WRITE(PTR, $00002D6B)
+//『？』
+?
+<$00>
+
+
+
+// 00000B33
+// Pos : 00005B43
+#WRITE(PTR, $00002E04)
+#WRITE(PTR, $00002E6C)
+//D1女性の声
+D1Female Voice
+<$00>
+
+
+
+// 00000B3D
+// Pos : 00005B4D
+#WRITE(PTR, $00002E0F)
+//「こちら航空券販売サービスの予約課て゛す。予約の確認をさせていたた゛きます」
+"This is the Airline Ticketing Service. We're calling to confirm your flight reservation.."
+<$00>
+
+
+
+// 00000B9A
+// Pos : 00005BAA
+#WRITE(PTR, $00002E77)
+//「マリア・サントス様、戻りましたら予約担当の河田まて゛こ゛連絡くた゛さい」
+"Thank you, Ms. Maria Santos. To reserve your return flight, please contact reservation agent Kawada. Thank you."
+<$00>
+
+
+
+// 00000BDB
+// Pos : 00005BEB
+#WRITE(PTR, $00002ECB)
+//『マリアあてのメッセージを聞き終えたあと、僕の中に自分て゛も信し゛られないほと゛大胆な考えか゛浮かんた゛』
+Hearing that message for Maria struck me with an idea so bold, I could hardly contain myself.
+<$00>
+
+
+
+// 00000CB2
+// Pos : 00005CC2
+#WRITE(PTR, $0000302E)
+//『１２月２４日、クリスマス・イブ』
+December 24th, Christmas Eve...
+<$00>
+
+
+
+// 00000CDD
+// Pos : 00005CED
+#WRITE(PTR, $00003068)
+//『僕はマニラのニノイアキノ国際空港に降り立った』
+Guess who had landed at the Ninoy Aquino International Airport?
+<$00>
+
+
+
+// 00000D12
+// Pos : 00005D22
+#WRITE(PTR, $000030A2)
+//『＜マリア＞と入っていた予約を、僕の名前に振り替えてもらったのた゛』
+I'd called to get Maria's flight reservation transferred over in my name.
+<$00>
+
+
+
+// 00000D80
+// Pos : 00005D90
+#WRITE(PTR, $00003148)
+//D1同僚
+D1Associate
+<$00>
+
+
+
+// 00000D87
+// Pos : 00005D97
+#WRITE(PTR, $00003153)
+//「水島さん、エア・メールて゛すよ」
+"Mizushima. Airmail."
+<$00>
+
+
+
+// 00000DC6
+// Pos : 00005DD6
+#WRITE(PTR, $000031C1)
+//「おう」
+"Oh?"
+<$00>
+
+
+
+// 00000DEB
+// Pos : 00005DFB
+#WRITE(PTR, $0000322A)
+//『年か゛あけて１月のある日』
+One fine day in January, at the start of the new year.
+<$00>
+
+
+
+// 00000E0A
+// Pos : 00005E1A
+#WRITE(PTR, $00003264)
+//『新聞社につとめる義兄のところへマニラからの手紙か゛届く』
+My brother-in-law, who works for a newspaper company, had received a letter.
+<$00>
+
+
+
+// 00000E3F
+// Pos : 00005E4F
+#WRITE(PTR, $0000329E)
+//『僕からの手紙た゛』
+A letter from yours truly.
+<$00>
+
+
+
+// 00000E81
+// Pos : 00005E91
+#WRITE(PTR, $000032F9)
+//『無事にマニラに着いたことの報告』
+I had wanted to tell him of my safe landing in Manila:
+<$00>
+
+
+
+// 00000EBA
+// Pos : 00005ECA
+#WRITE(PTR, $0000333B)
+//『て゛も、すく゛に空港から送ってくれるという$フィリピン人の二人組にた゛まされて』
+The second I got here, two Filipino men came to escort me out of the airport.
+<$00>
+
+
+
+// 00000EFC
+// Pos : 00005F0C
+#WRITE(PTR, $00003375)
+//『パスポートから、現金から、なにからなにまて゛』
+But then... they robbed me out of everything!
+<$00>
+
+
+
+// 00000F27
+// Pos : 00005F37
+#WRITE(PTR, $000033AF)
+//『た゛まし取られてしまった事』
+They took my passport, my money, the WORKS!
+<$00>
+
+
+
+// 00000F5B
+// Pos : 00005F6B
+#WRITE(PTR, $000033F1)
+//『そして…』
+And then...
+<$00>
+
+
+
+// 0000100D
+// Pos : 0000601D
+#WRITE(PTR, $000034FF)
+//『降ろされたのは海沿いの広い公園て゛す』
+They dropped me off at this huge public park along the ocean coast.
+<$00>
+
+
+
+// 000010AA
+// Pos : 000060BA
+#WRITE(PTR, $00003606)
+//『言葉も通し゛ない見知らぬ国て゛、何もかも無くして途方に暮れていた僕に』
+Knowing I can't speak a lick of the language here, I was at a complete loss.
+<$00>
+
+
+
+// 000010FA
+// Pos : 0000610A
+#WRITE(PTR, $00003669)
+//『近くて゛寝そへ゛っていた浮浪者風の男達か゛、$話しかけてきました』
+Still, I tried striking a conversation with a few homeless-looking guys sitting nearby.
+<$00>
+
+
+
+// 0000115B
+// Pos : 0000616B
+#WRITE(PTR, $000036D4)
+//『身ふ゛り手ふ゛りて゛持ち物を盗られてしまった事、たった一枚残った写真を見せ』
+I used hand gestures to explain what happened to me, and that all I had to show for myself was this one, single photograph.
+<$00>
+
+
+
+// 000011E4
+// Pos : 000061F4
+#WRITE(PTR, $0000377B)
+//『写真の場所まて゛行きたいんた゛か゛、と言っても通し゛るはす゛はなく』
+There was a place in the photo that I wanted to go to, but I had no clear way of explaining that to them.
+<$00>
+
+
+
+// 0000122E
+// Pos : 0000623E
+#WRITE(PTR, $000037BA)
+//『トンドまて゛行きたいんた゛か゛、と言っても通し゛るはす゛はなく』
+I wanted to go to Tondo, but I had no clear way of explaining that to them.
+<$00>
+
+
+
+// 0000128B
+// Pos : 0000629B
+#WRITE(PTR, $00003825)
+//『諦めて僕はバハラ・ナ…か、とつふ゛やきます』
+Just as I'd given up, I muttered, "bahala na," to myself.
+<$00>
+
+
+
+// 0000138D
+// Pos : 0000639D
+#WRITE(PTR, $000039F9)
+//『すると、途端に彼らは大笑いして』
+And that's when the men cracked up at me!
+<$00>
+
+
+
+// 000013E3
+// Pos : 000063F3
+#WRITE(PTR, $00003A95)
+//『道ゆく人や、あたりに向かってカンパを募ってくれたんて゛す』
+The men went and asked for other people to hear me out.
+<$00>
+
+
+
+// 000014BE
+// Pos : 000064CE
+#WRITE(PTR, $00003C01)
+//『義兄さん、マリアはまた゛見つけられないけれと゛…』
+Hideo, I still haven't found Maria.
+<$00>
+
+
+
+// 000014FF
+// Pos : 0000650F
+#WRITE(PTR, $00003C64)
+//『て゛も、僕の心の中は不思議と晴れやかて゛す』
+But I still keep the miracles and the sunshine in my heart.
+<$00>
+
+
+
+// 0000153D
+// Pos : 0000654D
+#WRITE(PTR, $00003CC7)
+//『きっとマリアに再会て゛きる。そんな予感か゛するんて゛す』
+I'm certain I'll find Maria! I can see it already!
+<$00>
+
+
+
+// 00001581
+// Pos : 00006591
+#WRITE(PTR, $00003D2A)
+//『彼女に会えたらまた書きます』
+I'll write you again the moment I do."
+<$00>
+
+
+
+// 000015B4
+// Pos : 000065C4
+#WRITE(PTR, $00003D8D)
+//『義兄さんの好きた゛った南の国の青い空の下から…』
+Here, beneath the blue skies of the country you adored so much.
+<$00>
+
+
+
+// 00001636
+// Pos : 00006646
+#WRITE(PTR, $00003E7E)
+//『そして、僕は彼らと一緒に、あの派手なジプニーという乗り物に乗って』
+We were all invited to hitch a ride on this flashy bus called a "jeepney".
+<$00>
+
+
+
+// 0000169A
+// Pos : 000066AA
+#WRITE(PTR, $00003EE9)
+//『やっとの事て゛トンド地区まて゛辿り着けました』
+Then, at long last, I found myself in the Tondo district.
+<$00>
+
+
+
+// 0000175D
+// Pos : 0000676D
+#WRITE(PTR, $0000401C)
+//『それからか゛すこ゛かったんて゛す』
+Things got wild after that...
+<$00>
+
+
+
+// 0000178F
+// Pos : 0000679F
+#WRITE(PTR, $0000407F)
+//『僕、いや彼らの話を聞いて、信し゛られないくらいの人々か゛集まってきて』
+Now, I've heard stories about this, but I couldn't believe just how big the crowds were!
+<$00>
+
+
+
+// 000017F1
+// Pos : 00006801
+#WRITE(PTR, $000040F6)
+//『そう、百人以上はいたんし゛ゃないかな。みんな一生懸命あちこちに連絡して…』
+I get it. With well over a hundred people, everyone has to make a living somehow.
+<$00>
+
+
+
+// 0000190B
+// Pos : 0000691B
+#WRITE(PTR, $000042D1)
+//『歓声か゛上か゛り、人垣か゛割れました』
+With loud cheers all around, the massive crowd had split itself down the middle.
+<$00>
+
+
+
+// 0000195B
+// Pos : 0000696B
+#WRITE(PTR, $00004344)
+//『そして、そして…』
+And then... And then...!
+<$00>
+
+
+
+// 000019FE
+// Pos : 00006A0E
+#WRITE(PTR, $00004464)
+//『息を切らして走ってきたんて゛す』
+With the wind knocked out of me, I ran.
+<$00>
+
+
+
+// 00001A28
+// Pos : 00006A38
+#WRITE(PTR, $000044B0)
+//『あの…』
+It...
+<$00>
+
+
+
+// 00001A44
+// Pos : 00006A54
+#WRITE(PTR, $000044FC)
+//『あのマリアか゛』
+It was Maria!
+<$00>
+
+
+
+// 00001AB5
+// Pos : 00006AC5
+#WRITE(PTR, $00004606)
+//『その夜、僕たちはマリアか゛ブン・ナ・ブンと言っていた夜の遊園地へ行きました』
+That night, we went to the Boon Na Boon Amusement Park that Maria once told me about.
+<$00>
+
+
+
+// 00001BAF
+// Pos : 00006BBF
+#WRITE(PTR, $000047A1)
+//『義兄さん、マニラのクリスマスの夜は街中か゛イルミネーションにおおわれて、それはそれはきれいて゛す』
+Let me tell you, Manila is coated in lights over Christmas, and it's... It's just beautiful.
+<$00>
+
+
+
+// 00001C40
+// Pos : 00006C50
+#WRITE(PTR, $00004817)
+//『それはまるて゛この国の人たちの心のようて゛す』
+Beautiful, like the hearts of all the people here.
+<$00>
+
+
+
+// 00001CE1
+// Pos : 00006CF1
+#WRITE(PTR, $00004986)
+//『そして大晦日、街中を賑わせる花火の音と光』
+And on New Year's Eve, the sounds and lights coming from the fireworks also fill the city.
+<$00>
+
+
+
+// 00001D0E
+// Pos : 00006D1E
+#WRITE(PTR, $000049C7)
+//『そのすこ゛さは煙て゛月か゛かすむ程て゛す』
+The smoke gets so thick, it'll even obscure the moon!
+<$00>
+
+
+
+// 00001DC2
+// Pos : 00006DD2
+#WRITE(PTR, $00004B6A)
+#WRITE(PTR, $00004CC2)
+//『義兄さん』
+Hideo...
+<$00>
+
+
+
+// 00001DD5
+// Pos : 00006DE5
+#WRITE(PTR, $00004BA3)
+//『僕はしは゛らくこの国にいようと思います』
+I've chosen to stay in the Philippines.
+<$00>
+
+
+
+// 00001DF8
+// Pos : 00006E08
+#WRITE(PTR, $00004BDC)
+//『人間なんて、人種なんて』
+Humanity, race...
+<$00>
+
+
+
+// 00001E14
+// Pos : 00006E24
+#WRITE(PTR, $00004C15)
+//『社会的地位や学歴、お金』
+social status, academic background, wealth...
+<$00>
+
+
+
+// 00001E34
+// Pos : 00006E44
+#WRITE(PTR, $00004C4E)
+//『そんなものか゛と゛れほと゛価値か゛あるのか、いま疑問に思っています』
+I wonder now, how valuable those things actually are.
+<$00>
+
+
+
+// 00001E67
+// Pos : 00006E77
+#WRITE(PTR, $00004C88)
+//『そんなものより、僕にはマリアの宝石のような笑顔か゛一番て゛す』
+More than anything else, I value Maria's precious, gem-like smile the very most.
+<$00>
+
+
+
+// 00001EA4
+// Pos : 00006EB4
+#WRITE(PTR, $00004CFC)
+//『義兄さんから姉を通し゛て、母さんの方へよろしく伝えて下さい』
+As my brother-in-law, would you mind sending my love to Mom and Sis for me?
+<$00>
+
+
+
+// 00001F77
+// Pos : 00006F87
+#WRITE(PTR, $00004E5B)
+//『さようなら、落ちついたらまた書きます』
+I'll wrap this up for now, but I'll write again once we settle down.
+<$00>
+
+
+
+// 00001FAD
+// Pos : 00006FBD
+#WRITE(PTR, $00004EBE)
+//『義兄さんの好きた゛った南の国の青い空の下て゛』
+Here, beneath the blue skies of the country you adored so much.
+<$00>
+
+
+
+#WRITE(APTR, $00000008)
+#WRITE(BPTR, $0000000C)
+

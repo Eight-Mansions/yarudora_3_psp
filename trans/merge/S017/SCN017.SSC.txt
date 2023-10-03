@@ -1,0 +1,359 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#VAR(APTR, CUSTOMPOINTER)
+#VAR(BPTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", $000036E0, 16)
+#CREATEPTR(APTR, "LINEAR", $00000000, 32)
+#CREATEPTR(BPTR, "LINEAR", $00000030, 32)
+#JMP(-1)
+
+// 000001C1
+// Pos : 000038A1
+#WRITE(PTR, $00002009)
+//『その夜、僕はバイト仲間の送別会か゛あって、すっかり遅くなってしまった』
+That evening, I went to a farewell party for a coworker. It ran on into the dead hours of nighttime.
+<$00>
+
+
+
+// 0000020F
+// Pos : 000038EF
+#WRITE(PTR, $0000204E)
+//L434欠番:
+
+<$00>
+
+
+
+// 00000239
+// Pos : 00003919
+#WRITE(PTR, $00002098)
+//『あれ？ 電気か゛消えている…』
+Oh, Maria put the lights out.
+<$00>
+
+
+
+// 00000294
+// Pos : 00003974
+#WRITE(PTR, $00002117)
+//『ん？ 開いてる…不用心た゛なあ』
+Hm? It's unlocked. Guess I got careless on my way out.
+<$00>
+
+
+
+// 000002FF
+// Pos : 000039DF
+#WRITE(PTR, $000021D3)
+//『！！』
+!!!
+<$00>
+
+
+
+// 00000379
+// Pos : 00003A59
+#WRITE(PTR, $000022D8)
+#WRITE(PTR, $00002344)
+//D1男の声
+D1Male Voice
+<$00>
+
+
+
+// 00000381
+// Pos : 00003A61
+#WRITE(PTR, $000022E3)
+//「おお…」
+"Uh-oh."
+<$00>
+
+
+
+// 000003E6
+// Pos : 00003AC6
+#WRITE(PTR, $0000234F)
+//「こないた゛オレらを邪魔してくれたお兄ちゃんし゛ゃねえの」
+"Never smart to interfere with the likes of us, kid."
+<$00>
+
+
+
+// 000004A7
+// Pos : 00003B87
+#WRITE(PTR, $00002469)
+//『こいつら、あの時ボーイの後をつけていたヤクザ達た゛！！』
+It was the yakuza lackeys who tried to kill Boy!
+<$00>
+
+
+
+// 00000506
+// Pos : 00003BE6
+#WRITE(PTR, $000024BF)
+//『マリアは！？』
+Where was Maria?!
+<$00>
+
+
+
+// 0000059A
+// Pos : 00003C7A
+#WRITE(PTR, $0000257E)
+//「ヤッ…！！」
+"Aaah!"
+<$00>
+
+
+
+// 000005B1
+// Pos : 00003C91
+#WRITE(PTR, $000025AF)
+//「ウッ！！」
+"Augh!"
+<$00>
+
+
+
+// 000005C6
+// Pos : 00003CA6
+#WRITE(PTR, $000025E0)
+//「離して！」
+"Let go!"
+<$00>
+
+
+
+// 00000605
+// Pos : 00003CE5
+#WRITE(PTR, $00002644)
+//『言葉にて゛きない怒りに、目の前か゛真っ赤になった！！』
+I felt such an anger I couldn't describe. I only saw red.
+<$00>
+
+
+
+// 00000699
+// Pos : 00003D79
+#WRITE(PTR, $00002744)
+//「イヤ～～～ッ！！」
+"No!"
+<$00>
+
+
+
+// 000006C0
+// Pos : 00003DA0
+#WRITE(PTR, $0000278C)
+//「離して、離せ、離せ～～～ッ！！」
+"Let go! Just let us go!"
+<$00>
+
+
+
+// 0000073F
+// Pos : 00003E1F
+#WRITE(PTR, $0000284F)
+//『マリアの悲鳴を切れ切れに聞きなか゛ら、と゛こをと゛う蹴られ、殴られたのか…』
+I only heard bits and pieces of Maria's screams in the time I was kicked and beaten on the ground.
+<$00>
+
+
+
+// 00000879
+// Pos : 00003F59
+#WRITE(PTR, $00002AEF)
+#WRITE(PTR, $00002DE1)
+//あいつらを追いかけるんた゛！
+Chase after them
+<$00>
+
+
+
+// 0000088A
+// Pos : 00003F6A
+#WRITE(PTR, $00002AFA)
+//拳銃を取りに戻るんた゛！
+Go find the handgun
+<$00>
+
+
+
+// 000008E8
+// Pos : 00003FC8
+#WRITE(PTR, $00002B84)
+//『こいつた゛！ こいつか゛いるんた゛！』
+Where is that thing... Yep, right in here!
+<$00>
+
+
+
+// 00000921
+// Pos : 00004001
+#WRITE(PTR, $00002BCD)
+//『絶対にマリアを取り戻してやる！』
+I have to get Maria back!
+<$00>
+
+
+
+// 0000099F
+// Pos : 0000407F
+#WRITE(PTR, $00002C90)
+//『ダメた゛…もうあいつらの影もかたちも見えない』
+No... I don't see traces of them anymore.
+<$00>
+
+
+
+// 000009FB
+// Pos : 000040DB
+#WRITE(PTR, $00002CF8)
+//『マリア…』
+Maria...
+<$00>
+
+
+
+// 00000A28
+// Pos : 00004108
+#WRITE(PTR, $00002D3A)
+//『絶望的な気分て゛僕はつふ゛やく』
+I got desperate.
+<$00>
+
+
+
+// 00000A42
+// Pos : 00004122
+#WRITE(PTR, $00002D5D)
+#WRITE(PTR, $000035B1)
+//『と、その時…』
+『Th-That time, I...』
+<$00>
+
+
+
+// 00000A81
+// Pos : 00004161
+#WRITE(PTR, $00002DEC)
+//拳銃を掘り起こすんた゛！
+Dig up the handgun
+<$00>
+
+
+
+// 00000C9A
+// Pos : 0000437A
+#WRITE(PTR, $0000317B)
+//『やつらと張り合うには拳銃しかない！』
+There was no taking those guys on unarmed.
+<$00>
+
+
+
+// 00000CEB
+// Pos : 000043CB
+#WRITE(PTR, $000031E4)
+//『もう、と゛うなったってかまわない！』
+Who cared what happened to me?
+<$00>
+
+
+
+// 00000D02
+// Pos : 000043E2
+#WRITE(PTR, $00003207)
+//『絶対にマリアを取り戻してやるんた゛！』
+I was getting Maria back no matter what!
+<$00>
+
+
+
+// 00000D21
+// Pos : 00004401
+#WRITE(PTR, $0000322A)
+//『地面か゛固い…、なにか掘るものは…』
+The ground was too hard for my fingers to dig through. I needed a tool.
+<$00>
+
+
+
+// 00000DDB
+// Pos : 000044BB
+#WRITE(PTR, $0000335D)
+//「うっ…」
+"Urk!"
+<$00>
+
+
+
+// 00000E29
+// Pos : 00004509
+#WRITE(PTR, $000033E7)
+//「つ…」
+"Ngh..."
+<$00>
+
+
+
+// 00000E4F
+// Pos : 0000452F
+#WRITE(PTR, $0000342E)
+//『爪か゛割れた…』
+I tore my nail open...
+<$00>
+
+
+
+// 00000E7E
+// Pos : 0000455E
+#WRITE(PTR, $0000347F)
+//『痛みと怒りの相乗効果て゛、僕は夢中て゛掘り続けた』
+The synergy between pain and anger boiled within me. I kept digging.
+<$00>
+
+
+
+// 00000EB0
+// Pos : 00004590
+#WRITE(PTR, $000034B9)
+//『やか゛て…』
+Eventually...
+<$00>
+
+
+
+// 00000EED
+// Pos : 000045CD
+#WRITE(PTR, $0000358E)
+//『ハンカチに包まれた拳銃か゛出てきた…』
+I found the handgun, wrapped in its handkerchief.
+<$00>
+
+
+
+// 00000F53
+// Pos : 00004633
+#WRITE(PTR, $00003671)
+//『僕の肩をつかむものか゛いた…』
+Someone grabbed me by the shoulder.
+<$00>
+
+
+
+// 00000F74
+// Pos : 00004654
+#WRITE(PTR, $000036B4)
+//セーブ１１
+SAVE 11
+<$00>
+
+
+
+#WRITE(APTR, $00000008)
+#WRITE(BPTR, $0000000C)
+

@@ -121,7 +121,8 @@ Wait. WHAT?!
 // Pos : 00008BFD
 #WRITE(PTR, $00002416)
 //「やったー！ お金か゛入ってる！ 助かった！」
-"Yeehaw! Mom and Dad sent me some delicious cold, hard cash! We're saved!"
+"Yeehaw! Mom and Dad sent me some delicious\n
+cold, hard cash! We're saved!"
 <$00>
 
 
@@ -139,7 +140,8 @@ Wait. WHAT?!
 // Pos : 00008C5D
 #WRITE(PTR, $000024C0)
 //「マリア！ もっかいマブハイた゛」
-"This calls for another round, Maria! Ma! Bu! Hay!"
+"This calls for another round, Maria!\n
+Ma! Bu! Hay!"
 <$00>
 
 
@@ -175,7 +177,9 @@ We also devastated that pizza.
 // Pos : 00008D42
 #WRITE(PTR, $0000264A)
 //『僕はふと、マリアの持ち物か゛気になった』
-Then, I was hit with a spontaneous but dire curiosity to check out Maria's belongings.
+Then, I was hit with a spontaneous but dire\n
+curiosity to check out Maria's\n
+belongings.
 <$00>
 
 
@@ -239,7 +243,8 @@ Take the cosmetics
 // Pos : 00008E80
 #WRITE(PTR, $00002816)
 //『マリアのコンパクトを手にしてみる』
-I helped myself to a glance into Maria's hand mirror.
+I helped myself to a glance into Maria's\n
+hand mirror.
 <$00>
 
 
@@ -266,7 +271,7 @@ Perhaps we overdid it with the alochol.
 // Pos : 00008F15
 #WRITE(PTR, $00002919)
 //『気か゛ついたら僕は』
-By the time I came back to my senses... 
+By the time I came back to my senses...
 <$00>
 
 
@@ -275,7 +280,7 @@ By the time I came back to my senses...
 // Pos : 00008F46
 #WRITE(PTR, $00002969)
 //『あろうことか…』
-I had magically turned... 
+I had magically turned...
 <$00>
 
 
@@ -312,7 +317,8 @@ Was Maria my Fairy Godmother?!
 #WRITE(PTR, $00002B00)
 #WRITE(PTR, $00002C7F)
 //『やや意識を取り戻した僕は、あわてて化粧を拭き取った』
-Once I sobered up a little, I fervently wiped off Maria's little makeover.
+Once I sobered up a little, I fervently\n
+wiped off Maria's little makeover.
 <$00>
 
 
@@ -321,7 +327,8 @@ Once I sobered up a little, I fervently wiped off Maria's little makeover.
 // Pos : 00009078
 #WRITE(PTR, $00002B42)
 //『そしてふたたひ゛マリアのバッグに目をやった』
-Then, I took another glance at Maria's purse.
+Then, I took another glance at Maria's\n
+purse.
 <$00>
 
 
@@ -366,7 +373,8 @@ I took one more look at Maria's purse.
 // Pos : 0000915F
 #WRITE(PTR, $00002CB9)
 //『ちょっとくやしかった。僕はマリアにこう言い返す』
-My spine tingled when Maria called back to me.
+My spine tingled when Maria called back to\n
+me.
 <$00>
 
 
@@ -447,7 +455,8 @@ Even the softness of her lips...
 // Pos : 00009298
 #WRITE(PTR, $00002EFD)
 //『気のせいた゛ろうか…、マリアの視線に熱いものを感し゛る…』
-Is it just me, or do Maria's eyes look more... "bedroomy" than normal?
+Is it just me, or do Maria's eyes look\n
+more... "bedroomy" than normal?
 <$00>
 
 
@@ -483,7 +492,8 @@ She's luring me in!
 // Pos : 0000937B
 #WRITE(PTR, $00003013)
 //『頭を冷やせ。バカな考えはやめるんた゛』
-Cool it, buster. Stop thinking idiotic thoughts like that!
+Cool it, buster. Stop thinking idiotic\n
+thoughts like that!
 <$00>
 
 
@@ -501,7 +511,8 @@ But...
 // Pos : 000093A3
 #WRITE(PTR, $00003059)
 //『僕か゛男て゛ある以上、この状況か゛危険なことに変わりはないわけて゛…』
-As a man, I've got a responsibility to keep things from getting too spicy here.
+As a man, I've got a responsibility to keep\n
+things from getting too spicy here.
 <$00>
 
 
@@ -510,7 +521,8 @@ As a man, I've got a responsibility to keep things from getting too spicy here.
 // Pos : 000093D4
 #WRITE(PTR, $0000307C)
 //『悪魔に取り込まれないためにもここはなんとかしないと…』
-You know what they say: "Only you can prevent forest fires!"
+You know what they say: "Only you can prevent\n
+forest fires!"
 <$00>
 
 
@@ -528,7 +540,7 @@ You know what they say: "Only you can prevent forest fires!"
 // Pos : 0000943E
 #WRITE(PTR, $000030F7)
 // 気分て゛もわるいの？」
- Don't you feel good?"
+\nDon't you feel good?"
 <$00>
 
 
@@ -600,7 +612,8 @@ Hnng! Red Alert! RED ALERT!
 // Pos : 00009681
 #WRITE(PTR, $000033DA)
 //『女の子って化粧するた゛けて゛こんなにも変わるなんて思わなかった…』
-Who knew a little makeup did so much to a girl?
+Who knew a little makeup did so much to a\n
+girl?
 <$00>
 
 
@@ -609,7 +622,8 @@ Who knew a little makeup did so much to a girl?
 // Pos : 000096B8
 #WRITE(PTR, $00003433)
 //『僕はあらためてバッグの中を見た』
-I took another look through her purse's contents.
+I took another look through her purse's\n
+contents.
 <$00>
 
 
@@ -627,7 +641,8 @@ I took another look through her purse's contents.
 // Pos : 0000971C
 #WRITE(PTR, $000034EC)
 //「こ、今夜はとてもセクシーた゛ね」
-"You just l-l-l-l-look so s-s-s-smexy t-tonight, is all."
+"You just l-l-l-l-look so s-s-s-smexy\n
+t-tonight, is all."
 <$00>
 
 
@@ -654,7 +669,8 @@ I took another look through her purse's contents.
 // Pos : 0000979E
 #WRITE(PTR, $00003647)
 //『うう～～～っ、なんて恥す゛かしいことを言ってるんた゛僕は』
-Gosh, how did I get to sounding so creepy, huh?
+Gosh, how did I get to sounding so creepy,\n
+huh?
 <$00>
 
 
@@ -663,7 +679,8 @@ Gosh, how did I get to sounding so creepy, huh?
 // Pos : 000097D0
 #WRITE(PTR, $00003690)
 //『僕は気をとりなおし、あらためてバッグの中を見た』
-I needed to regroup. Maybe another look through Maria's purse would help.
+I needed to regroup. Maybe another look\n
+through Maria's purse would help.
 <$00>
 
 
@@ -690,7 +707,8 @@ My head was throbbing.
 // Pos : 0000989D
 #WRITE(PTR, $00003870)
 //『それにマリアもいない…』
-To make matters worse, Maria left for good that time.
+To make matters worse, Maria left for good\n
+that time.
 <$00>
 
 
@@ -726,7 +744,9 @@ I blew it this time, didn't I...
 // Pos : 000099F6
 #WRITE(PTR, $00003A77)
 //「好きな人か゛出来たら先に寝たりしたらダメよ」
-"Even if you like someone, you shouldn't press for intimacy before that person is ready."
+"Even if you like someone, you shouldn't\n
+press for intimacy before that person is\n
+ready."
 <$00>
 
 
@@ -735,7 +755,8 @@ I blew it this time, didn't I...
 // Pos : 00009A5D
 #WRITE(PTR, $00003ADD)
 //「早くアナタも信し゛られる人を見つけてネ」
-"Relationships are about trust. I hope you find someone soon."
+"Relationships are about trust. I hope you\n
+find someone soon."
 <$00>
 
 
@@ -753,7 +774,8 @@ I blew it this time, didn't I...
 // Pos : 00009B00
 #WRITE(PTR, $00003C08)
 //『この大金の出所はと゛こなのた゛ろう。なせ゛マリアか゛…』
-Where had Maria gotten her hands on all this money?
+Where had Maria gotten her hands on all\n
+this money?
 <$00>
 
 
@@ -762,7 +784,8 @@ Where had Maria gotten her hands on all this money?
 // Pos : 00009B34
 #WRITE(PTR, $00003C42)
 //『そう考えているうちに、酔いか゛まわってきた…』
-The more I thought about it, the sicker I felt.
+The more I thought about it, the sicker I\n
+felt.
 <$00>
 
 
@@ -789,7 +812,8 @@ The more I thought about it, the sicker I felt.
 // Pos : 00009BE6
 #WRITE(PTR, $00003D8C)
 //『う、美しい……。一度こういうことをやってみたかったのた゛』
-She's so pretty. Man, I sure wouldn't mind if she and I ever...
+She's so pretty. Man, I sure wouldn't mind\n
+if she and I ever...
 <$00>
 
 
@@ -918,7 +942,8 @@ Back off
 // Pos : 00009EBF
 #WRITE(PTR, $000041B3)
 //「お金は大事にしなきゃイケナイのヨォ」
-"You have to be really careful with how you handle all this money."
+"You have to be really careful with how you\n
+handle all this money."
 <$00>
 
 
@@ -972,7 +997,8 @@ Back off
 // Pos : 00009FE0
 #WRITE(PTR, $00004423)
 //「わはははははは……これて゛見おさめし゛ゃーーーっ！」
-"Hahaha! Sure. This is my 'Get lost!' face!"
+"Hahaha! Sure. This is my 'Get lost!'\n
+face!"
 <$00>
 
 
@@ -1017,7 +1043,8 @@ Maria's beyond pissed.
 // Pos : 0000A0FC
 #WRITE(PTR, $000046A3)
 //『僕は気をとりなおしてバッグに目をやる』
-I need to be careful next time I go through her stuff.
+I need to be careful next time I go through\n
+her stuff.
 <$00>
 
 
@@ -1035,7 +1062,8 @@ There must be something on this.
 // Pos : 0000A16B
 #WRITE(PTR, $00004738)
 //『僕はラジカセを持ち出し、マリアの持っていたテープを入れる』
-I dug out out my cassette player and inserted Maria's cassette.
+I dug out out my cassette player and inserted\n
+Maria's cassette.
 <$00>
 
 
@@ -1053,7 +1081,8 @@ Music began to play.
 // Pos : 0000A245
 #WRITE(PTR, $000048B0)
 //「コレ、フィリピンの古いラブソング、$ダヒル・サ・ヨ」
-"This is a Filipino love song called $'Dahil Sa'yo'."
+"This is a Filipino love song called\n
+$'Dahil Sa'yo'."
 <$00>
 
 
@@ -1071,7 +1100,8 @@ Music began to play.
 // Pos : 0000A2AF
 #WRITE(PTR, $00004928)
 //『僕たちはしは゛しその歌に聴き惚れる』
-Maria and I listened closely to the melody.
+Maria and I listened closely to the\n
+melody.
 <$00>
 
 
@@ -1089,7 +1119,8 @@ Maria and I listened closely to the melody.
 // Pos : 0000A3D8
 #WRITE(PTR, $00004AE6)
 //「誰？ そのボーイって？ 思い出したんし゛ゃない？」
-"Wait, who's 'Boy'? Did you remember someone?"
+"Wait, who's 'Boy'? Did you remember\n
+someone?"
 <$00>
 
 
@@ -1116,7 +1147,7 @@ Maria and I listened closely to the melody.
 // Pos : 0000A4D7
 #WRITE(PTR, $00004CF9)
 //「ああ…
-"Argh! 
+"Argh!
 <$00>
 
 
@@ -1125,7 +1156,7 @@ Maria and I listened closely to the melody.
 // Pos : 0000A4E7
 #WRITE(PTR, $00004D1F)
 //ダメッ…」
-No."
+\nNo."
 <$00>
 
 
@@ -1152,7 +1183,8 @@ No."
 // Pos : 0000A5A3
 #WRITE(PTR, $00004EA4)
 //「きっと…とってもダイジなヒト…」
-"He's someone important to me. I'm sure of it."
+"He's someone important to me. I'm sure of\n
+it."
 <$00>
 
 
@@ -1161,7 +1193,7 @@ No."
 // Pos : 0000A620
 #WRITE(PTR, $00004F5F)
 //「て゛も……
-"So... 
+"So...
 <$00>
 
 
@@ -1170,7 +1202,7 @@ No."
 // Pos : 0000A650
 #WRITE(PTR, $00004FC6)
 //ダッテ……」
-why can't I..."
+\nwhy can't I..."
 <$00>
 
 
@@ -1179,7 +1211,8 @@ why can't I..."
 // Pos : 0000A716
 #WRITE(PTR, $0000515F)
 //『いきなりマリアの柔らかな唇か゛、痛いくらいに押しつけられた』
-Without warning, Maria painfully pressed her soft lips against mine.』
+Without warning, Maria painfully\n
+pressed her soft lips against mine.』
 <$00>
 
 
@@ -1188,7 +1221,9 @@ Without warning, Maria painfully pressed her soft lips against mine.』
 // Pos : 0000A749
 #WRITE(PTR, $00005199)
 //『頬に、額に、まふ゛たに、怒ったようにマリアの唇か゛降ってきた』
-My lips, my temple, my brow... She kissed me feverishly, as if she'd lost her temper.
+My lips, my temple, my brow... She kissed\n
+me feverishly, as if she'd lost her\n
+temper.
 <$00>
 
 
@@ -1197,7 +1232,8 @@ My lips, my temple, my brow... She kissed me feverishly, as if she'd lost her te
 // Pos : 0000A77E
 #WRITE(PTR, $000051E2)
 //『そして、その胸の中に僕はきつく抱きしめられた…』
-Afterwards, she held me tight against her chest.
+Afterwards, she held me tight against\n
+her chest.
 <$00>
 
 
@@ -1215,7 +1251,8 @@ Afterwards, she held me tight against her chest.
 // Pos : 0000A928
 #WRITE(PTR, $000054B3)
 //「いつまて゛もワタシのコト、愛してくれる？」
-"Will you love me with all your heart? Forever?"
+"Will you love me with all your heart?\n
+Forever?"
 <$00>
 
 
@@ -1224,7 +1261,8 @@ Afterwards, she held me tight against her chest.
 // Pos : 0000A952
 #WRITE(PTR, $0000550F)
 //『ドキッとした。すく゛に返事か゛て゛きない』
-My heart raced. I couldn't come up with an answer.
+My heart raced. I couldn't come up with an\n
+answer.
 <$00>
 
 
@@ -1270,7 +1308,8 @@ I'm not sure...
 #WRITE(PTR, $00005673)
 #WRITE(PTR, $00006121)
 //『ひかれはし゛めている事は確かた゛。て゛も…』
-It was no question that I was taken by her from the get-go, but...
+It was no question that I was taken by her\n
+from the get-go, but...
 <$00>
 
 
@@ -1279,7 +1318,8 @@ It was no question that I was taken by her from the get-go, but...
 // Pos : 0000AAED
 #WRITE(PTR, $0000574E)
 //「そうた゛よね、僕もまた゛自分の気持ちを見つけていない」
-"I see. I haven't sorted out my own feelings either."
+"I see. I haven't sorted out my own feelings\n
+either."
 <$00>
 
 
@@ -1315,7 +1355,8 @@ I didn't mean what I said.
 // Pos : 0000AB91
 #WRITE(PTR, $0000588F)
 //『そんなの嘘た゛。たんに僕の押しか゛弱いた゛けし゛ゃないか…』
-It was a lie that I only pushed on Maria because I was weak.
+It was a lie that I only pushed on Maria\n
+because I was weak.
 <$00>
 
 
@@ -1333,7 +1374,8 @@ It was a lie that I only pushed on Maria because I was weak.
 // Pos : 0000AC26
 #WRITE(PTR, $00005973)
 //「優しくなんかない。傷つくのか゛怖いんた゛」
-"I'm not, really. I'm afraid of hurting you."
+"I'm not, really. I'm afraid of hurting\n
+you."
 <$00>
 
 
@@ -1351,7 +1393,8 @@ It was a lie that I only pushed on Maria because I was weak.
 // Pos : 0000AD17
 #WRITE(PTR, $00005AF3)
 //『そう…この気持ちって愛してるってことた゛よな』
-That's it. This feeling I have. It must be "love".
+That's it. This feeling I have. It must be\n
+"love".
 <$00>
 
 
@@ -1369,7 +1412,8 @@ Maria needs me.
 // Pos : 0000AD62
 #WRITE(PTR, $00005B67)
 //『僕もマリアのことを、単なる同居人とは思えなくなっている』
-What she and I have is more than two people simply living together.
+What she and I have is more than two people\n
+simply living together.
 <$00>
 
 
@@ -1378,7 +1422,8 @@ What she and I have is more than two people simply living together.
 // Pos : 0000AD95
 #WRITE(PTR, $00005BA1)
 //『拳銃のことにしたって、親切心た゛けし゛ゃ、ああいうかたちにはしなかったた゛ろう』
-I didn't take her handgun away solely out of generosity.
+I didn't take her handgun away solely out of\n
+generosity.
 <$00>
 
 
@@ -1423,7 +1468,7 @@ Okay. This is it.
 // Pos : 0000AEE9
 #WRITE(PTR, $00005E0A)
 //「ウウン。
-"Well, anyways! 
+"Well, anyways!
 <$00>
 
 
@@ -1432,7 +1477,7 @@ Okay. This is it.
 // Pos : 0000AF31
 #WRITE(PTR, $00005E61)
 //なんて゛もない」
-Why don't we get some sleep?"
+\nWhy don't we get some sleep?"
 <$00>
 
 
@@ -1499,7 +1544,9 @@ What could I do?
 // Pos : 0000B119
 #WRITE(PTR, $00006227)
 //「ダッテ…ふたりて゛いても時々すこ゛く怖くなるときか゛あるから…」
-"It's just... even though we're always together, I find myself feeling scared of the world."
+"It's just... even though we're always\n
+together, I find myself feeling scared of\n
+the world."
 <$00>
 
 
@@ -1508,7 +1555,8 @@ What could I do?
 // Pos : 0000B157
 #WRITE(PTR, $00006298)
 //『マリアは僕しか頼る人か゛いないんた゛。た゛から必死て゛僕にしか゛みついている』
-I was the only person Maria had. That was why she held onto me.
+I was the only person Maria had. That was\n
+why she held onto me.
 <$00>
 
 
@@ -1526,7 +1574,8 @@ I knew what it was I had to cherish.
 // Pos : 0000B1BA
 #WRITE(PTR, $0000630C)
 //『たた゛、自分か゛この子を愛しているかといえは゛、正直いって確信か゛持てない』
-And yet, I didn't have it in my to outright say I was "in love" with her.
+And yet, I didn't have it in my to outright\n
+say I was "in love" with her.
 <$00>
 
 
@@ -1544,7 +1593,8 @@ Or, maybe not...
 // Pos : 0000B2BD
 #WRITE(PTR, $00006499)
 //「大丈夫。僕か゛ついてるから」
-"It's okay to be scared. That's what I'm here for."
+"It's okay to be scared. That's what I'm\n
+here for."
 <$00>
 
 
@@ -1661,7 +1711,8 @@ Don't reciprocate
 // Pos : 0000B8F4
 #WRITE(PTR, $00006F55)
 //『目覚めると、僕の横にマリアの姿はなかった…』
-When I woke up that morning, Maria's wasn't lying next to me.
+When I woke up that morning, Maria's\n
+wasn't lying next to me.
 <$00>
 
 
@@ -1724,7 +1775,8 @@ It reminded me of a quote I'd heard before:
 // Pos : 0000BA24
 #WRITE(PTR, $0000714C)
 //『人を愛するには、大事にするには覚悟か゛必要た゛と』
-"If you love something, love it completely..."
+"If you love something, love it\n
+completely..."
 <$00>
 
 
@@ -1733,7 +1785,8 @@ It reminded me of a quote I'd heard before:
 // Pos : 0000BA95
 #WRITE(PTR, $000071DB)
 //『マリアのことか゛好きた゛ったのは本当た゛けと゛…』
-Don't get me wrong, I really did have feelings for Maria.
+Don't get me wrong, I really did have\n
+feelings for Maria.
 <$00>
 
 
@@ -1769,7 +1822,8 @@ What I lacked was resolve.
 // Pos : 0000BBCF
 #WRITE(PTR, $00007455)
 //「ヤッパリ、信し゛られない…」
-"In the end, I wasn't ready to give myself to you."
+"In the end, I wasn't ready to give myself to\n
+you."
 <$00>
 
 
@@ -1778,7 +1832,8 @@ What I lacked was resolve.
 // Pos : 0000BC10
 #WRITE(PTR, $000074D2)
 //「ソレデモ、ホントにアリガトウ」
-"Still, I'm grateful for everything you did."
+"Still, I'm grateful for everything you\n
+did."
 <$00>
 
 
@@ -1814,7 +1869,8 @@ What I lacked was resolve.
 // Pos : 0000BD49
 #WRITE(PTR, $00007751)
 //『また゛完全には僕に、気を許してくれないのかな…』
-There was still a chance that Maria wasn't letting her guard down for me.
+There was still a chance that Maria wasn't\n
+letting her guard down for me.
 <$00>
 
 
@@ -1859,7 +1915,8 @@ Relax in silence
 // Pos : 0000BDF6
 #WRITE(PTR, $00007846)
 //『マリアの温もりを感し゛なか゛ら、僕はそっと目をとし゛た』
-As I savored Maria's warmth, I stared into her eyes.
+As I savored Maria's warmth, I stared\n
+into her eyes.
 <$00>
 
 
@@ -1868,7 +1925,8 @@ As I savored Maria's warmth, I stared into her eyes.
 // Pos : 0000BE29
 #WRITE(PTR, $00007880)
 //『安らき゛につつまれて、しは゛らくは何も考えることか゛出来なかった』
-The moment felt so peaceful, I couldn't focus on anything else.
+The moment felt so peaceful, I couldn't\n
+focus on anything else.
 <$00>
 
 
@@ -1877,7 +1935,8 @@ The moment felt so peaceful, I couldn't focus on anything else.
 // Pos : 0000BE5F
 #WRITE(PTR, $000078BA)
 //『マリアの寝息か゛かすかに聞こえてきたころ…』
-I listened to Maria's breathing until she fell asleep.
+I listened to Maria's breathing until she\n
+fell asleep.
 <$00>
 
 
@@ -1897,7 +1956,8 @@ Only then did I finally call it a night.
 #WRITE(PTR, $00007F19)
 #WRITE(PTR, $00008330)
 //「あのさァ、フィリピンにもお化けはいるの？」
-"Say, are there ghosts in the Philippines?"
+"Say, are there ghosts in the\n
+Philippines?"
 <$00>
 
 
@@ -1915,7 +1975,8 @@ Only then did I finally call it a night.
 // Pos : 0000C089
 #WRITE(PTR, $00007C20)
 //「たとえは゛ね、チャナックっていう赤ちゃんのおは゛けか゛いるの」
-"For example, we have tiyanaks, which take the form of newborns."
+"For example, we have tiyanaks, which take\n
+the form of newborns."
 <$00>
 
 
@@ -1926,7 +1987,8 @@ Only then did I finally call it a night.
 #WRITE(PTR, $000080C9)
 #WRITE(PTR, $000084E0)
 //『僕は目を閉し゛て、マリアの話を聞いている』
-I closed my eyes as I listened to Maria's story.
+I closed my eyes as I listened to Maria's\n
+story.
 <$00>
 
 
@@ -1935,7 +1997,9 @@ I closed my eyes as I listened to Maria's story.
 // Pos : 0000C117
 #WRITE(PTR, $00007CD5)
 //「チャナックはネ、小さいとき、洗礼、$ビンニャグね」
-"When children in the Philippines are small, they typically receive a baptism. or a $'binyag'."
+"When children in the Philippines are\n
+small, they typically receive a baptism.\n
+or a $'binyag'."
 <$00>
 
 
@@ -1944,7 +2008,8 @@ I closed my eyes as I listened to Maria's story.
 // Pos : 0000C14B
 #WRITE(PTR, $00007D0F)
 //「それを受けられなかったかわいそうな子供か゛、赤ちゃんの姿になってしまうの」
-"Babies who pass away before their baptism may become tiyanaks."
+"Babies who pass away before their baptism\n
+may become tiyanaks."
 <$00>
 
 
@@ -1953,7 +2018,8 @@ I closed my eyes as I listened to Maria's story.
 // Pos : 0000C182
 #WRITE(PTR, $00007D49)
 //「チャナックはね、いつもオッパイを欲しか゛って泣いているんた゛…」
-"Tiyanaks are said to cry for breastmilk from their mother."
+"Tiyanaks are said to cry for breastmilk\n
+from their mother."
 <$00>
 
 
@@ -1962,7 +2028,8 @@ I closed my eyes as I listened to Maria's story.
 // Pos : 0000C1BB
 #WRITE(PTR, $00007D83)
 //「て゛も、誰かか゛抱き上け゛てオッパイをあけ゛るとね…」
-"But, if a woman ever gets too close and offers her breast to the baby..."
+"But, if a woman ever gets too close and\n
+offers her breast to the baby..."
 <$00>
 
 
@@ -2000,7 +2067,9 @@ Maria's voice trailed off.
 // Pos : 0000C2FE
 #WRITE(PTR, $00008126)
 //「タォン・アハスはね、日本語て゛いうとヘビ？…のかたちをした男、かな……」
-"The Taong Ahas is a man with the body of a... what's the word in your language again? 'Snake', I think?"
+"The Taong Ahas is a man with the body of\n
+a... what's the word in your language\n
+again? 'Snake', I think?"
 <$00>
 
 
@@ -2009,7 +2078,9 @@ Maria's voice trailed off.
 // Pos : 0000C33F
 #WRITE(PTR, $00008160)
 //「大きなショッピング・センターのＣＲ、あ、トイレて゛ね」
-"He sneaks inside the CR... Sorry, 'bathroom' in one of our big shopping malls."
+"He sneaks inside the CR... Sorry,\n
+'bathroom' in one of our big shopping\n
+malls."
 <$00>
 
 
@@ -2036,7 +2107,8 @@ Maria's voice trailed off.
 // Pos : 0000C436
 #WRITE(PTR, $00008488)
 //「フィリピンのお化けはね、アスワン、て言うの」
-"In the Phillipines, there's a kind of ghost known as a Manananggal."
+"In the Phillipines, there's a kind of\n
+ghost known as a Manananggal."
 <$00>
 
 
@@ -2045,7 +2117,9 @@ Maria's voice trailed off.
 // Pos : 0000C489
 #WRITE(PTR, $0000853D)
 //「アスワンはね、体の上た゛けか゛空を飛んて゛襲ってくるの」
-"The Mananggal can separate it's upper torso from the rest of its body. Then, it flies around and attacks people!"
+"The Mananggal can separate it's upper\n
+torso from the rest of its body. Then, it\n
+flies around and attacks people!"
 <$00>
 
 
@@ -2054,7 +2128,8 @@ Maria's voice trailed off.
 // Pos : 0000C4BA
 #WRITE(PTR, $00008577)
 //「そういう時にはきっとと゛こかに体の下の部分か゛寝ているから」
-"When it does that, it's lower half is still standing around nearby."
+"When it does that, it's lower half is\n
+still standing around nearby."
 <$00>
 
 
@@ -2063,7 +2138,8 @@ Maria's voice trailed off.
 // Pos : 0000C4EA
 #WRITE(PTR, $000085B1)
 //「早くそれを見つけて、塩、ソルトね」
-"If you can find the lower half of a body, get some 'asin'... I mean 'salt'."
+"If you can find the lower half of a body,\n
+get some 'asin'... I mean 'salt'."
 <$00>
 
 
@@ -2072,7 +2148,8 @@ Maria's voice trailed off.
 // Pos : 0000C50D
 #WRITE(PTR, $000085EB)
 //「それをかけると溶けて消えちゃうけと゛…」
-"If you sprinkle salt on the body right away, it will wither and vanish."
+"If you sprinkle salt on the body right\n
+away, it will wither and vanish."
 <$00>
 
 

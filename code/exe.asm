@@ -51,6 +51,15 @@ letter_table: equ 0x08B51914
 .org 0x08820D14
 	nop
 	
+; .org 0x0885F184
+	; ;addiu t1, r0, 0x05 
+	; addiu t1, r0, 0x00 ; Set it so the sentence is NOT indented
+	
+.org 0x0885E394
+	; lh t2, 0x136(a0)
+ 	li t2, 0x01 ; Force it to alwasy think its the "first" line so it doesnt indent it
+	li t0, 0x00
+	
 .org 0x0885E0F4
 	li a1, 0x7FF ; Overwrite sentence width comparison value so we can have them as long as we want :)
 
@@ -319,8 +328,8 @@ letter_widths:	 ; Starts at 8240. Hopefully works ingame?
 	.db 17 ;%
 	.db 13 ;&
 	.db 10 ;>
-	.db 7 ;(
-	.db 7 ;)
+	.db 7  ;(
+	.db 7  ;)
 	.db 12 ;*
 	.db 14 ;+
 	.db 17 ;@
@@ -328,7 +337,7 @@ letter_widths:	 ; Starts at 8240. Hopefully works ingame?
 	.db 14 ;=
 	.db 18 ;/
 	.db 11 ;0
-	.db 7 ;1
+	.db 7  ;1
 	.db 12 ;2
 	.db 12 ;3
 	.db 13 ;4
@@ -337,13 +346,13 @@ letter_widths:	 ; Starts at 8240. Hopefully works ingame?
 	.db 12 ;7
 	.db 12 ;8
 	.db 12 ;9
-	.db 6 ;:
-	.db 7 ;;
-	.db 6 ;!
-	.db 5 ;'
+	.db 6  ;:
+	.db 7  ;;
+	.db 6  ;!
+	.db 5  ;'
 	.db 12 ;?
-	.db 7 ;,
-	.db 7 ;.
+	.db 7  ;,
+	.db 7  ;.
 	.db 15 ;A
 	.db 12 ;B
 	.db 13 ;C
@@ -352,7 +361,7 @@ letter_widths:	 ; Starts at 8240. Hopefully works ingame?
 	.db 11 ;F
 	.db 14 ;G
 	.db 13 ;H
-	.db 5 ;I
+	.db 5  ;I
 	.db 12 ;J
 	.db 13 ;K
 	.db 12 ;L
@@ -370,47 +379,47 @@ letter_widths:	 ; Starts at 8240. Hopefully works ingame?
 	.db 13 ;X
 	.db 13 ;Y
 	.db 12 ;Z
-	.db 4 ;[
+	.db 4  ;[
 	.db 10 ;\
-	.db 4 ;]
-	.db 6 ;^
+	.db 4  ;]
+	.db 6  ;^
 	.db 10 ;_
-	.db 6 ;`
+	.db 6  ;`
 	.db 16 ;UNK
 	.db 11 ;a
 	.db 11 ;b
 	.db 10 ;c
 	.db 11 ;d
 	.db 11 ;e
-	.db 9 ;f
+	.db 9  ;f
 	.db 11 ;g
-	.db 11 ;h
-	.db 5 ;i
-	.db 8 ;j
+	.db 9  ;h
+	.db 5  ;i
+	.db 8  ;j
 	.db 11 ;k
-	.db 5 ;l
+	.db 5  ;l
 	.db 15 ;m
 	.db 11 ;n
 	.db 12 ;o
 	.db 11 ;p
 	.db 11 ;q
-	.db 8 ;r
+	.db 8  ;r
 	.db 10 ;s
-	.db 9 ;t
+	.db 9  ;t
 	.db 11 ;u
 	.db 11 ;v
 	.db 15 ;w
 	.db 11 ;x
 	.db 11 ;y
 	.db 10 ;z
-	.db 8 ;{
-	.db 6 ;|
-	.db 8 ;}
+	.db 8  ;{
+	.db 6  ;|
+	.db 8  ;}
 	.db 18 ;~
-	.db 6 ; 
-	.db 0 ; nothing
-	.db 0 ; clear_vwf
-	.db 0 ; set_vwf
+	.db 6  ; 
+	.db 0  ; nothing
+	.db 0  ; clear_vwf
+	.db 0  ; set_vwf
 
 	
 

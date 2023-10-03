@@ -13,7 +13,8 @@
 // Pos : 00004373
 #WRITE(PTR, $00001FBC)
 //『マリアとの昼食、これは向こうの習慣なのた゛ろうか』
-Maria revealed interesting little habits and customs come lunchtime.
+Maria revealed interesting little\n
+habits and customs come lunchtime.
 <$00>
 
 
@@ -22,7 +23,8 @@ Maria revealed interesting little habits and customs come lunchtime.
 // Pos : 000043A2
 #WRITE(PTR, $00001FF6)
 //『マリアは食事の時、片足を立てて座るのた゛。そして…』
-During the meal, she sat with one leg up. And also...
+During the meal, she sat with one leg up.\n
+And also...
 <$00>
 
 
@@ -49,7 +51,8 @@ During the meal, she sat with one leg up. And also...
 // Pos : 000044C3
 #WRITE(PTR, $000021DC)
 //「ダメよォ、野菜とらなきゃイケナイのよォ」
-"That won't do. You know you need your vegetables!"
+"That won't do. You know you need your\n
+vegetables!"
 <$00>
 
 
@@ -76,7 +79,8 @@ There was no arguing with Maria.
 // Pos : 000045D9
 #WRITE(PTR, $000023BD)
 //『自分の食事はそっちのけにして、僕の口へ食へ゛物を運ふ゛…』
-She took her own food and shot it down my throat.
+She took her own food and shot it down my\n
+throat.
 <$00>
 
 
@@ -85,7 +89,8 @@ She took her own food and shot it down my throat.
 // Pos : 0000460F
 #WRITE(PTR, $000023F7)
 //『これは相当なおせっかいた゛』
-She was quite literally "in my face" when it came to eating.
+She was quite literally "in my face" when\n
+it came to eating.
 <$00>
 
 
@@ -94,7 +99,9 @@ She was quite literally "in my face" when it came to eating.
 // Pos : 00004660
 #WRITE(PTR, $0000248B)
 //『マリアはケチャップか゛好きた゛。それとナイフの代わりにスプーンを使う』
-Maria adored ketchup, and preferred cutting her food with a spoon instead of a knife.
+Maria adored ketchup, and preferred\n
+cutting her food with a spoon instead of a\n
+knife.
 <$00>
 
 
@@ -121,7 +128,8 @@ And...
 // Pos : 00004744
 #WRITE(PTR, $000025EC)
 //「ダッテ、もったいないて゛ショ？」
-"Sorry. One never likes to waste food, you know?"
+"Sorry. One never likes to waste food, you\n
+know?"
 <$00>
 
 
@@ -130,7 +138,8 @@ And...
 // Pos : 0000478F
 #WRITE(PTR, $00002652)
 //「マリア、ここ…口の横」
-"You have some food on the side of your mouth."
+"You have some food on the side of your\n
+mouth."
 <$00>
 
 
@@ -175,7 +184,8 @@ She's so cute...
 // Pos : 000048D8
 #WRITE(PTR, $00002892)
 //「マリア、キミの作ったオムレツ美味しかったよ」
-"Maria, that omelette you made was delicious!"
+"Maria, that omelette you made was\n
+delicious!"
 <$00>
 
 
@@ -184,7 +194,8 @@ She's so cute...
 // Pos : 00004918
 #WRITE(PTR, $000028ED)
 //「マリアね、オムレツ得意なの」
-"Are omelettes your specialty or something?"
+"Are omelettes your specialty or\n
+something?"
 <$00>
 
 
@@ -247,7 +258,8 @@ She's so cute...
 // Pos : 00004A4E
 #WRITE(PTR, $00002B55)
 //「こ゛めん……て゛もまた作ってくれる？」
-"I feel extra guilty asking this now, but would you mind making another for me?"
+"I feel extra guilty asking this now, but\n
+would you mind making another for me?"
 <$00>
 
 
@@ -337,7 +349,8 @@ She's so cute...
 // Pos : 00004C72
 #WRITE(PTR, $00002F2C)
 //「ワタシ、男の人の料理って、もっと美味しくないかと思ってたの」
-"I honestly think the food tastes better when the man of the house makes it."
+"I honestly think the food tastes better\n
+when the man of the house makes it."
 <$00>
 
 
@@ -382,7 +395,8 @@ She's so cute...
 // Pos : 00004DA2
 #WRITE(PTR, $000031A0)
 //『３、４日もすると足の痛みもなくなったようた゛』
-Three or four days later, the pain in her foot had worn off.
+Three or four days later, the pain in her\n
+foot had worn off.
 <$00>
 
 
@@ -391,7 +405,8 @@ Three or four days later, the pain in her foot had worn off.
 // Pos : 00004DDE
 #WRITE(PTR, $000031F0)
 //『それとともに、マリアは面白いことをはし゛める』
-That's when Maria started showing other quirks of hers.
+That's when Maria started showing other\n
+quirks of hers.
 <$00>
 
 
@@ -409,7 +424,8 @@ She was especially nimble with her toes.
 // Pos : 00004E4C
 #WRITE(PTR, $00003288)
 //『はし゛めはひ゛っくりしたけと゛、見慣れてくるとなかなか可愛い』
-It weirded me out when I first saw it, but soon came to find it endearing.
+It weirded me out when I first saw it, but\n
+soon came to find it endearing.
 <$00>
 
 
@@ -535,7 +551,8 @@ I want you to stay.
 // Pos : 00005136
 #WRITE(PTR, $0000370E)
 //「記憶か゛戻るまて゛はいいよ」
-"It's okay for now. Just get your memories back."
+"It's okay for now. Just get your memories\n
+back."
 <$00>
 
 
@@ -553,7 +570,8 @@ I want you to stay.
 // Pos : 000051C4
 #WRITE(PTR, $000037D5)
 //『そうなんた゛。いつまて゛もこのままし゛ゃいけないんた゛…』
-That's how it is. We can't expect this to go on forever.
+That's how it is. We can't expect this to\n
+go on forever.
 <$00>
 
 
@@ -645,7 +663,8 @@ Yikes! Did I just say that?!
 // Pos : 0000541C
 #WRITE(PTR, $00003BA9)
 //「た゛ってマリアか゛いるとたすかるし」
-"You're convenient. I like having you around."
+"You're convenient. I like having you\n
+around."
 <$00>
 
 
@@ -663,7 +682,8 @@ Yikes! Did I just say that?!
 // Pos : 000054FA
 #WRITE(PTR, $00003D32)
 //『そうなんた゛。マリアは僕にとって、とても大きな存在なんた゛』
-That's when I realized Maria's company was precious to me.
+That's when I realized Maria's company was\n
+precious to me.
 <$00>
 
 
@@ -672,7 +692,9 @@ That's when I realized Maria's company was precious to me.
 // Pos : 0000552D
 #WRITE(PTR, $00003D96)
 //『その時僕の中て゛は、マリアの存在か゛とても大きくなってゆく予感か゛あった』
-After saying it out loud, I got the feeling that Maria's presence would greatly impact my future.
+After saying it out loud, I got the\n
+feeling that Maria's presence would\n
+greatly impact my future.
 <$00>
 
 
@@ -690,7 +712,8 @@ Still, we couldn't do this forever.
 // Pos : 000055D8
 #WRITE(PTR, $00003EDE)
 //『翌朝、目を覚ますとマリアの姿はなかった』
-When I woke up that morning, Maria was gone without a trace.
+When I woke up that morning, Maria was gone\n
+without a trace.
 <$00>
 
 
@@ -708,7 +731,8 @@ She left after all.
 // Pos : 0000564A
 #WRITE(PTR, $00003F62)
 //『彼女はあんなに親切にしてくれたのに、僕ときたら…』
-And here, I thought she had finally warmed up to me.
+And here, I thought she had finally\n
+warmed up to me.
 <$00>
 
 
@@ -717,7 +741,8 @@ And here, I thought she had finally warmed up to me.
 // Pos : 000056CF
 #WRITE(PTR, $00004061)
 //「短いあいた゛た゛ったけれと゛アリガトウ」
-"Our time together was short, but thank you nevertheless."
+"Our time together was short, but thank\n
+you nevertheless."
 <$00>
 
 
@@ -726,7 +751,8 @@ And here, I thought she had finally warmed up to me.
 // Pos : 00005708
 #WRITE(PTR, $000040A8)
 //「あとはアナタの気持ちした゛いヨ」
-"Where your story goes depends on your attitude."
+"Where your story goes depends on your\n
+attitude."
 <$00>
 
 

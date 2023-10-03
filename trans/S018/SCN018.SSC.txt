@@ -13,7 +13,9 @@
 // Pos : 00003762
 #WRITE(PTR, $00001FD6)
 //『車内にはそれそ゛れの武器を持った東洋人か゛、体を寄せあって押し黙っていた』
-Inside the van, a number of foreign men huddled together with weapons clutched tightly to their chests.
+Inside the van, a number of foreign men\n
+huddled together with weapons clutched\n
+tightly to their chests.
 <$00>
 
 
@@ -41,7 +43,9 @@ Boy drove the vehicle.
 #WRITE(PTR, $000021A0)
 #WRITE(PTR, $00002241)
 //『多分、この人達は新聞に出ていたチャイニーズ・マフィアた゛…』
-These people, along with Boy, were likely the triad members I read about in the newspaper.
+These people, along with Boy, were likely\n
+the triad members I read about in the\n
+newspaper.
 <$00>
 
 
@@ -66,7 +70,8 @@ D1Boy
 #WRITE(PTR, $000022E5)
 #WRITE(PTR, $0000250E)
 //「オレはこの人たちに命にかえても返さなきゃいけない恩か゛ある」
-"These men are giving their lives to return a favor for me."
+"These men are giving their lives to\n
+return a favor for me."
 <$00>
 
 
@@ -195,7 +200,8 @@ He took my handgun and showed me out to shoot.
 // Pos : 00003E6E
 #WRITE(PTR, $00002C45)
 //『ボーイを先頭に、男達は胸をはって歩きはし゛める』
-With Boy leading the way, the group of men puffed up with pride, and walked on.
+With Boy leading the way, the group of men\n
+puffed up with pride, and walked on.
 <$00>
 
 
@@ -213,7 +219,9 @@ I followed.
 // Pos : 00003EF5
 #WRITE(PTR, $00002D0B)
 //『ボーイたちの話て゛は、ヤクザはこのマンションの５階と６階を借りきっているのた゛という』
-According to Boy, the yakuza occupied the fifth and sixth floors of the apartment building.
+According to Boy, the yakuza occupied the\n
+fifth and sixth floors of the apartment\n
+building.
 <$00>
 
 
@@ -222,7 +230,8 @@ According to Boy, the yakuza occupied the fifth and sixth floors of the apartmen
 // Pos : 00004053
 #WRITE(PTR, $00002F2D)
 //『もうダメた゛！ あともと゛りは出来ない！』
-What was I thinking?! I can't handle this at all!
+What was I thinking?! I can't handle this\n
+at all!
 <$00>
 
 
@@ -231,7 +240,8 @@ What was I thinking?! I can't handle this at all!
 // Pos : 00004140
 #WRITE(PTR, $000030C4)
 //『そして銃撃戦か゛はし゛まった』
-The gunfight began before I could do anything.
+The gunfight began before I could do\n
+anything.
 <$00>
 
 
@@ -240,7 +250,8 @@ The gunfight began before I could do anything.
 // Pos : 000041FC
 #WRITE(PTR, $0000328C)
 //『耳鳴りと火薬の匂い…』
-The buzz in my ears and the scent of gunpowder...
+The buzz in my ears and the scent of\n
+gunpowder...
 <$00>
 
 
@@ -258,7 +269,8 @@ I wanted to vomit.
 // Pos : 0000423F
 #WRITE(PTR, $00003307)
 //『怖い…。も、もうダメた゛…』
-I'm so scared...! How did I think I could do this?!
+I'm so scared...! How did I think I could do\n
+this?!
 <$00>
 
 

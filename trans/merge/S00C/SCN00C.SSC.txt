@@ -1,0 +1,754 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#VAR(APTR, CUSTOMPOINTER)
+#VAR(BPTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", $000041F0, 16)
+#CREATEPTR(APTR, "LINEAR", $00000000, 32)
+#CREATEPTR(BPTR, "LINEAR", $00000030, 32)
+#JMP(-1)
+
+// 00000183
+// Pos : 00004373
+#WRITE(PTR, $00001FBC)
+//『マリアとの昼食、これは向こうの習慣なのた゛ろうか』
+Maria revealed interesting little habits and customs come lunchtime.
+<$00>
+
+
+
+// 000001B2
+// Pos : 000043A2
+#WRITE(PTR, $00001FF6)
+//『マリアは食事の時、片足を立てて座るのた゛。そして…』
+During the meal, she sat with one leg up. And also...
+<$00>
+
+
+
+// 0000020A
+// Pos : 000043FA
+#WRITE(PTR, $00002050)
+//「ハイ、これ」
+"Here, take a bite!"
+<$00>
+
+
+
+// 0000025B
+// Pos : 0000444B
+#WRITE(PTR, $000020EE)
+//「いいよ、自分て゛取るよ」
+"I'm good. You go ahead."
+<$00>
+
+
+
+// 000002D3
+// Pos : 000044C3
+#WRITE(PTR, $000021DC)
+//「ダメよォ、野菜とらなきゃイケナイのよォ」
+"That won't do. You know you need your vegetables!"
+<$00>
+
+
+
+// 0000034B
+// Pos : 0000453B
+#WRITE(PTR, $00002276)
+//「ハイ」
+"Here it comes!"
+<$00>
+
+
+
+// 000003C8
+// Pos : 000045B8
+#WRITE(PTR, $0000237D)
+//『マリアの理屈にはかなわない』
+There was no arguing with Maria.
+<$00>
+
+
+
+// 000003E9
+// Pos : 000045D9
+#WRITE(PTR, $000023BD)
+//『自分の食事はそっちのけにして、僕の口へ食へ゛物を運ふ゛…』
+She took her own food and shot it down my throat.
+<$00>
+
+
+
+// 0000041F
+// Pos : 0000460F
+#WRITE(PTR, $000023F7)
+//『これは相当なおせっかいた゛』
+She was quite literally "in my face" when it came to eating.
+<$00>
+
+
+
+// 00000470
+// Pos : 00004660
+#WRITE(PTR, $0000248B)
+//『マリアはケチャップか゛好きた゛。それとナイフの代わりにスプーンを使う』
+Maria adored ketchup, and preferred cutting her food with a spoon instead of a knife.
+<$00>
+
+
+
+// 000004B2
+// Pos : 000046A2
+#WRITE(PTR, $000024C5)
+//『そして、また…』
+And...
+<$00>
+
+
+
+// 000004E6
+// Pos : 000046D6
+#WRITE(PTR, $0000251F)
+//「あ……」
+"Ah!"
+<$00>
+
+
+
+// 00000554
+// Pos : 00004744
+#WRITE(PTR, $000025EC)
+//「ダッテ、もったいないて゛ショ？」
+"Sorry. One never likes to waste food, you know?"
+<$00>
+
+
+
+// 0000059F
+// Pos : 0000478F
+#WRITE(PTR, $00002652)
+//「マリア、ここ…口の横」
+"You have some food on the side of your mouth."
+<$00>
+
+
+
+// 000005E1
+// Pos : 000047D1
+#WRITE(PTR, $000026B7)
+//「ううん、こっち」
+"No, other side."
+<$00>
+
+
+
+// 000005F5
+// Pos : 000047E5
+#WRITE(PTR, $000026E8)
+//「うふっ」
+"Oops!"
+<$00>
+
+
+
+// 0000060F
+// Pos : 000047FF
+#WRITE(PTR, $0000274D)
+//『やっは゜りかわいい…』
+She's so cute...
+<$00>
+
+
+
+// 000006BB
+// Pos : 000048AB
+#WRITE(PTR, $00002836)
+//「ふーーーっ、こ゛ちそうさま」
+"Whew! Now, that hit the spot!"
+<$00>
+
+
+
+// 000006E8
+// Pos : 000048D8
+#WRITE(PTR, $00002892)
+//「マリア、キミの作ったオムレツ美味しかったよ」
+"Maria, that omelette you made was delicious!"
+<$00>
+
+
+
+// 00000728
+// Pos : 00004918
+#WRITE(PTR, $000028ED)
+//「マリアね、オムレツ得意なの」
+"Are omelettes your specialty or something?"
+<$00>
+
+
+
+// 0000075E
+// Pos : 0000494E
+#WRITE(PTR, $00002945)
+//「と゛こて゛覚えたの？」
+"Did that spark a memory?!"
+<$00>
+
+
+
+// 00000789
+// Pos : 00004979
+#WRITE(PTR, $000029A0)
+//「エ…」
+"I..."
+<$00>
+
+
+
+// 000007AD
+// Pos : 0000499D
+#WRITE(PTR, $000029F8)
+//「あ…覚えてないんた゛…」
+"Sorry... I don't remember."
+<$00>
+
+
+
+// 000007DA
+// Pos : 000049CA
+#WRITE(PTR, $00002A5A)
+//「…ウン」
+"Hrrm."
+<$00>
+
+
+
+// 00000800
+// Pos : 000049F0
+#WRITE(PTR, $00002AA2)
+//「ます゛いこと聞いちゃったかな…」
+"Maybe I shouldn't have asked that."
+<$00>
+
+
+
+// 00000830
+// Pos : 00004A20
+#WRITE(PTR, $00002B0D)
+//「ううん、そんなことないヨ」
+"No, you didn't do anything wrong."
+<$00>
+
+
+
+// 0000085E
+// Pos : 00004A4E
+#WRITE(PTR, $00002B55)
+//「こ゛めん……て゛もまた作ってくれる？」
+"I feel extra guilty asking this now, but would you mind making another for me?"
+<$00>
+
+
+
+// 000008D2
+// Pos : 00004AC2
+#WRITE(PTR, $00002C17)
+//「いいヨ。もちろん」
+"Of course. Coming right up."
+<$00>
+
+
+
+// 00000905
+// Pos : 00004AF5
+#WRITE(PTR, $00002CA0)
+//「こ゛ちそうさま」
+"Thank you."
+<$00>
+
+
+
+// 0000092C
+// Pos : 00004B1C
+#WRITE(PTR, $00002CE8)
+//「と゛う？ 僕の作ったオムレツ」
+"Well? How was the omolette I made?"
+<$00>
+
+
+
+// 00000960
+// Pos : 00004B50
+#WRITE(PTR, $00002D43)
+//「すっこ゛く美味しかったヨ」
+"It was sublime!"
+<$00>
+
+
+
+// 0000098F
+// Pos : 00004B7F
+#WRITE(PTR, $00002D8B)
+//「ほんとに？」
+"Really?"
+<$00>
+
+
+
+// 000009B4
+// Pos : 00004BA4
+#WRITE(PTR, $00002DE6)
+//「ウン。ワタシか゛作るのよりす゛っと美味しかったヨ」
+"Yep! Way better than the ones I make!"
+<$00>
+
+
+
+// 000009F5
+// Pos : 00004BE5
+#WRITE(PTR, $00002E2E)
+//「わあ、ほめすき゛た゛よ」
+"Aww, now you're just being nice."
+<$00>
+
+
+
+// 00000A20
+// Pos : 00004C10
+#WRITE(PTR, $00002E89)
+//「ウウン、ホントよ。アノネ、怒らないて゛ね…」
+"No, I mean it! Don't feel bad."
+<$00>
+
+
+
+// 00000A60
+// Pos : 00004C50
+#WRITE(PTR, $00002ED1)
+//「うん」
+"Mhmmm."
+<$00>
+
+
+
+// 00000A82
+// Pos : 00004C72
+#WRITE(PTR, $00002F2C)
+//「ワタシ、男の人の料理って、もっと美味しくないかと思ってたの」
+"I honestly think the food tastes better when the man of the house makes it."
+<$00>
+
+
+
+// 00000ACA
+// Pos : 00004CBA
+#WRITE(PTR, $00002F73)
+//「た゛からビックリしちゃった」
+"It's a nice surprise."
+<$00>
+
+
+
+// 00000AFC
+// Pos : 00004CEC
+#WRITE(PTR, $00002FBB)
+//「うれしいね、作りか゛いか゛あるよ」
+"Well, I'm happy to make them."
+<$00>
+
+
+
+// 00000B43
+// Pos : 00004D33
+#WRITE(PTR, $0000307D)
+//「また作ってくれる？」
+"Should I make more?"
+<$00>
+
+
+
+// 00000B64
+// Pos : 00004D54
+#WRITE(PTR, $000030B4)
+//「いいよ。もちろん！！」
+"Yes, of course!"
+<$00>
+
+
+
+// 00000BB2
+// Pos : 00004DA2
+#WRITE(PTR, $000031A0)
+//『３、４日もすると足の痛みもなくなったようた゛』
+Three or four days later, the pain in her foot had worn off.
+<$00>
+
+
+
+// 00000BEE
+// Pos : 00004DDE
+#WRITE(PTR, $000031F0)
+//『それとともに、マリアは面白いことをはし゛める』
+That's when Maria started showing other quirks of hers.
+<$00>
+
+
+
+// 00000C3A
+// Pos : 00004E2A
+#WRITE(PTR, $0000324E)
+//『とても器用に足の指を使う』
+She was especially nimble with her toes.
+<$00>
+
+
+
+// 00000C5C
+// Pos : 00004E4C
+#WRITE(PTR, $00003288)
+//『はし゛めはひ゛っくりしたけと゛、見慣れてくるとなかなか可愛い』
+It weirded me out when I first saw it, but soon came to find it endearing.
+<$00>
+
+
+
+// 00000CA9
+// Pos : 00004E99
+#WRITE(PTR, $000032E8)
+//『あ……』
+Ah...
+<$00>
+
+
+
+// 00000CBD
+// Pos : 00004EAD
+#WRITE(PTR, $00003319)
+//僕はマリアに微笑んた゛
+Smiled at Maria
+<$00>
+
+
+
+// 00000CCF
+// Pos : 00004EBF
+#WRITE(PTR, $00003322)
+//僕はマリアを見つめつつ゛けた
+Stared at Maria
+<$00>
+
+
+
+// 00000CE3
+// Pos : 00004ED3
+#WRITE(PTR, $0000332C)
+//僕はマリアから目をそらした
+Look away from Maria.
+<$00>
+
+
+
+// 00000D5D
+// Pos : 00004F4D
+#WRITE(PTR, $000033E5)
+//「アハ…」
+"Aha..."
+<$00>
+
+
+
+// 00000DB2
+// Pos : 00004FA2
+#WRITE(PTR, $00003499)
+//「ネェ…」
+"Hey."
+<$00>
+
+
+
+// 00000DFE
+// Pos : 00004FEE
+#WRITE(PTR, $000034ED)
+//「ん？」
+"Yes?"
+<$00>
+
+
+
+// 00000E49
+// Pos : 00005039
+#WRITE(PTR, $0000356B)
+//「ワタシ、ここにいてもいいのかな？」
+"Is it... really okay for me to stay here?"
+<$00>
+
+
+
+// 00000E6A
+// Pos : 0000505A
+#WRITE(PTR, $000035AA)
+//いいよ
+It's okay!
+<$00>
+
+
+
+// 00000E6E
+// Pos : 0000505E
+#WRITE(PTR, $000035B3)
+//記憶か゛戻るまて゛はいいよ
+It okay for now.
+<$00>
+
+
+
+// 00000E7F
+// Pos : 0000506F
+#WRITE(PTR, $000035BD)
+//いてほしいな
+I want you to stay.
+<$00>
+
+
+
+// 00000ECF
+// Pos : 000050BF
+#WRITE(PTR, $0000363F)
+//「いいよ」
+"It's okay!"
+<$00>
+
+
+
+// 00000F10
+// Pos : 00005100
+#WRITE(PTR, $0000369C)
+//「アリガトウ…」
+"Thank you..."
+<$00>
+
+
+
+// 00000F46
+// Pos : 00005136
+#WRITE(PTR, $0000370E)
+//「記憶か゛戻るまて゛はいいよ」
+"It's okay for now. Just get your memories back."
+<$00>
+
+
+
+// 00000FA7
+// Pos : 00005197
+#WRITE(PTR, $00003783)
+//「そう…そうた゛よね」
+"I see... That's fine, then.」
+<$00>
+
+
+
+// 00000FD4
+// Pos : 000051C4
+#WRITE(PTR, $000037D5)
+//『そうなんた゛。いつまて゛もこのままし゛ゃいけないんた゛…』
+That's how it is. We can't expect this to go on forever.
+<$00>
+
+
+
+// 00001026
+// Pos : 00005216
+#WRITE(PTR, $0000381E)
+//「いてほしいな」
+"I want you to stay."
+<$00>
+
+
+
+// 00001057
+// Pos : 00005247
+#WRITE(PTR, $00003885)
+//「ホントに！？」
+"Do you mean that?!"
+<$00>
+
+
+
+// 0000107D
+// Pos : 0000526D
+#WRITE(PTR, $000038FB)
+#WRITE(PTR, $0000396E)
+//た゛ってマリアか゛いないとさひ゛しいし
+You're great company.
+<$00>
+
+
+
+// 00001094
+// Pos : 00005284
+#WRITE(PTR, $00003904)
+#WRITE(PTR, $00003977)
+//た゛ってマリアか゛いるとたすかるし
+You're convenient.
+<$00>
+
+
+
+// 000010E1
+// Pos : 000052D1
+#WRITE(PTR, $00003981)
+//た゛ってマリアのこと…、好きた゛し
+I love you, Maria.
+<$00>
+
+
+
+// 00001141
+// Pos : 00005331
+#WRITE(PTR, $00003A15)
+//「た゛ってマリアのこと…、好きた゛し」
+"I love you, Maria."
+<$00>
+
+
+
+// 0000115A
+// Pos : 0000534A
+#WRITE(PTR, $00003A5C)
+//『うわ！ い、言っちゃった…』
+Yikes! Did I just say that?!
+<$00>
+
+
+
+// 0000118C
+// Pos : 0000537C
+#WRITE(PTR, $00003A9C)
+//「た゛ってマリアか゛いないとさひ゛しいし」
+"You're great company."
+<$00>
+
+
+
+// 000011F6
+// Pos : 000053E6
+#WRITE(PTR, $00003B27)
+//「アリガトウ！」
+"Thank you!"
+<$00>
+
+
+
+// 0000122C
+// Pos : 0000541C
+#WRITE(PTR, $00003BA9)
+//「た゛ってマリアか゛いるとたすかるし」
+"You're convenient. I like having you around."
+<$00>
+
+
+
+// 000012AF
+// Pos : 0000549F
+#WRITE(PTR, $00003C63)
+//「そう…アリガト…」
+"I see... Thanks."
+<$00>
+
+
+
+// 0000130A
+// Pos : 000054FA
+#WRITE(PTR, $00003D32)
+//『そうなんた゛。マリアは僕にとって、とても大きな存在なんた゛』
+That's when I realized Maria's company was precious to me.
+<$00>
+
+
+
+// 0000133D
+// Pos : 0000552D
+#WRITE(PTR, $00003D96)
+//『その時僕の中て゛は、マリアの存在か゛とても大きくなってゆく予感か゛あった』
+After saying it out loud, I got the feeling that Maria's presence would greatly impact my future.
+<$00>
+
+
+
+// 0000137B
+// Pos : 0000556B
+#WRITE(PTR, $00003DFA)
+//『て゛も、いつまて゛もこのままし゛ゃいけないんた゛よな……』
+Still, we couldn't do this forever.
+<$00>
+
+
+
+// 000013E8
+// Pos : 000055D8
+#WRITE(PTR, $00003EDE)
+//『翌朝、目を覚ますとマリアの姿はなかった』
+When I woke up that morning, Maria was gone without a trace.
+<$00>
+
+
+
+// 00001428
+// Pos : 00005618
+#WRITE(PTR, $00003F20)
+//『出ていっちゃったのか…』
+She left after all.
+<$00>
+
+
+
+// 0000145A
+// Pos : 0000564A
+#WRITE(PTR, $00003F62)
+//『彼女はあんなに親切にしてくれたのに、僕ときたら…』
+And here, I thought she had finally warmed up to me.
+<$00>
+
+
+
+// 000014DF
+// Pos : 000056CF
+#WRITE(PTR, $00004061)
+//「短いあいた゛た゛ったけれと゛アリガトウ」
+"Our time together was short, but thank you nevertheless."
+<$00>
+
+
+
+// 00001518
+// Pos : 00005708
+#WRITE(PTR, $000040A8)
+//「あとはアナタの気持ちした゛いヨ」
+"Where your story goes depends on your attitude."
+<$00>
+
+
+
+// 00001542
+// Pos : 00005732
+#WRITE(PTR, $000040E4)
+//「それし゛ゃア」
+"Until next time!"
+<$00>
+
+
+
+// 0000158A
+// Pos : 0000577A
+#WRITE(PTR, $000041BE)
+//セーブ４
+SAVE 4
+<$00>
+
+
+
+#WRITE(APTR, $00000008)
+#WRITE(BPTR, $0000000C)
+

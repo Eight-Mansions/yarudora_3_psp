@@ -22,7 +22,8 @@ My life with Maria started over.
 // Pos : 00006BD8
 #WRITE(PTR, $00002062)
 //『驚いたことに、マリアの記憶は戻っていた』
-I was surprised to learn that Maria's memories were back in force.
+I was surprised to learn that Maria's\n
+memories were back in force.
 <$00>
 
 
@@ -31,7 +32,8 @@ I was surprised to learn that Maria's memories were back in force.
 // Pos : 00006BF7
 #WRITE(PTR, $00002085)
 //『なのに、その表情はと゛こか切なけ゛に見える』
-But in others ways, I still saw the pain in her face.
+But in others ways, I still saw the pain in\n
+her face.
 <$00>
 
 
@@ -67,7 +69,8 @@ Were they what restored Maria's memory?
 // Pos : 00006D6B
 #WRITE(PTR, $00002391)
 //『聞きたいことはたくさんあった。て゛もマリアは…』
-There were so many things I wanted to ask her, but Maria...
+There were so many things I wanted to ask\n
+her, but Maria...
 <$00>
 
 
@@ -76,7 +79,8 @@ There were so many things I wanted to ask her, but Maria...
 // Pos : 00006DED
 #WRITE(PTR, $00002423)
 //「ダイジョーブ。なにも心配するコトないヨ」
-"I'm okay. There's nothing to worry about."
+"I'm okay. There's nothing to worry\n
+about."
 <$00>
 
 
@@ -121,7 +125,8 @@ Not even about Boy.
 // Pos : 00006F2E
 #WRITE(PTR, $0000264E)
 //『と、笑って答える』
-Still, she smiled wide when I brought him up.
+Still, she smiled wide when I brought\n
+him up.
 <$00>
 
 
@@ -193,7 +198,8 @@ What could I do for Maria now?
 // Pos : 00007156
 #WRITE(PTR, $000029EA)
 //「フィリピンはね、１１月にはもうみんなか゛メリークリスマス…」
-"By November, everyone in the Philippines starts celebrating Christmas."
+"By November, everyone in the Philippines\n
+starts celebrating Christmas."
 <$00>
 
 
@@ -202,7 +208,8 @@ What could I do for Maria now?
 // Pos : 000071A3
 #WRITE(PTR, $00002A31)
 //「海岸沿いのロハスボリバードのヤシの木は、小さな電気て゛イッパイに飾られるんた゛」
-"They decorate the trees along Roxas Boulavard in millions of tiny lights."
+"They decorate the trees along Roxas\n
+Boulavard in millions of tiny lights."
 <$00>
 
 
@@ -229,7 +236,9 @@ What could I do for Maria now?
 // Pos : 000072D4
 #WRITE(PTR, $00002C40)
 //「メリーゴーラウンドやジェットコースター、マニラの人か゛みんな集まって」
-"People from all across Manila flock to ride the merry-go-round and the roller coasters."
+"People from all across Manila flock to\n
+ride the merry-go-round and the roller\n
+coasters."
 <$00>
 
 
@@ -393,7 +402,8 @@ D1Boy
 // Pos : 000076C5
 #WRITE(PTR, $00003385)
 //「ウン、にき゛やかな人は゛かり…とてもいいトコロよ…」
-"Yeah. Everyone's so sweet and young at heart. It's really a great place."
+"Yeah. Everyone's so sweet and young at\n
+heart. It's really a great place."
 <$00>
 
 
@@ -510,7 +520,9 @@ I need the tour!
 // Pos : 0000791A
 #WRITE(PTR, $0000385D)
 //「おイモのアイスクリームか゛あってネ、ムラサキ色してるんた゛けと゛とてもオイシイよ」
-"We could go for ube ice cream! It has a distinct purple color and tastes wonderful!"
+"We could go for ube ice cream! It has a\n
+distinct purple color and tastes\n
+wonderful!"
 <$00>
 
 
@@ -564,7 +576,8 @@ I need the tour!
 // Pos : 00007B45
 #WRITE(PTR, $00003CF7)
 //『ボーイは冷たい視線て゛僕をにらんて゛いる』
-Boy stared directly at me with an stone-cold look in his eye.
+Boy stared directly at me with an\n
+stone-cold look in his eye.
 <$00>
 
 
@@ -600,7 +613,8 @@ Boy stared directly at me with an stone-cold look in his eye.
 // Pos : 00007D27
 #WRITE(PTR, $00003FCB)
 //「ヒンデ・プェデェ！！ ムリた゛よワタシた゛け帰るナンテ！！」
-"Hinde pwede! I can't! There's no way I'd go back all by myself!"
+"Hinde pwede! I can't! There's no way I'd go\n
+back all by myself!"
 <$00>
 
 
@@ -691,7 +705,8 @@ Say nothing
 // Pos : 000080C4
 #WRITE(PTR, $00004574)
 //「マリア、ニホンを出ろ。イイナ」
-"Maria, we are leaving Japan. It's better this way."
+"Maria, we are leaving Japan. It's better\n
+this way."
 <$00>
 
 
@@ -700,7 +715,8 @@ Say nothing
 // Pos : 0000815D
 #WRITE(PTR, $000046EB)
 //「マリア、オマエはフィリピーナた゛。ニホンジンとはチガウ…ワスレルな」
-"Maria. You aren't Japanese. Don't forget that."
+"Maria. You aren't Japanese. Don't forget\n
+that."
 <$00>
 
 
@@ -709,7 +725,8 @@ Say nothing
 // Pos : 000081EA
 #WRITE(PTR, $00004799)
 //『僕とマリアを残して、ボーイの広い背中か゛遠さ゛かっていった…』
-He left the two of us behind, his silhouette narrowing in the distance.
+He left the two of us behind, his\n
+silhouette narrowing in the distance.
 <$00>
 
 
@@ -853,7 +870,8 @@ I must have said something to hurt her.
 // Pos : 00008828
 #WRITE(PTR, $00005173)
 //「ちっちゃい時にネ、ワタシ、ボーイといっ$しょに香港へ渡ったの…」
-"When I was small, Boy and I went to Hong Kong."
+"When I was small, Boy and I went to Hong\n
+Kong."
 <$00>
 
 
@@ -863,7 +881,8 @@ I must have said something to hurt her.
 #WRITE(PTR, $0000528B)
 #WRITE(PTR, $00005C5A)
 //『マリアは、香港の九龍城（カウルンシン）て゛過こ゛した日々を語ってくれた』
-Maria proceeded to tell me about her days in Kowloon Walled City.
+Maria proceeded to tell me about her days in\n
+Kowloon Walled City.
 <$00>
 
 
@@ -881,7 +900,9 @@ Maria proceeded to tell me about her days in Kowloon Walled City.
 // Pos : 000089A3
 #WRITE(PTR, $0000535D)
 //「ボーイは英語か゛て゛きたからすく゛に組織の手伝いをはし゛めたけと゛…」
-"Because Boy spoke English, he became a vital asset for the organization almost immediately."
+"Because Boy spoke English, he became a vital\n
+asset for the organization almost\n
+immediately."
 <$00>
 
 
@@ -890,7 +911,8 @@ Maria proceeded to tell me about her days in Kowloon Walled City.
 // Pos : 000089FE
 #WRITE(PTR, $000053BC)
 //「とても忙しくて、めったに家に帰ることか゛なかった…」
-"He was always busy, and rarely got the chance to come home."
+"He was always busy, and rarely got the chance\n
+to come home."
 <$00>
 
 
@@ -918,7 +940,8 @@ That was when the incident occured...
 // Pos : 00008AFD
 #WRITE(PTR, $00005685)
 //『組織は、マリアに仕事をさせようとしていた』
-The organization asked that Maria be put to work too.
+The organization asked that Maria be put to\n
+work too.
 <$00>
 
 
@@ -937,7 +960,9 @@ Boy adamently refused his superiors.
 // Pos : 00008B4F
 #WRITE(PTR, $000056EA)
 //『組織はマリアを見逃すかわりに、ある条件をつけた』
-The organization was willing to turn a blind eye to Maria for Boy, on one condition.
+The organization was willing to turn a\n
+blind eye to Maria for Boy, on one\n
+condition.
 <$00>
 
 
@@ -947,7 +972,8 @@ The organization was willing to turn a blind eye to Maria for Boy, on one condit
 #WRITE(PTR, $00005805)
 #WRITE(PTR, $0000633E)
 //『そしてふたりは、今年のはし゛めに日本に渡ってきたのた゛という…』
-Maria and Boy move to Japan at the start of the new year.
+Maria and Boy move to Japan at the start of\n
+the new year.
 <$00>
 
 
@@ -957,7 +983,8 @@ Maria and Boy move to Japan at the start of the new year.
 #WRITE(PTR, $00005910)
 #WRITE(PTR, $000063E5)
 //「オハヨウ、コンバンワ、サヨウナラ…」
-"'O-HA-YO-U', 'KO-N-BA-N WA', 'SA-YO-NA-RA'..."
+"'O-HA-YO-U', 'KO-N-BA-N WA',\n
+'SA-YO-NA-RA'..."
 <$00>
 
 
@@ -967,7 +994,8 @@ Maria and Boy move to Japan at the start of the new year.
 #WRITE(PTR, $00005957)
 #WRITE(PTR, $0000641F)
 //「それからの半年、ワタシは毎日、日本語を勉強させられたワ」
-"Upon their agreement, I started to study Japanese daily for the next six months."
+"Upon their agreement, I started to study\n
+Japanese daily for the next six months."
 <$00>
 
 
@@ -977,7 +1005,8 @@ Maria and Boy move to Japan at the start of the new year.
 #WRITE(PTR, $00005A04)
 #WRITE(PTR, $000064D6)
 //「そしていよいよ明日は日本た゛という日に…」
-"Then, the night before I finally left for Japan came."
+"Then, the night before I finally left\n
+for Japan came."
 <$00>
 
 
@@ -987,7 +1016,8 @@ Maria and Boy move to Japan at the start of the new year.
 #WRITE(PTR, $00005A7A)
 #WRITE(PTR, $00006525)
 //「ワタシに日本語を教えてくれたおし゛いちゃんは」
-"The old man who tought me Japanese read my palm."
+"The old man who tought me Japanese read my\n
+palm."
 <$00>
 
 
@@ -997,7 +1027,8 @@ Maria and Boy move to Japan at the start of the new year.
 #WRITE(PTR, $00005AE8)
 #WRITE(PTR, $000065A3)
 //「ワタシの手を長いこと見つめたあとに言ったワ」
-"He looked at it for a long while. Then, he said..."
+"He looked at it for a long while. Then, he\n
+said..."
 <$00>
 
 
@@ -1019,7 +1050,8 @@ D1Old Man
 #WRITE(PTR, $00005B79)
 #WRITE(PTR, $0000660E)
 //「マリア…。おまえは日本て゛、おまえにとって大切な意味を持つ人に出会うた゛ろう」
-"Maria. In Japan, you shall meet someone of grave importance to you."
+"Maria. In Japan, you shall meet someone of\n
+grave importance to you."
 <$00>
 
 
@@ -1029,7 +1061,8 @@ D1Old Man
 #WRITE(PTR, $00005BD0)
 #WRITE(PTR, $00006665)
 //「おまえか゛幸せになるかならぬかは、その相手次第し゛ゃな…」
-"Whether you find happiness or not depends on that someone's actions."
+"Whether you find happiness or not depends\n
+on that someone's actions."
 <$00>
 
 
@@ -1038,7 +1071,8 @@ D1Old Man
 // Pos : 00008F0D
 #WRITE(PTR, $00005C9C)
 //『そこはまるて゛、迷路のような街た゛ったという』
-The city Maria grew up in was more like a maze.
+The city Maria grew up in was more like a\n
+maze.
 <$00>
 
 
@@ -1047,7 +1081,9 @@ The city Maria grew up in was more like a maze.
 // Pos : 00008F4B
 #WRITE(PTR, $00005CDE)
 //『ボーイは英語か゛て゛きたのて゛、すく゛に組織の手伝いをはし゛めた』
-Because Boy had learned English, he'd become a vital asset for the organization almost immediately.
+Because Boy had learned English, he'd become\n
+a vital asset for the organization almost\n
+immediately.
 <$00>
 
 
@@ -1056,7 +1092,9 @@ Because Boy had learned English, he'd become a vital asset for the organization 
 // Pos : 00008FB4
 #WRITE(PTR, $00005D46)
 //『言葉か゛わからないマリアは、いつもひとりて゛時間をつふ゛していたらしい』
-Because Maria hadn't learned to understand what they were saying, she'd spend most of her time there alone.
+Because Maria hadn't learned to understand\n
+what they were saying, she'd spend most of\n
+her time there alone.
 <$00>
 
 
@@ -1074,7 +1112,8 @@ Because Maria hadn't learned to understand what they were saying, she'd spend mo
 // Pos : 00009068
 #WRITE(PTR, $00005E08)
 //「ワタシのような子供は相手にしてくれなかった…」
-"It was hard for people to stop what they were doing just to take time out for me."
+"It was hard for people to stop what they\n
+were doing just to take time out for me."
 <$00>
 
 
@@ -1092,7 +1131,8 @@ Because Maria hadn't learned to understand what they were saying, she'd spend mo
 // Pos : 00009158
 #WRITE(PTR, $000060A8)
 //『組織はマリアに仕事をさせようとしていた』
-But then, the organization had asked to put Maria to work too.
+But then, the organization had asked to put\n
+Maria to work too.
 <$00>
 
 
@@ -1110,7 +1150,8 @@ But then, the organization had asked to put Maria to work too.
 // Pos : 0000920A
 #WRITE(PTR, $000061BD)
 //『マリアを見逃すかわりに、ボーイにある条件をつけた』
-was willing to turn a blind eye to Maria for Boy, on one condition.
+was willing to turn a blind eye to Maria\n
+for Boy, on one condition.
 <$00>
 
 
@@ -1128,7 +1169,8 @@ With those words, he sent me on my way.
 // Pos : 00009429
 #WRITE(PTR, $0000673C)
 //「いっは゜い歩いたよ。たくさんの人にも会った…」
-"I walked for a long time. I passed by many, many people."
+"I walked for a long time. I passed by many,\n
+many people."
 <$00>
 
 
@@ -1164,7 +1206,8 @@ I couldn't say anything.
 // Pos : 000094ED
 #WRITE(PTR, $000068A6)
 //『マリアの人生か゛僕にかかってるなんて…』
-Maria's future somehow rested in my hands.
+Maria's future somehow rested in my\n
+hands.
 <$00>
 
 

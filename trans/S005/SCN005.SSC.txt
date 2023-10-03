@@ -13,7 +13,8 @@
 // Pos : 00005148
 #WRITE(PTR, $00001FCC)
 //『しきりに足をさすっているけと゛、大丈夫かな…？』
-She rubbed her ankle a lot. I wondered if she was okay.
+She rubbed her ankle a lot. I wondered if she\n
+was okay.
 <$00>
 
 
@@ -22,7 +23,8 @@ She rubbed her ankle a lot. I wondered if she was okay.
 // Pos : 00005173
 #WRITE(PTR, $00002006)
 //『額の傷は強い打撲の痕みたいた゛』
-The cut on her forehead told me she had hit her head something serious as well.
+The cut on her forehead told me she had hit\n
+her head something serious as well.
 <$00>
 
 
@@ -49,7 +51,9 @@ The bleeded stopped, at least.
 // Pos : 000051EA
 #WRITE(PTR, $000020E3)
 //『…あらためて見ると可愛いし゛ゃないか…』
-But, because I stood so close to her, I couldn't help but notice how pretty she was.
+But, because I stood so close to her, I\n
+couldn't help but notice how pretty she\n
+was.
 <$00>
 
 
@@ -103,7 +107,8 @@ But, because I stood so close to her, I couldn't help but notice how pretty she 
 // Pos : 000053ED
 #WRITE(PTR, $000023F4)
 //「ねえ、出会ったときから思ってたんた゛けと゛、マリアの国って…、フィリピン？」
-"Ohhh! I meant to ask you this sooner, but are you Filipino?"
+"Ohhh! I meant to ask you this sooner, but\n
+are you Filipino?"
 <$00>
 
 
@@ -184,7 +189,8 @@ Is she serious?
 // Pos : 00005606
 #WRITE(PTR, $00002762)
 //『自分の生まれた国も、今住んて゛いるところさえわからないなんて…』
-She forgot both her birthplace and her current address.
+She forgot both her birthplace and her\n
+current address.
 <$00>
 
 
@@ -193,7 +199,8 @@ She forgot both her birthplace and her current address.
 // Pos : 0000563B
 #WRITE(PTR, $0000279C)
 //『もしかして、あの額の傷のせい…？』
-Did that blow to the head she got scramble to her memory?
+Did that blow to the head she got scramble\n
+to her memory?
 <$00>
 
 
@@ -220,7 +227,7 @@ I need her private info
 // Pos : 000056C8
 #WRITE(PTR, $0000284B)
 //『た゛けと゛、この子の様子を見てると…』
-When I considered her circumstances, 
+When I considered her circumstances,
 <$00>
 
 
@@ -229,7 +236,8 @@ When I considered her circumstances,
 // Pos : 000056ED
 #WRITE(PTR, $00002885)
 //『これはなにか…、たた゛事て゛はないような感し゛か゛する…』
-it made sense that she wouldn't remember anything.
+it made sense that she wouldn't remember\n
+anything.
 <$00>
 
 
@@ -274,7 +282,8 @@ Don't pry
 // Pos : 00005802
 #WRITE(PTR, $00002A24)
 //「さっきからパトカーや警官か゛たくさんこのあたりを探しているけれと゛…」
-"As you know, we had a huge police presence in the area."
+"As you know, we had a huge police presence in\n
+the area."
 <$00>
 
 
@@ -337,7 +346,9 @@ Is this what amnesia looks like?
 // Pos : 000059DB
 #WRITE(PTR, $00002D73)
 //『おそらく彼女はと゛こかから逃け゛てくる途中て゛、頭を強く打って…』
-She must've she been running away from someone when she accidentally hit her head."
+She must've she been running away from\n
+someone when she accidentally hit her\n
+head."
 <$00>
 
 
@@ -346,7 +357,8 @@ She must've she been running away from someone when she accidentally hit her hea
 // Pos : 00005A13
 #WRITE(PTR, $00002DAD)
 //『額の傷と、足首を痛めているのも、そのために違いない…』
-That explained the forehead cut and the sore ankle.
+That explained the forehead cut and the\n
+sore ankle.
 <$00>
 
 
@@ -355,7 +367,8 @@ That explained the forehead cut and the sore ankle.
 // Pos : 00005A43
 #WRITE(PTR, $00002DE7)
 //『記憶をなくしても、心細さと恐怖心た゛けは残っているんた゛…』
-Although she'd lost her long-term memory, her immediate fears remained. 
+Although she'd lost her long-term\n
+memory, her immediate fears remained.
 <$00>
 
 
@@ -364,7 +377,8 @@ Although she'd lost her long-term memory, her immediate fears remained.
 // Pos : 00005A78
 #WRITE(PTR, $00002E21)
 //『た゛からあんなにおひ゛えて、トイレに隠れていたりしたんた゛…』
-Why else would she have frightfully locked herself in my bathroom?
+Why else would she have frightfully\n
+locked herself in my bathroom?
 <$00>
 
 
@@ -373,7 +387,8 @@ Why else would she have frightfully locked herself in my bathroom?
 // Pos : 00005AAA
 #WRITE(PTR, $00002E5B)
 //『て゛も、と゛うしよう…』
-And the bigger question: Where did we go from here?
+And the bigger question: Where did we go\n
+from here?
 <$00>
 
 
@@ -400,7 +415,9 @@ I don't want any trouble!
 // Pos : 00005B51
 #WRITE(PTR, $00002F63)
 //『その後、何となく彼女と距離をとりはし゛めた僕は、当たりさわりのない話題をかわしなか゛ら朝を迎えた』
-I slept with one eye open that night. I thought up a few harmless topics of conversation for the morning.
+I slept with one eye open that night. I\n
+thought up a few harmless topics of\n
+conversation for the morning.
 <$00>
 
 
@@ -418,7 +435,8 @@ Only... She wasn't there.
 // Pos : 00005BEE
 #WRITE(PTR, $0000309D)
 //『彼女は僕か゛うたた寝をしている間に出ていったらしい』
-She left the apartment after I fell asleep.
+She left the apartment after I fell\n
+asleep.
 <$00>
 
 
@@ -427,7 +445,8 @@ She left the apartment after I fell asleep.
 // Pos : 00005C31
 #WRITE(PTR, $000030DF)
 //『痛む足をひきす゛って…。朝方迄、雨は降っていたはす゛なのに…』
-It had rained well into the early morning. Her ankle was still injured.
+It had rained well into the early\n
+morning. Her ankle was still injured.
 <$00>
 
 
@@ -436,7 +455,8 @@ It had rained well into the early morning. Her ankle was still injured.
 // Pos : 00005C7C
 #WRITE(PTR, $00003121)
 //『少し胸か゛痛んた゛。た゛けと゛仕方ないさ…』
-I didn't know what I was expecting, but my heart sank a little all the same.
+I didn't know what I was expecting, but my\n
+heart sank a little all the same.
 <$00>
 
 
@@ -445,7 +465,8 @@ I didn't know what I was expecting, but my heart sank a little all the same.
 // Pos : 00005CBB
 #WRITE(PTR, $00003163)
 //『僕た゛って面倒なことには巻き込まれたくないし』
-Then again, I never wanted to get caught up in some scandal either.
+Then again, I never wanted to get caught up in\n
+some scandal either.
 <$00>
 
 
@@ -454,7 +475,8 @@ Then again, I never wanted to get caught up in some scandal either.
 // Pos : 00005CE5
 #WRITE(PTR, $0000319D)
 //『僕は軽く頭を振って、顔を洗いに台所へ立った』
-I shook my head and dragged myself into the kitchen to wash my face.
+I shook my head and dragged myself into the\n
+kitchen to wash my face.
 <$00>
 
 
@@ -463,7 +485,8 @@ I shook my head and dragged myself into the kitchen to wash my face.
 // Pos : 00005D9E
 #WRITE(PTR, $000032FA)
 //「ねえっ、そのバッグの中に何か入ってるんし゛ゃない？」
-"You know, we might find a clue or two in your purse."
+"You know, we might find a clue or two in\n
+your purse."
 <$00>
 
 
@@ -481,7 +504,9 @@ I shook my head and dragged myself into the kitchen to wash my face.
 // Pos : 00005E4B
 #WRITE(PTR, $000033F2)
 //「ほら、アドレス帳とか何か、身元のわかるやつ」
-"An address book, maybe? If you kept a list of emergency contacts, we can give them a phone call."
+"An address book, maybe? If you kept a list of\n
+emergency contacts, we can give them a phone\n
+call."
 <$00>
 
 
@@ -508,7 +533,8 @@ Woo Mama, THAT is a lot of cash!
 // Pos : 00006072
 #WRITE(PTR, $0000379B)
 //『すこ゛い…、３０万、いやそれ以上はある…』
-That's a good... 300, 000 yen and then some!』
+That's a good... 300, 000 yen and then\n
+some!』
 <$00>
 
 
@@ -544,7 +570,8 @@ That's a good... 300, 000 yen and then some!』
 // Pos : 0000618B
 #WRITE(PTR, $00003989)
 //『驚いたマリアの指先に現れたものは…』　　
-The object Maria held in her hands threw us for a loop.
+The object Maria held in her hands threw us\n
+for a loop.
 <$00>
 
 
@@ -562,7 +589,8 @@ It looked like something from a movie.
 // Pos : 00006209
 #WRITE(PTR, $00003A1D)
 //『小さな護身用の…』
-It was small. Designed for little more than self-defense.
+It was small. Designed for little more\n
+than self-defense.
 <$00>
 
 
@@ -655,7 +683,8 @@ Reach for the handgun
 // Pos : 000063A0
 #WRITE(PTR, $00003D3F)
 //『そう言ってマリアはうつむいてしまった…』
-Maria shouted and buried her face in her hands.
+Maria shouted and buried her face in her\n
+hands.
 <$00>
 
 
@@ -664,7 +693,8 @@ Maria shouted and buried her face in her hands.
 // Pos : 000063C6
 #WRITE(PTR, $00003D79)
 //『まさか拳銃か゛出てくるなんて…』
-I, for one, never expected a handgun to pop out of that purse.
+I, for one, never expected a handgun to pop\n
+out of that purse.
 <$00>
 
 
@@ -673,7 +703,8 @@ I, for one, never expected a handgun to pop out of that purse.
 // Pos : 000063E7
 #WRITE(PTR, $00003DB3)
 //『何か゛あったかわからないけれと゛、彼女は犯罪に関わっている…』
-What were the odds that Maria was involved in some sort of crime?
+What were the odds that Maria was involved\n
+in some sort of crime?
 <$00>
 
 
@@ -709,7 +740,8 @@ Inspect the handgun
 // Pos : 000064AE
 #WRITE(PTR, $00003EC2)
 //「ねえ、悪いけれと゛朝になったら出ていってくれる…？」
-"I'm sorry to have to say this, but you should leave in the morning."
+"I'm sorry to have to say this, but you\n
+should leave in the morning."
 <$00>
 
 
@@ -718,7 +750,8 @@ Inspect the handgun
 // Pos : 000064D8
 #WRITE(PTR, $00003F1A)
 //『僕はとてもマリアの顔を見ることは出来なかった』
-I barely looked Maria in the eye when I spoke.
+I barely looked Maria in the eye when I\n
+spoke.
 <$00>
 
 
@@ -727,7 +760,8 @@ I barely looked Maria in the eye when I spoke.
 // Pos : 00006504
 #WRITE(PTR, $00003F54)
 //『目の前にある拳銃か゛、不気味に輝いていた…』
-All I saw was the ominous gleen that came off the handgun.
+All I saw was the ominous gleen that came\n
+off the handgun.
 <$00>
 
 
@@ -763,7 +797,8 @@ I knew she'd have to limp through it.
 // Pos : 0000658C
 #WRITE(PTR, $00004089)
 //『僕は出て行く彼女に背を向け、見送りもせす゛に部屋の真ん中て゛身体を固くしていた…』
-My body froze and I turned away. I didn't have it in me to see her off.
+My body froze and I turned away. I didn't\n
+have it in me to see her off.
 <$00>
 
 
@@ -790,7 +825,8 @@ I never stopped thinking about it.
 // Pos : 00006651
 #WRITE(PTR, $00004205)
 //『もし…、もしもあの時…、僕か゛もう一歩踏み込んて゛彼女に手を差し伸へ゛ていたら…』
-If only... If only I stepped up and took her hand.
+If only... If only I stepped up and took her\n
+hand.
 <$00>
 
 
@@ -799,7 +835,8 @@ If only... If only I stepped up and took her hand.
 // Pos : 00006696
 #WRITE(PTR, $0000423F)
 //『彼女の人生は、そして僕の人生はと゛う変わっていたのた゛ろうって…』
-How different would our lives look now, had I helped her?
+How different would our lives look now,\n
+had I helped her?
 <$00>
 
 
@@ -808,7 +845,8 @@ How different would our lives look now, had I helped her?
 // Pos : 000066E0
 #WRITE(PTR, $000042F9)
 //『拳銃は冷たく鈍い光を放っている』
-The handgun felt cold to the touch and emitted a dull gleen.
+The handgun felt cold to the touch and\n
+emitted a dull gleen.
 <$00>
 
 
@@ -817,7 +855,8 @@ The handgun felt cold to the touch and emitted a dull gleen.
 // Pos : 00006703
 #WRITE(PTR, $00004333)
 //『信し゛られない…。こんなものを間近て゛見るなんて…』
-I never thought I would see something like it up close.
+I never thought I would see something like\n
+it up close.
 <$00>
 
 
@@ -826,7 +865,8 @@ I never thought I would see something like it up close.
 // Pos : 00006730
 #WRITE(PTR, $0000436D)
 //『僕は言葉をなくして、目の前にあるそれを見つめ続けた…』
-At a loss for words, I stared at the bizarre object.
+At a loss for words, I stared at the bizarre\n
+object.
 <$00>
 
 
@@ -862,7 +902,8 @@ It was heavy.
 // Pos : 0000686B
 #WRITE(PTR, $00004618)
 //『マリアは髪をかきむしって、うつむいたまま押し黙ってしまった』
-Maria fell silent. She looked downcast, ready to tear her own hair out.
+Maria fell silent. She looked downcast,\n
+ready to tear her own hair out.
 <$00>
 
 
@@ -898,7 +939,8 @@ Say something
 // Pos : 00006934
 #WRITE(PTR, $00004741)
 //「落ちついて。とにかく一緒に考えてみよう」
-"Don't beat yourself up. There's still time for us to get to the bottom of this."
+"Don't beat yourself up. There's still\n
+time for us to get to the bottom of this."
 <$00>
 
 
@@ -907,7 +949,8 @@ Say something
 // Pos : 0000694E
 #WRITE(PTR, $00004782)
 //『拳銃か゛出てきたせいて゛、マリアはひと゛くおひ゛えている』
-Maria's complexion paled at the sight of the handgun.
+Maria's complexion paled at the sight of\n
+the handgun.
 <$00>
 
 
@@ -961,7 +1004,9 @@ Words escaped me.
 // Pos : 00006A28
 #WRITE(PTR, $0000490F)
 //『手の中には、ついいましか゛たのマリアのやわらかな肩と…』
-Two sensations lingered on my fingertips. The first was the softeness of Maria's shoulder.
+Two sensations lingered on my fingertips.\n
+The first was the softeness of Maria's\n
+shoulder.
 <$00>
 
 
@@ -1051,7 +1096,8 @@ My words failed to help in the slightest.
 // Pos : 00006BDA
 #WRITE(PTR, $00004BF7)
 //『テーブルの上て゛は拳銃か゛冷たく輝いている』
-The handgun atop the table emitted a chilling gleen.
+The handgun atop the table emitted a\n
+chilling gleen.
 <$00>
 
 
@@ -1088,7 +1134,8 @@ What should I do?
 // Pos : 00006CB2
 #WRITE(PTR, $00004DB2)
 //『よかった…。気をとり直してくれたみたいた゛』
-Phew! Looks like that made her feel better.
+Phew! Looks like that made her feel\n
+better.
 <$00>
 
 
@@ -1106,7 +1153,8 @@ But at what cost?
 // Pos : 00006CEB
 #WRITE(PTR, $00004E2E)
 //『テーブルの上て゛は相変わらす゛、拳銃か゛鈍い光を放っていた…』
-All the while, that strange handgun atop the table emitted a chilling gleen.
+All the while, that strange handgun atop\n
+the table emitted a chilling gleen.
 <$00>
 
 
@@ -1124,7 +1172,8 @@ If only there were some way I could help.
 // Pos : 00006D5D
 #WRITE(PTR, $00004EE1)
 //『僕は言葉を失う。拳銃の重さか゛身体にひひ゛く』
-I couldn't speak. The weight of the handgun sent shivers throughout my entire body.
+I couldn't speak. The weight of the handgun\n
+sent shivers throughout my entire body.
 <$00>
 
 
@@ -1133,7 +1182,8 @@ I couldn't speak. The weight of the handgun sent shivers throughout my entire bo
 // Pos : 00006DBB
 #WRITE(PTR, $00004F49)
 //『手の中のそいつは冷たく鈍く輝いて押し黙っている…』
-The object in my hands felt cold to the touch and emitted a dull gleen.
+The object in my hands felt cold to the\n
+touch and emitted a dull gleen.
 <$00>
 
 

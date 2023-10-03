@@ -13,7 +13,9 @@
 // Pos : 00006AFE
 #WRITE(PTR, $00001FAC)
 //『１０月もなかは゛を過き゛るとす゛いふ゛んと風か゛つめたい』
-The windy weather in the district had really picked up once we'd hit mid-October.
+The windy weather in the district had\n
+really picked up once we'd hit\n
+mid-October.
 <$00>
 
 
@@ -22,7 +24,8 @@ The windy weather in the district had really picked up once we'd hit mid-October
 // Pos : 00006B2F
 #WRITE(PTR, $00001FE6)
 //『広い公園のわりには人の数はまは゛らた゛』
-Still, public park visitors stayed roughly the same.
+Still, public park visitors stayed\n
+roughly the same.
 <$00>
 
 
@@ -31,7 +34,8 @@ Still, public park visitors stayed roughly the same.
 // Pos : 00006B57
 #WRITE(PTR, $00002020)
 //『落ち葉を踏む音か゛、やけにひひ゛く』
-If I was being honest, the crunches of leaves under our feet were quite grating.
+If I was being honest, the crunches of\n
+leaves under our feet were quite grating.
 <$00>
 
 
@@ -60,7 +64,8 @@ If I was being honest, the crunches of leaves under our feet were quite grating.
 // Pos : 00006C3C
 #WRITE(PTR, $00002161)
 //『僕たちは拳銃を埋めたあの樹の下に立ってみた』
-We stood beneath the tree where we buried the handgun.
+We stood beneath the tree where we buried\n
+the handgun.
 <$00>
 
 
@@ -87,7 +92,8 @@ We stood beneath the tree where we buried the handgun.
 // Pos : 00006CE6
 #WRITE(PTR, $0000226D)
 //『掘り起こした跡はなさそうた゛』
-I saw no signs of further disturbance in the soil.
+I saw no signs of further disturbance in the\n
+soil.
 <$00>
 
 
@@ -96,7 +102,9 @@ I saw no signs of further disturbance in the soil.
 // Pos : 00006D5E
 #WRITE(PTR, $000022F5)
 //「このまま土になってしまえは゛いいのに…」
-"You know what? If it were in a place like this, becoming one with the earth when I died wouldn't feel half bad."
+"You know what? If it were in a place like\n
+this, becoming one with the earth when I\n
+died wouldn't feel half bad."
 <$00>
 
 
@@ -141,7 +149,9 @@ Living together is by no means "simple".
 // Pos : 00006E9B
 #WRITE(PTR, $000024E3)
 //『僕はこのまま学校に通いなか゛ら、マリアを守っていけるのた゛ろうか』
-How can I to protect Maria closely enough when I'm coming and going from school as I am?
+How can I to protect Maria closely enough\n
+when I'm coming and going from school as I\n
+am?
 <$00>
 
 
@@ -186,7 +196,8 @@ Suddenly, I remembered.
 // Pos : 00006F60
 #WRITE(PTR, $000025FB)
 //『僕か゛また゛小さかったころ、家て゛子犬を飼っていたことか゛ある』
-Back when I was still small, I had a pet puppy.
+Back when I was still small, I had a pet\n
+puppy.
 <$00>
 
 
@@ -204,7 +215,8 @@ One day, the dog got sick and died.
 // Pos : 00006FA5
 #WRITE(PTR, $00002641)
 //『そのとき、僕は姉とふたりて゛、近所の公園に埋めたのた゛』
-My sister and I buried it together in the public park.
+My sister and I buried it together in the\n
+public park.
 <$00>
 
 
@@ -222,7 +234,8 @@ My sister and I buried it together in the public park.
 // Pos : 00007012
 #WRITE(PTR, $000026DD)
 //「やっは゜りこんな大きな樹の下た゛ったよ」
-"Goodness, this tree really is huge, isn't it?"
+"Goodness, this tree really is huge,\n
+isn't it?"
 <$00>
 
 
@@ -379,7 +392,8 @@ The arcade
 // Pos : 000073DF
 #WRITE(PTR, $00002D04)
 //『ひと気のない公園を歩いていると』
-We walked together through the empty park.
+We walked together through the empty\n
+park.
 <$00>
 
 
@@ -388,7 +402,8 @@ We walked together through the empty park.
 // Pos : 00007402
 #WRITE(PTR, $00002D3E)
 //『まるて゛世界には僕とマリアのふたりた゛けしか存在していないかのように思える』
-It felt like Maria and I were the only two people on Earth.
+It felt like Maria and I were the only two\n
+people on Earth.
 <$00>
 
 
@@ -397,7 +412,8 @@ It felt like Maria and I were the only two people on Earth.
 // Pos : 00007440
 #WRITE(PTR, $00002D78)
 //『そんななかて゛、僕にはマリアの手の温もりた゛けか゛』
-The touch of Maria's hand warmed me all the while.
+The touch of Maria's hand warmed me all the\n
+while.
 <$00>
 
 
@@ -480,7 +496,8 @@ Maria stiffened under my touch as I spoke.
 // Pos : 0000762C
 #WRITE(PTR, $00003164)
 //『そうた゛よね、と゛んなに生活か゛苦しくったって、君の笑顔か゛あれは゛のりきれるさ』
-That's right. No matter what happens, your smile will get me through it.
+That's right. No matter what happens,\n
+your smile will get me through it.
 <$00>
 
 
@@ -489,7 +506,8 @@ That's right. No matter what happens, your smile will get me through it.
 // Pos : 0000766A
 #WRITE(PTR, $000031AE)
 //『マリアの手のぬくもりは、あらためて僕の決心をかためてくれた』
-The warmth of Maria's hand strengthened my resolve a thousand times over.
+The warmth of Maria's hand strengthened\n
+my resolve a thousand times over.
 <$00>
 
 
@@ -498,7 +516,8 @@ The warmth of Maria's hand strengthened my resolve a thousand times over.
 // Pos : 0000769E
 #WRITE(PTR, $0000322F)
 //『マリアの手のぬくもりは僕の決心をかためてくれた』
-The warmth of Maria's hand strengthened my resolve.
+The warmth of Maria's hand strengthened\n
+my resolve.
 <$00>
 
 
@@ -507,7 +526,8 @@ The warmth of Maria's hand strengthened my resolve.
 // Pos : 000076CC
 #WRITE(PTR, $00003269)
 //『ます゛は生活の安定のために、きちんとした仕事をさか゛さなきゃ…』
-The first thing I'll do is look for a real job that can support us both.
+The first thing I'll do is look for a real\n
+job that can support us both.
 <$00>
 
 
@@ -516,7 +536,8 @@ The first thing I'll do is look for a real job that can support us both.
 // Pos : 00007702
 #WRITE(PTR, $000032A3)
 //『明日、学校に休学届けを出そう』
-Tomorrow, I'll go register for a temporary leave of absence from school.
+Tomorrow, I'll go register for a\n
+temporary leave of absence from school.
 <$00>
 
 
@@ -535,7 +556,8 @@ I'm not alone anymore.
 #WRITE(PTR, $000033DE)
 #WRITE(PTR, $00006254)
 //『１０月か゛過き゛、１１月も過き゛た。マリアの記憶は戻らないままた゛』
-October had turned into November. Maria's memory had yet to return.
+October had turned into November.\n
+Maria's memory had yet to return.
 <$00>
 
 
@@ -581,7 +603,8 @@ October had turned into November. Maria's memory had yet to return.
 // Pos : 00007898
 #WRITE(PTR, $000035C3)
 //『いつになれは゛記憶か゛戻るのか…僕は何の手か゛かりも見つけられないて゛いた』
-When would her memory come back? I hadn't found any clues in all that time.
+When would her memory come back? I hadn't\n
+found any clues in all that time.
 <$00>
 
 
@@ -601,7 +624,8 @@ We couldn't keep going like this.
 #WRITE(PTR, $0000367B)
 #WRITE(PTR, $00006428)
 //『このまま彼女と暮らし続けたところて゛、本当の幸せはやって来ない』
-Even if we continued to live together, I'd never be able to give what she truly wanted.
+Even if we continued to live together, I'd\n
+never be able to give what she truly wanted.
 <$00>
 
 
@@ -620,7 +644,8 @@ Darnit all. Where do I go from here?
 #WRITE(PTR, $0000371E)
 #WRITE(PTR, $0000650A)
 //『いつか…いつの日かきっと幸せになれるよね。マリア』
-Someday, Maria... I swear I'll make you happy.
+Someday, Maria... I swear I'll make you\n
+happy.
 <$00>
 
 
@@ -639,7 +664,9 @@ And to that end, I'll hang on for you.
 // Pos : 00007A6D
 #WRITE(PTR, $00003868)
 //「アナタか゛手か゛かりを見つけてくれるまて゛、ダイジョウブ、す゛っと待ってるから……」
-"We've yet to find any clues to my past, but that's fine. I'll wait alongside you, always."
+"We've yet to find any clues to my past, but\n
+that's fine. I'll wait alongside you,\n
+always."
 <$00>
 
 
@@ -666,7 +693,8 @@ And to that end, I'll hang on for you.
 // Pos : 00007B40
 #WRITE(PTR, $000039EC)
 //『て゛も、彼女の記憶はきっとこの僕か゛取り戻してみせる』
-Together, we would surely get her memory back!
+Together, we would surely get her memory\n
+back!
 <$00>
 
 
@@ -675,7 +703,8 @@ Together, we would surely get her memory back!
 // Pos : 00007B72
 #WRITE(PTR, $00003A2E)
 //『それまて゛は、僕との思い出て゛満たしてあけ゛よう』
-But until then, I hoped her memories of being with me were enough.
+But until then, I hoped her memories of\n
+being with me were enough.
 <$00>
 
 
@@ -693,7 +722,8 @@ Then, one day...
 // Pos : 00007BBB
 #WRITE(PTR, $00003AA2)
 //『マリアをふるさとへ連れて帰るんた゛』
-...maybe I could be the one who took her back to her hometown.
+...maybe I could be the one who took her back\n
+to her hometown.
 <$00>
 
 
@@ -858,7 +888,8 @@ Get out of the cold
 // Pos : 00007F3C
 #WRITE(PTR, $0000422E)
 //「風か゛つめたいね。急こ゛う」
-"The wind's getting chilly. Let's hurry."
+"The wind's getting chilly. Let's\n
+hurry."
 <$00>
 
 
@@ -867,7 +898,8 @@ Get out of the cold
 // Pos : 00007F79
 #WRITE(PTR, $000042B4)
 //「ゆっくり歩こうか、いい天気た゛し」
-"I like the weather. Let's take out time."
+"I like the weather. Let's take out\n
+time."
 <$00>
 
 
@@ -912,7 +944,8 @@ What are we playing?
 // Pos : 00008049
 #WRITE(PTR, $00004439)
 //『アレ、というのはマリアか゛最近ハマっている格闘ゲームのことた゛』
-Maria's really into the fighting games there, these days.
+Maria's really into the fighting games\n
+there, these days.
 <$00>
 
 
@@ -966,7 +999,8 @@ I won't lose to you!
 // Pos : 0000816A
 #WRITE(PTR, $000045E4)
 //「今日はねェ、別なの見せてあけ゛る。フフッ…たのしみにしててネ」
-"That's all for today! Maybe I'll show you more another time. Hehe, what fun!"
+"That's all for today! Maybe I'll show you\n
+more another time. Hehe, what fun!"
 <$00>
 
 
@@ -993,7 +1027,8 @@ I won't lose to you!
 // Pos : 0000821A
 #WRITE(PTR, $000046E4)
 //「いや！ 勝つ！ 勝ってみせる！ 今日こそ君に絶対勝つ！」
-"Ahaha! Victory will be mine! I'll destroy you!"
+"Ahaha! Victory will be mine! I'll\n
+destroy you!"
 <$00>
 
 
@@ -1020,7 +1055,8 @@ I won't lose to you!
 // Pos : 000082B8
 #WRITE(PTR, $000047E2)
 //「なんて゛もナイ。なんて゛もナイったら…」
-"No, it's nothing. As long as I keep my mind off it..."
+"No, it's nothing. As long as I keep my mind\n
+off it..."
 <$00>
 
 
@@ -1056,7 +1092,8 @@ I won't lose to you!
 // Pos : 0000836E
 #WRITE(PTR, $00004923)
 //『と゛ういうわけかマリアは最近、格闘ゲームにハマっている』
-Man, she's really into fighting games, these days.
+Man, she's really into fighting games,\n
+these days.
 <$00>
 
 
@@ -1146,7 +1183,8 @@ I'm hungry.
 // Pos : 00008549
 #WRITE(PTR, $00004C8A)
 //「なんか腹減ってきちゃったよ。はやく行こう」
-"I'd like to grab something to eat soon. Can we get a move-on?"
+"I'd like to grab something to eat soon. Can\n
+we get a move-on?"
 <$00>
 
 
@@ -1240,7 +1278,8 @@ I'm fine with whatever.
 // Pos : 000086F4
 #WRITE(PTR, $00004F70)
 //「ねえ、バイト代も出たは゛かりた゛しさ」
-"Wait, can you afford that on a part-timer's budget?"
+"Wait, can you afford that on a\n
+part-timer's budget?"
 <$00>
 
 
@@ -1250,7 +1289,8 @@ I'm fine with whatever.
 #WRITE(PTR, $00004FB5)
 #WRITE(PTR, $00005407)
 //「たまにはステーキて゛も食へ゛ようよ」
-"I like to have a little meat on these bones from time to time."
+"I like to have a little meat on these bones\n
+from time to time."
 <$00>
 
 
@@ -1260,7 +1300,8 @@ I'm fine with whatever.
 #WRITE(PTR, $00005001)
 #WRITE(PTR, $0000546A)
 //「ダーメ！ 高いもん。ゼイタクは敵ヨ」
-"Hang on, that's way too expensive! Luxury is the wallet's worst enemy!"
+"Hang on, that's way too expensive! Luxury\n
+is the wallet's worst enemy!"
 <$00>
 
 
@@ -1289,7 +1330,8 @@ I'm fine with whatever.
 // Pos : 0000881F
 #WRITE(PTR, $0000515F)
 //「和食か゛食へ゛たい。刺身なんてと゛う？」
-"You like Japanese food, right? Sashimi sound good?"
+"You like Japanese food, right? Sashimi\n
+sound good?"
 <$00>
 
 
@@ -1298,7 +1340,8 @@ I'm fine with whatever.
 // Pos : 0000884D
 #WRITE(PTR, $000051AB)
 //「エ～～～ッ！ 気持ちワルイヨォ！」
-"What?! Isn't that raw? I couldn't possibly!"
+"What?! Isn't that raw? I couldn't\n
+possibly!"
 <$00>
 
 
@@ -1307,7 +1350,8 @@ I'm fine with whatever.
 // Pos : 0000888C
 #WRITE(PTR, $000051F3)
 //「と゛うしてさ。うまいし゛ゃん」
-"What's the matter, scaredy pants? It's delicious!"
+"What's the matter, scaredy pants? It's\n
+delicious!"
 <$00>
 
 
@@ -1316,7 +1360,8 @@ I'm fine with whatever.
 // Pos : 000088BA
 #WRITE(PTR, $0000524E)
 //「ヤダヨォ、あんなの！ ニュルニュルしてて…」
-"There's no way I'd eat raw fish! I mean, just the way it feels in my mouth!"
+"There's no way I'd eat raw fish! I mean,\n
+just the way it feels in my mouth!"
 <$00>
 
 
@@ -1325,7 +1370,8 @@ I'm fine with whatever.
 // Pos : 000088FC
 #WRITE(PTR, $00005296)
 //「フィリピンし゛ゃ食へ゛ないの？」
-"You mean people don't eat sashimi down in the Phillipines?"
+"You mean people don't eat sashimi down in\n
+the Phillipines?"
 <$00>
 
 
@@ -1334,7 +1380,8 @@ I'm fine with whatever.
 // Pos : 00008932
 #WRITE(PTR, $000052F1)
 //「アヨコ！ 嫌いヨォ、ほかのにして！！」
-"That's not the point! Pick something else!"
+"That's not the point! Pick something\n
+else!"
 <$00>
 
 
@@ -1388,7 +1435,9 @@ I'm fine with whatever.
 // Pos : 00008AE8
 #WRITE(PTR, $000056FD)
 //『マリアと暮らしはし゛めてからというもの、毎日毎日、朝、昼、晩とオムレツた゛』
-Ever since I'd started living with this girl, we'd eaten omelettes morning, noon and night.
+Ever since I'd started living with this\n
+girl, we'd eaten omelettes morning, noon\n
+and night.
 <$00>
 
 
@@ -1406,7 +1455,8 @@ She'd also make omelettes as a 3 p.m. treat.
 // Pos : 00008B46
 #WRITE(PTR, $0000575A)
 //『暮らしはし゛めのころには、お互いによく作りあったものた゛けと゛…』
-In the beginning, it'd been fun to make them for eachother, but now... 
+In the beginning, it'd been fun to make\n
+them for eachother, but now...
 <$00>
 
 
@@ -1415,7 +1465,8 @@ In the beginning, it'd been fun to make them for eachother, but now...
 // Pos : 00008B6F
 #WRITE(PTR, $0000577D)
 //『最近はさすか゛にちょっとつらい…』
-Maria's omelette game was too strong. It frightened a man.
+Maria's omelette game was too strong. It\n
+frightened a man.
 <$00>
 
 
@@ -1496,7 +1547,8 @@ For you?
 // Pos : 00008CDA
 #WRITE(PTR, $000059ED)
 //「そうよ。アナタの破れてたて゛しょ」
-"That's right! Yours are falling apart!"
+"That's right! Yours are falling\n
+apart!"
 <$00>
 
 
@@ -1550,7 +1602,8 @@ For you?
 // Pos : 00008E61
 #WRITE(PTR, $00005CC4)
 //『買い物をすますとマリアは、僕の左腕に思いっきりしか゛みついてくる』
-Maria happily clinged to my left arm the entire time we shopped.
+Maria happily clinged to my left arm the\n
+entire time we shopped.
 <$00>
 
 
@@ -1577,7 +1630,8 @@ Maria happily clinged to my left arm the entire time we shopped.
 // Pos : 00008FF0
 #WRITE(PTR, $00005F12)
 //「と゛ーして？ と゛ーして恥す゛かしいの？」
-"What do you mean? What's wrong with this?"
+"What do you mean? What's wrong with\n
+this?"
 <$00>
 
 
@@ -1595,7 +1649,8 @@ Maria happily clinged to my left arm the entire time we shopped.
 // Pos : 00009090
 #WRITE(PTR, $00006005)
 //『あたりはは゛からぬ大声て゛、唇か゛触れるほと゛に顔を近つ゛けるマリア』
-When Maria asked me, her face was so close to mine, our lips could have touched.
+When Maria asked me, her face was so close to\n
+mine, our lips could have touched.
 <$00>
 
 
@@ -1622,7 +1677,9 @@ All I could do was blush and fall silent.
 // Pos : 0000921A
 #WRITE(PTR, $000063B4)
 //『いつになれは゛記憶か゛戻るのか…。僕は何の手か゛かりも見つけられないて゛いた』
-If Maria's memory ever came back, what then? I hadn't found any clues for her all this time.
+If Maria's memory ever came back, what\n
+then? I hadn't found any clues for her all\n
+this time.
 <$00>
 
 
@@ -1652,7 +1709,8 @@ D1Satoh
 // Pos : 0000931A
 #WRITE(PTR, $0000666C)
 //「まぁ～す゛、ボクに会ってない人は、ます゛僕に会うことか゛ダイジ！」
-"That's too bad! To get close to my sources, you'll have to get through me first!"
+"That's too bad! To get close to my sources,\n
+you'll have to get through me first!"
 <$00>
 
 
@@ -1688,7 +1746,7 @@ D1Satoh
 // Pos : 000094A8
 #WRITE(PTR, $00006872)
 // トライ
- try...
+\ntry...
 <$00>
 
 
@@ -1697,7 +1755,7 @@ D1Satoh
 // Pos : 000094BB
 #WRITE(PTR, $00006898)
 // アゲーーーン！！」
- AGAIN!"
+\nAGAIN!"
 <$00>
 
 

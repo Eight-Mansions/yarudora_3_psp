@@ -13,7 +13,9 @@
 // Pos : 00004CD4
 #WRITE(PTR, $00001FA8)
 //「いい？ フィリピンのコトバて゛『おはよう』は、『マガンダン　ウゥマガ』」
-"Ready? Okay. When we say, 'good morning!' in the Phillipines, we say, 'magandang umaga!'"
+"Ready? Okay. When we say, 'good morning!'\n
+in the Phillipines, we say, 'magandang\n
+umaga!'"
 <$00>
 
 
@@ -76,7 +78,7 @@ Oxen Sri lanka?
 // Pos : 00004EBC
 #WRITE(PTR, $0000221A)
 //し゛ゃあ次」
- Now, for the next phrase...
+\nNow, for the next phrase...
 <$00>
 
 
@@ -98,7 +100,7 @@ Oxen Sri lanka?
 #WRITE(PTR, $00002B61)
 #WRITE(PTR, $0000309A)
 //ハイ、言ってみて」
- Now, you try to say it!"
+Now, you try to say it!"
 <$00>
 
 
@@ -134,7 +136,7 @@ Oxen Sri lanka?
 // Pos : 000050DF
 #WRITE(PTR, $00002529)
 //『マガンダン　ウゥマガ』。
-It's 'Magandang umaga!'"
+\nIt's 'Magandang umaga!'"
 <$00>
 
 
@@ -144,7 +146,7 @@ It's 'Magandang umaga!'"
 #WRITE(PTR, $000025D1)
 #WRITE(PTR, $00002DCC)
 //ハイ、もう一度」
- All right, let's try one more time."
+All right, let's try one more time."
 <$00>
 
 
@@ -228,7 +230,8 @@ Yahoo
 // Pos : 00005423
 #WRITE(PTR, $00002A15)
 //「ウン、いい感し゛ヨ。し゛ゃあ次」
-"That's right! I'm feeling good about this! Now..."
+"That's right! I'm feeling good about\n
+this! Now..."
 <$00>
 
 
@@ -266,7 +269,7 @@ Yahoo
 #WRITE(PTR, $00002C7C)
 #WRITE(PTR, $00003231)
 //「ア～ッ、ちか゛うヨ。
-"Bzzt! That's incorrect! 
+"Bzzt! That's incorrect!
 <$00>
 
 
@@ -275,7 +278,7 @@ Yahoo
 // Pos : 000055F3
 #WRITE(PTR, $00002D24)
 //『オオー』て゛しょ。
-It's "oo".
+\nIt's "oo".
 <$00>
 
 
@@ -367,7 +370,7 @@ Isn't it "hindi"?
 // Pos : 000058EB
 #WRITE(PTR, $00003381)
 // ハイ、もう一度」
- Okay, one more time."
+Okay, one more time."
 <$00>
 
 
@@ -431,7 +434,7 @@ Indie
 // Pos : 00005A83
 #WRITE(PTR, $00003630)
 //と゛う？ むす゛かしかった？」
-Wait, where did I go wrong?"
+\nWait, where did I go wrong?"
 <$00>
 
 
@@ -440,7 +443,8 @@ Wait, where did I go wrong?"
 // Pos : 00005AFD
 #WRITE(PTR, $00003756)
 //「アハ…。簡単た゛った？ ホントに？ すこ゛ーい」
-"Wow... Was it really that easy for you? You did amazing!"
+"Wow... Was it really that easy for you?\n
+You did amazing!"
 <$00>
 
 
@@ -458,7 +462,8 @@ Aww, shucks. She praised me!
 // Pos : 00005BB2
 #WRITE(PTR, $00003889)
 //「アハ…。またそのうちやろうね！」
-"Hehe, we'll have to do this again, sometime!"
+"Hehe, we'll have to do this again,\n
+sometime!"
 <$00>
 
 
@@ -476,7 +481,8 @@ Aww, shucks. She praised me!
 // Pos : 00005C17
 #WRITE(PTR, $00003995)
 //『外国の女の子相手に、こんなこと馬鹿け゛てるかもしれないけと゛…』
-Who knows how receptive foreign chicks are to a good pun, but...
+Who knows how receptive foreign chicks are\n
+to a good pun, but...
 <$00>
 
 
@@ -485,7 +491,7 @@ Who knows how receptive foreign chicks are to a good pun, but...
 // Pos : 00005C44
 #WRITE(PTR, $000039AD)
 //『て゛も、僕か゛て゛きることってこのくらいしかないし…』
- this is the one chance I've got!
+this is the one chance I've got!
 <$00>
 
 
@@ -494,7 +500,8 @@ Who knows how receptive foreign chicks are to a good pun, but...
 // Pos : 00005C6E
 #WRITE(PTR, $000039E7)
 //『それにこの子、日本語すこ゛く上手みたいた゛し、少しはわかってくれるかもしれない…』
-"Heck, with her good handle of Japanese, she might even appreciate it, somewhat.
+"Heck, with her good handle of Japanese, she\n
+might even appreciate it, somewhat.
 <$00>
 
 
@@ -503,7 +510,8 @@ Who knows how receptive foreign chicks are to a good pun, but...
 // Pos : 00005CA3
 #WRITE(PTR, $00003A0A)
 //『この場の空気か゛少して゛も明るくなれは゛…』
-Whatever it takes to brighten up the atmosphere in here...
+Whatever it takes to brighten up the\n
+atmosphere in here...
 <$00>
 
 
@@ -512,7 +520,8 @@ Whatever it takes to brighten up the atmosphere in here...
 // Pos : 00005CC3
 #WRITE(PTR, $00003A2D)
 //『小学生のときは、お笑い研究会にいたこともある…』
-As a matter of fact, I had taken a Comedic Studies class back in grade school.
+As a matter of fact, I had taken a Comedic\n
+Studies class back in grade school.
 <$00>
 
 
@@ -521,7 +530,8 @@ As a matter of fact, I had taken a Comedic Studies class back in grade school.
 // Pos : 00005CE7
 #WRITE(PTR, $00003A50)
 //『い、今こそ、その成果を発揮するとき…』
-All these years later, it was time I showed the fruits of my efforts!
+All these years later, it was time I\n
+showed the fruits of my efforts!
 <$00>
 
 
@@ -575,7 +585,8 @@ A daring pun
 // Pos : 00005DCC
 #WRITE(PTR, $00003B93)
 //「こ、こういうの知ってる？」
-"B-Bet you've n-never heard this one beef-before..."
+"B-Bet you've n-never heard this one\n
+beef-before..."
 <$00>
 
 
@@ -584,7 +595,8 @@ A daring pun
 // Pos : 00005DFB
 #WRITE(PTR, $00003BEF)
 //「おまえさん、となりの家にかこいか゛出来たってねえ…」
-"Why should you never spell the word 'part' backwards?"
+"Why should you never spell the word\n
+'part' backwards?"
 <$00>
 
 
@@ -602,7 +614,8 @@ A daring pun
 // Pos : 00005E33
 #WRITE(PTR, $00003C6A)
 //『こんなこと言ったってわかるわけないか！』
-Does she not understand anything I just said?!
+Does she not understand anything I just\n
+said?!
 <$00>
 
 
@@ -694,7 +707,8 @@ Yikes! Moving along...
 // Pos : 00006045
 #WRITE(PTR, $00003FF3)
 //「おすもうさんか゛言いました」
-"What do you call a train filled with toffee?"
+"What do you call a train filled with\n
+toffee?"
 <$00>
 
 
@@ -739,7 +753,8 @@ Yikes! Moving along...
 // Pos : 00006138
 #WRITE(PTR, $00004243)
 //「牛か゛笑って…」
-"You can tune a piano, but you can't tuna fish!"
+"You can tune a piano, but you can't tuna\n
+fish!"
 <$00>
 
 
@@ -757,7 +772,8 @@ Yikes! Moving along...
 // Pos : 0000618A
 #WRITE(PTR, $00004305)
 //「土管か゛破裂して…」
-"I went to a really emotional wedding the other day."
+"I went to a really emotional wedding the\n
+other day."
 <$00>
 
 
@@ -775,7 +791,8 @@ Yikes! Moving along...
 // Pos : 000061E4
 #WRITE(PTR, $000043B7)
 //「家を建てたせ゛！」
-"What do you call an elephant that doesn't matter?"
+"What do you call an elephant that doesn't\n
+matter?"
 <$00>
 
 
@@ -820,7 +837,8 @@ Yikes! Moving along...
 // Pos : 000062AC
 #WRITE(PTR, $00004583)
 //『言うんし゛ゃなかった…話題を変えるか』
-Whelp. That's enough of that. Should I change the topic?
+Whelp. That's enough of that. Should I\n
+change the topic?
 <$00>
 
 
@@ -829,7 +847,9 @@ Whelp. That's enough of that. Should I change the topic?
 // Pos : 000062E3
 #WRITE(PTR, $000045DF)
 //『そうた゛よ。下手に気を配るよりも、そっとしておくほうか゛いい。そうすれは゛…』
-Like they always say, "It's better to keep your mouth shut than say something stupid." That said...
+Like they always say, "It's better to keep\n
+your mouth shut than say something\n
+stupid." That said...
 <$00>
 
 
@@ -847,7 +867,8 @@ Ah.
 // Pos : 00006355
 #WRITE(PTR, $00004673)
 //『今にも泣きそうた゛…と゛うすれは゛いいんた゛…』
-She's cried enough for one night. I don't want her to feel hurt.
+She's cried enough for one night. I don't\n
+want her to feel hurt.
 <$00>
 
 
@@ -883,7 +904,8 @@ What's a good topic of conversation?
 // Pos : 000063ED
 #WRITE(PTR, $0000475A)
 //『何て゛もいいや。とにかく間をもたせるんた゛』
-Who cares what I say? Let's just go with the flow.
+Who cares what I say? Let's just go with the\n
+flow.
 <$00>
 
 
@@ -892,7 +914,8 @@ Who cares what I say? Let's just go with the flow.
 // Pos : 000064BC
 #WRITE(PTR, $00004860)
 //『マリアの生まれた国のことて゛も聞いてみよう』
-Let's ask about the country where Maria was born.
+Let's ask about the country where Maria was\n
+born.
 <$00>
 
 
@@ -928,7 +951,7 @@ Puns are my strong suit!
 // Pos : 000065C5
 #WRITE(PTR, $00004A0F)
 //なにもわからないヨ！！」
- I don't remember anything!"
+\nI don't remember anything!"
 <$00>
 
 
@@ -937,7 +960,8 @@ Puns are my strong suit!
 // Pos : 00006608
 #WRITE(PTR, $00004A61)
 //『狭い部屋の中に彼女の泣き声か゛ひひ゛く』
-Maria's voice cracked as she cried out in the tiny room.
+Maria's voice cracked as she cried out in the\n
+tiny room.
 <$00>
 
 

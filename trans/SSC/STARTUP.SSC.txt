@@ -53,7 +53,8 @@ Sampaguita
 // Pos : 000028FD
 #WRITE(PTR, $0000188A)
 //!データを上書きします$よろしいて゛すか？
-!DATA will be overwritten.$Are you sure?
+!DATA will be overwritten.$Are you\n
+sure?
 <$00>
 
 

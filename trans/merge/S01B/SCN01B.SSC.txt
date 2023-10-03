@@ -1,0 +1,673 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#VAR(APTR, CUSTOMPOINTER)
+#VAR(BPTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", $00004F30, 16)
+#CREATEPTR(APTR, "LINEAR", $00000000, 32)
+#CREATEPTR(BPTR, "LINEAR", $00000030, 32)
+#JMP(-1)
+
+// 0000018A
+// Pos : 000050BA
+#WRITE(PTR, $00001FAA)
+//『走った！』
+We ran for it!
+<$00>
+
+
+
+// 000001B6
+// Pos : 000050E6
+#WRITE(PTR, $00001FEC)
+//『あたりは炎と煙の渦た゛！』
+Coils of smoke and fire blocked our way forward.
+<$00>
+
+
+
+// 000001D6
+// Pos : 00005106
+#WRITE(PTR, $00002026)
+//『非常口か゛見える…と゛うしよう！？』
+There's an emergency exit to the right. What path do I take?
+<$00>
+
+
+
+// 000001FE
+// Pos : 0000512E
+#WRITE(PTR, $00002055)
+//非常口から出よう！
+Emergency exit
+<$00>
+
+
+
+// 0000020D
+// Pos : 0000513D
+#WRITE(PTR, $0000205E)
+//煙の中を突っ切ろう！
+Through the smoke
+<$00>
+
+
+
+// 00000293
+// Pos : 000051C3
+#WRITE(PTR, $00002134)
+//『また゛炎は来ていない。もう大丈夫た゛！』
+I don't see any more flames. I think we're safe now!
+<$00>
+
+
+
+// 0000040D
+// Pos : 0000533D
+#WRITE(PTR, $000023A8)
+//「こんなのってナイよね。
+"Well, that wasn't very nice! 
+<$00>
+
+
+
+// 00000470
+// Pos : 000053A0
+#WRITE(PTR, $00002412)
+//くやしいからもう一回やろうよ」
+I know it's frustrating, but we all we need is one last push."
+<$00>
+
+
+
+// 000004D6
+// Pos : 00005406
+#WRITE(PTR, $0000248F)
+//「ねっ！」
+"Push!"
+<$00>
+
+
+
+// 00000529
+// Pos : 00005459
+#WRITE(PTR, $0000256D)
+//『僕たちはかまわす゛、煙の中を突き進んた゛』
+With no turning back, we pushed through the smoke.
+<$00>
+
+
+
+// 0000057B
+// Pos : 000054AB
+#WRITE(PTR, $00002618)
+//『そして人混みにまき゛れて、その場をあとにする』
+Once we found the exit, we slipped through the surrounding crowds and left the scene.
+<$00>
+
+
+
+// 00000620
+// Pos : 00005550
+#WRITE(PTR, $00002704)
+//D1ボーイ
+D1Boy
+<$00>
+
+
+
+// 00000628
+// Pos : 00005558
+#WRITE(PTR, $0000270F)
+//「と゛うする？ オマエも一緒に来るか？」
+"What's wrong? Aren't you coming with us?"
+<$00>
+
+
+
+// 000006D8
+// Pos : 00005608
+#WRITE(PTR, $00002817)
+//『僕はボーイに拳銃を返し、自分はここにとと゛まることを告け゛た…』
+I returned my handgun to Boy and told him of my plan to stay.
+<$00>
+
+
+
+// 0000076E
+// Pos : 0000569E
+#WRITE(PTR, $0000289F)
+//「なんて゛！？ と゛うして！？」
+"What? But why?!"
+<$00>
+
+
+
+// 000007A2
+// Pos : 000056D2
+#WRITE(PTR, $000028FD)
+//「と゛んな理由か゛あるにせよ、僕はひとりの人間を殺してしまったんた゛」
+"'Just cause' or not, I killed a human being back there."
+<$00>
+
+
+
+// 000007EF
+// Pos : 0000571F
+#WRITE(PTR, $00002969)
+//「つく゛ないはうけなくちゃ…」
+"I need to accept the consequences of that."
+<$00>
+
+
+
+// 0000082A
+// Pos : 0000575A
+#WRITE(PTR, $000029E7)
+//「わからない！」
+"It's not fair!"
+<$00>
+
+
+
+// 00000875
+// Pos : 000057A5
+#WRITE(PTR, $00002A52)
+//「そんなの…
+"Please... 
+<$00>
+
+
+
+// 000008B4
+// Pos : 000057E4
+#WRITE(PTR, $00002ADB)
+//わからないよ！！」
+ It's not fair at all!"
+<$00>
+
+
+
+// 0000092B
+// Pos : 0000585B
+#WRITE(PTR, $00002BA7)
+//「ゴメン、マリア…」
+"I'm sorry, Maria."
+<$00>
+
+
+
+// 00000949
+// Pos : 00005879
+#WRITE(PTR, $00002BFF)
+//『ほかに方法はないよ…』
+I couldn't turn back the clock.
+<$00>
+
+
+
+// 00000967
+// Pos : 00005897
+#WRITE(PTR, $00002C39)
+//『逃け゛るわけにはいかないんた゛…』
+Nor could I run from what I did.
+<$00>
+
+
+
+// 000009A0
+// Pos : 000058D0
+#WRITE(PTR, $00002C90)
+//『その後、僕は警察署へ出頭し、その場て゛逮捕された』
+Once everyone fled, I went to the police station where I was arrested on the spot.
+<$00>
+
+
+
+// 00000A6C
+// Pos : 0000599C
+#WRITE(PTR, $00002E07)
+//『やか゛て年か゛あけ、桜の季節か゛めく゛ってくる』
+Cherry blossom season came as it always did. Year, after year, after year.
+<$00>
+
+
+
+// 00000AE3
+// Pos : 00005A13
+#WRITE(PTR, $00002EA5)
+//『この高い塀の中にも…』
+Not even these high walls could hide it.
+<$00>
+
+
+
+// 00000B78
+// Pos : 00005AA8
+#WRITE(PTR, $00002F75)
+//『その頃になって僕は、当時僕を取り調へ゛た刑事さんから』
+Such was life after I'd turned myself in so long ago.
+<$00>
+
+
+
+// 00000BBF
+// Pos : 00005AEF
+#WRITE(PTR, $00002FD8)
+//『ボーイか゛逮捕されたこと、そして』
+The police had arrested Boy too, along the way.
+<$00>
+
+
+
+// 00000BF7
+// Pos : 00005B27
+#WRITE(PTR, $0000303B)
+//『ひとりのフィリピン女性か゛強制送還になったことを聞かされた』
+From what I had heard, a lone Filipino woman had been forcibly repatriated after that incident.
+<$00>
+
+
+
+// 00000C83
+// Pos : 00005BB3
+#WRITE(PTR, $00003155)
+//『夏を間近にひかえて、長い雨か゛続いていたある日のこと』
+Since then, long rained plagued our days as summertime ticked nearer.
+<$00>
+
+
+
+// 00000CE6
+// Pos : 00005C16
+#WRITE(PTR, $00003209)
+//『僕はフィリピンからのエアメールを受け取る』
+That was when I received a letter from the Philippines.
+<$00>
+
+
+
+// 00000D2A
+// Pos : 00005C5A
+#WRITE(PTR, $0000327C)
+//『義兄からた゛。そこには僕に対するいたわりの言葉と』
+It was from my brother-in-law. He sent me a few words of condolence.
+<$00>
+
+
+
+// 00000D6C
+// Pos : 00005C9C
+#WRITE(PTR, $000032DF)
+//『マリアの近況、そして写真か゛同封されていた』
+He wrote about how Maria was doing, and enclosed a few photos.
+<$00>
+
+
+
+// 00000DC4
+// Pos : 00005CF4
+#WRITE(PTR, $0000335A)
+//『はにかんた゛顔のマリアか゛写っている』
+Maria looks so bashful in this photo.
+<$00>
+
+
+
+// 00000DFF
+// Pos : 00005D2F
+#WRITE(PTR, $000033CD)
+#WRITE(PTR, $00004256)
+//『マリア…』
+Maria...
+<$00>
+
+
+
+// 00000E2B
+// Pos : 00005D5B
+#WRITE(PTR, $00003440)
+//『すこし太ったかな…』
+I'm glad to see her gain a little weight.
+<$00>
+
+
+
+// 00000E70
+// Pos : 00005DA0
+#WRITE(PTR, $000034BB)
+//『マリアとのさまさ゛まな思い出も、今て゛は遠い出来事のように感し゛る』
+The memories I had made with Maria now felt like far-off happenstances.
+<$00>
+
+
+
+// 00000EF7
+// Pos : 00005E27
+#WRITE(PTR, $000035CD)
+//『月日は流れ…』
+The days and months had drifted by.
+<$00>
+
+
+
+// 00000F37
+// Pos : 00005E67
+#WRITE(PTR, $0000363E)
+//『僕は格子窓から季節をなか゛め、ひとつのことた゛けを想い続けていた』
+As I looked down at changing world from my latticed window, I thought of only one thing.
+<$00>
+
+
+
+// 00001098
+// Pos : 00005FC8
+#WRITE(PTR, $000038A4)
+#WRITE(PTR, $000039B3)
+//D1子供
+D1Child
+<$00>
+
+
+
+// 0000109F
+// Pos : 00005FCF
+#WRITE(PTR, $000038AF)
+//「マミー、マミー」
+"Nanay! Nanay!"
+<$00>
+
+
+
+// 0000112B
+// Pos : 0000605B
+#WRITE(PTR, $000039BE)
+//「マミー」
+"'Mommy'!"
+<$00>
+
+
+
+// 00001322
+// Pos : 00006252
+#WRITE(PTR, $00003D3D)
+//『マリアとはし゛めて出会った日から、すて゛に$５年の月日か゛流れていた…』
+It was five years ago to the day... that I had met my Maria for the very first time.
+<$00>
+
+
+
+// 000013C0
+// Pos : 000062F0
+#WRITE(PTR, $00003F1B)
+//『僕は刑務所て゛春を迎える』
+I welcomed the sprintime from my cell.
+<$00>
+
+
+
+// 000013E2
+// Pos : 00006312
+#WRITE(PTR, $00003F55)
+//『３度目の春』
+This was the third spring here.
+<$00>
+
+
+
+// 000013FB
+// Pos : 0000632B
+#WRITE(PTR, $00003F9F)
+//『マリアとの様々な思い出も、今て゛は遠い出来事のようた゛…』
+The memories I had made with Maria now felt like far-off happenstances.
+<$00>
+
+
+
+// 00001434
+// Pos : 00006364
+#WRITE(PTR, $00003FD9)
+//『マリアは…』
+Maria...
+<$00>
+
+
+
+// 0000144E
+// Pos : 0000637E
+#WRITE(PTR, $00004013)
+//『僕のことを今て゛も想い続けてくれているた゛ろうか…』
+I wonder if she still thinks of me, on and off.
+<$00>
+
+
+
+// 0000147D
+// Pos : 000063AD
+#WRITE(PTR, $00004055)
+//『刑期を終えたら、僕はマリアを探そうと思う』
+Once I fulfill my sentence, I'd sure like to go see her.
+<$00>
+
+
+
+// 000014AB
+// Pos : 000063DB
+#WRITE(PTR, $0000408F)
+//『居場所も行方もわからないけと゛、きっとマリアに会える』
+Who knows what she'll be like by then, but wherever Maria is, I'll find her.
+<$00>
+
+
+
+// 000014DF
+// Pos : 0000640F
+#WRITE(PTR, $000040C9)
+//『そんな気か゛する』
+I know I will.
+<$00>
+
+
+
+// 00001557
+// Pos : 00006487
+#WRITE(PTR, $000041D1)
+//『ボーイを先頭に、武装した男達は胸を張って歩き去って行った』
+With Boy at the helm, the group of armed men walked away in a proud huff.
+<$00>
+
+
+
+// 000015E3
+// Pos : 00006513
+#WRITE(PTR, $00004298)
+//『残された僕は、頭をかかえてうす゛くまるしかなかった…』
+I, left behind, buried my head in my hands.
+<$00>
+
+
+
+// 00001610
+// Pos : 00006540
+#WRITE(PTR, $000042D9)
+//『１５分ほと゛経ってからた゛ろうか…』
+A good fifteen minutes had passed before I heard it.
+<$00>
+
+
+
+// 0000165B
+// Pos : 0000658B
+#WRITE(PTR, $00004371)
+//『一発の銃声をきっかけに、闘いか゛はし゛まった…』
+The single gunshot that would trigger the battle.
+<$00>
+
+
+
+// 0000175A
+// Pos : 0000668A
+#WRITE(PTR, $000044C2)
+//『震える足を両手て゛つかむ。情けない』
+I grabbed hold of my quivering knees. It was misery.
+<$00>
+
+
+
+// 0000177F
+// Pos : 000066AF
+#WRITE(PTR, $000044FC)
+//『ここへきてはし゛めて恐怖心か゛襲ってきた。て゛も動けない…』
+The fear I felt when I was first stalked came raging back. I couldn't move.
+<$00>
+
+
+
+// 00001858
+// Pos : 00006788
+#WRITE(PTR, $000046E3)
+//『警官隊か゛駆けつけてきた』
+The police force rushed in.
+<$00>
+
+
+
+// 000018D7
+// Pos : 00006807
+#WRITE(PTR, $00004809)
+//『連行されるヤクザたち…』
+A tremendous number of yakuza were caught.
+<$00>
+
+
+
+// 0000190D
+// Pos : 0000683D
+#WRITE(PTR, $0000485F)
+//『おひ゛たた゛しい数のけか゛人…』
+I saw as they were dragged out by authorities.
+<$00>
+
+
+
+// 00001992
+// Pos : 000068C2
+#WRITE(PTR, $0000498F)
+//『て゛も…マリアとボーイの姿はなかった…』
+But Maria and Boy... never came out.
+<$00>
+
+
+
+// 000019E6
+// Pos : 00006916
+#WRITE(PTR, $00004A4C)
+//『やか゛て年か゛明けた…』
+Years had passed since that incident.
+<$00>
+
+
+
+// 00001A19
+// Pos : 00006949
+#WRITE(PTR, $00004A8E)
+//『僕は田舎にも帰らす゛、マリアの帰りを待ち続けた…』
+While I had wanted to return to my hometown, I'd kept on waiting for Maria's return.
+<$00>
+
+
+
+// 00001A83
+// Pos : 000069B3
+#WRITE(PTR, $00004AFF)
+//『あの夜の事件の詳細は、新聞て゛はいまいちよくわからなかった』
+The papers never covered the details surrounding the night of the incident.
+<$00>
+
+
+
+// 00001B05
+// Pos : 00006A35
+#WRITE(PTR, $00004B85)
+//『マリアの消息はわからない…』
+I never learned Maria's whereabouts.
+<$00>
+
+
+
+// 00001B3E
+// Pos : 00006A6E
+#WRITE(PTR, $00004BC9)
+//『義兄に聞いてみても、縄張りと麻薬の利権に関する争いか゛原因というのはわかったか゛』
+When I asked my brother-in-law, all I learned was that the incident had stemmed from a terf war. A dispute over narcotics.
+<$00>
+
+
+
+// 00001B83
+// Pos : 00006AB3
+#WRITE(PTR, $00004C03)
+//『僕にとってはと゛うて゛もいいことた゛った…』
+My hands were tied.
+<$00>
+
+
+
+// 00001BAA
+// Pos : 00006ADA
+#WRITE(PTR, $00004C45)
+//『僕か゛知りたいのはマリアの消息た゛』
+All I wanted was to find Maria.
+<$00>
+
+
+
+// 00001BD2
+// Pos : 00006B02
+#WRITE(PTR, $00004C7F)
+//『と゛ういうことなんた゛。せめて電話くらい…』
+All I needed was to hear her voice on the phone.
+<$00>
+
+
+
+// 00001C10
+// Pos : 00006B40
+#WRITE(PTR, $00004CC1)
+//『もしかしたらもう日本には…』
+Are you still in Japan, I wonder.
+<$00>
+
+
+
+// 00001C46
+// Pos : 00006B76
+#WRITE(PTR, $00004D03)
+//『マリア…君はいったいと゛こに…』
+Oh, Maria... Where in the world are you?
+<$00>
+
+
+
+// 00001CD4
+// Pos : 00006C04
+#WRITE(PTR, $00004E34)
+//「と゛うしても答えか゛ほしい時ってあるヨネ」
+"In the end, you're still looking for answers, aren't you."
+<$00>
+
+
+
+// 00001CFA
+// Pos : 00006C2A
+#WRITE(PTR, $00004E70)
+//「た゛って、アナタを信し゛てみたいから…」
+"Don't worry. I have faith in my heart that you'll find them."
+<$00>
+
+
+
+#WRITE(APTR, $00000008)
+#WRITE(BPTR, $0000000C)
+

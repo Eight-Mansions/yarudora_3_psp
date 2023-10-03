@@ -13,7 +13,8 @@
 // Pos : 000059FD
 #WRITE(PTR, $00001F65)
 //『マリアはホントに不思議な子た゛。最近こんな事か゛あった…』
-Maria really was magical. Just recently, we...
+Maria really was magical. Just recently,\n
+we...
 <$00>
 
 
@@ -41,7 +42,9 @@ D1Fund-raising Children
 // Pos : 00005A7E
 #WRITE(PTR, $00002006)
 //『駅前て゛、と゛こかの国の子供たちを助けようという募金活動をやっていた』
-In front of the station, I noticed a fundraiser for helping children in some Third World country.
+In front of the station, I noticed a\n
+fundraiser for helping children in some\n
+Third World country.
 <$00>
 
 
@@ -50,7 +53,8 @@ In front of the station, I noticed a fundraiser for helping children in some Thi
 // Pos : 00005ACF
 #WRITE(PTR, $00002048)
 //『マリアは僕からの説明を聞くと、大急き゛て゛駆けていって、その日残った手持ちの一万円札を寄付した』
-Once I pointed it out Maria, she ran over and donated 10, 000 yen on the spot!』
+Once I pointed it out Maria, she ran over and\n
+donated 10, 000 yen on the spot!』
 <$00>
 
 
@@ -122,7 +126,8 @@ I don't donate.
 // Pos : 00005CD0
 #WRITE(PTR, $0000230F)
 //「それはマリアか゛持っていたお金た゛から別にかまわないけと゛さ」
-"Now, I don't mind what you do with the pocket money I give you."
+"Now, I don't mind what you do with the\n
+pocket money I give you."
 <$00>
 
 
@@ -131,7 +136,8 @@ I don't donate.
 // Pos : 00005D14
 #WRITE(PTR, $0000236B)
 //「それにしても一万円は多すき゛るんし゛ゃない？」
-"But still. That donation feels awfully steep."
+"But still. That donation feels awfully\n
+steep."
 <$00>
 
 
@@ -140,7 +146,8 @@ I don't donate.
 // Pos : 00005D62
 #WRITE(PTR, $000023DA)
 //「僕もマリアもそんなにお金持ちし゛ゃないて゛$しょ？」
-"Neither of us are swimming in money, $you know?"
+"Neither of us are swimming in money, $you\n
+know?"
 <$00>
 
 
@@ -150,7 +157,8 @@ I don't donate.
 #WRITE(PTR, $00002506)
 #WRITE(PTR, $00002635)
 //「て゛もワタシたちってお金た゛けて゛生きてるんし゛ゃないて゛しょ…？」
-"But it's not like we live for money either, do we?"
+"But it's not like we live for money\n
+either, do we?"
 <$00>
 
 
@@ -272,7 +280,8 @@ You're right.
 // Pos : 000060D4
 #WRITE(PTR, $00002A1C)
 //「問題はね、ああいうかわいそうな子供達に寄付て゛きるほと゛」
-"You can't just throw your money around at ever sad kid you see in the street!"
+"You can't just throw your money around at\n
+ever sad kid you see in the street!"
 <$00>
 
 
@@ -281,7 +290,8 @@ You're right.
 // Pos : 00006118
 #WRITE(PTR, $00002A78)
 //「僕らはお金に余裕か゛あるのかな？ っていうことた゛よ」
-"Maybe start asking yourself, 'Can I afford this?'"
+"Maybe start asking yourself, 'Can I\n
+afford this?'"
 <$00>
 
 
@@ -290,7 +300,8 @@ You're right.
 // Pos : 00006195
 #WRITE(PTR, $00002AFE)
 //「わかったわ。し゛ゃあワタシた゛け」
-"I DO that, but I've also been there, and I..."
+"I DO that, but I've also been there, and\n
+I..."
 <$00>
 
 
@@ -299,7 +310,8 @@ You're right.
 // Pos : 000061C9
 #WRITE(PTR, $00002B45)
 //「ワタシのバッグに入ってたあのお金をつかうワ」
-"I had all that money sitting around in my purse."
+"I had all that money sitting around in my\n
+purse."
 <$00>
 
 
@@ -317,7 +329,8 @@ You're right.
 // Pos : 0000625C
 #WRITE(PTR, $00002C07)
 //「あんなお金、ワタシか゛持っているより子供たちのために使ったほうか゛いいもの」
-「Those children need it way more than I do, is all!」
+「Those children need it way more than I do,\n
+is all!」
 <$00>
 
 
@@ -344,7 +357,8 @@ Press the issue
 // Pos : 000062F3
 #WRITE(PTR, $00002CC4)
 //『なんた゛か、目の前のマリアか゛とても遠く感し゛られる』
-The woman who stood in front of me felt lightyears away somehow.
+The woman who stood in front of me felt\n
+lightyears away somehow.
 <$00>
 
 
@@ -353,7 +367,8 @@ The woman who stood in front of me felt lightyears away somehow.
 // Pos : 0000632F
 #WRITE(PTR, $00002D2C)
 //『思い出してみれは゛なんて゛あんな事て゛言いあったんた゛ろう。僕たちは…』
-How could she say she had "been there" when she has no memory of where she'd been?
+How could she say she had "been there" when she\n
+has no memory of where she'd been?
 <$00>
 
 
@@ -362,7 +377,7 @@ How could she say she had "been there" when she has no memory of where she'd bee
 // Pos : 000063A5
 #WRITE(PTR, $00002E15)
 //『次の日の朝』
-That next morning... 
+That next morning...
 <$00>
 
 
@@ -380,7 +395,8 @@ Maria was gone from the apartment.
 // Pos : 00006410
 #WRITE(PTR, $00002E99)
 //『世の中にはとりかえしのつかないことか゛ある』
-There are some ways of the world that none of us can change.
+There are some ways of the world that none\n
+of us can change.
 <$00>
 
 
@@ -389,7 +405,8 @@ There are some ways of the world that none of us can change.
 // Pos : 0000644D
 #WRITE(PTR, $00002EDB)
 //『こうした出会いと別れをくりかえし』
-People met, people departed, people rinsed and repeated.
+People met, people departed, people rinsed\n
+and repeated.
 <$00>
 
 
@@ -425,7 +442,8 @@ Was that all it meant to grow up?
 // Pos : 000065B0
 #WRITE(PTR, $000030F6)
 //「アナタは間違ってはいないと思う」
-"I don't think you're wrong for thinking the way you do."
+"I don't think you're wrong for thinking\n
+the way you do."
 <$00>
 
 
@@ -498,7 +516,9 @@ Was that all it meant to grow up?
 // Pos : 0000684C
 #WRITE(PTR, $00003502)
 //「そのかわり、しは゛らくはお茶漬けた゛よ」
-"Anytime! Just know we'll be on that leftover tea over rice diet for a little while."
+"Anytime! Just know we'll be on that\n
+leftover tea over rice diet for a little\n
+while."
 <$00>
 
 
@@ -517,7 +537,7 @@ Was that all it meant to grow up?
 // Pos : 000068C4
 #WRITE(PTR, $0000359E)
 // マリア大好きた゛よ。お茶漬け」
- I love tea over rice!"
+\nI love tea over rice!"
 <$00>
 
 
@@ -581,7 +601,8 @@ Well, I had to wonder.
 // Pos : 00006A7B
 #WRITE(PTR, $0000389E)
 //『そうは言ってみたものの、考えてみれは゛今の僕たちた゛って十分恵まれているし゛ゃないか』
-That's what I meant to say, but deep down, I knew we were pretty blessed.
+That's what I meant to say, but deep down, I\n
+knew we were pretty blessed.
 <$00>
 
 
@@ -590,7 +611,8 @@ That's what I meant to say, but deep down, I knew we were pretty blessed.
 // Pos : 00006ACE
 #WRITE(PTR, $000038E0)
 //『マリアはきっと他人事として受けとめられなかったのた゛ろう』
-And Maria didn't like to turn a blind eye to those in need.
+And Maria didn't like to turn a blind eye to\n
+those in need.
 <$00>
 
 
@@ -653,7 +675,8 @@ This is all we have!
 // Pos : 00006C27
 #WRITE(PTR, $00003BDF)
 //「そのかわり、しは゛らくはふりかけこ゛はんた゛よ」
-"It's not every day I get to share my cut of the pie."
+"It's not every day I get to share my cut of\n
+the pie."
 <$00>
 
 
@@ -662,7 +685,7 @@ This is all we have!
 // Pos : 00006C6F
 #WRITE(PTR, $00003C7B)
 // マリア大好きた゛よ。ふりかけこ゛はん」
- I love pie! My favorite is..."
+I love pie! My favorite is..."
 <$00>
 
 
@@ -680,7 +703,8 @@ This is all we have!
 // Pos : 00006D27
 #WRITE(PTR, $00003E09)
 //「い、いや、なんて゛も…。あのさあマリア」
-"Don't worry about it. Anyways, I'm sorry."
+"Don't worry about it. Anyways, I'm\n
+sorry."
 <$00>
 
 
@@ -743,7 +767,7 @@ This is all we have!
 // Pos : 00006F66
 #WRITE(PTR, $0000422F)
 //お金て゛しょ、
- money,
+\nmoney,
 <$00>
 
 
@@ -752,7 +776,7 @@ This is all we have!
 // Pos : 00006FCE
 #WRITE(PTR, $000042FE)
 //そしてアナタて゛しょ」
- and you!"
+\nand you!"
 <$00>
 
 
@@ -761,7 +785,8 @@ This is all we have!
 // Pos : 00007044
 #WRITE(PTR, $000043F0)
 //「それをゼンブ無くしちゃっても、ワタシには神様か゛残るワ」
-"Even if I had nothing, I would still have the Lord in me."
+"Even if I had nothing, I would still have\n
+the Lord in me."
 <$00>
 
 
@@ -770,7 +795,8 @@ This is all we have!
 // Pos : 000070A9
 #WRITE(PTR, $000044AD)
 //「て゛もあの国の子供たちは食へ゛るモノもないんて゛しょ？」
-"But, what of the children in other countries who still have nothing to eat?"
+"But, what of the children in other\n
+countries who still have nothing to eat?"
 <$00>
 
 
@@ -788,7 +814,8 @@ This is all we have!
 // Pos : 00007117
 #WRITE(PTR, $0000459B)
 //『うーん、確かにそうなんた゛ろうけと゛…』
-Well, that's certainly one way to look at it.
+Well, that's certainly one way to look at\n
+it.
 <$00>
 
 
@@ -797,7 +824,8 @@ Well, that's certainly one way to look at it.
 // Pos : 0000716F
 #WRITE(PTR, $0000467F)
 //『て゛も考えてみたら、こんなに明るく堂々としてていいんた゛ろうか？』
-But now that I think about it, what has her so bright and dignified today?
+But now that I think about it, what has her\n
+so bright and dignified today?
 <$00>
 
 
@@ -833,7 +861,8 @@ Living together is by no means "simple".
 // Pos : 000072A7
 #WRITE(PTR, $0000481D)
 //『僕はこのまま学校に通いなか゛らマリアを守っていけるのた゛ろうか』
-If only I could maintain my college career while keeping Maria safe.
+If only I could maintain my college career\n
+while keeping Maria safe.
 <$00>
 
 
@@ -891,7 +920,8 @@ Turn a new leaf
 // Pos : 00007418
 #WRITE(PTR, $00004A2B)
 //「いま、僕たちの生活って苦しいけと゛さ、ガマンて゛きる？」
-"I know we're going through a lot right now, but how are you holding up?"
+"I know we're going through a lot right\n
+now, but how are you holding up?"
 <$00>
 
 
@@ -949,7 +979,8 @@ Turn a new leaf
 // Pos : 000075ED
 #WRITE(PTR, $00004CAA)
 //「ワタシた゛ったら平気ヨ」
-"Knowing me, I'll be fine with whatever we do."
+"Knowing me, I'll be fine with whatever\n
+we do."
 <$00>
 
 
@@ -958,7 +989,8 @@ Turn a new leaf
 // Pos : 0000761F
 #WRITE(PTR, $00004CF1)
 //「それにワタシの持っているお金、使っちゃってもいいんた゛から…」
-"Go ahead and use the money I've got on me too."
+"Go ahead and use the money I've got on me\n
+too."
 <$00>
 
 
@@ -967,7 +999,8 @@ Turn a new leaf
 // Pos : 00007665
 #WRITE(PTR, $00004D39)
 //「ありか゛とう、その気持ちは大事にするよ」
-"Thank you! That's an admirable attitude!"
+"Thank you! That's an admirable\n
+attitude!"
 <$00>
 
 
@@ -985,7 +1018,8 @@ I've got it!
 // Pos : 00007715
 #WRITE(PTR, $00004F96)
 //「マリア、僕か゛んは゛るよ。君のために」
-"Maria, I'm going to give me all. 'Because of you'."
+"Maria, I'm going to give me all. 'Because\n
+of you'."
 <$00>
 
 
@@ -994,7 +1028,8 @@ I've got it!
 // Pos : 0000774B
 #WRITE(PTR, $0000500D)
 //「エ～～～ッ、ナニ？ ナニ？ と゛うしたの？」
-"Huh? What is it? Is something the matter?"
+"Huh? What is it? Is something the\n
+matter?"
 <$00>
 
 
@@ -1003,7 +1038,8 @@ I've got it!
 // Pos : 0000778C
 #WRITE(PTR, $00005055)
 //「決めたんた゛。マリアは僕か゛守るって」
-"I've made up my mind. I'm going to protect you, Maria."
+"I've made up my mind. I'm going to protect\n
+you, Maria."
 <$00>
 
 
@@ -1012,7 +1048,8 @@ I've got it!
 // Pos : 000077C3
 #WRITE(PTR, $000050B0)
 //「ウワア…ホントに！…うれしい……」
-"Aww, you really mean that? I'm... I'm so happy!"
+"Aww, you really mean that? I'm... I'm so\n
+happy!"
 <$00>
 
 
@@ -1039,7 +1076,8 @@ First, I'm going to look for a real job.
 // Pos : 00007830
 #WRITE(PTR, $00005168)
 //『マリアの記憶をさか゛す手か゛かりも見つけなくちゃ…』
-I have to find clues that will lead to Maria's memories coming back.
+I have to find clues that will lead to\n
+Maria's memories coming back.
 <$00>
 
 
@@ -1057,7 +1095,8 @@ I'm going to be busy now on.
 // Pos : 0000787F
 #WRITE(PTR, $000051DC)
 //『明日、学校に休学届けを出そう』
-Tomorrow, I'll go register for a temporary leave of absence from school.
+Tomorrow, I'll go register for a\n
+temporary leave of absence from school.
 <$00>
 
 
@@ -1066,7 +1105,8 @@ Tomorrow, I'll go register for a temporary leave of absence from school.
 // Pos : 000078E9
 #WRITE(PTR, $00005335)
 //「大丈夫なの？ こんなにおおっひ゜らに外を出歩いて…」
-"Do you feel safe, going out in public like this?"
+"Do you feel safe, going out in public like\n
+this?"
 <$00>
 
 
@@ -1084,7 +1124,8 @@ Tomorrow, I'll go register for a temporary leave of absence from school.
 // Pos : 0000794F
 #WRITE(PTR, $0000541D)
 //「た゛って、君ってもしかしたら、マフィアの一員かもしれないんた゛せ゛」
-"Well, there's still that chance you could be a member of the mafia."
+"Well, there's still that chance you\n
+could be a member of the mafia."
 <$00>
 
 
@@ -1093,7 +1134,8 @@ Tomorrow, I'll go register for a temporary leave of absence from school.
 // Pos : 00007997
 #WRITE(PTR, $00005479)
 //「もし、誰かに見つかったら…」
-"In which case, if someone who knew where to see you..."
+"In which case, if someone who knew where\n
+to see you..."
 <$00>
 
 
@@ -1102,7 +1144,8 @@ Tomorrow, I'll go register for a temporary leave of absence from school.
 // Pos : 00007A6D
 #WRITE(PTR, $00005733)
 //「うーん、なんとかなる…神様か゛と゛うにかしてくれるっていうコト」
-"Ohhh, that. Guess we'll have to leave it up to the Lord!"
+"Ohhh, that. Guess we'll have to leave it\n
+up to the Lord!"
 <$00>
 
 

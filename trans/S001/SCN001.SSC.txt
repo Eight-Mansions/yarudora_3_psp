@@ -40,7 +40,8 @@ Maria and I: Tribulation
 // Pos : 00005E57
 #WRITE(PTR, $00002540)
 //『土曜の夜、いや正確に言うと日曜の朝』
-It was a Saturday night. More like Sunday morning.
+It was a Saturday night. More like Sunday\n
+morning.
 <$00>
 
 
@@ -49,7 +50,8 @@ It was a Saturday night. More like Sunday morning.
 // Pos : 00005E7E
 #WRITE(PTR, $0000257A)
 //『僕は雨の中を歩いている。バイト仲間とカラオケに行った帰りた゛』
-I was walking home in the rain after a night of karaoke in the city.
+I was walking home in the rain after a\n
+night of karaoke in the city.
 <$00>
 
 
@@ -58,7 +60,9 @@ I was walking home in the rain after a night of karaoke in the city.
 // Pos : 00005EB8
 #WRITE(PTR, $000025B4)
 //『みんなは、街て゛ナンパした女の子達と盛り上か゛るた゛け盛り上か゛って、それそ゛れホテルへシケ込んて゛いった』
-My coworkers had left me stranded after booking hotel rooms with girls they'd picked up.
+My coworkers had left me stranded after\n
+booking hotel rooms with girls they'd\n
+picked up.
 <$00>
 
 
@@ -67,7 +71,8 @@ My coworkers had left me stranded after booking hotel rooms with girls they'd pi
 // Pos : 00005F0B
 #WRITE(PTR, $000025EE)
 //『こ゛丁寧にそのうちのひとりは、僕からホテル代まて゛借りていって…』
-One guy had the nerve to ask me if I would help pay for his room.
+One guy had the nerve to ask me if I would help\n
+pay for his room.
 <$00>
 
 
@@ -94,7 +99,8 @@ The hands on the clock teetered past 2 a.m.
 // Pos : 00005FC2
 #WRITE(PTR, $000027CB)
 //『あの佐藤につきあってしまったおかけ゛て゛、僕は…』
-All thanks to that good-for-nothing Satoh...
+All thanks to that good-for-nothing\n
+Satoh...
 <$00>
 
 
@@ -103,7 +109,9 @@ All thanks to that good-for-nothing Satoh...
 // Pos : 00005FEB
 #WRITE(PTR, $00002805)
 //『妖しいお店に連れて行かれ、バイト代をこ゛っそりまきあけ゛られてしまった…』
-He'd led us into some shady establishment that had quickly zapped up all of my part-time wages.
+He'd led us into some shady establishment\n
+that had quickly zapped up all of my\n
+part-time wages.
 <$00>
 
 
@@ -121,7 +129,7 @@ Then, I had to deal with some drunkards,
 // Pos : 00006042
 #WRITE(PTR, $00002879)
 //『犬にほえられ』
-and then a dog had started giving me hell, 
+and then a dog had started giving me hell,
 <$00>
 
 
@@ -139,7 +147,8 @@ and THEN a car had almost hit me!
 // Pos : 00006071
 #WRITE(PTR, $000028ED)
 //『終電にも乗り遅れてしまった…』
-To add insult to injury, I had missed the last train home.
+To add insult to injury, I had missed the\n
+last train home.
 <$00>
 
 
@@ -148,7 +157,8 @@ To add insult to injury, I had missed the last train home.
 // Pos : 00006092
 #WRITE(PTR, $00002927)
 //『というわけて゛、この雨の中、延々と２時間近くも歩いているのた゛…』
-So there I was, stuck walking through the rain for a good two hours.
+So there I was, stuck walking through the\n
+rain for a good two hours.
 <$00>
 
 
@@ -157,7 +167,8 @@ So there I was, stuck walking through the rain for a good two hours.
 // Pos : 000060C9
 #WRITE(PTR, $00002963)
 //『合コンなんて出るもんし゛ゃない…』
-I had liked the idea of a big hangout, at first.
+I had liked the idea of a big hangout, at\n
+first.
 <$00>
 
 
@@ -166,7 +177,9 @@ I had liked the idea of a big hangout, at first.
 // Pos : 000060EB
 #WRITE(PTR, $0000299D)
 //『女の子たちを前にした仲間たちは、みんな目の色を変えていた』
-But then, I saw the hungry looks on my coworkers' faces when we ran into some girls. 
+But then, I saw the hungry looks on my\n
+coworkers' faces when we ran into some\n
+girls.
 <$00>
 
 
@@ -175,7 +188,9 @@ But then, I saw the hungry looks on my coworkers' faces when we ran into some gi
 // Pos : 0000611C
 #WRITE(PTR, $000029D7)
 //『彼らの下心に満ちた姿に、僕の気持ちは冷めていった』
-Once everyone's ulterior plans for the night had dawned on me, I'd lost all interest.
+Once everyone's ulterior plans for the\n
+night had dawned on me, I'd lost all\n
+interest.
 <$00>
 
 
@@ -184,7 +199,8 @@ Once everyone's ulterior plans for the night had dawned on me, I'd lost all inte
 // Pos : 0000614A
 #WRITE(PTR, $00002A11)
 //『それて゛も最後まて゛つきあってしまった僕は』
-Still, I'd decided to stick around until everyone else had called it a night.
+Still, I'd decided to stick around until\n
+everyone else had called it a night.
 <$00>
 
 
@@ -193,7 +209,9 @@ Still, I'd decided to stick around until everyone else had called it a night.
 // Pos : 0000616F
 #WRITE(PTR, $00002A4B)
 //『あちこちに振り回され、いつの間にか電車はなくなっていた』
-After having moseyed around for a while, I'd learned the hard way that my last train had already left the station.
+After having moseyed around for a while,\n
+I'd learned the hard way that my last\n
+train had already left the station.
 <$00>
 
 
@@ -202,7 +220,8 @@ After having moseyed around for a while, I'd learned the hard way that my last t
 // Pos : 0000619C
 #WRITE(PTR, $00002A85)
 //『というわけて゛、この雨の中、家路をめさ゛して歩いているのた゛…』
-And so, I had no choice but to walk home in the rain.
+And so, I had no choice but to walk home in\n
+the rain.
 <$00>
 
 
@@ -211,7 +230,8 @@ And so, I had no choice but to walk home in the rain.
 // Pos : 0000626F
 #WRITE(PTR, $00002BF5)
 //『おもしろくない。と゛うしてみんなああ簡単にレンアイか゛て゛きるんた゛ろう』
-What a drag. Why does it feel like I'm the only one who has bad luck with women?
+What a drag. Why does it feel like I'm the\n
+only one who has bad luck with women?
 <$00>
 
 
@@ -229,7 +249,9 @@ I just don't get it.
 // Pos : 000062B8
 #WRITE(PTR, $00002C69)
 //『おかけ゛て゛僕は終電に乗り遅れ、この雨の中、延々と２時間近くも歩いているのた゛…』
-Thanks to my bad luck, I had missed the last train. I was stuck walking through the rain for a good two hours.
+Thanks to my bad luck, I had missed the last\n
+train. I was stuck walking through the\n
+rain for a good two hours.
 <$00>
 
 
@@ -238,7 +260,8 @@ Thanks to my bad luck, I had missed the last train. I was stuck walking through 
 // Pos : 0000632F
 #WRITE(PTR, $00002D5A)
 //『ん！？ パトカーた゛。なにか事件て゛もあったのかな…』
-Ah. Police vehicle. Something must have gone down nearby.
+Ah. Police vehicle. Something must have\n
+gone down nearby.
 <$00>
 
 
@@ -247,7 +270,8 @@ Ah. Police vehicle. Something must have gone down nearby.
 // Pos : 0000635D
 #WRITE(PTR, $00002D94)
 //『そう言えは゛駅前にす゛いふ゛んパトカーか゛集まっていたっけ』
-Come to think of it, I had seen a swarm of them out in front of the station.
+Come to think of it, I had seen a swarm of\n
+them out in front of the station.
 <$00>
 
 
@@ -301,7 +325,8 @@ D1Police Officer
 // Pos : 000064A2
 #WRITE(PTR, $0000305B)
 //「何かあったんて゛すか？」
-"Hello, Officer. Everything all right?"
+"Hello, Officer. Everything all\n
+right?"
 <$00>
 
 
@@ -338,7 +363,9 @@ D1Police Officer
 // Pos : 000065AD
 #WRITE(PTR, $00003296)
 //「ところて゛このあたりて゛怪しい奴を見かけなかったか？ 東南アジア系の…」
-"You haven't seen anyone acting suspiciously, have you? Any Southeast Asians?"
+"You haven't seen anyone acting\n
+suspiciously, have you? Any Southeast\n
+Asians?"
 <$00>
 
 
@@ -374,7 +401,8 @@ D1Police Officer
 // Pos : 000066A0
 #WRITE(PTR, $0000343F)
 //『東南アジア系の怪しい奴か…』
-A Southeast Asian person "acting suspiciously", huh.
+A Southeast Asian person "acting\n
+suspiciously", huh.
 <$00>
 
 
@@ -392,7 +420,8 @@ I wonder what they did.
 // Pos : 000066F8
 #WRITE(PTR, $000034BB)
 //『冷たい雨の中、僕の足と゛りはますます重くなった』
-My feet grew increasingly heavier as they slogged through the icy rain.
+My feet grew increasingly heavier as they\n
+slogged through the icy rain.
 <$00>
 
 
@@ -401,7 +430,8 @@ My feet grew increasingly heavier as they slogged through the icy rain.
 // Pos : 0000675D
 #WRITE(PTR, $00003553)
 //「なにかあったし゛ゃないて゛しょ。あんたす゛ふ゛濡れし゛ゃないの」
-"Where's your umbrella, kid? You look soaked."
+"Where's your umbrella, kid? You look\n
+soaked."
 <$00>
 
 
@@ -410,7 +440,8 @@ My feet grew increasingly heavier as they slogged through the icy rain.
 // Pos : 0000679C
 #WRITE(PTR, $00003599)
 //「あはは、かさ…忘れちゃって…」
-"Ahaha! Silly me, forgot to bring the darned thing!"
+"Ahaha! Silly me, forgot to bring the\n
+darned thing!"
 <$00>
 
 
@@ -419,7 +450,8 @@ My feet grew increasingly heavier as they slogged through the icy rain.
 // Pos : 000067FA
 #WRITE(PTR, $000036E3)
 //「何かわけありみたいた゛な……本官か゛相談にのってやろうか？」
-"You seem awfully... chipper. Anything you'd like to tell us?"
+"You seem awfully... chipper. Anything\n
+you'd like to tell us?"
 <$00>
 
 
@@ -500,7 +532,8 @@ No, thank you!
 // Pos : 000069B3
 #WRITE(PTR, $00003A0B)
 //「すみません、助かります」
-"Sorry for the trouble. You saved my butt out there."
+"Sorry for the trouble. You saved my butt\n
+out there."
 <$00>
 
 
@@ -509,7 +542,8 @@ No, thank you!
 // Pos : 000069E1
 #WRITE(PTR, $00003A67)
 //「こんな時間にお仕事た゛なんて大変て゛すねえ」
-"Seems crazy that they'd make you guys run the rounds in this weather."
+"Seems crazy that they'd make you guys run\n
+the rounds in this weather."
 <$00>
 
 
@@ -527,7 +561,8 @@ No, thank you!
 // Pos : 00006A56
 #WRITE(PTR, $00003B30)
 //『親切な警官は、僕をアパートの前まて゛送ってくれた』
-The merciful police officer pulled up to my apartment.
+The merciful police officer pulled up to\n
+my apartment.
 <$00>
 
 
@@ -536,7 +571,9 @@ The merciful police officer pulled up to my apartment.
 // Pos : 00006A8A
 #WRITE(PTR, $00003B6A)
 //『おかけ゛て゛僕は風邪をひくこともなく、その日はく゛っすりと眠ることか゛て゛きた』
-The ride not only saved me from catching a cold, but blessed me with enough time to sleep before my shift.
+The ride not only saved me from catching a\n
+cold, but blessed me with enough time to\n
+sleep before my shift.
 <$00>
 
 
@@ -545,7 +582,8 @@ The ride not only saved me from catching a cold, but blessed me with enough time
 // Pos : 00006AE4
 #WRITE(PTR, $00003C25)
 //「あっそ。し゛ゃっ、カゼひかないようにね」
-"Are you sure? Well, don't catch your death."
+"Are you sure? Well, don't catch your\n
+death."
 <$00>
 
 
@@ -563,7 +601,8 @@ The ride not only saved me from catching a cold, but blessed me with enough time
 // Pos : 00006B39
 #WRITE(PTR, $00003CFA)
 //『ふう～、あふ゛ないあふ゛ない』
-Phew! Talking to that officer felt like it took years off of my life.
+Phew! Talking to that officer felt like\n
+it took years off of my life.
 <$00>
 
 
@@ -572,7 +611,8 @@ Phew! Talking to that officer felt like it took years off of my life.
 // Pos : 00006B4D
 #WRITE(PTR, $00003D25)
 //『ちょっとお酒はいってるからなァ、僕…』
-How obvious is it that I had one too many to drink?
+How obvious is it that I had one too many to\n
+drink?
 <$00>
 
 
@@ -581,7 +621,8 @@ How obvious is it that I had one too many to drink?
 // Pos : 00006B96
 #WRITE(PTR, $00003E09)
 //『なんて態度た゛ろう。まるて゛犯罪者を見るかのようににらんて゛…』
-What was his deal, anyways? He acted like he was ready to bust me for something.
+What was his deal, anyways? He acted like he\n
+was ready to bust me for something.
 <$00>
 
 
@@ -608,7 +649,8 @@ Is someone back there?
 // Pos : 00006CFF
 #WRITE(PTR, $0000420F)
 //『うめき声……女の人？』
-I heard a whimper that sounded almost... feminine?
+I heard a whimper that sounded almost...\n
+feminine?
 <$00>
 
 
@@ -645,7 +687,8 @@ I heard a whimper that sounded almost... feminine?
 #WRITE(PTR, $0000468A)
 #WRITE(PTR, $00004B47)
 //『褐色の肌、黒い大きな瞳…』
-Her skin tone was darker than mine. Her eyes, large pools of amber.
+Her skin tone was darker than mine. Her\n
+eyes, large pools of amber.
 <$00>
 
 
@@ -663,7 +706,8 @@ Blood trickled from her forehead.
 // Pos : 00006FE6
 #WRITE(PTR, $0000486E)
 //『と゛うやら人を呼んて゛欲しくない様子た゛』
-I got the hint that she didn't want me to call for help.
+I got the hint that she didn't want me to\n
+call for help.
 <$00>
 
 
@@ -682,7 +726,8 @@ I got the hint that she didn't want me to call for help.
 // Pos : 0000708D
 #WRITE(PTR, $000049EC)
 //『雨の夜、酒屋の横の路地…』
-As the night rain poured into that back alley behind the liquor store... 
+As the night rain poured into that back\n
+alley behind the liquor store...
 <$00>
 
 
@@ -711,7 +756,8 @@ She must be Southeast Asian.
 // Pos : 00007102
 #WRITE(PTR, $00004B8D)
 //『よく見ると額から血を流している…』
-As I took a closer look, I noticed a trickle of blood on her forehead.
+As I took a closer look, I noticed a trickle\n
+of blood on her forehead.
 <$00>
 
 
@@ -756,7 +802,8 @@ Sorry. I'm, uh... in a hurry!
 // Pos : 0000721A
 #WRITE(PTR, $00004E22)
 //『すか゛りつくような彼女をあとにして、僕は足早にその場を去った…』
-I tore away from the distressed woman and sprang out from the alley.
+I tore away from the distressed woman and\n
+sprang out from the alley.
 <$00>
 
 
@@ -774,7 +821,8 @@ Several weeks had passed since that night.
 // Pos : 000072A1
 #WRITE(PTR, $00004F46)
 //『僕は相変わらす゛、大学とバイトた゛らけの毎日を過こ゛している』
-I juggled my college-work routine like normal.
+I juggled my college-work routine like\n
+normal.
 <$00>
 
 
@@ -783,7 +831,8 @@ I juggled my college-work routine like normal.
 // Pos : 000072D8
 #WRITE(PTR, $00004F80)
 //『もし、あの夜…』
-Only, I never stopped thinking about that night.
+Only, I never stopped thinking about that\n
+night.
 <$00>
 
 
@@ -792,7 +841,9 @@ Only, I never stopped thinking about that night.
 // Pos : 000072EF
 #WRITE(PTR, $00004FBA)
 //『酒屋の横の路地て゛出会ったあの子を助けていたなら、僕の生活も少しは変わったんた゛ろうか…？』
-What would've happened had I helped that woman? What impact would it have had on my life, if any?
+What would've happened had I helped that\n
+woman? What impact would it have had on my\n
+life, if any?
 <$00>
 
 
@@ -801,7 +852,8 @@ What would've happened had I helped that woman? What impact would it have had on
 // Pos : 00007331
 #WRITE(PTR, $00004FDD)
 //『ため息とともに、そんな思いか゛胸をよき゛った』
-I sighed each time such a question darted through my mind.
+I sighed each time such a question darted\n
+through my mind.
 <$00>
 
 
@@ -810,7 +862,8 @@ I sighed each time such a question darted through my mind.
 // Pos : 000073F1
 #WRITE(PTR, $00005483)
 //『出会いは突然にやってくる…』
-My encounter with that woman had only lasted a few moments.
+My encounter with that woman had only\n
+lasted a few moments.
 <$00>
 
 
@@ -819,7 +872,8 @@ My encounter with that woman had only lasted a few moments.
 // Pos : 00007468
 #WRITE(PTR, $000055E8)
 //『彼女は暗闇にひそんて゛いた…』
-She'd been hiding herself away in the darkness.
+She'd been hiding herself away in the\n
+darkness.
 <$00>
 
 
@@ -837,7 +891,8 @@ She'd been hiding herself away in the darkness.
 // Pos : 00007532
 #WRITE(PTR, $00005864)
 //『助けないわけにはいかなかった…』
-"I couldn't live with myself if I didn't try to help."
+"I couldn't live with myself if I didn't\n
+try to help."
 <$00>
 
 

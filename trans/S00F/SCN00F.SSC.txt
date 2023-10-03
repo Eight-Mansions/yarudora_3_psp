@@ -22,7 +22,8 @@ Our life together had changed entirely.
 // Pos : 00008452
 #WRITE(PTR, $0000200A)
 //『僕は、て゛きる限りの時間、マリアと一緒にいることにした』
-I decided to stay with Maria for as long as possible.
+I decided to stay with Maria for as long as\n
+possible.
 <$00>
 
 
@@ -76,7 +77,8 @@ The nature park
 // Pos : 000085FD
 #WRITE(PTR, $00002298)
 //『店の前まて゛来て、ふと思った』
-Something occured to me as we approached the storefront.
+Something occured to me as we approached the\n
+storefront.
 <$00>
 
 
@@ -85,7 +87,9 @@ Something occured to me as we approached the storefront.
 // Pos : 00008614
 #WRITE(PTR, $000022BB)
 //『いつもここには、て゛きることなら一番会いたくない奴か゛入り浸ってるはす゛…』
-If I stayed here too long, there was a good chance the last person I wanted to see would rear his dorky head.
+If I stayed here too long, there was a good\n
+chance the last person I wanted to see would\n
+rear his dorky head.
 <$00>
 
 
@@ -94,7 +98,8 @@ If I stayed here too long, there was a good chance the last person I wanted to s
 // Pos : 00008651
 #WRITE(PTR, $000022F5)
 //『そいつはおよそ人間離れした奴て゛、人の気分を悪くする天才て゛…』
-This guy in particular was pretentious and hard to chew the fat with.
+This guy in particular was pretentious and\n
+hard to chew the fat with.
 <$00>
 
 
@@ -112,7 +117,8 @@ Whatever the case, we were already here.
 // Pos : 000086E2
 #WRITE(PTR, $000023AC)
 //『今日は来てないみたいた゛な…』
-And besides, what were the odds of him showing up today?
+And besides, what were the odds of him\n
+showing up today?
 <$00>
 
 
@@ -212,7 +218,8 @@ D1Suspicious Voice
 // Pos : 0000899B
 #WRITE(PTR, $000027EA)
 //「い、いいなあ！！ 美月ちゃんのポスターた゛あ…」
-"Look at you, you lucky dog! That's a poster of the one and only Mitsuki!"
+"Look at you, you lucky dog! That's a poster\n
+of the one and only Mitsuki!"
 <$00>
 
 
@@ -251,7 +258,8 @@ D1Collector
 // Pos : 00008AB9
 #WRITE(PTR, $00002937)
 //「五千円て゛売ってくれないかなあ」
-"Would you be willing to sell it to me for 5000 yen?"
+"Would you be willing to sell it to me for\n
+5000 yen?"
 <$00>
 
 
@@ -269,7 +277,8 @@ D1Collector
 // Pos : 00008B50
 #WRITE(PTR, $00002A17)
 //「やったあ、これて゛全部そろったあ…」
-"This is amazing! Now I have the whole set!"
+"This is amazing! Now I have the whole\n
+set!"
 <$00>
 
 
@@ -287,7 +296,8 @@ D1Collector
 // Pos : 00008BC9
 #WRITE(PTR, $00002AE4)
 //『気をとりなおして、僕たちは格闘ゲームて゛対戦した』
-After going on our merry way, we found some multiplayer fighting games to play.
+After going on our merry way, we found some\n
+multiplayer fighting games to play.
 <$00>
 
 
@@ -341,7 +351,8 @@ Maria's really good at this!
 // Pos : 00008CEB
 #WRITE(PTR, $00002CCF)
 //『天性の才能なのか、単に僕か゛弱いた゛けなのか？』
-Is she just getting lucky, or am I just that bad at the game?
+Is she just getting lucky, or am I just that\n
+bad at the game?
 <$00>
 
 
@@ -359,7 +370,9 @@ Is she just getting lucky, or am I just that bad at the game?
 // Pos : 00008E03
 #WRITE(PTR, $00002E91)
 //「簡単よォ、このボタンをネ、チョイチョイチョイ、チョイ、チョイって…」
-"It was easy! I just pressed this button and went, 'Cha! Cha! Cha! Hwa-chaw! Cha! Chaww!'"
+"It was easy! I just pressed this button and\n
+went, 'Cha! Cha! Cha! Hwa-chaw! Cha!\n
+Chaww!'"
 <$00>
 
 
@@ -386,7 +399,8 @@ Yep. She got lucky.
 // Pos : 00008F8C
 #WRITE(PTR, $000030C2)
 //「マリア！ さっきの必殺技、なに！？」
-"Wow, Maria! What was that attack you just used?!"
+"Wow, Maria! What was that attack you\n
+just used?!"
 <$00>
 
 
@@ -404,7 +418,9 @@ Yep. She got lucky.
 // Pos : 00009024
 #WRITE(PTR, $000031FD)
 //「いい、右中キック、ななめ強キック、上強パンチ、レバーを上に２回」
-"Here, it's up forward Medium Kick, slanted Strong Kick, upward Strong Punch, Up, Up..."
+"Here, it's up forward Medium Kick,\n
+slanted Strong Kick, upward Strong Punch,\n
+Up, Up..."
 <$00>
 
 
@@ -413,7 +429,9 @@ Yep. She got lucky.
 // Pos : 00009059
 #WRITE(PTR, $00003220)
 //「最後に強パンチ中キックを同時押し」
-「...and finish it off with hitting Strong Punch and Medium Kick simultaneously.」
+「...and finish it off with hitting\n
+Strong Punch and Medium Kick\n
+simultaneously.」
 <$00>
 
 
@@ -440,7 +458,8 @@ Yep. She got lucky.
 // Pos : 00009112
 #WRITE(PTR, $000033A5)
 //『全国大会に出れるよ…マジて゛…』
-Send this girl to a national tournament or something, I'm not even kidding.
+Send this girl to a national tournament or\n
+something, I'm not even kidding.
 <$00>
 
 
@@ -458,7 +477,8 @@ Send this girl to a national tournament or something, I'm not even kidding.
 // Pos : 0000919D
 #WRITE(PTR, $000034F2)
 //「いい？ このボタンをこう押すた゛けて゛ダメージを与えられるのヨ」
-"Really? But all I do is hit the little buttons around to hit the other person."
+"Really? But all I do is hit the little\n
+buttons around to hit the other person."
 <$00>
 
 
@@ -467,7 +487,8 @@ Send this girl to a national tournament or something, I'm not even kidding.
 // Pos : 0000921C
 #WRITE(PTR, $000035FD)
 //「て゛もアナタ、す゛いふ゛ん上手くなったわヨ」
-"Well, yeah, but you're really, REALLY good at it!"
+"Well, yeah, but you're really, REALLY\n
+good at it!"
 <$00>
 
 
@@ -494,7 +515,8 @@ Send this girl to a national tournament or something, I'm not even kidding.
 // Pos : 000092C0
 #WRITE(PTR, $0000372B)
 //『聞き覚えのある声て゛僕の背中に悪寒か゛走った…』
-A voice familiar to me cracked from behind us, sending shivers down my spine.
+A voice familiar to me cracked from behind\n
+us, sending shivers down my spine.
 <$00>
 
 
@@ -512,7 +534,8 @@ That voice...
 // Pos : 00009331
 #WRITE(PTR, $000037AF)
 //『まっ、間違いない…』
-Without a doubt, it belonged to none other than...
+Without a doubt, it belonged to none other\n
+than...
 <$00>
 
 
@@ -718,7 +741,8 @@ Oh, man. What does he want from us?
 // Pos : 000097EF
 #WRITE(PTR, $00003F09)
 //「こらこら、と゛ーしたのよあの娘？  カーワイイし゛ゃん！ と゛このお店て゛見つけたのよ？」
-"You dog, WHERE did you pick up CUTIE like her? What CLUB did you go to?"
+"You dog, WHERE did you pick up CUTIE like\n
+her? What CLUB did you go to?"
 <$00>
 
 
@@ -736,7 +760,8 @@ Oh, man. What does he want from us?
 // Pos : 000098C2
 #WRITE(PTR, $00003FD5)
 //「し゛ゃっ、し゛ゃあ、と゛こて゛知り合ったのよ」
-"Well then, where DID you two get familiar, HMM?!"
+"Well then, where DID you two get\n
+familiar, HMM?!"
 <$00>
 
 
@@ -745,7 +770,8 @@ Oh, man. What does he want from us?
 // Pos : 00009924
 #WRITE(PTR, $0000403B)
 //「ん～ん、もったいふ゛らす゛に教えてよ。マブダチし゛ゃん！」
-"C'MON, don't leave me HANGING like this！ Not your BEST FRIEND!"
+"C'MON, don't leave me HANGING like\n
+this！ Not your BEST FRIEND!"
 <$00>
 
 
@@ -835,7 +861,8 @@ Sorry. Gotta go!
 // Pos : 00009B48
 #WRITE(PTR, $00004374)
 //「言ったって減るもんし゛ゃないっしょ」
-"Even if I said something, you'd steamroll all over me."
+"Even if I said something, you'd steamroll\n
+all over me."
 <$00>
 
 
@@ -891,7 +918,8 @@ What a pain he is. What do I say?
 // Pos : 00009C9F
 #WRITE(PTR, $0000458C)
 //「マリアちゃんって、トシいくつなの？ スリーサイズは？」
-"How old is Maria? Do you know her 3 sizes yet?"
+"How old is Maria? Do you know her 3 sizes\n
+yet?"
 <$00>
 
 
@@ -900,7 +928,8 @@ What a pain he is. What do I say?
 // Pos : 00009CE5
 #WRITE(PTR, $000045EA)
 //「いーし゛ゃん！ 教えてくれたってえ！」
-"That's safe to tell little ol' me, ain't it?"
+"That's safe to tell little ol' me,\n
+ain't it?"
 <$00>
 
 
@@ -945,7 +974,8 @@ Brag
 // Pos : 00009DE6
 #WRITE(PTR, $000047D1)
 //「誰か゛友達なもんか！ 勝手におまえか゛そう思ってるた゛けた゛ろ」
-"Who pressures their own friends to reveal stuff like that?"
+"Who pressures their own friends to reveal\n
+stuff like that?"
 <$00>
 
 
@@ -954,7 +984,8 @@ Brag
 // Pos : 00009E4C
 #WRITE(PTR, $00004854)
 //「な、な、なんと失敬な！ このボクに向かって」
-"Why, the NERVE!!! Why would you SAY such a thing to ME?!"
+"Why, the NERVE!!! Why would you SAY such a\n
+thing to ME?!"
 <$00>
 
 
@@ -972,7 +1003,9 @@ Brag
 // Pos : 00009EE7
 #WRITE(PTR, $0000492D)
 //「あ、あやまれ！ こっ、ここに手をついてあやまれ！」
-"Oh, Lord in Heaven, FORGIVE me! I throw myself on my KNEES in prayer that you may FORGIVE MY EVERY SIN!"
+"Oh, Lord in Heaven, FORGIVE me! I throw\n
+myself on my KNEES in prayer that you may\n
+FORGIVE MY EVERY SIN!"
 <$00>
 
 
@@ -999,7 +1032,8 @@ Brag
 // Pos : 00009FB3
 #WRITE(PTR, $00004A69)
 //「これ以上おれに話しかけるな！」
-"Maybe think twice before you talk me down like that!"
+"Maybe think twice before you talk me down\n
+like that!"
 <$00>
 
 
@@ -1026,7 +1060,8 @@ Brag
 // Pos : 0000A096
 #WRITE(PTR, $00004BCE)
 //「あんなカワイイ子か゛と゛ーしてキミなんかに？」
-"What is that sweet honey-bee doing with an UNCULTURED HORNET like YOU?!"
+"What is that sweet honey-bee doing with\n
+an UNCULTURED HORNET like YOU?!"
 <$00>
 
 
@@ -1062,7 +1097,8 @@ Brag
 // Pos : 0000A191
 #WRITE(PTR, $00004D67)
 //「おれか゛バイトしている牛と゛ん屋に新しく入った子て゛さ。ここて゛偶然会ったんた゛よ」
-"She's a newbie at the udon diner I work at. We're just on a random hangout."
+"She's a newbie at the udon diner I work at.\n
+We're just on a random hangout."
 <$00>
 
 
@@ -1090,7 +1126,9 @@ I lied through my teeth.
 // Pos : 0000A27D
 #WRITE(PTR, $00004E9D)
 //「て゛もす゛いふ゛ん仲良さそうに見えたけと゛なァ。やることやってんて゛しょ？」
-"But you two are SOOO buddy-buddy with eachother! You sure you two aren't DOIN' the DO?"
+"But you two are SOOO buddy-buddy with\n
+eachother! You sure you two aren't DOIN'\n
+the DO?"
 <$00>
 
 
@@ -1108,7 +1146,8 @@ I lied through my teeth.
 // Pos : 0000A310
 #WRITE(PTR, $00004F6E)
 //「向こうの子とつき合うなんてまるて゛馬場さんみたいた゛ね」
-"When I saw her, she immediately reminded me of Mr. Baba."
+"When I saw her, she immediately reminded\n
+me of Mr. Baba."
 <$00>
 
 
@@ -1127,7 +1166,9 @@ I lied through my teeth.
 // Pos : 0000A3AD
 #WRITE(PTR, $00005047)
 //「知らないの？ 大学前の銀杏並木の近くのコーヒー専門店の馬場さん」
-"You don't know him? He works at the coffee shop near all those gingko trees across from campus."
+"You don't know him? He works at the coffee\n
+shop near all those gingko trees across\n
+from campus."
 <$00>
 
 
@@ -1145,7 +1186,9 @@ I lied through my teeth.
 // Pos : 0000A45B
 #WRITE(PTR, $00005120)
 //「フィリピンといえは゛馬場さんて゛しょう。基本よコレ、基本。ねっ、キ・ホ・ン」
-"If you ever wanted to learn Tagalog, you could ask Mr. Baba. He tought me the BASICS. The FUNDEMENTALS! The GIST!"
+"If you ever wanted to learn Tagalog, you\n
+could ask Mr. Baba. He tought me the\n
+BASICS. The FUNDEMENTALS! The GIST!"
 <$00>
 
 
@@ -1173,7 +1216,8 @@ Mr. Baba, huh...
 // Pos : 0000A50A
 #WRITE(PTR, $000051F7)
 //「この前、先輩にパブに連れていかれてさ。まあ…そこて゛…」
-"Bumped into her at the pub with some friends, and, well...」
+"Bumped into her at the pub with some\n
+friends, and, well...」
 <$00>
 
 
@@ -1200,7 +1244,8 @@ Mr. Baba, huh...
 // Pos : 0000A5D9
 #WRITE(PTR, $00005340)
 //「そうか、キミにも彼女か゛て゛きたか。奥手た゛ったキミにねえ…」
-"Finally, a girlfriend! Who knew you had it in you!"
+"Finally, a girlfriend! Who knew you had\n
+it in you!"
 <$00>
 
 
@@ -1218,7 +1263,9 @@ I'm about done with this guy.
 // Pos : 0000A666
 #WRITE(PTR, $000053E0)
 //「まあフィリピンの子とつきあうなら、馬場さんに口説き方を教えてもらうことた゛ね」
-"Well, if it's Filipinas you fancy, you can always ask Mr. Baba for some 'Pinoy pointers'."
+"Well, if it's Filipinas you fancy, you can\n
+always ask Mr. Baba for some 'Pinoy\n
+pointers'."
 <$00>
 
 
@@ -1227,7 +1274,9 @@ I'm about done with this guy.
 // Pos : 0000A707
 #WRITE(PTR, $000054B9)
 //「知らないの？ ドンチューノー？ 大学の前に銀杏並木か゛あるよねえ？」
-"What?! Don'tcha know 'im? Do you know where the gingko trees are across from campus, at least? "
+"What?! Don'tcha know 'im? Do you know\n
+where the gingko trees are across from\n
+campus, at least? "
 <$00>
 
 
@@ -1245,7 +1294,8 @@ I'm about done with this guy.
 // Pos : 0000A79D
 #WRITE(PTR, $00005573)
 //「その近くにコーヒー専門店か゛あってね」
-"There's a small coffee cafe right around there."
+"There's a small coffee cafe right around\n
+there."
 <$00>
 
 
@@ -1263,7 +1313,8 @@ I'm about done with this guy.
 // Pos : 0000A838
 #WRITE(PTR, $00005620)
 //「ま、いろいろ攻略テクを教わりたまえ」
-"I'm sure he'd be happy to teach you some pointers."
+"I'm sure he'd be happy to teach you some\n
+pointers."
 <$00>
 
 
@@ -1281,7 +1332,8 @@ Would you look at that.
 // Pos : 0000A87F
 #WRITE(PTR, $000056E8)
 //『佐藤か゛話していた言葉…』
-Satoh, talking like a civilized human being!
+Satoh, talking like a civilized human\n
+being!
 <$00>
 
 
@@ -1290,7 +1342,8 @@ Satoh, talking like a civilized human being!
 // Pos : 0000A8A1
 #WRITE(PTR, $00005722)
 //『あれはフィリピンの言葉し゛ゃないのか？』
-Was he really speaking the Filipino language?
+Was he really speaking the Filipino\n
+language?
 <$00>
 
 
@@ -1317,7 +1370,8 @@ Hmph.
 // Pos : 0000A915
 #WRITE(PTR, $000057D0)
 //『もしかして佐藤からなにか引き出せるかもしれないな…』
-Maybe I can still coax some information out of Satoh.
+Maybe I can still coax some information out\n
+of Satoh.
 <$00>
 
 
@@ -1362,7 +1416,8 @@ Maybe I can still coax some information out of Satoh.
 // Pos : 0000AA15
 #WRITE(PTR, $00005982)
 //「ある雨の夜、酒屋の横の暗か゛りて゛会ったんた゛…」
-"We met on a rainy night, in a dark alley behind the liquor store!"
+"We met on a rainy night, in a dark alley\n
+behind the liquor store!"
 <$00>
 
 
@@ -1389,7 +1444,8 @@ Maybe I can still coax some information out of Satoh.
 // Pos : 0000AAC6
 #WRITE(PTR, $00005AAA)
 //「教えて教えて！ ねっ！ねっ！ ねっ！」
-"Tell me more, tell me MORE! Please, please, PLEASE!!!"
+"Tell me more, tell me MORE! Please,\n
+please, PLEASE!!!"
 <$00>
 
 
@@ -1398,7 +1454,8 @@ Maybe I can still coax some information out of Satoh.
 // Pos : 0000AAEC
 #WRITE(PTR, $00005AF4)
 //『なんた゛い。ホントのことなのに…』
-Seriously? THIS is the guy I go telling the truth?
+Seriously? THIS is the guy I go telling the\n
+truth?
 <$00>
 
 
@@ -1407,7 +1464,8 @@ Seriously? THIS is the guy I go telling the truth?
 // Pos : 0000AB10
 #WRITE(PTR, $00005B2E)
 //『まあいいや。それよりも佐藤から情報を引き出すには…』
-Whatever. The least he could do is tell me something useful in return.
+Whatever. The least he could do is tell me\n
+something useful in return.
 <$00>
 
 
@@ -1425,7 +1483,8 @@ Maybe I can pull his chain a bit.
 // Pos : 0000AB72
 #WRITE(PTR, $00005BA6)
 //「わかった、今のは忘れてくれ。それより佐藤、おまえって…」
-"Ask and we shall receive. But first, Satoh, I've gotta ask, how are you so..."
+"Ask and we shall receive. But first,\n
+Satoh, I've gotta ask, how are you so..."
 <$00>
 
 
@@ -1481,7 +1540,9 @@ Knowledgeable?
 // Pos : 0000AC5D
 #WRITE(PTR, $00005D2C)
 //「当然し゛ゃん。すくなくともキミよりはねェ…」
-"Because I EARNED it, that's all! I'm not a walking CHARITY CASE like SOME GUY I know."
+"Because I EARNED it, that's all! I'm not a\n
+walking CHARITY CASE like SOME GUY I\n
+know."
 <$00>
 
 
@@ -1508,7 +1569,9 @@ He couldn't hold it in, could he!
 // Pos : 0000ACF8
 #WRITE(PTR, $00005E5A)
 //「当然て゛しょ！ ボクは２９００円のシャツなんて着ないのサ」
-"Because I EARNED it, that's all! We can't ALL be charity cases who only afford shirts under 2900 yen!"
+"Because I EARNED it, that's all! We can't\n
+ALL be charity cases who only afford shirts\n
+under 2900 yen!"
 <$00>
 
 
@@ -1517,7 +1580,9 @@ He couldn't hold it in, could he!
 // Pos : 0000AD46
 #WRITE(PTR, $00005EA1)
 //「この服なんてね、オーダーメイドよ！ オーダー・メ・イ・ド！ わかる？」
-"I hate to break it to you, but this outfit was tailored JUST! FOR! MOI! Understand?"
+"I hate to break it to you, but this outfit\n
+was tailored JUST! FOR! MOI!\n
+Understand?"
 <$00>
 
 
@@ -1526,7 +1591,8 @@ He couldn't hold it in, could he!
 // Pos : 0000AD84
 #WRITE(PTR, $00005EEB)
 //『くう～～～～っ！ あたまにくるヤツ！！』
-Grrr...! He sure knows how to turn everything into a dig.
+Grrr...! He sure knows how to turn\n
+everything into a dig.
 <$00>
 
 
@@ -1580,7 +1646,9 @@ My temper hit its boiling point.
 // Pos : 0000AE61
 #WRITE(PTR, $00006036)
 //「ところて゛さ、いまさっきマリアに話した言葉ってさ、あれフィリピンの言葉なんた゛ろ？」
-"By the way, you were using a lot of foreign words with Maria. Is that what people speak in the Phillipines?"
+"By the way, you were using a lot of foreign\n
+words with Maria. Is that what people\n
+speak in the Phillipines?"
 <$00>
 
 
@@ -1590,7 +1658,8 @@ My temper hit its boiling point.
 #WRITE(PTR, $000060B1)
 #WRITE(PTR, $000069D8)
 //「ああ、あれね。タガログ語て゛しょ」
-"Ohhh, that! Why yes, I was speaking Tagalog!"
+"Ohhh, that! Why yes, I was speaking\n
+Tagalog!"
 <$00>
 
 
@@ -1656,7 +1725,8 @@ My temper hit its boiling point.
 // Pos : 0000B012
 #WRITE(PTR, $00006318)
 //「そうか、そうか、ボクにはかなわないか…」
-"Ohhh, I get it! You're SCARED because you can't COMPETE."
+"Ohhh, I get it! You're SCARED because you\n
+can't COMPETE."
 <$00>
 
 
@@ -1665,7 +1735,8 @@ My temper hit its boiling point.
 // Pos : 0000B04B
 #WRITE(PTR, $0000637E)
 //「とか言ってボクか゛納得すると思う？」
-"How am I supposed to understand you when you're all over the place?"
+"How am I supposed to understand you when\n
+you're all over the place?"
 <$00>
 
 
@@ -1683,7 +1754,8 @@ My temper hit its boiling point.
 // Pos : 0000B0A8
 #WRITE(PTR, $0000642E)
 //『ちょっと言いすき゛たかな…』
-He really is all over the place with this conversation.
+He really is all over the place with this\n
+conversation.
 <$00>
 
 
@@ -1739,7 +1811,8 @@ He really is all over the place with this conversation.
 // Pos : 0000B1E4
 #WRITE(PTR, $000066A6)
 //「短気は損気。くわは゛らくわは゛ら」
-"Need a CHILL PILL? That short temper will get you NOWHERE."
+"Need a CHILL PILL? That short temper will\n
+get you NOWHERE."
 <$00>
 
 
@@ -1757,7 +1830,8 @@ Aww, dammit.
 // Pos : 0000B237
 #WRITE(PTR, $0000673E)
 //「暴力反対。世界に平和を。し゛ゃあね」
-"Violence is not your friend, remember? Love and peace OUT!"
+"Violence is not your friend, remember?\n
+Love and peace OUT!"
 <$00>
 
 
@@ -1775,7 +1849,9 @@ Aww, dammit.
 // Pos : 0000B2C5
 #WRITE(PTR, $000068CA)
 //「当然し゛ゃん、まあたいていのことは知ってるよ。博識ってヤツた゛ね」
-"Shucks, is that all? If you want to be a walking encyclopedia like me, just keep your ears about you."
+"Shucks, is that all? If you want to be a\n
+walking encyclopedia like me, just keep\n
+your ears about you."
 <$00>
 
 
@@ -1793,7 +1869,9 @@ Aww, dammit.
 // Pos : 0000B338
 #WRITE(PTR, $00006974)
 //「いまさっきマリアに話した言葉ってさ、あれフィリピンの言葉なんた゛ろ？」
-"You were using a lot of foreign words with Maria. Is that what people speak in the Phillipines?"
+"You were using a lot of foreign words with\n
+Maria. Is that what people speak in the\n
+Phillipines?"
 <$00>
 
 
@@ -1892,7 +1970,8 @@ I'll do anything!
 // Pos : 0000B591
 #WRITE(PTR, $00006DC2)
 //「キミか゛そういう人た゛ったとは思わなかったよ。ボクはキミに失望したね」
-"Must you be That Guy ALL of the time? You're driving me up the wall!"
+"Must you be That Guy ALL of the time?\n
+You're driving me up the wall!"
 <$00>
 
 
@@ -1911,7 +1990,8 @@ I'll do anything!
 // Pos : 0000B605
 #WRITE(PTR, $00006E84)
 //「そういうのってやめてくれる？ ボクひくつな人ってキライなんた゛よねえ」
-"You need to stop acting all high and mighty over everyone else. Nobody likes it!"
+"You need to stop acting all high and mighty\n
+over everyone else. Nobody likes it!"
 <$00>
 
 
@@ -1920,7 +2000,8 @@ I'll do anything!
 // Pos : 0000B64F
 #WRITE(PTR, $00006EEA)
 //「キミとの友情もこれまて゛た゛。
-"I can't believe I tried to stay friends with you for so long. 
+"I can't believe I tried to stay friends\n
+with you for so long.
 <$00>
 
 
@@ -1929,7 +2010,7 @@ I'll do anything!
 // Pos : 0000B682
 #WRITE(PTR, $00006F1E)
 //し゛ゃあね」
- Later."
+\nLater."
 <$00>
 
 
@@ -1965,7 +2046,8 @@ I'll do anything!
 // Pos : 0000B75B
 #WRITE(PTR, $000070EA)
 //「あやしいなあ、キミなんかたくらんて゛ない？」
-"Suspicious, much? You're not planning anything creepy with me, are you?"
+"Suspicious, much? You're not planning\n
+anything creepy with me, are you?"
 <$00>
 
 
@@ -1983,7 +2065,8 @@ I'll do anything!
 // Pos : 0000B7BF
 #WRITE(PTR, $0000719C)
 //「なんかさあ、いつもと態度か゛ちか゛うんた゛よねえ」
-"What do you mean, why? You don't usually butter me up like this."
+"What do you mean, why? You don't usually\n
+butter me up like this."
 <$00>
 
 
@@ -2001,7 +2084,8 @@ I'll do anything!
 // Pos : 0000B821
 #WRITE(PTR, $0000725E)
 //「やっは゜りなんか裏か゛あるね。せ゛えったい間違いないね、うんうん」
-"You really ARE up to something! Absolutely, POSITIVELY!"
+"You really ARE up to something!\n
+Absolutely, POSITIVELY!"
 <$00>
 
 
@@ -2046,7 +2130,8 @@ Yeah, you caught me...
 // Pos : 0000B8DC
 #WRITE(PTR, $00007387)
 //「そういう意味さ。ボクをた゛まそうったって、そうはいかないそ゛」
-"You tell me! Like heck I'd let you wool over MY dazzling eyes.」
+"You tell me! Like heck I'd let you wool\n
+over MY dazzling eyes.」
 <$00>
 
 
@@ -2091,7 +2176,9 @@ Endure
 // Pos : 0000B9C7
 #WRITE(PTR, $00007533)
 //「ボクは哀しいよ。親しい友人か゛し゛つは大うそつきた゛ったなんて」
-「Now I'm disappointed. I can't believe my best-est-besty-est friend in the whole, wide world is telling me a big, fat lie!」
+「Now I'm disappointed. I can't believe my\n
+best-est-besty-est friend in the whole,\n
+wide world is telling me a big, fat lie!」
 <$00>
 
 
@@ -2100,7 +2187,8 @@ Endure
 // Pos : 0000BA0E
 #WRITE(PTR, $00007599)
 //「キミとの友情もこれまて゛た゛。し゛ゃあね」
-"Man, I can't believe I've tried to stay friends with you for so long. Later!"
+"Man, I can't believe I've tried to stay\n
+friends with you for so long. Later!"
 <$00>
 
 
@@ -2118,7 +2206,8 @@ Endure
 // Pos : 0000BA8E
 #WRITE(PTR, $000076FF)
 //「い～～～や！せ゛ったいたくらんて゛るね」
-"AH-HAH! Now I KNOW you're up to something!"
+"AH-HAH! Now I KNOW you're up to\n
+something!"
 <$00>
 
 
@@ -2190,7 +2279,8 @@ Was I that obvious?
 // Pos : 0000BC0B
 #WRITE(PTR, $00007957)
 //「こ゛めんよ、佐藤。へ゛つにた゛ますつもりはなかったんた゛」
-"Sorry, bud. I didn't mean to beat around the bush with you."
+"Sorry, bud. I didn't mean to beat around\n
+the bush with you."
 <$00>
 
 
@@ -2199,7 +2289,9 @@ Was I that obvious?
 // Pos : 0000BC49
 #WRITE(PTR, $000079BB)
 //「ボクは悪人し゛ゃないから、素直に質問してくれれは゛素直に答えてあけ゛るさ」
-"No worries. I'm SUCH a cool guy, if you ask me upfront, who am I to run from noblesse oblige?"
+"No worries. I'm SUCH a cool guy, if you ask\n
+me upfront, who am I to run from noblesse\n
+oblige?"
 <$00>
 
 
@@ -2208,7 +2300,8 @@ Was I that obvious?
 // Pos : 0000BC99
 #WRITE(PTR, $00007A09)
 //「そうか、はし゛めから素直に聞けは゛よかったんた゛ね」
-"I should've cut to the chase much sooner. Noted with thanks."
+"I should've cut to the chase much sooner.\n
+Noted with thanks."
 <$00>
 
 
@@ -2226,7 +2319,8 @@ Was I that obvious?
 // Pos : 0000BD09
 #WRITE(PTR, $00007ABB)
 //「あのさあ、タガログ語ってた゛れに教わったの？」
-"Where'd you learn to speak Tagalog like that?"
+"Where'd you learn to speak Tagalog like\n
+that?"
 <$00>
 
 
@@ -2235,7 +2329,8 @@ Was I that obvious?
 // Pos : 0000BD46
 #WRITE(PTR, $00007B27)
 //「う～～～んとねえ、教えてあけ゛ないの、うん、うん」
-"Hmmmmm, let me think... Sorry, I can't answer that. Nope, a-NOPE!"
+"Hmmmmm, let me think... Sorry, I can't\n
+answer that. Nope, a-NOPE!"
 <$00>
 
 
@@ -2253,7 +2348,8 @@ Was I that obvious?
 // Pos : 0000BDBB
 #WRITE(PTR, $00007BE9)
 //「気か゛かわったの。ボクちゃん気まく゛れた゛から」
-"I changed my mind. I am but a fickle beast, you know."
+"I changed my mind. I am but a fickle beast,\n
+you know."
 <$00>
 
 
@@ -2262,7 +2358,8 @@ Was I that obvious?
 // Pos : 0000BDF6
 #WRITE(PTR, $00007C4F)
 //「あ、怒っちゃダメよ。ダメなんた゛から」
-"You can't blame a man for following his heart!"
+"You can't blame a man for following his\n
+heart!"
 <$00>
 
 
@@ -2280,7 +2377,8 @@ Was I that obvious?
 // Pos : 0000BE5A
 #WRITE(PTR, $00007D09)
 //「おっと、そろそろ行かなくちゃ」
-"Oopsies, just LOOK at the time! I REALLY must be off now."
+"Oopsies, just LOOK at the time! I REALLY\n
+must be off now."
 <$00>
 
 
@@ -2289,7 +2387,8 @@ Was I that obvious?
 // Pos : 0000BE78
 #WRITE(PTR, $00007D3B)
 //「今日はこれからパーティーなんた゛」
-"There's a hot party tonight with my name ALL over it!"
+"There's a hot party tonight with my name\n
+ALL over it!"
 <$00>
 
 
@@ -2298,7 +2397,8 @@ Was I that obvious?
 // Pos : 0000BE9C
 #WRITE(PTR, $00007D8C)
 //『僕は爆発しそうな頭をかかえて、最後にきいてみた』
-I've had it up to here with him, but I'll give it one more try.
+I've had it up to here with him, but I'll\n
+give it one more try.
 <$00>
 
 
@@ -2307,7 +2407,8 @@ I've had it up to here with him, but I'll give it one more try.
 // Pos : 0000BEDD
 #WRITE(PTR, $00007DCA)
 //「佐藤、フィリピンと聞いて思いつくのは？」
-"Satoh, do you know anyone else who can speak Tagalog?"
+"Satoh, do you know anyone else who can speak\n
+Tagalog?"
 <$00>
 
 
@@ -2334,7 +2435,8 @@ I've had it up to here with him, but I'll give it one more try.
 // Pos : 0000BF9B
 #WRITE(PTR, $00007EFE)
 //「あ～～～っ！ よくわからんか゛す゛るいそ゛ォ！！」
-"ACK! H-holh on. Who knows if anyone speaks Tagalog but me!"
+"ACK! H-holh on. Who knows if anyone speaks\n
+Tagalog but me!"
 <$00>
 
 
@@ -2343,7 +2445,9 @@ I've had it up to here with him, but I'll give it one more try.
 // Pos : 0000BFC9
 #WRITE(PTR, $00007F48)
 //『佐藤に勝った！ 手か゛かりは馬場先輩た゛！』
-I wriggled the answer out of Satoh! Maybe this Mr. Baba is the next piece of our puzzle.
+I wriggled the answer out of Satoh! Maybe\n
+this Mr. Baba is the next piece of our\n
+puzzle.
 <$00>
 
 
@@ -2352,7 +2456,9 @@ I wriggled the answer out of Satoh! Maybe this Mr. Baba is the next piece of our
 // Pos : 0000C00E
 #WRITE(PTR, $00007F8C)
 //『僕とマリアは、なおもかまってもらいたそうな佐藤を置き去りにして、ゲームセンターをあとにした』
-I held Maria by the hand and scampered out of the arcade, leaving the lonely Satoh where he stood.
+I held Maria by the hand and scampered out of\n
+the arcade, leaving the lonely Satoh\n
+where he stood.
 <$00>
 
 
@@ -2370,7 +2476,8 @@ I held Maria by the hand and scampered out of the arcade, leaving the lonely Sat
 // Pos : 0000C07E
 #WRITE(PTR, $00008015)
 //『僕とマリアは、かまってもらいたそうな佐藤を置き去りにして、ゲームセンターをあとにした』
-I took Maria by the hand and scampered out of the arcade, leaving Satoh where he stood.
+I took Maria by the hand and scampered out of\n
+the arcade, leaving Satoh where he stood.
 <$00>
 
 
@@ -2397,7 +2504,8 @@ I took Maria by the hand and scampered out of the arcade, leaving Satoh where he
 // Pos : 0000C148
 #WRITE(PTR, $0000815C)
 //「ナニ？ ナニ？ マリア知りたい！」
-"Really cool? What was it! Now I want to know!"
+"Really cool? What was it! Now I want to\n
+know!"
 <$00>
 
 

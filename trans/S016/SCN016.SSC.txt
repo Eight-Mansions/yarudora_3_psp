@@ -23,7 +23,8 @@ Boy hadn't shown his face since.
 // Pos : 00005C30
 #WRITE(PTR, $0000202C)
 //『もうすく゛１２月になろうとしていた…』
-December had loomed right around the corner.
+December had loomed right around the\n
+corner.
 <$00>
 
 
@@ -32,7 +33,8 @@ December had loomed right around the corner.
 // Pos : 00005C6C
 #WRITE(PTR, $00002126)
 //『マリアとも、と゛こかよそよそしい関係か゛続いている』
-My relationship with Maria had, meanwhile, come to a halt.
+My relationship with Maria had,\n
+meanwhile, come to a halt.
 <$00>
 
 
@@ -41,7 +43,8 @@ My relationship with Maria had, meanwhile, come to a halt.
 // Pos : 00005C9B
 #WRITE(PTR, $00002160)
 //『なんた゛かマリアか゛遠くなってしまったように感し゛る』
-It felt as though Maria only drifted further and further away from me.
+It felt as though Maria only drifted\n
+further and further away from me.
 <$00>
 
 
@@ -131,7 +134,8 @@ Ugh, of course.
 // Pos : 00005E30
 #WRITE(PTR, $00002397)
 //「と゛うしてた？ 馬場先輩のところには行ったのかい？」
-"How'd everything go? Did you ever go speak with Mr. Baba?"
+"How'd everything go? Did you ever go speak\n
+with Mr. Baba?"
 <$00>
 
 
@@ -185,7 +189,8 @@ Ugh, of course.
 // Pos : 00005FAC
 #WRITE(PTR, $000025E2)
 //「今度さァ、合コンにマリアちゃん連れてこいよ」
-"You should really bring her to the next hangout."
+"You should really bring her to the next\n
+hangout."
 <$00>
 
 
@@ -194,7 +199,8 @@ Ugh, of course.
 // Pos : 00006002
 #WRITE(PTR, $00002640)
 //「彼女かわいいしなあ…」
-"You can't keep such a 'Q-T 3.14' all to yourself!"
+"You can't keep such a 'Q-T 3.14' all to\n
+yourself!"
 <$00>
 
 
@@ -221,7 +227,9 @@ That one was dorky, I'll let it slide.
 // Pos : 000060A1
 #WRITE(PTR, $00002732)
 //「キミか゛フィリピンの子とつきあってるって言ったら、みんな騒いし゛ゃってさ」
-"If people found out YOU we're going out with a 10/10 Filipina like her, everyone would FREAK!"
+"If people found out YOU we're going out\n
+with a 10/10 Filipina like her, everyone\n
+would FREAK!"
 <$00>
 
 
@@ -249,7 +257,8 @@ That one was dorky, I'll let it slide.
 // Pos : 00006184
 #WRITE(PTR, $0000285C)
 //「て゛、と゛うなの？ フィリピンの子って…」
-"But what IS the status on that, hmm? Are you and her, uh..."
+"But what IS the status on that, hmm? Are\n
+you and her, uh..."
 <$00>
 
 
@@ -267,7 +276,9 @@ That one was dorky, I'll let it slide.
 // Pos : 0000620D
 #WRITE(PTR, $00002901)
 //「やっは゜りいいのかな？ アノときなんか…」
-"Remember? We talked about this at the arcade? Are you two getting sweaty or what?"
+"Remember? We talked about this at the\n
+arcade? Are you two getting sweaty or\n
+what?"
 <$00>
 
 
@@ -321,7 +332,8 @@ Let it slide
 // Pos : 00006361
 #WRITE(PTR, $00002B0F)
 //「わりと本気なんた゛けと゛な」
-"Too bad SOMEONE'S being a goody two-snooze today!"
+"Too bad SOMEONE'S being a goody two-snooze\n
+today!"
 <$00>
 
 
@@ -384,7 +396,8 @@ That guy sucks the life out of me, I swear.
 // Pos : 00006587
 #WRITE(PTR, $00002E53)
 //「おっおほ゛えてろよ！ キミの悪いウワサをサークル仲間に言いふらしてやる！！」
-Oh, I'll REMEMBER this！ I'll YOU! EVERYONE'll know what you did to me!"
+Oh, I'll REMEMBER this！ I'll YOU!\n
+EVERYONE'll know what you did to me!"
 <$00>
 
 
@@ -420,7 +433,9 @@ Man, am I war-torn!
 // Pos : 0000667E
 #WRITE(PTR, $0000300B)
 //『佐藤にはなにかされるかもしれないけれと゛、なあに、構うものか…』
-Even if it were beneficial to settle things with Satoh differently, I didn't see much point.
+Even if it were beneficial to settle\n
+things with Satoh differently, I\n
+didn't see much point.
 <$00>
 
 
@@ -438,7 +453,8 @@ Over there. Is that... Boy?
 // Pos : 000067AB
 #WRITE(PTR, $00003232)
 //『後ろからつけているあの男達は？』
-Who are those shady types walking up behind him?
+Who are those shady types walking up behind\n
+him?
 <$00>
 
 
@@ -664,7 +680,9 @@ The park
 #WRITE(PTR, $00003C17)
 #WRITE(PTR, $00003C6A)
 //『歩道橋からおりたところにある工場の裏を…』
-I flew down the flight of stairs from the bridge in an attempt to escape behind the factory.
+I flew down the flight of stairs from the\n
+bridge in an attempt to escape behind the\n
+factory.
 <$00>
 
 
@@ -691,7 +709,8 @@ D1Yakuza Member
 // Pos : 00006F00
 #WRITE(PTR, $00003F23)
 //「運か゛悪かったな兄ちゃん。もう一回やってくれや」
-"You're one unlucky brother. Better luck next time."
+"You're one unlucky brother. Better luck\n
+next time."
 <$00>
 
 
@@ -701,7 +720,8 @@ D1Yakuza Member
 #WRITE(PTR, $0000400F)
 #WRITE(PTR, $00004062)
 //『ひと気のない公園の中を…』
-What if I could blend in with some crowd in the park?
+What if I could blend in with some crowd in\n
+the park?
 <$00>
 
 
@@ -720,7 +740,8 @@ Oh no, he caught up with me!
 // Pos : 0000703E
 #WRITE(PTR, $000041B3)
 //『表通りからフェンスを乗り越え、川沿いの路地を…』
-Pulling off the main street, I leapt over the fence into the riverside alley.
+Pulling off the main street, I leapt over\n
+the fence into the riverside alley.
 <$00>
 
 
@@ -729,7 +750,8 @@ Pulling off the main street, I leapt over the fence into the riverside alley.
 // Pos : 00007103
 #WRITE(PTR, $00004326)
 //『人混みて゛こ゛ったか゛えしている商店街を…』
-I landed in a shopping district that was bustling with pedestrians.
+I landed in a shopping district that was\n
+bustling with pedestrians.
 <$00>
 
 
@@ -747,7 +769,8 @@ I landed in a shopping district that was bustling with pedestrians.
 // Pos : 000071AF
 #WRITE(PTR, $00004413)
 //『と、突然僕は誰かの手によって、路地へ引きこまれた』
-Out of nowhere, someone grabbed my by the arm and yanked me into an alley.
+Out of nowhere, someone grabbed my by the\n
+arm and yanked me into an alley.
 <$00>
 
 
@@ -765,7 +788,9 @@ Out of nowhere, someone grabbed my by the arm and yanked me into an alley.
 // Pos : 0000727F
 #WRITE(PTR, $0000450A)
 //「あんな侮辱を受けたのは生まれてはし゛めてた゛。ボクは絶対キミを許さないからな」
-"Never in my LIFE have I been so insulted! I could NEVER forgive you for what you did to me!"
+"Never in my LIFE have I been so insulted! I\n
+could NEVER forgive you for what you did to\n
+me!"
 <$00>
 
 
@@ -792,7 +817,8 @@ Out of nowhere, someone grabbed my by the arm and yanked me into an alley.
 // Pos : 0000738A
 #WRITE(PTR, $00004683)
 //「お願いた゛から離してくれよ！ 謝るからさ！」
-"I'm begging you, just let me go! I'm sorry!"
+"I'm begging you, just let me go! I'm\n
+sorry!"
 <$00>
 
 
@@ -864,7 +890,9 @@ Urk...
 // Pos : 0000761C
 #WRITE(PTR, $00004B38)
 //「ボクを怒らすからこうなるのサ。て゛もまさか殺されちゃうとはね」
-"Insulting me like that was no doubt a grave mistake, but who knew it would actually get you killed!"
+"Insulting me like that was no doubt a grave\n
+mistake, but who knew it would actually\n
+get you killed!"
 <$00>
 
 
@@ -873,7 +901,8 @@ Urk...
 // Pos : 000076A2
 #WRITE(PTR, $00004C4F)
 //『そして隣町の繁華街を抜ける』
-Then, I crossed into the shopping district of an adjacent town.
+Then, I crossed into the shopping\n
+district of an adjacent town.
 <$00>
 
 
@@ -882,7 +911,8 @@ Then, I crossed into the shopping district of an adjacent town.
 // Pos : 0000772E
 #WRITE(PTR, $00004D52)
 //『さっきのあれは！？ ボーイっていったい…』
-What the heck happened just now? What became of Boy?
+What the heck happened just now? What\n
+became of Boy?
 <$00>
 
 
@@ -891,7 +921,9 @@ What the heck happened just now? What became of Boy?
 // Pos : 0000776C
 #WRITE(PTR, $00004DA3)
 //『僕はいきなりの出来事に、混乱と不安を感し゛てアパートへ急いた゛』
-Left with confusion and anxiety after the sudden turn of events, I raced back to the apartment.
+Left with confusion and anxiety after the\n
+sudden turn of events, I raced back to the\n
+apartment.
 <$00>
 
 
@@ -945,7 +977,8 @@ D1Boy
 // Pos : 00007A65
 #WRITE(PTR, $000051B9)
 //「オレは小さい時からこう言われて育ってきた…」
-"I've gone by this old saying since I was a kid:"
+"I've gone by this old saying since I was a\n
+kid:"
 <$00>
 
 
@@ -954,7 +987,8 @@ D1Boy
 // Pos : 00007AB4
 #WRITE(PTR, $00005264)
 //「恩は石に刻め、恨みは水に流せ…と」
-"Debts are etched in stone. Resentments, wiped clean."
+"Debts are etched in stone. Resentments,\n
+wiped clean."
 <$00>
 
 
@@ -990,7 +1024,8 @@ D1Boy
 // Pos : 00007C4C
 #WRITE(PTR, $0000553E)
 //「ダイジョブた゛。いつまて゛もココにはイラレナイ」
-"I'll be fine. Still, we can't stay here."
+"I'll be fine. Still, we can't stay\n
+here."
 <$00>
 
 
@@ -1062,7 +1097,8 @@ D1Boy
 // Pos : 00007F39
 #WRITE(PTR, $00005997)
 //『僕とマリアはボーイの出ていったドアを見つめて、いつまて゛も立ち尽くしていた』
-Maria and I stood and stared at the door. We lost track of time after Boy left.
+Maria and I stood and stared at the door. We\n
+lost track of time after Boy left.
 <$00>
 
 

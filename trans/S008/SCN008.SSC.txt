@@ -40,7 +40,8 @@ Remain silent
 // Pos : 00003866
 #WRITE(PTR, $00002099)
 //『気ます゛い空気のなか、僕とマリアは言葉を交わすこともなく、時は過き゛ていった…』
-Time passed in awkward silence. Neither of us said a word to the other.
+Time passed in awkward silence. Neither of\n
+us said a word to the other.
 <$00>
 
 
@@ -58,7 +59,8 @@ She left in the morning.
 // Pos : 000038E4
 #WRITE(PTR, $0000214F)
 //『さよならも言わす゛、と゛こか気恥す゛かしそうにして…』
-I wanted to say goodbye, but I chickened out at the last minute.
+I wanted to say goodbye, but I chickened out\n
+at the last minute.
 <$00>
 
 
@@ -67,7 +69,8 @@ I wanted to say goodbye, but I chickened out at the last minute.
 // Pos : 0000391D
 #WRITE(PTR, $00002197)
 //『ゆうへ゛の出来事はなんた゛ったんた゛ろう…』
-What had happened before our chance meeting in the alley?
+What had happened before our chance meeting\n
+in the alley?
 <$00>
 
 
@@ -76,7 +79,9 @@ What had happened before our chance meeting in the alley?
 // Pos : 0000393B
 #WRITE(PTR, $000021BA)
 //『気になることた゛らけた゛。額の傷、真っ赤なドレス…』
-Why had she been scared? How had she been cut? Why had she been wearing that bright red dress?
+Why had she been scared? How had she been cut?\n
+Why had she been wearing that bright red\n
+dress?
 <$00>
 
 
@@ -85,7 +90,8 @@ Why had she been scared? How had she been cut? Why had she been wearing that bri
 // Pos : 00003962
 #WRITE(PTR, $000021DD)
 //『そして自分の名前しか思い出せないこと…』
-Why was her name all that she had remembered?
+Why was her name all that she had\n
+remembered?
 <$00>
 
 
@@ -94,7 +100,8 @@ Why was her name all that she had remembered?
 // Pos : 000039C4
 #WRITE(PTR, $0000225B)
 //『しかし、何より気になるのは…』
-In the end, one question stuck with me more than any other:
+In the end, one question stuck with me more\n
+than any other:
 <$00>
 
 
@@ -121,7 +128,8 @@ Don't worry. I know the answer.
 // Pos : 00003A8B
 #WRITE(PTR, $00002394)
 //『彼女もお笑い研究会た゛ったんた゛…』
-Maria must have taken that Comedic Studies class!
+Maria must have taken that Comedic Studies\n
+class!
 <$00>
 
 
@@ -148,7 +156,8 @@ I was the bigger problem, after all.
 // Pos : 00003AFF
 #WRITE(PTR, $0000244C)
 //『せっかく自分の国の言葉を教えてくれてたのに…』
-She tried to teach me all those phrases from her home country.
+She tried to teach me all those phrases\n
+from her home country.
 <$00>
 
 
@@ -184,7 +193,9 @@ Pasensya na, Maria.
 // Pos : 00003BB2
 #WRITE(PTR, $000025C9)
 //『何となくうちとけあった僕とマリアは、そのまま朝方近くまて゛おしゃへ゛りを続けた…』
-I couldn't tell you how it'd happened exactly, but Maria and I had opened up, talking and talking until morning. 
+I couldn't tell you how it'd happened\n
+exactly, but Maria and I had opened up,\n
+talking and talking until morning.
 <$00>
 
 
@@ -193,7 +204,9 @@ I couldn't tell you how it'd happened exactly, but Maria and I had opened up, ta
 // Pos : 00003BF5
 #WRITE(PTR, $00002603)
 //『話しなか゛ら、マリアはよく笑った。僕もうれしくて、つられて笑った』
-Maria had laughed a lot as she went. I'd found myself nodding and smiling along in return.
+Maria had laughed a lot as she went. I'd\n
+found myself nodding and smiling along in\n
+return.
 <$00>
 
 
@@ -202,7 +215,9 @@ Maria had laughed a lot as she went. I'd found myself nodding and smiling along 
 // Pos : 00003C21
 #WRITE(PTR, $00002626)
 //『気の合うふたり、これは素敵な出会いなのかもしれない』
-The two of us had made some sort of connection, meaning my efforts had likely paid off.
+The two of us had made some sort of\n
+connection, meaning my efforts had likely\n
+paid off.
 <$00>
 
 
@@ -238,7 +253,8 @@ She wrote me a note.
 // Pos : 00003CF5
 #WRITE(PTR, $000027E3)
 //『し゛つは彼女は国際大学に通う留学生た゛そうた゛』
-As it turned out, she was an international college student.
+As it turned out, she was an international\n
+college student.
 <$00>
 
 
@@ -247,7 +263,8 @@ As it turned out, she was an international college student.
 // Pos : 00003D27
 #WRITE(PTR, $0000281D)
 //『昨夜はパーティーの帰りて゛、ひと゛く酔っていたらしい』
-We must've left some party together after a few too many drinks.
+We must've left some party together after\n
+a few too many drinks.
 <$00>
 
 
@@ -256,7 +273,8 @@ We must've left some party together after a few too many drinks.
 // Pos : 00003D4D
 #WRITE(PTR, $00002840)
 //『僕の部屋て゛の出来事も、よく覚えていなかったらしく』
-For the life of me, I can't remember what we'd done together last night.
+For the life of me, I can't remember what\n
+we'd done together last night.
 <$00>
 
 
@@ -265,7 +283,8 @@ For the life of me, I can't remember what we'd done together last night.
 // Pos : 00003D72
 #WRITE(PTR, $00002863)
 //『気か゛ついたら、見知らぬ人のアパートて゛朝を迎えていたわけた゛』
-For her to have woken up in "some guy's apartment," no wonder she got out of here.
+For her to have woken up in "some guy's\n
+apartment," no wonder she got out of here.
 <$00>
 
 
@@ -274,7 +293,8 @@ For her to have woken up in "some guy's apartment," no wonder she got out of her
 // Pos : 00003DAB
 #WRITE(PTR, $0000289D)
 //『手紙には、「こ゛迷惑をおかけしました」と、しめくくられていた…』
-She signed the letter with a simple, "Sorry for the trouble."
+She signed the letter with a simple,\n
+"Sorry for the trouble."
 <$00>
 
 
@@ -301,7 +321,8 @@ Well, that's not it.
 // Pos : 00003E67
 #WRITE(PTR, $00002A3A)
 //『言葉の意味なんてわかってもらえなくたっていいんた゛』
-What if she doesn't understand the meaning of the words that well.
+What if she doesn't understand the meaning\n
+of the words that well.
 <$00>
 
 
@@ -310,7 +331,8 @@ What if she doesn't understand the meaning of the words that well.
 // Pos : 00003E89
 #WRITE(PTR, $00002A5D)
 //『この場の空気か゛少して゛も明るくなれは゛…』
-Whatever it takes to brighten up the atmosphere in here...
+Whatever it takes to brighten up the\n
+atmosphere in here...
 <$00>
 
 
@@ -319,7 +341,8 @@ Whatever it takes to brighten up the atmosphere in here...
 // Pos : 00003EA9
 #WRITE(PTR, $00002A80)
 //『中学生のときは、お笑い研究会の部長た゛ったこともある』
-Actually, I'd served as captain of the Comedic Studies Club back in middle school.
+Actually, I'd served as captain of the\n
+Comedic Studies Club back in middle school.
 <$00>
 
 
@@ -328,7 +351,8 @@ Actually, I'd served as captain of the Comedic Studies Club back in middle schoo
 // Pos : 00003ED1
 #WRITE(PTR, $00002AA3)
 //『い、今こそ、その成果を発揮するとき…』
-All these years later, it was time I showed the fruits of my efforts!
+All these years later, it was time I\n
+showed the fruits of my efforts!
 <$00>
 
 
@@ -393,7 +417,8 @@ Don't try after all
 // Pos : 00003FF9
 #WRITE(PTR, $00002C4B)
 //「忍者はね、全部て゛…」
-"Did you hear about the shoe factory that collapsed?"
+"Did you hear about the shoe factory that\n
+collapsed?"
 <$00>
 
 
@@ -449,7 +474,8 @@ Yikes! Moving along...
 // Pos : 00004166
 #WRITE(PTR, $00002EDA)
 //「アヒルか゛言ったよ」
-"One time, a duck went to a see a psychiatrist."
+"One time, a duck went to a see a\n
+psychiatrist."
 <$00>
 
 
@@ -476,7 +502,8 @@ Yikes! Moving along...
 // Pos : 000041E8
 #WRITE(PTR, $00002FF7)
 //「妖怪か゛言ったよ」
-"What happens when two horses fall in love?"
+"What happens when two horses fall in\n
+love?"
 <$00>
 
 
@@ -530,7 +557,8 @@ Yikes! Moving along...
 // Pos : 00004309
 #WRITE(PTR, $0000330E)
 //「ショベルカーか゛…」
-"I saw a book get so scared, all its pages fell out."
+"I saw a book get so scared, all its pages fell\n
+out."
 <$00>
 
 
@@ -548,7 +576,8 @@ Yikes! Moving along...
 // Pos : 0000435E
 #WRITE(PTR, $000033BF)
 //「ふ゛と゛うか゛驚いた！」
-"I mixed red and yellow together to make a new color."
+"I mixed red and yellow together to make a\n
+new color."
 <$00>
 
 
@@ -566,7 +595,8 @@ Yikes! Moving along...
 // Pos : 000043AE
 #WRITE(PTR, $00003470)
 //「百円食へ゛ろ！」
-"I went out with a friend to a photoshoot."
+"I went out with a friend to a\n
+photoshoot."
 <$00>
 
 
@@ -584,7 +614,8 @@ Yikes! Moving along...
 // Pos : 00004401
 #WRITE(PTR, $00003521)
 //「日曜た゛ったら…」
-"I'm not good at painting my nails, you see."
+"I'm not good at painting my nails, you\n
+see."
 <$00>
 
 

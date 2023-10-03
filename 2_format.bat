@@ -1,2 +1,1 @@
-del /s /q format_txt\*
-tools\yarudora_psp_formatter.exe merge_txt format_txt code\exe.asm 370
+tools\yarudora_psp_formatter.exe trans\merge trans code\exe.asm 470

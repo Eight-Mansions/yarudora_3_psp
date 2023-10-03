@@ -1,0 +1,1143 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#VAR(APTR, CUSTOMPOINTER)
+#VAR(BPTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", $00004FB0, 16)
+#CREATEPTR(APTR, "LINEAR", $00000000, 32)
+#CREATEPTR(BPTR, "LINEAR", $00000030, 32)
+#JMP(-1)
+
+// 00000198
+// Pos : 00005148
+#WRITE(PTR, $00001FCC)
+//『しきりに足をさすっているけと゛、大丈夫かな…？』
+She rubbed her ankle a lot. I wondered if she was okay.
+<$00>
+
+
+
+// 000001C3
+// Pos : 00005173
+#WRITE(PTR, $00002006)
+//『額の傷は強い打撲の痕みたいた゛』
+The cut on her forehead told me she had hit her head something serious as well.
+<$00>
+
+
+
+// 000001E6
+// Pos : 00005196
+#WRITE(PTR, $00002040)
+//『とりあえす゛血は止まったけれと゛…』
+The bleeded stopped, at least.
+<$00>
+
+
+
+// 00000224
+// Pos : 000051D4
+#WRITE(PTR, $000020A9)
+//『…………』
+......
+<$00>
+
+
+
+// 0000023A
+// Pos : 000051EA
+#WRITE(PTR, $000020E3)
+//『…あらためて見ると可愛いし゛ゃないか…』
+But, because I stood so close to her, I couldn't help but notice how pretty she was.
+<$00>
+
+
+
+// 000002B1
+// Pos : 00005261
+#WRITE(PTR, $00002182)
+//「な、なにはともあれ、カンパイ！！」
+"How about a toast, eh? Cheers!"
+<$00>
+
+
+
+// 00000326
+// Pos : 000052D6
+#WRITE(PTR, $0000220F)
+//「クスッ…マブハイ！」
+"Hehe! Mabuhay!"
+<$00>
+
+
+
+// 0000037A
+// Pos : 0000532A
+#WRITE(PTR, $000022A3)
+//「えっ！？」
+"Huh?!"
+<$00>
+
+
+
+// 000003B1
+// Pos : 00005361
+#WRITE(PTR, $0000230D)
+//「なに、マブハイって？」
+"Wait, what's 'ma-boo-high'?"
+<$00>
+
+
+
+// 000003FD
+// Pos : 000053AD
+#WRITE(PTR, $00002387)
+//「ワタシの国の言葉て゛カンパイ」
+"In my country, it means, "To life!"
+<$00>
+
+
+
+// 0000043D
+// Pos : 000053ED
+#WRITE(PTR, $000023F4)
+//「ねえ、出会ったときから思ってたんた゛けと゛、マリアの国って…、フィリピン？」
+"Ohhh! I meant to ask you this sooner, but are you Filipino?"
+<$00>
+
+
+
+// 000004C0
+// Pos : 00005470
+#WRITE(PTR, $0000247F)
+//「たふ゛ん、そう…た゛と思うヨ」
+"Probably? At least, I think so."
+<$00>
+
+
+
+// 000004F0
+// Pos : 000054A0
+#WRITE(PTR, $000024D5)
+//「思うよって、と゛ういう意味？」
+"What do you mean, think so?"
+<$00>
+
+
+
+// 00000553
+// Pos : 00005503
+#WRITE(PTR, $00002560)
+//「よく…わからない」
+"Well, I don't know for sure."
+<$00>
+
+
+
+// 0000057C
+// Pos : 0000552C
+#WRITE(PTR, $000025BE)
+//「わからないって…？」
+"You don't know what country you're from?"
+<$00>
+
+
+
+// 000005C3
+// Pos : 00005573
+#WRITE(PTR, $0000263F)
+//「ン………」
+"No."
+<$00>
+
+
+
+// 000005EB
+// Pos : 0000559B
+#WRITE(PTR, $00002687)
+//「し゛ゃっ…、し゛ゃあ今はと゛こに住んて゛るの？」
+"Sorry. Okay, then. Where do you live now?"
+<$00>
+
+
+
+// 00000630
+// Pos : 000055E0
+#WRITE(PTR, $00002705)
+//『え…？』
+Huh?
+<$00>
+
+
+
+// 0000063A
+// Pos : 000055EA
+#WRITE(PTR, $00002728)
+//『と゛ういうことた゛ろう…』
+Is she serious?
+<$00>
+
+
+
+// 00000656
+// Pos : 00005606
+#WRITE(PTR, $00002762)
+//『自分の生まれた国も、今住んて゛いるところさえわからないなんて…』
+She forgot both her birthplace and her current address.
+<$00>
+
+
+
+// 0000068B
+// Pos : 0000563B
+#WRITE(PTR, $0000279C)
+//『もしかして、あの額の傷のせい…？』
+Did that blow to the head she got scramble to her memory?
+<$00>
+
+
+
+// 000006AE
+// Pos : 0000565E
+#WRITE(PTR, $000027CD)
+//そのへんのところは、はっきり聞いてみなきゃ
+We need specifics here!
+<$00>
+
+
+
+// 000006C5
+// Pos : 00005675
+#WRITE(PTR, $000027D6)
+//人のプライバシーに立ち入るのはちょっと…
+I need her private info
+<$00>
+
+
+
+// 00000718
+// Pos : 000056C8
+#WRITE(PTR, $0000284B)
+//『た゛けと゛、この子の様子を見てると…』
+When I considered her circumstances, 
+<$00>
+
+
+
+// 0000073D
+// Pos : 000056ED
+#WRITE(PTR, $00002885)
+//『これはなにか…、たた゛事て゛はないような感し゛か゛する…』
+it made sense that she wouldn't remember anything.
+<$00>
+
+
+
+// 0000076B
+// Pos : 0000571B
+#WRITE(PTR, $000028BF)
+//『ここはそっとしておくへ゛きた゛ろうか…？』
+Should I end the conversation here?
+<$00>
+
+
+
+// 0000078F
+// Pos : 0000573F
+#WRITE(PTR, $000028EE)
+//やっは゜り聞いてみよう
+Ask for info
+<$00>
+
+
+
+// 0000079C
+// Pos : 0000574C
+#WRITE(PTR, $000028F7)
+//やっは゜り聞くのはやめよう
+Don't pry
+<$00>
+
+
+
+// 0000082D
+// Pos : 000057DD
+#WRITE(PTR, $000029C8)
+//「あのサァ」
+"All right, then..."
+<$00>
+
+
+
+// 00000852
+// Pos : 00005802
+#WRITE(PTR, $00002A24)
+//「さっきからパトカーや警官か゛たくさんこのあたりを探しているけれと゛…」
+"As you know, we had a huge police presence in the area."
+<$00>
+
+
+
+// 0000089A
+// Pos : 0000584A
+#WRITE(PTR, $00002A86)
+//「君、なにか知ってる？」
+"Do you know what triggered it?
+<$00>
+
+
+
+// 000008FD
+// Pos : 000058AD
+#WRITE(PTR, $00002B53)
+//「やっは゜りわからないの？」
+"Do you really not know?"
+<$00>
+
+
+
+// 00000945
+// Pos : 000058F5
+#WRITE(PTR, $00002BD3)
+//「ウン………」
+「No...」
+<$00>
+
+
+
+// 0000096F
+// Pos : 0000591F
+#WRITE(PTR, $00002C20)
+//「ホントになんにも？」
+"You really don't know?"
+<$00>
+
+
+
+// 000009B9
+// Pos : 00005969
+#WRITE(PTR, $00002C9B)
+//「名前以外、全部…？」
+"Is your name the only thing you remember?"
+<$00>
+
+
+
+// 000009F4
+// Pos : 000059A4
+#WRITE(PTR, $00002D22)
+//『これってもしかして記憶喪失ってやつなんた゛ろうか？』
+Is this what amnesia looks like?
+<$00>
+
+
+
+// 00000A2B
+// Pos : 000059DB
+#WRITE(PTR, $00002D73)
+//『おそらく彼女はと゛こかから逃け゛てくる途中て゛、頭を強く打って…』
+She must've she been running away from someone when she accidentally hit her head."
+<$00>
+
+
+
+// 00000A63
+// Pos : 00005A13
+#WRITE(PTR, $00002DAD)
+//『額の傷と、足首を痛めているのも、そのために違いない…』
+That explained the forehead cut and the sore ankle.
+<$00>
+
+
+
+// 00000A93
+// Pos : 00005A43
+#WRITE(PTR, $00002DE7)
+//『記憶をなくしても、心細さと恐怖心た゛けは残っているんた゛…』
+Although she'd lost her long-term memory, her immediate fears remained. 
+<$00>
+
+
+
+// 00000AC8
+// Pos : 00005A78
+#WRITE(PTR, $00002E21)
+//『た゛からあんなにおひ゛えて、トイレに隠れていたりしたんた゛…』
+Why else would she have frightfully locked herself in my bathroom?
+<$00>
+
+
+
+// 00000AFA
+// Pos : 00005AAA
+#WRITE(PTR, $00002E5B)
+//『て゛も、と゛うしよう…』
+And the bigger question: Where did we go from here?
+<$00>
+
+
+
+// 00000B14
+// Pos : 00005AC4
+#WRITE(PTR, $00002E8C)
+//僕にて゛きることを考えてみようか
+Figure out how to help her
+<$00>
+
+
+
+// 00000B27
+// Pos : 00005AD7
+#WRITE(PTR, $00002E95)
+//面倒なことになるのはやた゛な…
+I don't want any trouble!
+<$00>
+
+
+
+// 00000BA1
+// Pos : 00005B51
+#WRITE(PTR, $00002F63)
+//『その後、何となく彼女と距離をとりはし゛めた僕は、当たりさわりのない話題をかわしなか゛ら朝を迎えた』
+I slept with one eye open that night. I thought up a few harmless topics of conversation for the morning.
+<$00>
+
+
+
+// 00000C24
+// Pos : 00005BD4
+#WRITE(PTR, $00003063)
+//『あ…、やっは゜りいない』
+Only... She wasn't there.
+<$00>
+
+
+
+// 00000C3E
+// Pos : 00005BEE
+#WRITE(PTR, $0000309D)
+//『彼女は僕か゛うたた寝をしている間に出ていったらしい』
+She left the apartment after I fell asleep.
+<$00>
+
+
+
+// 00000C81
+// Pos : 00005C31
+#WRITE(PTR, $000030DF)
+//『痛む足をひきす゛って…。朝方迄、雨は降っていたはす゛なのに…』
+It had rained well into the early morning. Her ankle was still injured.
+<$00>
+
+
+
+// 00000CCC
+// Pos : 00005C7C
+#WRITE(PTR, $00003121)
+//『少し胸か゛痛んた゛。た゛けと゛仕方ないさ…』
+I didn't know what I was expecting, but my heart sank a little all the same.
+<$00>
+
+
+
+// 00000D0B
+// Pos : 00005CBB
+#WRITE(PTR, $00003163)
+//『僕た゛って面倒なことには巻き込まれたくないし』
+Then again, I never wanted to get caught up in some scandal either.
+<$00>
+
+
+
+// 00000D35
+// Pos : 00005CE5
+#WRITE(PTR, $0000319D)
+//『僕は軽く頭を振って、顔を洗いに台所へ立った』
+I shook my head and dragged myself into the kitchen to wash my face.
+<$00>
+
+
+
+// 00000DEE
+// Pos : 00005D9E
+#WRITE(PTR, $000032FA)
+//「ねえっ、そのバッグの中に何か入ってるんし゛ゃない？」
+"You know, we might find a clue or two in your purse."
+<$00>
+
+
+
+// 00000E3F
+// Pos : 00005DEF
+#WRITE(PTR, $0000335E)
+//「え？」
+"My purse?"
+<$00>
+
+
+
+// 00000E9B
+// Pos : 00005E4B
+#WRITE(PTR, $000033F2)
+//「ほら、アドレス帳とか何か、身元のわかるやつ」
+"An address book, maybe? If you kept a list of emergency contacts, we can give them a phone call."
+<$00>
+
+
+
+// 00000EDF
+// Pos : 00005E8F
+#WRITE(PTR, $00003463)
+//「あ…うん」
+"Oh, okay!"
+<$00>
+
+
+
+// 000010A3
+// Pos : 00006053
+#WRITE(PTR, $00003778)
+//『何て゛…、何て゛そんな大金か゛…！！』
+Woo Mama, THAT is a lot of cash!
+<$00>
+
+
+
+// 000010C2
+// Pos : 00006072
+#WRITE(PTR, $0000379B)
+//『すこ゛い…、３０万、いやそれ以上はある…』
+That's a good... 300, 000 yen and then some!』
+<$00>
+
+
+
+// 0000112F
+// Pos : 000060DF
+#WRITE(PTR, $00003807)
+//「何、それ？」
+"What's that?"
+<$00>
+
+
+
+// 0000117B
+// Pos : 0000612B
+#WRITE(PTR, $00003883)
+//「開けてみようよ」
+"You should open it."
+<$00>
+
+
+
+// 000011C3
+// Pos : 00006173
+#WRITE(PTR, $00003938)
+//「アッ……！？」
+"Uh..."
+<$00>
+
+
+
+// 000011DB
+// Pos : 0000618B
+#WRITE(PTR, $00003989)
+//『驚いたマリアの指先に現れたものは…』　　
+The object Maria held in her hands threw us for a loop.
+<$00>
+
+
+
+// 0000121C
+// Pos : 000061CC
+#WRITE(PTR, $000039CB)
+//『映画なんかて゛は見た事か゛あるけれと゛…』
+It looked like something from a movie.
+<$00>
+
+
+
+// 00001259
+// Pos : 00006209
+#WRITE(PTR, $00003A1D)
+//『小さな護身用の…』
+It was small. Designed for little more than self-defense.
+<$00>
+
+
+
+// 0000128A
+// Pos : 0000623A
+#WRITE(PTR, $00003A6F)
+//『本物の…』
+A real.. live...
+<$00>
+
+
+
+// 000012B5
+// Pos : 00006265
+#WRITE(PTR, $00003AC1)
+//『拳銃た゛……！！』
+HANDGUN!
+<$00>
+
+
+
+// 000012E7
+// Pos : 00006297
+#WRITE(PTR, $00003B1B)
+//『驚いた…』
+The room fell silent.
+<$00>
+
+
+
+// 000012F2
+// Pos : 000062A2
+#WRITE(PTR, $00003B4E)
+//『声も出なかった…』
+Neither Maria nor I could speak.
+<$00>
+
+
+
+// 00001302
+// Pos : 000062B2
+#WRITE(PTR, $00003B71)
+#WRITE(PTR, $00004652)
+//『僕は…』
+I...
+<$00>
+
+
+
+// 00001315
+// Pos : 000062C5
+#WRITE(PTR, $00003BA0)
+//マリアの顔を見る
+Look Maria in the eye
+<$00>
+
+
+
+// 00001323
+// Pos : 000062D3
+#WRITE(PTR, $00003BAB)
+//拳銃に手を伸は゛してみる
+Reach for the handgun
+<$00>
+
+
+
+// 000013A3
+// Pos : 00006353
+#WRITE(PTR, $00003C6F)
+#WRITE(PTR, $00004576)
+//「なにも…」
+"I'm sorry."
+<$00>
+
+
+
+// 000013D8
+// Pos : 00006388
+#WRITE(PTR, $00003CF0)
+#WRITE(PTR, $000045C9)
+//「なにもわからないヨ！」
+"I don't know anything about this!"
+<$00>
+
+
+
+// 000013F0
+// Pos : 000063A0
+#WRITE(PTR, $00003D3F)
+//『そう言ってマリアはうつむいてしまった…』
+Maria shouted and buried her face in her hands.
+<$00>
+
+
+
+// 00001416
+// Pos : 000063C6
+#WRITE(PTR, $00003D79)
+//『まさか拳銃か゛出てくるなんて…』
+I, for one, never expected a handgun to pop out of that purse.
+<$00>
+
+
+
+// 00001437
+// Pos : 000063E7
+#WRITE(PTR, $00003DB3)
+//『何か゛あったかわからないけれと゛、彼女は犯罪に関わっている…』
+What were the odds that Maria was involved in some sort of crime?
+<$00>
+
+
+
+// 0000146B
+// Pos : 0000641B
+#WRITE(PTR, $00003DED)
+//『僕はと゛うすれは゛…』
+Where did we go from here?
+<$00>
+
+
+
+// 00001485
+// Pos : 00006435
+#WRITE(PTR, $00003E1C)
+//つらいけれと゛、出ていってもらおう
+Ask her to leave
+<$00>
+
+
+
+// 00001498
+// Pos : 00006448
+#WRITE(PTR, $00003E25)
+//とりあえす゛、もう一度拳銃を見る
+Inspect the handgun
+<$00>
+
+
+
+// 000014FE
+// Pos : 000064AE
+#WRITE(PTR, $00003EC2)
+//「ねえ、悪いけれと゛朝になったら出ていってくれる…？」
+"I'm sorry to have to say this, but you should leave in the morning."
+<$00>
+
+
+
+// 00001528
+// Pos : 000064D8
+#WRITE(PTR, $00003F1A)
+//『僕はとてもマリアの顔を見ることは出来なかった』
+I barely looked Maria in the eye when I spoke.
+<$00>
+
+
+
+// 00001554
+// Pos : 00006504
+#WRITE(PTR, $00003F54)
+//『目の前にある拳銃か゛、不気味に輝いていた…』
+All I saw was the ominous gleen that came off the handgun.
+<$00>
+
+
+
+// 00001580
+// Pos : 00006530
+#WRITE(PTR, $00003FDB)
+//『朝を待たす゛に彼女は出ていってしまった』
+She left well before morning.
+<$00>
+
+
+
+// 000015A6
+// Pos : 00006556
+#WRITE(PTR, $00004015)
+//『雨にうたれて…』
+The rain beat down from above.
+<$00>
+
+
+
+// 000015BD
+// Pos : 0000656D
+#WRITE(PTR, $0000404F)
+//『痛む足をひきす゛りなか゛ら…』
+I knew she'd have to limp through it.
+<$00>
+
+
+
+// 000015DC
+// Pos : 0000658C
+#WRITE(PTR, $00004089)
+//『僕は出て行く彼女に背を向け、見送りもせす゛に部屋の真ん中て゛身体を固くしていた…』
+My body froze and I turned away. I didn't have it in me to see her off.
+<$00>
+
+
+
+// 00001663
+// Pos : 00006613
+#WRITE(PTR, $00004191)
+//『あれからひと月余りか゛経った』
+A month or so had passed since that night.
+<$00>
+
+
+
+// 00001683
+// Pos : 00006633
+#WRITE(PTR, $000041CB)
+//『今になって思うことか゛ある』
+I never stopped thinking about it.
+<$00>
+
+
+
+// 000016A1
+// Pos : 00006651
+#WRITE(PTR, $00004205)
+//『もし…、もしもあの時…、僕か゛もう一歩踏み込んて゛彼女に手を差し伸へ゛ていたら…』
+If only... If only I stepped up and took her hand.
+<$00>
+
+
+
+// 000016E6
+// Pos : 00006696
+#WRITE(PTR, $0000423F)
+//『彼女の人生は、そして僕の人生はと゛う変わっていたのた゛ろうって…』
+How different would our lives look now, had I helped her?
+<$00>
+
+
+
+// 00001730
+// Pos : 000066E0
+#WRITE(PTR, $000042F9)
+//『拳銃は冷たく鈍い光を放っている』
+The handgun felt cold to the touch and emitted a dull gleen.
+<$00>
+
+
+
+// 00001753
+// Pos : 00006703
+#WRITE(PTR, $00004333)
+//『信し゛られない…。こんなものを間近て゛見るなんて…』
+I never thought I would see something like it up close.
+<$00>
+
+
+
+// 00001780
+// Pos : 00006730
+#WRITE(PTR, $0000436D)
+//『僕は言葉をなくして、目の前にあるそれを見つめ続けた…』
+At a loss for words, I stared at the bizarre object.
+<$00>
+
+
+
+// 000017E4
+// Pos : 00006794
+#WRITE(PTR, $00004400)
+//『重い…』
+It was heavy.
+<$00>
+
+
+
+// 00001809
+// Pos : 000067B9
+#WRITE(PTR, $0000444D)
+//「わからない…と゛うして！？」
+"I don't understand. Why do I have that?!"
+<$00>
+
+
+
+// 00001873
+// Pos : 00006823
+#WRITE(PTR, $000044F3)
+//「メイド・イン・チャイナ…」
+"'Made in China'."
+<$00>
+
+
+
+// 000018BB
+// Pos : 0000686B
+#WRITE(PTR, $00004618)
+//『マリアは髪をかきむしって、うつむいたまま押し黙ってしまった』
+Maria fell silent. She looked downcast, ready to tear her own hair out.
+<$00>
+
+
+
+// 000018F7
+// Pos : 000068A7
+#WRITE(PTR, $00004683)
+//と゛うする事も出来ない
+Nothing can be done
+<$00>
+
+
+
+// 00001906
+// Pos : 000068B6
+#WRITE(PTR, $0000468C)
+//なく゛さめてやろうか
+Try to calm her down
+<$00>
+
+
+
+// 00001911
+// Pos : 000068C1
+#WRITE(PTR, $00004696)
+//なにか言わなきゃ…
+Say something
+<$00>
+
+
+
+// 00001984
+// Pos : 00006934
+#WRITE(PTR, $00004741)
+//「落ちついて。とにかく一緒に考えてみよう」
+"Don't beat yourself up. There's still time for us to get to the bottom of this."
+<$00>
+
+
+
+// 0000199E
+// Pos : 0000694E
+#WRITE(PTR, $00004782)
+//『拳銃か゛出てきたせいて゛、マリアはひと゛くおひ゛えている』
+Maria's complexion paled at the sight of the handgun.
+<$00>
+
+
+
+// 000019C5
+// Pos : 00006975
+#WRITE(PTR, $000047A5)
+//『僕か゛なた゛めてあけ゛なきゃ…』
+I need to calm her down.
+<$00>
+
+
+
+// 00001A00
+// Pos : 000069B0
+#WRITE(PTR, $00004807)
+//「イヤッ！！」
+"Don't!"
+<$00>
+
+
+
+// 00001A29
+// Pos : 000069D9
+#WRITE(PTR, $00004852)
+//「こ゛、こ゛めん…」
+"Sorry..."
+<$00>
+
+
+
+// 00001A35
+// Pos : 000069E5
+#WRITE(PTR, $00004893)
+//『しまった…』
+Good going, dumbass.
+<$00>
+
+
+
+// 00001A5F
+// Pos : 00006A0F
+#WRITE(PTR, $000048D5)
+//『僕は言葉を失う』
+Words escaped me.
+<$00>
+
+
+
+// 00001A78
+// Pos : 00006A28
+#WRITE(PTR, $0000490F)
+//『手の中には、ついいましか゛たのマリアのやわらかな肩と…』
+Two sensations lingered on my fingertips. The first was the softeness of Maria's shoulder.
+<$00>
+
+
+
+// 00001ABE
+// Pos : 00006A6E
+#WRITE(PTR, $00004951)
+//『そして拳銃の重さか゛残っている…』
+The other was the weight of the handgun.
+<$00>
+
+
+
+// 00001B07
+// Pos : 00006AB7
+#WRITE(PTR, $00004A0B)
+//『こ、こんなとき、何て言えは゛いいんた゛…！？』
+I've got to say something, but... what?
+<$00>
+
+
+
+// 00001B30
+// Pos : 00006AE0
+#WRITE(PTR, $00004A3A)
+//元気出して
+Cheer up!
+<$00>
+
+
+
+// 00001B39
+// Pos : 00006AE9
+#WRITE(PTR, $00004A43)
+//大丈夫？
+Are you all right?
+<$00>
+
+
+
+// 00001B42
+// Pos : 00006AF2
+#WRITE(PTR, $00004A4D)
+//きっと思い出せるよ
+You'll remember soon.
+<$00>
+
+
+
+// 00001B95
+// Pos : 00006B45
+#WRITE(PTR, $00004AD9)
+//「大丈夫？」
+"Are you all right?"
+<$00>
+
+
+
+// 00001BBC
+// Pos : 00006B6C
+#WRITE(PTR, $00004B1B)
+//「元気出して」
+"Cheer up!"
+<$00>
+
+
+
+// 00001BE6
+// Pos : 00006B96
+#WRITE(PTR, $00004B7B)
+//『マリアはうつむいたままた゛』
+Maria was visibly at her limit.
+<$00>
+
+
+
+// 00001C04
+// Pos : 00006BB4
+#WRITE(PTR, $00004BB5)
+//『僕の言葉なんて何の役にも立たない…』
+My words failed to help in the slightest.
+<$00>
+
+
+
+// 00001C2A
+// Pos : 00006BDA
+#WRITE(PTR, $00004BF7)
+//『テーブルの上て゛は拳銃か゛冷たく輝いている』
+The handgun atop the table emitted a chilling gleen.
+<$00>
+
+
+
+// 00001C55
+// Pos : 00006C05
+#WRITE(PTR, $00004C31)
+#WRITE(PTR, $00004F83)
+//『と゛うしよう…』
+What should I do?
+<$00>
+
+
+
+// 00001C87
+// Pos : 00006C37
+#WRITE(PTR, $00004CBD)
+//「きっと思い出せるよ」
+"You'll remember soon."
+<$00>
+
+
+
+// 00001CEC
+// Pos : 00006C9C
+#WRITE(PTR, $00004D58)
+//「アリガト…」
+"Thank you."
+<$00>
+
+
+
+// 00001D02
+// Pos : 00006CB2
+#WRITE(PTR, $00004DB2)
+//『よかった…。気をとり直してくれたみたいた゛』
+Phew! Looks like that made her feel better.
+<$00>
+
+
+
+// 00001D28
+// Pos : 00006CD8
+#WRITE(PTR, $00004DEC)
+//『て゛も…』
+But at what cost?
+<$00>
+
+
+
+// 00001D3B
+// Pos : 00006CEB
+#WRITE(PTR, $00004E2E)
+//『テーブルの上て゛は相変わらす゛、拳銃か゛鈍い光を放っていた…』
+All the while, that strange handgun atop the table emitted a chilling gleen.
+<$00>
+
+
+
+// 00001D6A
+// Pos : 00006D1A
+#WRITE(PTR, $00004E51)
+//『ホントにと゛うしたらいいんた゛ろう…』
+If only there were some way I could help.
+<$00>
+
+
+
+// 00001DAD
+// Pos : 00006D5D
+#WRITE(PTR, $00004EE1)
+//『僕は言葉を失う。拳銃の重さか゛身体にひひ゛く』
+I couldn't speak. The weight of the handgun sent shivers throughout my entire body.
+<$00>
+
+
+
+// 00001E0B
+// Pos : 00006DBB
+#WRITE(PTR, $00004F49)
+//『手の中のそいつは冷たく鈍く輝いて押し黙っている…』
+The object in my hands felt cold to the touch and emitted a dull gleen.
+<$00>
+
+
+
+#WRITE(APTR, $00000008)
+#WRITE(BPTR, $0000000C)
+

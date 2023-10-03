@@ -1,0 +1,95 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#VAR(APTR, CUSTOMPOINTER)
+#VAR(BPTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", $00002CB0, 16)
+#CREATEPTR(APTR, "LINEAR", $00000000, 32)
+#CREATEPTR(BPTR, "LINEAR", $00000030, 32)
+#JMP(-1)
+
+// 0000014E
+// Pos : 00002DFE
+#WRITE(PTR, $0000207F)
+//バッドエンド
+Bad End
+<$00>
+
+
+
+// 0000015B
+// Pos : 00002E0B
+#WRITE(PTR, $00002104)
+//グッドエンド１
+Good End 1
+<$00>
+
+
+
+// 0000016A
+// Pos : 00002E1A
+#WRITE(PTR, $0000212E)
+//グッドエンド２
+Good End 2
+<$00>
+
+
+
+// 00000179
+// Pos : 00002E29
+#WRITE(PTR, $00002158)
+//グッドエンド３
+Good End 3
+<$00>
+
+
+
+// 00000194
+// Pos : 00002E44
+#WRITE(PTR, $00002229)
+//ノーマルエンド１
+Normal End 1
+<$00>
+
+
+
+// 000001A4
+// Pos : 00002E54
+#WRITE(PTR, $00002241)
+//ノーマルエンド２
+Normal End 2
+<$00>
+
+
+
+// 000001B4
+// Pos : 00002E64
+#WRITE(PTR, $00002259)
+//ノーマルエンド３
+Normal End 3
+<$00>
+
+
+
+// 000001C4
+// Pos : 00002E74
+#WRITE(PTR, $00002271)
+//ノーマルエンド４
+Normal End 4
+<$00>
+
+
+
+// 000001D4
+// Pos : 00002E84
+#WRITE(PTR, $00002289)
+//ノーマルエンド５
+Normal End 5
+<$00>
+
+
+
+#WRITE(APTR, $00000008)
+#WRITE(BPTR, $0000000C)
+

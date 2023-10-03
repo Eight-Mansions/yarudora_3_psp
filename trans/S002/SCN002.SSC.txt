@@ -22,7 +22,8 @@ What a weird night that had been.
 // Pos : 0000525B
 #WRITE(PTR, $00002077)
 //『駅前にはたくさんのパトカーか゛集まっていて…』
-I had seen a swarm of police vehicles out in front of the station.
+I had seen a swarm of police vehicles out in\n
+front of the station.
 <$00>
 
 
@@ -31,7 +32,8 @@ I had seen a swarm of police vehicles out in front of the station.
 // Pos : 00005287
 #WRITE(PTR, $000020B6)
 //『彼女と出会う少し前にも…』
-This woman and I had met only moments later.
+This woman and I had met only moments\n
+later.
 <$00>
 
 
@@ -49,7 +51,9 @@ D1Police Officer
 // Pos : 000052E3
 #WRITE(PTR, $00002153)
 //「ところて゛このあたりて゛怪しい奴を見かけなかったか？ 東南アジア系の…」
-"You haven't seen anyone acting suspiciously, have you? Any Southeast Asians?"
+"You haven't seen anyone acting\n
+suspiciously, have you? Any Southeast\n
+Asians?"
 <$00>
 
 
@@ -58,7 +62,8 @@ D1Police Officer
 // Pos : 00005364
 #WRITE(PTR, $0000222B)
 //『僕は巡回中の警官から質問をうけていた…』
-Why had the patrolling offier stopped in front of me?
+Why had the patrolling offier stopped in\n
+front of me?
 <$00>
 
 
@@ -85,7 +90,8 @@ I had to find out.
 // Pos : 0000543A
 #WRITE(PTR, $00002440)
 //『とりあえす゛助けてしまったけれと゛…』
-In the moment, I just thought I'd lend her a hand, but...
+In the moment, I just thought I'd lend her\n
+a hand, but...
 <$00>
 
 
@@ -112,7 +118,8 @@ What was I supposed to say to her?
 // Pos : 000054E7
 #WRITE(PTR, $000025D4)
 //『足をケガして歩けない彼女を背負い、僕は自分のアパートへ向かった』
-I helped the woman with the injured leg onto my back and lugged her to my apartment.
+I helped the woman with the injured leg\n
+onto my back and lugged her to my apartment.
 <$00>
 
 
@@ -121,7 +128,9 @@ I helped the woman with the injured leg onto my back and lugged her to my apartm
 // Pos : 00005524
 #WRITE(PTR, $0000260E)
 //『外国人らしい彼女か゛、こんな雨の夜、あんなところに隠れているなんて…』
-Clearly the woman was a foreigner, but what was she doing in that alley during a rainstorm?
+Clearly the woman was a foreigner, but\n
+what was she doing in that alley during a\n
+rainstorm?
 <$00>
 
 
@@ -158,7 +167,8 @@ Or, maybe not...
 // Pos : 0000571E
 #WRITE(PTR, $00002986)
 //『僕は彼女を背負って、自分のアパートをめさ゛した』
-Carrying the woman on my back, I heaved towards my apartment.
+Carrying the woman on my back, I heaved\n
+towards my apartment.
 <$00>
 
 
@@ -167,7 +177,9 @@ Carrying the woman on my back, I heaved towards my apartment.
 // Pos : 0000574E
 #WRITE(PTR, $000029C0)
 //『東南アジア系の怪しい奴という言葉か゛思い出される』
-The police officer's warning about a Southeast Asian person lingered in my mind.
+The police officer's warning about a\n
+Southeast Asian person lingered in my\n
+mind.
 <$00>
 
 
@@ -176,7 +188,8 @@ The police officer's warning about a Southeast Asian person lingered in my mind.
 // Pos : 00005781
 #WRITE(PTR, $000029FA)
 //『彼女か゛そうた゛とは思いたくないか゛…』
-I didn't want to assume that she was their suspect.
+I didn't want to assume that she was their\n
+suspect.
 <$00>
 
 
@@ -185,7 +198,8 @@ I didn't want to assume that she was their suspect.
 // Pos : 000057A7
 #WRITE(PTR, $00002A34)
 //『とりあえす゛今のところは、あまり多くの事をたす゛ねるのはひかえておこう』
-I needed to gather more information with the time I had.
+I needed to gather more information with\n
+the time I had.
 <$00>
 
 
@@ -194,7 +208,8 @@ I needed to gather more information with the time I had.
 // Pos : 0000584B
 #WRITE(PTR, $00002BFA)
 //「ねえ、額のその傷、ケガしているみたいた゛けれと゛、何かあったの？」
-"Tell me, how did you get that cut on your forehead?"
+"Tell me, how did you get that cut on your\n
+forehead?"
 <$00>
 
 
@@ -364,7 +379,8 @@ Good. She said her name was Maria.
 // Pos : 00005BEE
 #WRITE(PTR, $000032D3)
 //「夜中た゛し雨た゛って降ってるのに…」
-"Weird place at this hour, especially in all this rain."
+"Weird place at this hour, especially in\n
+all this rain."
 <$00>
 
 
@@ -492,7 +508,8 @@ She went quiet.
 // Pos : 00005F6B
 #WRITE(PTR, $00003B3A)
 //『おそらくアジアのと゛こかた゛ろう…』
-I suspect she came here from another country in Asia, but...
+I suspect she came here from another\n
+country in Asia, but...
 <$00>
 
 
@@ -528,7 +545,9 @@ I suspect she came here from another country in Asia, but...
 // Pos : 000060DB
 #WRITE(PTR, $00003EE8)
 //『濡れた衣服を通して彼女の体温を感し゛る。また゛酔っているのかな…』
-『I can feel the woman's body temperature through my soaked clothes. I'm still a little buzzed...』
+『I can feel the woman's body temperature\n
+through my soaked clothes. I'm still a\n
+little buzzed...』
 <$00>
 
 
@@ -537,7 +556,8 @@ I suspect she came here from another country in Asia, but...
 // Pos : 00006114
 #WRITE(PTR, $00003F22)
 //『僕はドキドキしなか゛らアパートへ急いた゛』
-As my heart pounded, I raced back to my apartment.
+As my heart pounded, I raced back to my\n
+apartment.
 <$00>
 
 
@@ -546,7 +566,8 @@ As my heart pounded, I raced back to my apartment.
 // Pos : 00006182
 #WRITE(PTR, $0000401A)
 //『いつもは左の路地を抜けて帰るのた゛けれと゛、と゛うしよう』
-I usually take the left turn here, but the risk of slipping is higher.
+I usually take the left turn here, but the\n
+risk of slipping is higher.
 <$00>
 
 
@@ -573,7 +594,8 @@ Take the safer right turn
 // Pos : 0000624B
 #WRITE(PTR, $000040F2)
 //「そっちは滑りやすいから広い通りを行こう」
-"This way's slippery. Let's take the wider street."
+"This way's slippery. Let's take the\n
+wider street."
 <$00>
 
 
@@ -582,7 +604,8 @@ Take the safer right turn
 // Pos : 000062C9
 #WRITE(PTR, $000041F2)
 //『少し遠回りになるけと゛仕方か゛ないよな…』
-The right turn made for a longer trek, but it was better safe than sorry!
+The right turn made for a longer trek, but\n
+it was better safe than sorry!
 <$00>
 
 
@@ -600,7 +623,8 @@ The right turn made for a longer trek, but it was better safe than sorry!
 // Pos : 0000632B
 #WRITE(PTR, $000042C7)
 //「ちょっと道は悪いけれと゛、こっちにしよう」
-"This street is a little rough, but I can handle it."
+"This street is a little rough, but I can\n
+handle it."
 <$00>
 
 
@@ -711,7 +735,8 @@ Uh-oh, this ain't good!
 // Pos : 00006688
 #WRITE(PTR, $00004A1E)
 //「はい！ た゛いし゛ょふ゛て゛す。全然た゛いし゛ょうふ゛て゛す！」
-"Here we go. Now, everything will be juuust peachy!"
+"Here we go. Now, everything will be\n
+juuust peachy!"
 <$00>
 
 
@@ -720,7 +745,8 @@ Uh-oh, this ain't good!
 // Pos : 00006726
 #WRITE(PTR, $00004B29)
 //「さあ！ もうすく゛着くからね。ちょっと飛は゛すよ」
-"We're almost there. Hang on just a little longer."
+"We're almost there. Hang on just a\n
+little longer."
 <$00>
 
 
@@ -765,7 +791,8 @@ Uh-oh, this ain't good!
 // Pos : 00006860
 #WRITE(PTR, $00004E44)
 //『ホントはドキドキて゛た゛いし゛ょふ゛と゛ころし゛ゃなかった』
-In truth, my heart pounded so quickly, I couldn't say for sure.
+In truth, my heart pounded so quickly, I\n
+couldn't say for sure.
 <$00>
 
 
@@ -774,7 +801,9 @@ In truth, my heart pounded so quickly, I couldn't say for sure.
 // Pos : 00006893
 #WRITE(PTR, $00004E7E)
 //『僕は最後の力をふりしほ゛って、ぬかるみの路地を一気に駆け抜ける』
-I gathered whatever strength I had left in me and ran a mad dash down the slushy shortcut.
+I gathered whatever strength I had left\n
+in me and ran a mad dash down the slushy\n
+shortcut.
 <$00>
 
 
@@ -792,7 +821,8 @@ All I could think about...
 // Pos : 000068FF
 #WRITE(PTR, $00004F83)
 //『女の子ってなんてやわらかいんた゛ろうって…』
-was how soft the woman felt against my back.
+was how soft the woman felt against my\n
+back.
 <$00>
 
 

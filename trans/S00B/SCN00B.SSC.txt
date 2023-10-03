@@ -22,7 +22,8 @@
 // Pos : 000059BF
 #WRITE(PTR, $00002023)
 //『目を覚ますと、青空の中にマリアの笑顔か゛ある』
-I awoke to see Maria smiling in the crisp, blue daylight.
+I awoke to see Maria smiling in the crisp,\n
+blue daylight.
 <$00>
 
 
@@ -31,7 +32,8 @@ I awoke to see Maria smiling in the crisp, blue daylight.
 // Pos : 00005A0B
 #WRITE(PTR, $0000208C)
 //『マリアは一日中、アパートを一歩も出す゛に掃除は゛かりしている』
-She'd spent the entire day cleaning my apartment.
+She'd spent the entire day cleaning my\n
+apartment.
 <$00>
 
 
@@ -103,7 +105,8 @@ Neat...
 // Pos : 00005C0B
 #WRITE(PTR, $000023F9)
 //「ワア、かわいい絵ね、何これ？」
-"Wow, this ad is adorable! What's it for?"
+"Wow, this ad is adorable! What's it\n
+for?"
 <$00>
 
 
@@ -112,7 +115,8 @@ Neat...
 // Pos : 00005C72
 #WRITE(PTR, $000024C9)
 //「ゲームみたい」
-"'Embrace The Season'? Looks like a video game."
+"'Embrace The Season'? Looks like a video\n
+game."
 <$00>
 
 
@@ -283,7 +287,7 @@ Accept her refusal
 // Pos : 00005FDE
 #WRITE(PTR, $000029E9)
 //イイっては゛」
- If you insist!"
+\nIf you insist!"
 <$00>
 
 
@@ -301,7 +305,8 @@ Accept her refusal
 // Pos : 00006031
 #WRITE(PTR, $00002A97)
 //『見ているた゛けし゛ゃ悪いしね』
-Watching her do all the work made me feel guilty.
+Watching her do all the work made me feel\n
+guilty.
 <$00>
 
 
@@ -348,7 +353,7 @@ Watching her do all the work made me feel guilty.
 // Pos : 00006174
 #WRITE(PTR, $00002C4F)
 //ぬれちゃった…」
- now I'm all wet..."
+\nnow I'm all wet..."
 <$00>
 
 
@@ -413,7 +418,7 @@ Watching her do all the work made me feel guilty.
 // Pos : 000062D9
 #WRITE(PTR, $00002EB5)
 // わかった」
- of course."
+\nof course."
 <$00>
 
 
@@ -458,7 +463,7 @@ It feels pretty nice, if you ask me.
 // Pos : 000063E5
 #WRITE(PTR, $0000304B)
 //掃除くらいて゛気にするコトナイヨォ」
- Cleaning's not a big deal for me."
+\nCleaning's not a big deal for me."
 <$00>
 
 
@@ -468,7 +473,8 @@ It feels pretty nice, if you ask me.
 #WRITE(PTR, $00003099)
 #WRITE(PTR, $0000415C)
 //「おかけ゛て゛部屋か゛見違えたよ」
-"Not a big deal? I've never seen a room so clean!"
+"Not a big deal? I've never seen a room so\n
+clean!"
 <$00>
 
 
@@ -477,7 +483,8 @@ It feels pretty nice, if you ask me.
 // Pos : 00006479
 #WRITE(PTR, $0000310D)
 //「し゛ゃあもっとキレイにしてあけ゛るネ」
-"Hah! Really? Because I can make it even cleaner!"
+"Hah! Really? Because I can make it even\n
+cleaner!"
 <$00>
 
 
@@ -631,7 +638,7 @@ Look away
 // Pos : 00006819
 #WRITE(PTR, $00003829)
 //「ヤダァ…。
-"Now, now... 
+"Now, now...
 <$00>
 
 
@@ -640,7 +647,7 @@ Look away
 // Pos : 00006862
 #WRITE(PTR, $0000388A)
 //そんなに見られると恥す゛かしいよォ」
-I see that naughty look on your face."
+\nI see that naughty look on your face."
 <$00>
 
 
@@ -676,7 +683,8 @@ Thank goodness, she's yet to catch on.
 // Pos : 00006986
 #WRITE(PTR, $00003A2C)
 //「ワタシのほう見てたて゛ショ」
-"You were looking at me like you wanted something, no?"
+"You were looking at me like you wanted\n
+something, no?"
 <$00>
 
 
@@ -721,7 +729,7 @@ I was just looking.
 // Pos : 00006B0A
 #WRITE(PTR, $00003C7E)
 //もう、へんなの」
- It's very suspicious..."
+\nIt's very suspicious..."
 <$00>
 
 
@@ -811,7 +819,8 @@ No reason.
 // Pos : 00006C7C
 #WRITE(PTR, $00003FC0)
 //「ヤダァ！！ なに言ってんのヨ！ モォ…」
-"Hold on! You can't say stuff like that to a grown woman!"
+"Hold on! You can't say stuff like that to a\n
+grown woman!"
 <$00>
 
 
@@ -820,7 +829,8 @@ No reason.
 // Pos : 00006CA9
 #WRITE(PTR, $00004022)
 //『おお！ まるて゛イタリア人のように熱いセリフを吐いてしまった』
-Why'd she blow up like some stereotyped Italian lady, huh? Mama Mia...
+Why'd she blow up like some stereotyped\n
+Italian lady, huh? Mama Mia...
 <$00>
 
 
@@ -829,7 +839,8 @@ Why'd she blow up like some stereotyped Italian lady, huh? Mama Mia...
 // Pos : 00006CE3
 #WRITE(PTR, $0000405C)
 //『僕って大胆！』
-In her defense, that was way out of character for me.
+In her defense, that was way out of\n
+character for me.
 <$00>
 
 
@@ -847,7 +858,8 @@ In her defense, that was way out of character for me.
 // Pos : 00006D33
 #WRITE(PTR, $0000410E)
 //「そんなことナイヨ。ワタシお掃除するのすきた゛もん」
-"It's nothing creepy, I promise! I'm appreciating your handiwork."
+"It's nothing creepy, I promise! I'm\n
+appreciating your handiwork."
 <$00>
 
 
@@ -865,7 +877,8 @@ In her defense, that was way out of character for me.
 // Pos : 00006DCA
 #WRITE(PTR, $0000423C)
 //「ア、それとネ、アノ雑誌かたつ゛けちゃったヨ」
-"Also, before I forget: I sorted your magazines collection over there."
+"Also, before I forget: I sorted your\n
+magazines collection over there."
 <$00>
 
 
@@ -901,7 +914,8 @@ Oh, no. Oooh, no, no no...
 // Pos : 00006E62
 #WRITE(PTR, $0000437A)
 //『あ、あの…恥す゛かしい本…！？』
-Surely she didn't touch Satoh's sticky tomes of shame, did she?!
+Surely she didn't touch Satoh's sticky\n
+tomes of shame, did she?!
 <$00>
 
 
@@ -946,7 +960,8 @@ Someone help her.
 // Pos : 00006F33
 #WRITE(PTR, $0000450D)
 //「要するに…ムニャムニャ…と…」
-"More like, two big, uh... *mumble, mumble*..."
+"More like, two big, uh... *mumble,\n
+mumble*..."
 <$00>
 
 
@@ -964,7 +979,8 @@ Someone help her.
 // Pos : 00006F9B
 #WRITE(PTR, $000045C9)
 //『い、言えないよなァ…面とむかってこっそり見てましたなんて…』
-Sure it does, Maria, but what guy tells a girl he was checking her out to her face?!
+Sure it does, Maria, but what guy tells a\n
+girl he was checking her out to her face?!
 <$00>
 
 
@@ -973,7 +989,8 @@ Sure it does, Maria, but what guy tells a girl he was checking her out to her fa
 // Pos : 00006FDA
 #WRITE(PTR, $0000464D)
 //『いけない、いけない。男たるものジェントルマンて゛あらねは゛…見ちゃいけないのた゛！』
-I can't, I can't! I can't check girls out and still call myself a gentleman!
+I can't, I can't! I can't check girls out\n
+and still call myself a gentleman!
 <$00>
 
 
@@ -1010,7 +1027,8 @@ D1Maria's Voice
 // Pos : 00007093
 #WRITE(PTR, $0000472C)
 //「ネェ、窓のところのラジカセか゛乗っている箱、動かしてもイイ？」
-"Anyways, may I move the box with your cassette player by the window?"
+"Anyways, may I move the box with your\n
+cassette player by the window?"
 <$00>
 
 
@@ -1109,7 +1127,8 @@ Let me handle it.
 // Pos : 00007254
 #WRITE(PTR, $00004A99)
 //『と、突然、マリアの顔か゛恐怖にひきつった…』
-Suddenly, Maria's face went a ghostly white.
+Suddenly, Maria's face went a ghostly\n
+white.
 <$00>
 
 
@@ -1127,7 +1146,8 @@ What did she see?
 // Pos : 00007295
 #WRITE(PTR, $00004AEB)
 //『と゛かしたカラーボックスの裏にへは゛りつき、マリアをにらみつけている』
-Maria scowled at something hiding on the other side of the plywood.
+Maria scowled at something hiding on the\n
+other side of the plywood.
 <$00>
 
 
@@ -1145,7 +1165,8 @@ It was a big, ugly...
 // Pos : 00007304
 #WRITE(PTR, $00004B5F)
 //「キャーーーーーーーッ！！ 動いた！ 動いた！ こっちへ来るヨーーーッ！！
-"EEEK! It's moving! IT'S MOVING AND COMING THIS WAY!!!
+"EEEK! It's moving! IT'S MOVING AND\n
+COMING THIS WAY!!!
 <$00>
 
 
@@ -1154,7 +1175,8 @@ It was a big, ugly...
 // Pos : 00007338
 #WRITE(PTR, $00004B77)
 //ゴキブリ！ ヤダ！ ヤダ！ ヤダ！ 助ケテーーーッ！
- It's a cockroach! Ewwe, ewwe, ewwe! Get it awaaay!
+\nIt's a cockroach! Ewwe, ewwe, ewwe! Get\n
+it awaaay!
 <$00>
 
 
@@ -1163,7 +1185,7 @@ It was a big, ugly...
 // Pos : 00007372
 #WRITE(PTR, $00004BCE)
 //ワ～～～ン！ 飛んて゛きた～～～っ！！
- Nooo! It can flyyy!
+\nNooo! It can flyyy!
 <$00>
 
 
@@ -1172,7 +1194,7 @@ It was a big, ugly...
 // Pos : 0000739E
 #WRITE(PTR, $00004C15)
 //かみつかれるヨーーーッ！ お願いと゛いて！
- Don't let it get meee! Do something!
+\nDon't let it get meee! Do something!
 <$00>
 
 
@@ -1181,7 +1203,7 @@ It was a big, ugly...
 // Pos : 000073B9
 #WRITE(PTR, $00004C55)
 //逃け゛られないヨーーーッ！
- Get rid of it, pleaaase!
+\nGet rid of it, pleaaase!
 <$00>
 
 
@@ -1190,7 +1212,7 @@ It was a big, ugly...
 // Pos : 000073D7
 #WRITE(PTR, $00004C94)
 //キャッ！ 首すし゛に！！ ダメ！ ダメ！ ダメた゛ったら～～～っ！！」
- Eek! It's on my neck! Why, why, WHYYY?!"
+\nEek! It's on my neck! Why, why, WHYYY?!"
 <$00>
 
 
@@ -1199,7 +1221,8 @@ It was a big, ugly...
 // Pos : 0000741B
 #WRITE(PTR, $00004D27)
 //『くっ苦しい…マリアの胸か゛僕の口をふさいて゛…』
-Now, this was awkward. Maria kept pressing her chest against my...
+Now, this was awkward. Maria kept\n
+pressing her chest against my...
 <$00>
 
 
@@ -1217,7 +1240,8 @@ Now, this was awkward. Maria kept pressing her chest against my...
 // Pos : 00007475
 #WRITE(PTR, $00004DA8)
 //『くっ苦しいけれと゛、う、うれしい…』
-It didn't make the predicament any less awkward, but it DID feel feel nice.
+It didn't make the predicament any less\n
+awkward, but it DID feel feel nice.
 <$00>
 
 
@@ -1289,7 +1313,8 @@ It didn't make the predicament any less awkward, but it DID feel feel nice.
 // Pos : 0000760A
 #WRITE(PTR, $00005019)
 //『また現れてくれないかな…』
-Let's pray the little bugger doesn't pop up again...
+Let's pray the little bugger doesn't pop up\n
+again...
 <$00>
 
 

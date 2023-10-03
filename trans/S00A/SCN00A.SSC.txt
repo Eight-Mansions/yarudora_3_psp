@@ -13,7 +13,8 @@
 // Pos : 00006353
 #WRITE(PTR, $0000200F)
 //『朝、目をさますと、マリアはまた゛部屋の隅て゛うす゛くまっていた…』
-When I awoke that morning, Maria was curled up in the corner of the room.
+When I awoke that morning, Maria was\n
+curled up in the corner of the room.
 <$00>
 
 
@@ -94,7 +95,8 @@ You didn't sleep?
 // Pos : 0000659A
 #WRITE(PTR, $000023C2)
 //「やっは゜り警察に行ったほうか゛いいと思うよ」
-"I think you should get help at the police station after all."
+"I think you should get help at the police\n
+station after all."
 <$00>
 
 
@@ -103,7 +105,8 @@ You didn't sleep?
 // Pos : 000065D2
 #WRITE(PTR, $0000242E)
 //「歩けるようになったら、勝手に出ていっていいから」
-"You're free to go whenever your leg feels better."
+"You're free to go whenever your leg feels\n
+better."
 <$00>
 
 
@@ -112,7 +115,8 @@ You didn't sleep?
 // Pos : 00006638
 #WRITE(PTR, $000024DA)
 //『僕はなるへ゛くマリアの顔を見ないようにして部屋を出ていった…』
-I left the room without waiting to see if Maria would react.
+I left the room without waiting to see if\n
+Maria would react.
 <$00>
 
 
@@ -121,7 +125,8 @@ I left the room without waiting to see if Maria would react.
 // Pos : 0000668D
 #WRITE(PTR, $0000258E)
 //『朝、目を覚ますとテレビの横には誰もいない』
-When I woke up that morning, no one was sitting next to the TV.
+When I woke up that morning, no one was\n
+sitting next to the TV.
 <$00>
 
 
@@ -166,7 +171,8 @@ then it's "every woman for herself" too.
 // Pos : 00006783
 #WRITE(PTR, $000026E5)
 //『て゛も……ホントにいいんた゛ろうか？』
-All I wonder is whether I did the right thing.
+All I wonder is whether I did the right\n
+thing.
 <$00>
 
 
@@ -176,7 +182,8 @@ All I wonder is whether I did the right thing.
 #WRITE(PTR, $000027ED)
 #WRITE(PTR, $00002E7A)
 //『ここは僕のバイト先の牛と゛ん屋た゛』
-It was time to work my part-time shift at the udon restaurant.
+It was time to work my part-time shift at\n
+the udon restaurant.
 <$00>
 
 
@@ -185,7 +192,9 @@ It was time to work my part-time shift at the udon restaurant.
 // Pos : 00006823
 #WRITE(PTR, $00002827)
 //『昼の混雑も終わり、僕は店の奥て゛お客さんの残していった新聞を読みなか゛ら、遅い昼食をとっている』
-Once we survived the lunch rush, I took a late break in the back. Some customer left a newspaper behind, so I read that.
+Once we survived the lunch rush, I took a\n
+late break in the back. Some customer left a\n
+newspaper behind, so I read that.
 <$00>
 
 
@@ -195,7 +204,8 @@ Once we survived the lunch rush, I took a late break in the back. Some customer 
 #WRITE(PTR, $000028C7)
 #WRITE(PTR, $00002F82)
 //『暴力団組長　撃たれる。中国系マフィアとの抗争か？…』
-"'Yakuza boss shot: Confrontations with Chinese Mafia'?"
+"'Yakuza boss shot: Confrontations with\n
+Chinese Mafia'?"
 <$00>
 
 
@@ -204,7 +214,8 @@ Once we survived the lunch rush, I took a late break in the back. Some customer 
 // Pos : 00006902
 #WRITE(PTR, $00002920)
 //『新聞によれは゛、その中国系マフィアのアジトは僕の住んて゛いる駅の近くにあって』
-According to this article, there's triad hideout near the station live by.
+According to this article, there's\n
+triad hideout near the station live by.
 <$00>
 
 
@@ -213,7 +224,9 @@ According to this article, there's triad hideout near the station live by.
 // Pos : 00006946
 #WRITE(PTR, $0000295A)
 //『警察か゛駆けつけた時には、既にもぬけのからた゛ったそうた゛』
-By the time authorities had arrived to raid the hideout, it had already been deserted.
+By the time authorities had arrived to\n
+raid the hideout, it had already been\n
+deserted.
 <$00>
 
 
@@ -222,7 +235,8 @@ By the time authorities had arrived to raid the hideout, it had already been des
 // Pos : 00006989
 #WRITE(PTR, $0000299C)
 //『そうか…それて゛昨日、あんなにパトカーか゛…』
-Interesting. That would explain the police presence we saw last night.
+Interesting. That would explain the\n
+police presence we saw last night.
 <$00>
 
 
@@ -231,7 +245,8 @@ Interesting. That would explain the police presence we saw last night.
 // Pos : 000069D9
 #WRITE(PTR, $00002A3B)
 //『マリアも関係していたのた゛ろうか？この事件に…』
-But Maria wasn't hiding from police because of that, was she?
+But Maria wasn't hiding from police\n
+because of that, was she?
 <$00>
 
 
@@ -240,7 +255,8 @@ But Maria wasn't hiding from police because of that, was she?
 // Pos : 00006A43
 #WRITE(PTR, $00002ABA)
 //『彼女か゛持っていた拳銃の冷たさと重みは』
-The handgun she possessed felt cold to the touch and weighed heavily in my hand.
+The handgun she possessed felt cold to the\n
+touch and weighed heavily in my hand.
 <$00>
 
 
@@ -267,7 +283,8 @@ I wonder where she went...
 // Pos : 00006B2E
 #WRITE(PTR, $00002C4A)
 //「マリアはやさしいヒトか゛好きた゛ナ。助けてくれてアリガトウ」
-"Thanks for trying to help. I only wish you were friendlier."
+"Thanks for trying to help. I only wish you\n
+were friendlier."
 <$00>
 
 
@@ -294,7 +311,9 @@ The next day...
 // Pos : 00006BF8
 #WRITE(PTR, $00002EB4)
 //『来る日も来る日も、学校、アパート、バイト先との往復の日々…』
-...and every day after, my life had been an endless cycle between college, apartment and work.
+...and every day after, my life had been an\n
+endless cycle between college, apartment\n
+and work.
 <$00>
 
 
@@ -303,7 +322,8 @@ The next day...
 // Pos : 00006C66
 #WRITE(PTR, $00002FE2)
 //『ふ～ん、僕んちの近くし゛ゃないか』
-Sheesh. That can't be the story of my life, can it?
+Sheesh. That can't be the story of my\n
+life, can it?
 <$00>
 
 
@@ -312,7 +332,8 @@ Sheesh. That can't be the story of my life, can it?
 // Pos : 00006C88
 #WRITE(PTR, $0000301C)
 //『まるて゛映画みたいた゛な』
-It sounds like the boring narration you hear in a movie.
+It sounds like the boring narration you\n
+hear in a movie.
 <$00>
 
 
@@ -321,7 +342,9 @@ It sounds like the boring narration you hear in a movie.
 // Pos : 00006CA5
 #WRITE(PTR, $00003056)
 //『と゛うりて゛昨日、駅前か゛騒か゛しかったわけた゛』
-Funnily enough, there had been some sort of commotion last night near the station live by.
+Funnily enough, there had been some sort of\n
+commotion last night near the station\n
+live by.
 <$00>
 
 
@@ -393,7 +416,8 @@ The 'Chinese mafia', huh...
 // Pos : 00006ECC
 #WRITE(PTR, $00003443)
 //『そういえは゛マリアの持っていた銃に、たしかメイド・イン・チャイナって…』
-Maria's handgun did say "Made in China" on it.
+Maria's handgun did say "Made in China" on\n
+it.
 <$00>
 
 
@@ -402,7 +426,9 @@ Maria's handgun did say "Made in China" on it.
 // Pos : 00006F1E
 #WRITE(PTR, $000034F8)
 //『僕はマリアの事を思って、ドキドキしなか゛ら$１日のバイトを終えた』
-How many shifts must I finish like this, where my heart pounds with thoughts about Maria?
+How many shifts must I finish like this,\n
+where my heart pounds with thoughts about\n
+Maria?
 <$00>
 
 
@@ -420,7 +446,8 @@ Man, am I war-torn!
 // Pos : 00007007
 #WRITE(PTR, $00003670)
 //『あ、昨日の…』
-Hey. It's the police officer from last night.
+Hey. It's the police officer from last\n
+night.
 <$00>
 
 
@@ -447,7 +474,8 @@ Ah.
 // Pos : 00007066
 #WRITE(PTR, $0000374F)
 //『と゛うしよう、届け出た方か゛いいんた゛ろうか？』
-What do I do？ Should I... really notify the police?
+What do I do？ Should I... really notify\n
+the police?
 <$00>
 
 
@@ -456,7 +484,8 @@ What do I do？ Should I... really notify the police?
 // Pos : 00007090
 #WRITE(PTR, $00003791)
 //『気のせいか、警官か゛にらんて゛いるような気か゛する』
-Maybe it was all in my head, but it felt like I was under surveillance.
+Maybe it was all in my head, but it felt\n
+like I was under surveillance.
 <$00>
 
 
@@ -517,7 +546,8 @@ D1Police Officer
 // Pos : 000071DC
 #WRITE(PTR, $0000393B)
 //『な、何か言ったほうか゛いいのかな…』
-At this point, I feel I'd better say something...
+At this point, I feel I'd better say\n
+something...
 <$00>
 
 
@@ -600,7 +630,9 @@ Report Maria
 // Pos : 000073A5
 #WRITE(PTR, $00003CA7)
 //「あんまり夜遅くまて゛飲み歩いて警察のやっかいになるんし゛ゃないそ゛」
-"Next time, don't stay out drinking so late without securing a ride home. Lesson learned?"
+"Next time, don't stay out drinking so late\n
+without securing a ride home. Lesson\n
+learned?"
 <$00>
 
 
@@ -610,7 +642,8 @@ Report Maria
 #WRITE(PTR, $00003D3C)
 #WRITE(PTR, $00003DC5)
 //『なんた゛、そんなことか…』
-Sheesh! The Man wasted no time calling me out.
+Sheesh! The Man wasted no time calling me\n
+out.
 <$00>
 
 
@@ -646,7 +679,8 @@ Sheesh! The Man wasted no time calling me out.
 // Pos : 000074C1
 #WRITE(PTR, $00003EDC)
 //「警察官になってみたいとは思わんかね？」
-"Have you ever thought about becoming a police officer?"
+"Have you ever thought about becoming a\n
+police officer?"
 <$00>
 
 
@@ -664,7 +698,9 @@ Sheesh! The Man wasted no time calling me out.
 // Pos : 0000751E
 #WRITE(PTR, $00003F8E)
 //「本署て゛は随時募集しておるんた゛か゛、と゛うかねキミ、興味ないかね」
-"We like to take in new recruits at our head office from time to time. Think you'd be interested?"
+"We like to take in new recruits at our head\n
+office from time to time. Think you'd be\n
+interested?"
 <$00>
 
 
@@ -691,7 +727,9 @@ Sheesh! The Man wasted no time calling me out.
 // Pos : 000075C1
 #WRITE(PTR, $00004097)
 //「本署の婦警は美人そ゛ろいた゛。合コンもある、ときたもんた゛」
-"Except, the policewomen at the station are all 10-outta-10s, and everyone hangs out after work for the hell of it.
+"Except, the policewomen at the station\n
+are all 10-outta-10s, and everyone hangs\n
+out after work for the hell of it.
 <$00>
 
 
@@ -736,7 +774,8 @@ I'm still a student!
 // Pos : 000076BB
 #WRITE(PTR, $00004223)
 //『ちょっともったいない気もしたけれと゛、僕は交番をあとにした』
-『His offer felt a little too good to be true. I opted to leave police box instead.』
+『His offer felt a little too good to be\n
+true. I opted to leave police box instead.』
 <$00>
 
 
@@ -781,7 +820,9 @@ I'm still a student!
 // Pos : 000077AA
 #WRITE(PTR, $00004394)
 //『僕は警官に言われるままに、応募の手続きをすませ帰宅した』
-With the police officer there to walk me through it, I filled out a job application on my way home from work.
+With the police officer there to walk me\n
+through it, I filled out a job\n
+application on my way home from work.
 <$00>
 
 
@@ -790,7 +831,9 @@ With the police officer there to walk me through it, I filled out a job applicat
 // Pos : 000077F5
 #WRITE(PTR, $000043DE)
 //『あとて゛聞いたことた゛か゛、僕に勧誘の声をかけたのは、し゛つは冗談のつもりた゛ったらしい』
-Deep down, questioned whether he'd genuinely wanted me to apply, or if he'd just done all this to humor himself. 
+Deep down, questioned whether he'd\n
+genuinely wanted me to apply, or if he'd\n
+just done all this to humor himself.
 <$00>
 
 
@@ -799,7 +842,8 @@ Deep down, questioned whether he'd genuinely wanted me to apply, or if he'd just
 // Pos : 00007838
 #WRITE(PTR, $00004418)
 //『たた゛、僕のあまりの熱意に対し、特別にはからってくれたのた゛そうた゛』
-Either way, he seemed to appreciate my enthusiasm.
+Either way, he seemed to appreciate my\n
+enthusiasm.
 <$00>
 
 
@@ -808,7 +852,8 @@ Either way, he seemed to appreciate my enthusiasm.
 // Pos : 00007870
 #WRITE(PTR, $00004452)
 //『まあいいさ、僕は本気なんた゛。合コンはもちろん楽しみた゛けと゛』
-Fine by me. I only came to shoot my shot with some hot policewomen.
+Fine by me. I only came to shoot my shot with\n
+some hot policewomen.
 <$00>
 
 
@@ -817,7 +862,8 @@ Fine by me. I only came to shoot my shot with some hot policewomen.
 // Pos : 000078B1
 #WRITE(PTR, $000044CD)
 //『退屈な僕の人生か゛すこして゛も変わるなら…』
-Anything to shake up the boring life I'd led so far.
+Anything to shake up the boring life I'd\n
+led so far.
 <$00>
 
 
@@ -826,7 +872,8 @@ Anything to shake up the boring life I'd led so far.
 // Pos : 0000791B
 #WRITE(PTR, $00004579)
 //「ザンネンた゛ったわね。もう一度か゛んは゛って$早くワタシをつかまえて！ ねっ！」
-"Well, so much for 'us'. You'll try again, won't you? Catch me if you caaan!"
+"Well, so much for 'us'. You'll try\n
+again, won't you? Catch me if you caaan!"
 <$00>
 
 
@@ -853,7 +900,8 @@ I passed the police box.
 // Pos : 000079EF
 #WRITE(PTR, $0000475D)
 //「キミ、きのうの深夜この辺を歩いていたろう？」
-"Didn't I see you walking around these parts around midnight last night?"
+"Didn't I see you walking around these parts\n
+around midnight last night?"
 <$00>
 
 
@@ -871,7 +919,8 @@ I passed the police box.
 // Pos : 00007A5B
 #WRITE(PTR, $00004836)
 //「女性を背負って歩いていた男を見たっていう報告か゛入ってるんた゛か゛…」
-"Someone reported a man with a woman on his back."
+"Someone reported a man with a woman on his\n
+back."
 <$00>
 
 
@@ -898,7 +947,8 @@ Badump...!
 // Pos : 00007AEE
 #WRITE(PTR, $000048FE)
 //「場所も時間もちょうと゛キミか゛歩いていたときと合うんた゛けと゛ね…」
-"The place and time mentioned in the report line up with your whereabouts."
+"The place and time mentioned in the report\n
+line up with your whereabouts."
 <$00>
 
 
@@ -934,7 +984,9 @@ Confess
 // Pos : 00007BCD
 #WRITE(PTR, $00004A59)
 //「なんて゛も顔はわからんか゛、若い男て゛背格好は…」
-"Maybe we don't have the man's face, but based on his alleged height and body type..."
+"Maybe we don't have the man's face, but\n
+based on his alleged height and body\n
+type..."
 <$00>
 
 
@@ -1042,7 +1094,8 @@ Cave in
 // Pos : 00007DE8
 #WRITE(PTR, $00004DE9)
 //「ついいつもの癖か゛出てしまってな」
-"You forget to cool your jets in a job like this. Force of habit."
+"You forget to cool your jets in a job like\n
+this. Force of habit."
 <$00>
 
 
@@ -1069,7 +1122,8 @@ Whew! He almost got me there.
 // Pos : 00007E47
 #WRITE(PTR, $00004ED8)
 //『て゛もいくら僕か゛かは゛ったって、あの子はもういないに決まってる…』
-Honestly, thought, why stick my neck out for a girl who'd ghost me like that?
+Honestly, thought, why stick my neck out\n
+for a girl who'd ghost me like that?
 <$00>
 
 
@@ -1105,7 +1159,8 @@ Aww, now I've done it!
 // Pos : 00007EFD
 #WRITE(PTR, $0000500C)
 //「い、いや、あの…その…」
-Aww, did I say 'she'? Nah, I meant... Uhhh..."
+Aww, did I say 'she'? Nah, I meant...\n
+Uhhh..."
 <$00>
 
 
@@ -1169,7 +1224,8 @@ I came clean about the whole thing.
 // Pos : 00007FF9
 #WRITE(PTR, $00005298)
 //『話していくうちにたまらなくイヤな気持ちになった』
-A well of self-loathing brewed within me the more I spoke.
+A well of self-loathing brewed within me\n
+the more I spoke.
 <$00>
 
 
@@ -1178,7 +1234,8 @@ A well of self-loathing brewed within me the more I spoke.
 // Pos : 00008024
 #WRITE(PTR, $000052E8)
 //『マリアを守ってやりたい、て゛も今の僕には自信か゛ない』
-I wanted to protect Maria, I did, but I folded under pressure.
+I wanted to protect Maria, I did, but I\n
+folded under pressure.
 <$00>
 
 
@@ -1187,7 +1244,8 @@ I wanted to protect Maria, I did, but I folded under pressure.
 // Pos : 00008055
 #WRITE(PTR, $00005322)
 //『いや、自信か゛ないんし゛ゃない。逃け゛てるた゛けなんた゛。きっと…』
-I lacked confidence to begin with. All I wanted was to run away. I knew...
+I lacked confidence to begin with. All I\n
+wanted was to run away. I knew...
 <$00>
 
 
@@ -1196,7 +1254,8 @@ I lacked confidence to begin with. All I wanted was to run away. I knew...
 // Pos : 0000809E
 #WRITE(PTR, $000053DD)
 //『構うものか、と゛うせ帰ったらあの子はいないに決まってる』
-I half-expected Maria gone by the time I got home from work.
+I half-expected Maria gone by the time I\n
+got home from work.
 <$00>
 
 
@@ -1295,7 +1354,8 @@ She forgot where she lived.
 // Pos : 00008568
 #WRITE(PTR, $00005C01)
 //『おひ゛えて、トイレに隠れたまま僕の帰りた゛けを待ってるなんて…』
-Maria had been so scared, she'd waited in the restroom all day.
+Maria had been so scared, she'd waited in\n
+the restroom all day.
 <$00>
 
 
@@ -1304,7 +1364,8 @@ Maria had been so scared, she'd waited in the restroom all day.
 // Pos : 00008594
 #WRITE(PTR, $00005C24)
 //『僕の胸に身体をあす゛けたまま、小さく震えている彼女を前にして僕は…』
-She trembled like a deer against to my chest.
+She trembled like a deer against to my\n
+chest.
 <$00>
 
 
@@ -1367,7 +1428,8 @@ Do nothing
 // Pos : 00008749
 #WRITE(PTR, $00005EB8)
 //『かすれた声て゛、僕はそっとマリアの髪をなて゛た…』
-With a hoarse mutter and a light hand, I brushed her hair.
+With a hoarse mutter and a light hand, I\n
+brushed her hair.
 <$00>
 
 
@@ -1395,7 +1457,8 @@ I couldn't say anything.
 // Pos : 000087F4
 #WRITE(PTR, $00005FD0)
 //『ともあれこうして僕とマリアの奇妙な同居生活か゛始まった』
-Even still, that was how my life with Maria began.
+Even still, that was how my life with\n
+Maria began.
 <$00>
 
 
@@ -1413,7 +1476,8 @@ Even still, that was how my life with Maria began.
 // Pos : 00008881
 #WRITE(PTR, $000060C0)
 //『かすれた声て゛、僕はおそるおそるマリアの肩を抱いた…』
-Maria was frightened. With a hoarse mutter, I put my hand on her shoulder.
+Maria was frightened. With a hoarse\n
+mutter, I put my hand on her shoulder.
 <$00>
 
 

@@ -49,7 +49,8 @@ We fell to our knees.
 // Pos : 000052D1
 #WRITE(PTR, $000021DD)
 //『パトカーのサイレンか゛幾つにも幾つにも重なって近つ゛いてきた』
-Behind us, police sirens blared as police officers piled onto the scene.
+Behind us, police sirens blared as police\n
+officers piled onto the scene.
 <$00>
 
 
@@ -68,7 +69,9 @@ D1Detective
 // Pos : 00005385
 #WRITE(PTR, $00002318)
 //「と゛うもこ゛協力ありか゛とうこ゛さ゛いました。なにかありましたらこ゛連絡くた゛さい」
-"Thank you for your cooperation. If you have anything else, don't hesitate to contact me."
+"Thank you for your cooperation. If you have\n
+anything else, don't hesitate to contact\n
+me."
 <$00>
 
 
@@ -86,7 +89,8 @@ D1Detective
 // Pos : 00005422
 #WRITE(PTR, $00002437)
 //『僕は、なんた゛か急に広くなった室内をなか゛めて、力なく腰を下ろした』
-I stepped into the apartment and sat down. The room felt so... empty to me now.
+I stepped into the apartment and sat down.\n
+The room felt so... empty to me now.
 <$00>
 
 
@@ -95,7 +99,8 @@ I stepped into the apartment and sat down. The room felt so... empty to me now.
 // Pos : 0000545A
 #WRITE(PTR, $00002478)
 //『警察の人か゛、マリアの持ち物を全部持っていったのた゛…』
-A police officer came and confiscated all of Maria's belongings.
+A police officer came and confiscated all\n
+of Maria's belongings.
 <$00>
 
 
@@ -104,7 +109,8 @@ A police officer came and confiscated all of Maria's belongings.
 // Pos : 000054C3
 #WRITE(PTR, $000024FA)
 //『ひとつた゛け渡さなかったものか゛ある』
-That said, there was one thing I refused to hand over.
+That said, there was one thing I refused to\n
+hand over.
 <$00>
 
 
@@ -122,7 +128,8 @@ Not that it changed anything...
 // Pos : 0000556E
 #WRITE(PTR, $00002621)
 //『寒さを増してきた街は、クリスマスの準備て゛慌たた゛しい』
-The closer Christmas had come over the town, the colder it all felt.
+The closer Christmas had come over the\n
+town, the colder it all felt.
 <$00>
 
 
@@ -131,7 +138,8 @@ The closer Christmas had come over the town, the colder it all felt.
 // Pos : 00005599
 #WRITE(PTR, $00002644)
 //『僕は新聞社の下の喫茶店から出てきたは゛かりた゛』
-I just stepped out of a coffee shop based downstairs from a newspaper company.
+I just stepped out of a coffee shop based\n
+downstairs from a newspaper company.
 <$00>
 
 
@@ -140,7 +148,9 @@ I just stepped out of a coffee shop based downstairs from a newspaper company.
 // Pos : 000055FE
 #WRITE(PTR, $000026C2)
 //『記者をやっている義兄に会うのは、し゛つに５年ふ゛りた゛った』
-It had been five years since I last heard from my brother-in-law, who had become a reporter.
+It had been five years since I last heard\n
+from my brother-in-law, who had become a\n
+reporter.
 <$00>
 
 
@@ -149,7 +159,9 @@ It had been five years since I last heard from my brother-in-law, who had become
 // Pos : 00005631
 #WRITE(PTR, $000026FC)
 //『その義兄か゛警視庁の知り合いに頼んて゛その後を聞いてきてくれたのた゛』
-He had called an acquaintance of his in the Metropolitan Police Department for details on the incident.
+He had called an acquaintance of his in the\n
+Metropolitan Police Department for\n
+details on the incident.
 <$00>
 
 
@@ -158,7 +170,9 @@ He had called an acquaintance of his in the Metropolitan Police Department for d
 // Pos : 0000566C
 #WRITE(PTR, $00002738)
 //『義兄か゛警視庁の知り合いに頼んて゛その後を聞いてきてくれたのた゛』
-My brother-in-law called an acquaintance of his in the Metropolitan Police Department for details on the incident.
+My brother-in-law called an acquaintance\n
+of his in the Metropolitan Police\n
+Department for details on the incident.
 <$00>
 
 
@@ -182,7 +196,9 @@ D1Mizushima
 // Pos : 000056DF
 #WRITE(PTR, $000027A9)
 //「結局はなわ張りと、麻薬の利権に関する争いた゛な」
-"Ultimately, the conflict had stemmed from a terf war. A dispute over narcotics."
+"Ultimately, the conflict had stemmed\n
+from a terf war. A dispute over\n
+narcotics."
 <$00>
 
 
@@ -191,7 +207,8 @@ D1Mizushima
 // Pos : 00005752
 #WRITE(PTR, $00002826)
 //「ボーイというフィリピン人はと゛うやら死んて゛しまったらしい…」
-"A Filipino man named Boy was found dead at the scene."
+"A Filipino man named Boy was found dead at\n
+the scene."
 <$00>
 
 
@@ -200,7 +217,8 @@ D1Mizushima
 // Pos : 000057E2
 #WRITE(PTR, $000028AE)
 //「それと、おまえの言ってたマリアという女性」
-"Then, there's the woman you know. Maria."
+"Then, there's the woman you know.\n
+Maria."
 <$00>
 
 
@@ -209,7 +227,9 @@ D1Mizushima
 // Pos : 0000581C
 #WRITE(PTR, $00002905)
 //「彼女は事件に直接関わりか゛なかったとして、強制送還になったそうた゛」　　　　　　
-"While she had criminal involvement with the incident, she was forcibly repatriated to her home country."
+"While she had criminal involvement\n
+with the incident, she was forcibly\n
+repatriated to her home country."
 <$00>
 
 
@@ -263,7 +283,8 @@ Maria's gone from Japan.
 // Pos : 00005A41
 #WRITE(PTR, $00002C9F)
 //『僕は鉛色の空を仰いて゛、大きくため息をついた』
-I stared up into the grey skies and sighed heavily.
+I stared up into the grey skies and sighed\n
+heavily.
 <$00>
 
 
@@ -272,7 +293,8 @@ I stared up into the grey skies and sighed heavily.
 // Pos : 00005A83
 #WRITE(PTR, $00002CF9)
 //『アパートて゛は、誰もいない部屋か゛待っている』
-There's no one waiting for me at my apartment.
+There's no one waiting for me at my\n
+apartment.
 <$00>
 
 
@@ -300,7 +322,9 @@ D1Female Voice
 // Pos : 00005B4D
 #WRITE(PTR, $00002E0F)
 //「こちら航空券販売サービスの予約課て゛す。予約の確認をさせていたた゛きます」
-"This is the Airline Ticketing Service. We're calling to confirm your flight reservation.."
+"This is the Airline Ticketing Service.\n
+We're calling to confirm your flight\n
+reservation.."
 <$00>
 
 
@@ -309,7 +333,9 @@ D1Female Voice
 // Pos : 00005BAA
 #WRITE(PTR, $00002E77)
 //「マリア・サントス様、戻りましたら予約担当の河田まて゛こ゛連絡くた゛さい」
-"Thank you, Ms. Maria Santos. To reserve your return flight, please contact reservation agent Kawada. Thank you."
+"Thank you, Ms. Maria Santos. To reserve\n
+your return flight, please contact\n
+reservation agent Kawada. Thank you."
 <$00>
 
 
@@ -318,7 +344,9 @@ D1Female Voice
 // Pos : 00005BEB
 #WRITE(PTR, $00002ECB)
 //『マリアあてのメッセージを聞き終えたあと、僕の中に自分て゛も信し゛られないほと゛大胆な考えか゛浮かんた゛』
-Hearing that message for Maria struck me with an idea so bold, I could hardly contain myself.
+Hearing that message for Maria struck me\n
+with an idea so bold, I could hardly contain\n
+myself.
 <$00>
 
 
@@ -336,7 +364,8 @@ December 24th, Christmas Eve...
 // Pos : 00005CED
 #WRITE(PTR, $00003068)
 //『僕はマニラのニノイアキノ国際空港に降り立った』
-Guess who had landed at the Ninoy Aquino International Airport?
+Guess who had landed at the Ninoy Aquino\n
+International Airport?
 <$00>
 
 
@@ -345,7 +374,8 @@ Guess who had landed at the Ninoy Aquino International Airport?
 // Pos : 00005D22
 #WRITE(PTR, $000030A2)
 //『＜マリア＞と入っていた予約を、僕の名前に振り替えてもらったのた゛』
-I'd called to get Maria's flight reservation transferred over in my name.
+I'd called to get Maria's flight\n
+reservation transferred over in my name.
 <$00>
 
 
@@ -381,7 +411,8 @@ D1Associate
 // Pos : 00005DFB
 #WRITE(PTR, $0000322A)
 //『年か゛あけて１月のある日』
-One fine day in January, at the start of the new year.
+One fine day in January, at the start of the\n
+new year.
 <$00>
 
 
@@ -390,7 +421,8 @@ One fine day in January, at the start of the new year.
 // Pos : 00005E1A
 #WRITE(PTR, $00003264)
 //『新聞社につとめる義兄のところへマニラからの手紙か゛届く』
-My brother-in-law, who works for a newspaper company, had received a letter.
+My brother-in-law, who works for a\n
+newspaper company, had received a letter.
 <$00>
 
 
@@ -408,7 +440,8 @@ A letter from yours truly.
 // Pos : 00005E91
 #WRITE(PTR, $000032F9)
 //『無事にマニラに着いたことの報告』
-I had wanted to tell him of my safe landing in Manila:
+I had wanted to tell him of my safe landing\n
+in Manila:
 <$00>
 
 
@@ -417,7 +450,8 @@ I had wanted to tell him of my safe landing in Manila:
 // Pos : 00005ECA
 #WRITE(PTR, $0000333B)
 //『て゛も、すく゛に空港から送ってくれるという$フィリピン人の二人組にた゛まされて』
-The second I got here, two Filipino men came to escort me out of the airport.
+The second I got here, two Filipino men came\n
+to escort me out of the airport.
 <$00>
 
 
@@ -426,7 +460,8 @@ The second I got here, two Filipino men came to escort me out of the airport.
 // Pos : 00005F0C
 #WRITE(PTR, $00003375)
 //『パスポートから、現金から、なにからなにまて゛』
-But then... they robbed me out of everything!
+But then... they robbed me out of\n
+everything!
 <$00>
 
 
@@ -435,7 +470,8 @@ But then... they robbed me out of everything!
 // Pos : 00005F37
 #WRITE(PTR, $000033AF)
 //『た゛まし取られてしまった事』
-They took my passport, my money, the WORKS!
+They took my passport, my money, the\n
+WORKS!
 <$00>
 
 
@@ -453,7 +489,8 @@ And then...
 // Pos : 0000601D
 #WRITE(PTR, $000034FF)
 //『降ろされたのは海沿いの広い公園て゛す』
-They dropped me off at this huge public park along the ocean coast.
+They dropped me off at this huge public park\n
+along the ocean coast.
 <$00>
 
 
@@ -462,7 +499,8 @@ They dropped me off at this huge public park along the ocean coast.
 // Pos : 000060BA
 #WRITE(PTR, $00003606)
 //『言葉も通し゛ない見知らぬ国て゛、何もかも無くして途方に暮れていた僕に』
-Knowing I can't speak a lick of the language here, I was at a complete loss.
+Knowing I can't speak a lick of the language\n
+here, I was at a complete loss.
 <$00>
 
 
@@ -471,7 +509,9 @@ Knowing I can't speak a lick of the language here, I was at a complete loss.
 // Pos : 0000610A
 #WRITE(PTR, $00003669)
 //『近くて゛寝そへ゛っていた浮浪者風の男達か゛、$話しかけてきました』
-Still, I tried striking a conversation with a few homeless-looking guys sitting nearby.
+Still, I tried striking a conversation\n
+with a few homeless-looking guys sitting\n
+nearby.
 <$00>
 
 
@@ -480,7 +520,10 @@ Still, I tried striking a conversation with a few homeless-looking guys sitting 
 // Pos : 0000616B
 #WRITE(PTR, $000036D4)
 //『身ふ゛り手ふ゛りて゛持ち物を盗られてしまった事、たった一枚残った写真を見せ』
-I used hand gestures to explain what happened to me, and that all I had to show for myself was this one, single photograph.
+I used hand gestures to explain what\n
+happened to me, and that all I had to show\n
+for myself was this one, single\n
+photograph.
 <$00>
 
 
@@ -489,7 +532,9 @@ I used hand gestures to explain what happened to me, and that all I had to show 
 // Pos : 000061F4
 #WRITE(PTR, $0000377B)
 //『写真の場所まて゛行きたいんた゛か゛、と言っても通し゛るはす゛はなく』
-There was a place in the photo that I wanted to go to, but I had no clear way of explaining that to them.
+There was a place in the photo that I wanted\n
+to go to, but I had no clear way of explaining\n
+that to them.
 <$00>
 
 
@@ -498,7 +543,8 @@ There was a place in the photo that I wanted to go to, but I had no clear way of
 // Pos : 0000623E
 #WRITE(PTR, $000037BA)
 //『トンドまて゛行きたいんた゛か゛、と言っても通し゛るはす゛はなく』
-I wanted to go to Tondo, but I had no clear way of explaining that to them.
+I wanted to go to Tondo, but I had no clear way\n
+of explaining that to them.
 <$00>
 
 
@@ -507,7 +553,8 @@ I wanted to go to Tondo, but I had no clear way of explaining that to them.
 // Pos : 0000629B
 #WRITE(PTR, $00003825)
 //『諦めて僕はバハラ・ナ…か、とつふ゛やきます』
-Just as I'd given up, I muttered, "bahala na," to myself.
+Just as I'd given up, I muttered, "bahala\n
+na," to myself.
 <$00>
 
 
@@ -525,7 +572,8 @@ And that's when the men cracked up at me!
 // Pos : 000063F3
 #WRITE(PTR, $00003A95)
 //『道ゆく人や、あたりに向かってカンパを募ってくれたんて゛す』
-The men went and asked for other people to hear me out.
+The men went and asked for other people to\n
+hear me out.
 <$00>
 
 
@@ -543,7 +591,8 @@ Hideo, I still haven't found Maria.
 // Pos : 0000650F
 #WRITE(PTR, $00003C64)
 //『て゛も、僕の心の中は不思議と晴れやかて゛す』
-But I still keep the miracles and the sunshine in my heart.
+But I still keep the miracles and the\n
+sunshine in my heart.
 <$00>
 
 
@@ -552,7 +601,8 @@ But I still keep the miracles and the sunshine in my heart.
 // Pos : 0000654D
 #WRITE(PTR, $00003CC7)
 //『きっとマリアに再会て゛きる。そんな予感か゛するんて゛す』
-I'm certain I'll find Maria! I can see it already!
+I'm certain I'll find Maria! I can see it\n
+already!
 <$00>
 
 
@@ -570,7 +620,8 @@ I'll write you again the moment I do."
 // Pos : 000065C4
 #WRITE(PTR, $00003D8D)
 //『義兄さんの好きた゛った南の国の青い空の下から…』
-Here, beneath the blue skies of the country you adored so much.
+Here, beneath the blue skies of the country\n
+you adored so much.
 <$00>
 
 
@@ -579,7 +630,8 @@ Here, beneath the blue skies of the country you adored so much.
 // Pos : 00006646
 #WRITE(PTR, $00003E7E)
 //『そして、僕は彼らと一緒に、あの派手なジプニーという乗り物に乗って』
-We were all invited to hitch a ride on this flashy bus called a "jeepney".
+We were all invited to hitch a ride on this\n
+flashy bus called a "jeepney".
 <$00>
 
 
@@ -588,7 +640,8 @@ We were all invited to hitch a ride on this flashy bus called a "jeepney".
 // Pos : 000066AA
 #WRITE(PTR, $00003EE9)
 //『やっとの事て゛トンド地区まて゛辿り着けました』
-Then, at long last, I found myself in the Tondo district.
+Then, at long last, I found myself in the\n
+Tondo district.
 <$00>
 
 
@@ -606,7 +659,9 @@ Things got wild after that...
 // Pos : 0000679F
 #WRITE(PTR, $0000407F)
 //『僕、いや彼らの話を聞いて、信し゛られないくらいの人々か゛集まってきて』
-Now, I've heard stories about this, but I couldn't believe just how big the crowds were!
+Now, I've heard stories about this, but I\n
+couldn't believe just how big the crowds\n
+were!
 <$00>
 
 
@@ -615,7 +670,8 @@ Now, I've heard stories about this, but I couldn't believe just how big the crow
 // Pos : 00006801
 #WRITE(PTR, $000040F6)
 //『そう、百人以上はいたんし゛ゃないかな。みんな一生懸命あちこちに連絡して…』
-I get it. With well over a hundred people, everyone has to make a living somehow.
+I get it. With well over a hundred people,\n
+everyone has to make a living somehow.
 <$00>
 
 
@@ -624,7 +680,8 @@ I get it. With well over a hundred people, everyone has to make a living somehow
 // Pos : 0000691B
 #WRITE(PTR, $000042D1)
 //『歓声か゛上か゛り、人垣か゛割れました』
-With loud cheers all around, the massive crowd had split itself down the middle.
+With loud cheers all around, the massive\n
+crowd had split itself down the middle.
 <$00>
 
 
@@ -669,7 +726,9 @@ It was Maria!
 // Pos : 00006AC5
 #WRITE(PTR, $00004606)
 //『その夜、僕たちはマリアか゛ブン・ナ・ブンと言っていた夜の遊園地へ行きました』
-That night, we went to the Boon Na Boon Amusement Park that Maria once told me about.
+That night, we went to the Boon Na Boon\n
+Amusement Park that Maria once told me\n
+about.
 <$00>
 
 
@@ -678,7 +737,9 @@ That night, we went to the Boon Na Boon Amusement Park that Maria once told me a
 // Pos : 00006BBF
 #WRITE(PTR, $000047A1)
 //『義兄さん、マニラのクリスマスの夜は街中か゛イルミネーションにおおわれて、それはそれはきれいて゛す』
-Let me tell you, Manila is coated in lights over Christmas, and it's... It's just beautiful.
+Let me tell you, Manila is coated in lights\n
+over Christmas, and it's... It's just\n
+beautiful.
 <$00>
 
 
@@ -687,7 +748,8 @@ Let me tell you, Manila is coated in lights over Christmas, and it's... It's jus
 // Pos : 00006C50
 #WRITE(PTR, $00004817)
 //『それはまるて゛この国の人たちの心のようて゛す』
-Beautiful, like the hearts of all the people here.
+Beautiful, like the hearts of all the\n
+people here.
 <$00>
 
 
@@ -696,7 +758,9 @@ Beautiful, like the hearts of all the people here.
 // Pos : 00006CF1
 #WRITE(PTR, $00004986)
 //『そして大晦日、街中を賑わせる花火の音と光』
-And on New Year's Eve, the sounds and lights coming from the fireworks also fill the city.
+And on New Year's Eve, the sounds and lights\n
+coming from the fireworks also fill the\n
+city.
 <$00>
 
 
@@ -705,7 +769,8 @@ And on New Year's Eve, the sounds and lights coming from the fireworks also fill
 // Pos : 00006D1E
 #WRITE(PTR, $000049C7)
 //『そのすこ゛さは煙て゛月か゛かすむ程て゛す』
-The smoke gets so thick, it'll even obscure the moon!
+The smoke gets so thick, it'll even obscure\n
+the moon!
 <$00>
 
 
@@ -742,7 +807,8 @@ Humanity, race...
 // Pos : 00006E24
 #WRITE(PTR, $00004C15)
 //『社会的地位や学歴、お金』
-social status, academic background, wealth...
+social status, academic background,\n
+wealth...
 <$00>
 
 
@@ -751,7 +817,8 @@ social status, academic background, wealth...
 // Pos : 00006E44
 #WRITE(PTR, $00004C4E)
 //『そんなものか゛と゛れほと゛価値か゛あるのか、いま疑問に思っています』
-I wonder now, how valuable those things actually are.
+I wonder now, how valuable those things\n
+actually are.
 <$00>
 
 
@@ -760,7 +827,8 @@ I wonder now, how valuable those things actually are.
 // Pos : 00006E77
 #WRITE(PTR, $00004C88)
 //『そんなものより、僕にはマリアの宝石のような笑顔か゛一番て゛す』
-More than anything else, I value Maria's precious, gem-like smile the very most.
+More than anything else, I value Maria's\n
+precious, gem-like smile the very most.
 <$00>
 
 
@@ -769,7 +837,8 @@ More than anything else, I value Maria's precious, gem-like smile the very most.
 // Pos : 00006EB4
 #WRITE(PTR, $00004CFC)
 //『義兄さんから姉を通し゛て、母さんの方へよろしく伝えて下さい』
-As my brother-in-law, would you mind sending my love to Mom and Sis for me?
+As my brother-in-law, would you mind\n
+sending my love to Mom and Sis for me?
 <$00>
 
 
@@ -778,7 +847,8 @@ As my brother-in-law, would you mind sending my love to Mom and Sis for me?
 // Pos : 00006F87
 #WRITE(PTR, $00004E5B)
 //『さようなら、落ちついたらまた書きます』
-I'll wrap this up for now, but I'll write again once we settle down.
+I'll wrap this up for now, but I'll\n
+write again once we settle down.
 <$00>
 
 
@@ -787,7 +857,8 @@ I'll wrap this up for now, but I'll write again once we settle down.
 // Pos : 00006FBD
 #WRITE(PTR, $00004EBE)
 //『義兄さんの好きた゛った南の国の青い空の下て゛』
-Here, beneath the blue skies of the country you adored so much.
+Here, beneath the blue skies of the country\n
+you adored so much.
 <$00>
 
 

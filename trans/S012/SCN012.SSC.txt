@@ -41,7 +41,8 @@ Was there nothing I could do for her?
 #WRITE(PTR, $000020DB)
 #WRITE(PTR, $0000381A)
 //『そのフィリピン料理店は、僕の住んて゛いるところから、ふたつほと゛離れた駅にあった』
-I learned about a Filipino restaurant only two stations down from where we lived.
+I learned about a Filipino restaurant only\n
+two stations down from where we lived.
 <$00>
 
 
@@ -51,7 +52,9 @@ I learned about a Filipino restaurant only two stations down from where we lived
 #WRITE(PTR, $00002115)
 #WRITE(PTR, $00003854)
 //『そこて゛は、こちらに住んて゛いるフィリピン人のために』
-Supposing I saw any clothes, foodstuffs or medicines there that had to be sent in from the Phillipines,
+Supposing I saw any clothes, foodstuffs or\n
+medicines there that had to be sent in from\n
+the Phillipines,
 <$00>
 
 
@@ -61,7 +64,8 @@ Supposing I saw any clothes, foodstuffs or medicines there that had to be sent i
 #WRITE(PTR, $0000214F)
 #WRITE(PTR, $0000388E)
 //『衣類や食材、薬なと゛を本国から取り寄せているという』
-a resident from the country obviously worked there.
+a resident from the country obviously\n
+worked there.
 <$00>
 
 
@@ -71,7 +75,8 @@ a resident from the country obviously worked there.
 #WRITE(PTR, $000021CC)
 #WRITE(PTR, $0000390B)
 //『店の名前は、サリリング・アティンとある』
-The name of the restaurant was Sariling Atin.
+The name of the restaurant was Sariling\n
+Atin.
 <$00>
 
 
@@ -80,7 +85,8 @@ The name of the restaurant was Sariling Atin.
 // Pos : 0000636F
 #WRITE(PTR, $00002206)
 //『ここの店主、ランディを紹介してくれたのは、馬場さんて゛ある』
-Mr. Baba told me to speak to the owner, Randy.
+Mr. Baba told me to speak to the owner,\n
+Randy.
 <$00>
 
 
@@ -89,7 +95,8 @@ Mr. Baba told me to speak to the owner, Randy.
 // Pos : 000063A7
 #WRITE(PTR, $00002240)
 //『彼は大学の先輩て゛、とても穏やかな気持ちのいい人た゛った』
-Mr. Baba turned out to be a senior at my college. He was a calm, pleasant man.
+Mr. Baba turned out to be a senior at my\n
+college. He was a calm, pleasant man.
 <$00>
 
 
@@ -116,7 +123,9 @@ Focus on Randy
 // Pos : 000064C1
 #WRITE(PTR, $000023C5)
 //『その日のゼミの終わり、僕は友人から聞いたフィリピン通た゛と言う馬場先輩を訪ねる事にした』
-After that day's lectures, I spoke to Mr. Baba, whom a friend had mentioned liked to share the Filipino culture.
+After that day's lectures, I spoke to Mr.\n
+Baba, whom a friend had mentioned liked to\n
+share the Filipino culture.
 <$00>
 
 
@@ -125,7 +134,9 @@ After that day's lectures, I spoke to Mr. Baba, whom a friend had mentioned like
 // Pos : 00006558
 #WRITE(PTR, $000024E1)
 //『今日のゼミの終わり、僕は友人から聞いたフィリピン通た゛と言う馬場先輩を訪ねる事にした』
-After today's lecture, I spoke to Mr. Baba, whom a friend had mentioned liked to share the Filipino culture.
+After today's lecture, I spoke to Mr.\n
+Baba, whom a friend had mentioned liked to\n
+share the Filipino culture.
 <$00>
 
 
@@ -134,7 +145,9 @@ After today's lecture, I spoke to Mr. Baba, whom a friend had mentioned liked to
 // Pos : 000065B1
 #WRITE(PTR, $00002599)
 //『今日のゼミの終わり、僕は佐藤から聞いたフィリピン通た゛と言う馬場先輩を訪ねる事にした』
-After today's lecture, I spoke to Mr. Baba, whom Satoh had mentioned liked to share the Filipino culture.
+After today's lecture, I spoke to Mr.\n
+Baba, whom Satoh had mentioned liked to\n
+share the Filipino culture.
 <$00>
 
 
@@ -206,7 +219,7 @@ D1Baba
 // Pos : 00006754
 #WRITE(PTR, $000027C5)
 // フィリピンの事、勉強したいんた゛って？」
- You want to study in the Philippines?"
+\nYou want to study in the Philippines?"
 <$00>
 
 
@@ -226,7 +239,8 @@ D1Baba
 // Pos : 00006829
 #WRITE(PTR, $00002913)
 //「やっは゜り現地の人間に会うのか゛一番た゛ろうな」
-"Nothing beats speaking with actual locals to learn about a place, that's for sure."
+"Nothing beats speaking with actual locals\n
+to learn about a place, that's for sure."
 <$00>
 
 
@@ -273,7 +287,8 @@ D1Baba
 // Pos : 00006997
 #WRITE(PTR, $00002B33)
 //「ランディっていうマスターか゛いるからさ」
-"There's a serious expert there. Goes by Randy."
+"There's a serious expert there. Goes by\n
+Randy."
 <$00>
 
 
@@ -282,7 +297,8 @@ D1Baba
 // Pos : 000069D0
 #WRITE(PTR, $00002B7F)
 //「そいつに聞けは゛いいや。エラく人のいいやつた゛からさ」
-"You'll wanna talk to him about it. Randy is a man among men."
+"You'll wanna talk to him about it. Randy\n
+is a man among men."
 <$00>
 
 
@@ -302,7 +318,8 @@ D1Baba
 // Pos : 00006A4B
 #WRITE(PTR, $00002C12)
 //「オレなんかも国に残したかーちゃんへの仕送り、毎月頼んて゛るもんな」
-"I left my mother in the country, but I send money back to her every month."
+"I left my mother in the country, but I send\n
+money back to her every month."
 <$00>
 
 
@@ -311,7 +328,8 @@ D1Baba
 // Pos : 00006ABE
 #WRITE(PTR, $00002C78)
 //「つらいもんた゛せ゛、学生て゛子持ちってのはよ」
-"It ain't easy, juggling family and education."
+"It ain't easy, juggling family and\n
+education."
 <$00>
 
 
@@ -320,7 +338,8 @@ D1Baba
 // Pos : 00006AE5
 #WRITE(PTR, $00002CD2)
 //『て゛も、馬場さんはちっともつらそうに見えない…』
-I wouldn't have known from looking at him that Baba had it so rough.
+I wouldn't have known from looking at him\n
+that Baba had it so rough.
 <$00>
 
 
@@ -338,7 +357,8 @@ I wouldn't have known from looking at him that Baba had it so rough.
 // Pos : 00006B37
 #WRITE(PTR, $00002DBC)
 //「なんか事情か゛あってフィリピンの事いろいろと知りたいんた゛って？」
-"What gave you an interest in learning about Filipino culture?"
+"What gave you an interest in learning about\n
+Filipino culture?"
 <$00>
 
 
@@ -347,7 +367,8 @@ I wouldn't have known from looking at him that Baba had it so rough.
 // Pos : 00006B8B
 #WRITE(PTR, $00002EAE)
 //「ま、人それそ゛れた゛から、くわしくは聞かないとして」
-"Well, everyone's different, I guess. No point asking for all the crazy details."
+"Well, everyone's different, I guess. No\n
+point asking for all the crazy details."
 <$00>
 
 
@@ -365,7 +386,8 @@ I wouldn't have known from looking at him that Baba had it so rough.
 // Pos : 00006BF8
 #WRITE(PTR, $00003023)
 //「この店へ行ってマスターのランディってやつに会ってみな」
-"Head down to this place and ask to see a man named Randy."
+"Head down to this place and ask to see a man\n
+named Randy."
 <$00>
 
 
@@ -374,7 +396,8 @@ I wouldn't have known from looking at him that Baba had it so rough.
 // Pos : 00006C3B
 #WRITE(PTR, $0000306F)
 //「やっは゜りその国の人間に会うのか゛一番てっとり早いた゛ろ」
-"If you want to meet someone from the country, he's your guy."
+"If you want to meet someone from the\n
+country, he's your guy."
 <$00>
 
 
@@ -383,7 +406,8 @@ I wouldn't have known from looking at him that Baba had it so rough.
 // Pos : 00006C89
 #WRITE(PTR, $00003113)
 //「ま、なんた゛な…先輩としてひとこと忠告させてもらえるなら」
-"But uh, as your senior, let me offer you a little word of advice."
+"But uh, as your senior, let me offer you a\n
+little word of advice."
 <$00>
 
 
@@ -392,7 +416,8 @@ I wouldn't have known from looking at him that Baba had it so rough.
 // Pos : 00006CCB
 #WRITE(PTR, $0000317B)
 //「外国の女の子に惚れるのは覚悟か゛必要た゛そ゛」
-"Absolutely nothing beats getting it with a chick from another country."
+"Absolutely nothing beats getting it\n
+with a chick from another country."
 <$00>
 
 
@@ -401,7 +426,8 @@ I wouldn't have known from looking at him that Baba had it so rough.
 // Pos : 00006D14
 #WRITE(PTR, $000031E7)
 //「オウ、佐藤から話は聞いてるよ」
-"Ohhh, don't worry. I heard that spiel from You-Know-Who."
+"Ohhh, don't worry. I heard that spiel\n
+from You-Know-Who."
 <$00>
 
 
@@ -410,7 +436,8 @@ I wouldn't have known from looking at him that Baba had it so rough.
 // Pos : 00006D48
 #WRITE(PTR, $00003243)
 //「しかし君も大変た゛な。あいつとつきあうのは骨か゛折れるた゛ろ？」
-"Look, I get he's a pain in the ass, but can't you at least try to get along with Satoh?"
+"Look, I get he's a pain in the ass, but can't\n
+you at least try to get along with Satoh?"
 <$00>
 
 
@@ -428,7 +455,8 @@ I wouldn't have known from looking at him that Baba had it so rough.
 // Pos : 00006DBC
 #WRITE(PTR, $0000336C)
 //「フィリピンのことならランディに聞けは゛いいな」
-"If you want to learn more about the Phillipines, Randy is your best bet."
+"If you want to learn more about the\n
+Phillipines, Randy is your best bet."
 <$00>
 
 
@@ -437,7 +465,7 @@ I wouldn't have known from looking at him that Baba had it so rough.
 // Pos : 00006DFD
 #WRITE(PTR, $00003471)
 //「うん、
-"Yeah, 
+"Yeah,
 <$00>
 
 
@@ -446,7 +474,7 @@ I wouldn't have known from looking at him that Baba had it so rough.
 // Pos : 00006E02
 #WRITE(PTR, $0000349A)
 //ここ、ここ」
- Here, here!"
+\nHere, here!"
 <$00>
 
 
@@ -455,7 +483,8 @@ I wouldn't have known from looking at him that Baba had it so rough.
 // Pos : 00006E26
 #WRITE(PTR, $00003502)
 //「彼をたす゛ねてこの店へ行けは゛いいさ」
-"If you go to this restaurant, you'll be all set!"
+"If you go to this restaurant, you'll be\n
+all set!"
 <$00>
 
 
@@ -473,7 +502,8 @@ I wouldn't have known from looking at him that Baba had it so rough.
 // Pos : 00006E99
 #WRITE(PTR, $00003602)
 //「オレもあと３年くらいて゛むこうへ移住しようと思ってるんた゛か゛…」
-"As for me, I've been planning to move back there in the next three years."
+"As for me, I've been planning to move back\n
+there in the next three years."
 <$00>
 
 
@@ -482,7 +512,8 @@ I wouldn't have known from looking at him that Baba had it so rough.
 // Pos : 00006EE2
 #WRITE(PTR, $00003668)
 //「むこうの大家族ってのはすこ゛いそ゛。なにしろ、子供ふたりにオレのかあちゃん」
-"I've got a lot of family back there. Two kids and my ma, you know?"
+"I've got a lot of family back there. Two\n
+kids and my ma, you know?"
 <$00>
 
 
@@ -491,7 +522,8 @@ I wouldn't have known from looking at him that Baba had it so rough.
 // Pos : 00006F2F
 #WRITE(PTR, $000036AF)
 //「し゛っちゃまには゛あさま、あいつの兄弟、全部あわせると１８人家族た゛そ゛」
-"When you include all my siblings, it's a family of eighteen."
+"When you include all my siblings, it's a\n
+family of eighteen."
 <$00>
 
 
@@ -509,7 +541,8 @@ I wouldn't have known from looking at him that Baba had it so rough.
 // Pos : 00006F97
 #WRITE(PTR, $00003750)
 //『そういう馬場さんの顔は、とても嬉しそうた゛った』
-Baba's face beamed as he spoke about his family.
+Baba's face beamed as he spoke about his\n
+family.
 <$00>
 
 
@@ -518,7 +551,8 @@ Baba's face beamed as he spoke about his family.
 // Pos : 0000706C
 #WRITE(PTR, $000039B4)
 //『店内に足を踏み入れると、強い花の香りか゛する』
-When I stepped inside, I was struck by the strong scent of flowers.
+When I stepped inside, I was struck by the\n
+strong scent of flowers.
 <$00>
 
 
@@ -596,7 +630,9 @@ D1Randy
 // Pos : 00007244
 #WRITE(PTR, $00003C58)
 //『僕は強い香りの正体を確かめようと、あたりを見回した』
-As I did, I turned my head around in an attempt to track down the source of a peculiar scent in the room.
+As I did, I turned my head around in an\n
+attempt to track down the source of a\n
+peculiar scent in the room.
 <$00>
 
 
@@ -605,7 +641,9 @@ As I did, I turned my head around in an attempt to track down the source of a pe
 // Pos : 0000728A
 #WRITE(PTR, $00003C9A)
 //『テーブルの上に小さな白い花て゛作られた花輪か゛、幾束か置かれている』
-There were several small, white flowers strewn across the table. It seemed Randy was in the middle of making a garland.
+There were several small, white flowers\n
+strewn across the table. It seemed Randy was\n
+in the middle of making a garland.
 <$00>
 
 
@@ -614,7 +652,8 @@ There were several small, white flowers strewn across the table. It seemed Randy
 // Pos : 000072F0
 #WRITE(PTR, $00003CE5)
 //『マリアの写真の中て゛、子供たちか゛持っていた花輪た゛…』
-It looked like one of the garlands the children in Maria's photo had held.
+It looked like one of the garlands the\n
+children in Maria's photo had held.
 <$00>
 
 
@@ -623,7 +662,8 @@ It looked like one of the garlands the children in Maria's photo had held.
 // Pos : 00007338
 #WRITE(PTR, $00003D22)
 //「ああその花ね、サンパギータと言うよ」
-"Ah, this flowers is known as a 'sampaguita'."
+"Ah, this flowers is known as a\n
+'sampaguita'."
 <$00>
 
 
@@ -632,7 +672,9 @@ It looked like one of the garlands the children in Maria's photo had held.
 // Pos : 000073BF
 #WRITE(PTR, $00003DDF)
 //「いい匂いて゛しょ。フィリピンの車の中には、みんなこれか゛あるね」
-"Sampaguitas have a great smell! Back in the Phillipines, people like to keep one or two in their cars."
+"Sampaguitas have a great smell! Back in the\n
+Phillipines, people like to keep one or\n
+two in their cars."
 <$00>
 
 
@@ -641,7 +683,9 @@ It looked like one of the garlands the children in Maria's photo had held.
 // Pos : 00007439
 #WRITE(PTR, $00003E5C)
 //「この匂いか゛あれは゛、エアコンなくても涼しいて゛しょ」
-"Their smell will help you feel refreshed any time of year, with or without AC."
+"Their smell will help you feel\n
+refreshed any time of year, with or\n
+without AC."
 <$00>
 
 
@@ -650,7 +694,8 @@ It looked like one of the garlands the children in Maria's photo had held.
 // Pos : 00007482
 #WRITE(PTR, $00003EC6)
 //「マニラの交差点て゛はいつて゛も子供たち、売ってるよ」
-"You'll also find kids selling them on street corners in Manila."
+"You'll also find kids selling them on\n
+street corners in Manila."
 <$00>
 
 
@@ -668,7 +713,8 @@ It looked like one of the garlands the children in Maria's photo had held.
 // Pos : 00007555
 #WRITE(PTR, $00003FC4)
 //「た゛からこの花の匂いは絶対忘れないネ」
-"I'd never forget the scent of that flower."
+"I'd never forget the scent of that\n
+flower."
 <$00>
 
 
@@ -677,7 +723,8 @@ It looked like one of the garlands the children in Maria's photo had held.
 // Pos : 000075F5
 #WRITE(PTR, $000040CE)
 //『ランディのおしゃへ゛りに苦笑して、僕はカウンターをなか゛める』
-I smiled wrly as Randy told his story, then turned my eyes over to the counter.
+I smiled wrly as Randy told his story, then\n
+turned my eyes over to the counter.
 <$00>
 
 
@@ -686,7 +733,8 @@ I smiled wrly as Randy told his story, then turned my eyes over to the counter.
 // Pos : 0000762D
 #WRITE(PTR, $00004108)
 //『若いフィリピン人か゛グラスを洗っている』
-Another Filipino man, younger than Randy, was cleaning wine glasses.
+Another Filipino man, younger than Randy,\n
+was cleaning wine glasses.
 <$00>
 
 
@@ -704,7 +752,8 @@ Another Filipino man, younger than Randy, was cleaning wine glasses.
 // Pos : 000076D5
 #WRITE(PTR, $000041D0)
 //『なんた゛ろう、会った事もないのにと゛っかて゛見覚えか゛…』
-Wait, haven't I see that guy somewhere before?
+Wait, haven't I see that guy somewhere\n
+before?
 <$00>
 
 
@@ -860,7 +909,8 @@ Return to the table
 // Pos : 00007B49
 #WRITE(PTR, $000048EF)
 //「実は僕の知り合いにマリアという子か゛いるんて゛すか゛、こ゛存し゛ありませんか？」
-"Why, I think one of my employees has an acquaintance named Maria!"
+"Why, I think one of my employees has an\n
+acquaintance named Maria!"
 <$00>
 
 
@@ -897,7 +947,8 @@ D1Danny
 // Pos : 00007C24
 #WRITE(PTR, $00004AA4)
 //『僕はダニーにていねいに頭を下け゛て席へもと゛った』
-I gave Danny a nod before turning back around to the table.
+I gave Danny a nod before turning back around\n
+to the table.
 <$00>
 
 
@@ -917,7 +968,8 @@ I gave Danny a nod before turning back around to the table.
 // Pos : 00007D22
 #WRITE(PTR, $00004CAA)
 //「僕の知りあいにマリアというフィリピンの子か゛いるんて゛すか゛、こ゛存し゛ありませんか？」
-"I met a named Maria around here. Any chance you know her?"
+"I met a named Maria around here. Any chance\n
+you know her?"
 <$00>
 
 
@@ -935,7 +987,8 @@ Mention the name "Boy"
 // Pos : 00007DF0
 #WRITE(PTR, $00004E23)
 //「それて゛はもしかしてボーイという人を知りませんか？」
-"I suppose it wouldn't hurt to ask. Do you know anyone named 'Boy'?"
+"I suppose it wouldn't hurt to ask. Do you\n
+know anyone named 'Boy'?"
 <$00>
 
 
@@ -971,7 +1024,8 @@ Mention the name "Boy"
 // Pos : 00008010
 #WRITE(PTR, $00005251)
 //「アア、彼ね。ダニーといって、最近ウチて゛働いてもらってるのヨ」
-"Ah, that's just Danny. He's a recent hire."
+"Ah, that's just Danny. He's a recent\n
+hire."
 <$00>
 
 
@@ -1088,7 +1142,8 @@ I have no girlfriend.
 // Pos : 00008409
 #WRITE(PTR, $00005879)
 //『僕は適当に考えた名前を言った』
-To the best of my ability, I spit out some random name.
+To the best of my ability, I spit out some\n
+random name.
 <$00>
 
 
@@ -1097,7 +1152,8 @@ To the best of my ability, I spit out some random name.
 // Pos : 0000843F
 #WRITE(PTR, $000058E2)
 //「オーーーッ、うらやましいネェ。恋人は大事にするのヨォ！」
-"Ohh, I'm jealous！ You care for your lover very much."
+"Ohh, I'm jealous！ You care for your lover\n
+very much."
 <$00>
 
 
@@ -1115,7 +1171,8 @@ To the best of my ability, I spit out some random name.
 // Pos : 000084CB
 #WRITE(PTR, $00005A11)
 //「ダイジョブ！ ダイジョブ！ いつかきっとて゛きるよ、
-"That's fine！ That's fine！ You'll find one, someday. 
+"That's fine！ That's fine！ You'll find\n
+one, someday.
 <$00>
 
 
@@ -1124,7 +1181,7 @@ To the best of my ability, I spit out some random name.
 // Pos : 00008510
 #WRITE(PTR, $00005A45)
 //バハラ・ナね！」
-Bahala na!"
+\nBahala na!"
 <$00>
 
 
@@ -1133,7 +1190,8 @@ Bahala na!"
 // Pos : 0000857E
 #WRITE(PTR, $00005B6F)
 //『１０月か゛過き゛、１１月も過き゛た。マリアの記憶は戻らないままた゛』
-October had turned into November. Maria's memory had yet to return.
+October had turned into November.\n
+Maria's memory had yet to return.
 <$00>
 
 
@@ -1160,7 +1218,8 @@ October had turned into November. Maria's memory had yet to return.
 // Pos : 00008655
 #WRITE(PTR, $00005CA1)
 //『いつになれは゛記憶か゛戻るのか…僕は何の手か゛かりも見つけられないて゛いた』
-When would her memory come back? I hadn't found any clues in all that time.
+When would her memory come back? I hadn't\n
+found any clues in all that time.
 <$00>
 
 
@@ -1178,7 +1237,8 @@ We couldn't keep going like this.
 // Pos : 000086B0
 #WRITE(PTR, $00005D15)
 //『このまま彼女と暮らし続けたところて゛、本当の幸せはやって来ない』
-Even if we continued to live together, I'd never be able to give what she truly wanted.
+Even if we continued to live together, I'd\n
+never be able to give what she truly wanted.
 <$00>
 
 
@@ -1196,7 +1256,8 @@ Even if we continued to live together, I'd never be able to give what she truly 
 // Pos : 00008754
 #WRITE(PTR, $00005DC9)
 //『いつか…いつの日かきっと幸せになれるよね。マリア』
-Someday, Maria... I swear I'll make you happy.
+Someday, Maria... I swear I'll make you\n
+happy.
 <$00>
 
 
@@ -1214,7 +1275,9 @@ And to that end, I'll hang on for you.
 // Pos : 000087FB
 #WRITE(PTR, $00005EF3)
 //「アナタか゛手か゛かりを見つけてくれるまて゛、ダイジョウブ、す゛っと待ってるから……」
-"We've yet to find any clues to my past, but that's fine. I'll wait alongside you, always."
+"We've yet to find any clues to my past, but\n
+that's fine. I'll wait alongside you,\n
+always."
 <$00>
 
 

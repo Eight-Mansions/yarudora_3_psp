@@ -22,7 +22,8 @@ Dangit. A police vehicle!
 // Pos : 00004DE1
 #WRITE(PTR, $00002096)
 //『やた゛な…。さっきの感し゛の悪い警官た゛ったらと゛うしよう…』
-And I've got a feeling it's that same officer I spoke with earlier.
+And I've got a feeling it's that same\n
+officer I spoke with earlier.
 <$00>
 
 
@@ -58,7 +59,9 @@ Is she scared of the police?
 // Pos : 00004EF7
 #WRITE(PTR, $0000231B)
 //『そういえは゛この子、あんなところに隠れたりして、今夜の警察の騒き゛と関係あるんた゛ろうか…？』
-Come to think of it, the police search might explain why she was hiding in the alley.
+Come to think of it, the police search\n
+might explain why she was hiding in the\n
+alley.
 <$00>
 
 
@@ -67,7 +70,8 @@ Come to think of it, the police search might explain why she was hiding in the a
 // Pos : 00004F40
 #WRITE(PTR, $00002355)
 //『て゛もと゛うしよう…、このままし゛ゃ見つかってしまう』
-Great, now what do I do? I can't let them see me like this!
+Great, now what do I do? I can't let them see\n
+me like this!
 <$00>
 
 
@@ -76,7 +80,8 @@ Great, now what do I do? I can't let them see me like this!
 // Pos : 00004F6B
 #WRITE(PTR, $000023AD)
 //『パ、パトカーた゛。ます゛いそ゛』
-Dangit. A police vehicle! What if it stops us?
+Dangit. A police vehicle! What if it\n
+stops us?
 <$00>
 
 
@@ -85,7 +90,8 @@ Dangit. A police vehicle! What if it stops us?
 // Pos : 00004F8D
 #WRITE(PTR, $000023E7)
 //『あの警官た゛ったらと゛うしよう…。それに今度は…』
-And what do I do if it's that same officer I spoke with earlier?
+And what do I do if it's that same officer I\n
+spoke with earlier?
 <$00>
 
 
@@ -103,7 +109,8 @@ She's getting scared...
 // Pos : 00005029
 #WRITE(PTR, $00002622)
 //『あきらかに彼女は警察を嫌か゛ってる。と゛うすれは゛いい…？』
-She must not want the police to see her. What should I do?
+She must not want the police to see her.\n
+What should I do?
 <$00>
 
 
@@ -243,7 +250,8 @@ Enter the park
 // Pos : 00005538
 #WRITE(PTR, $00003028)
 //『もうすく゛、あの角を曲か゛れは゛…』
-Once I turn the next corner, we'll be in the clear...
+Once I turn the next corner, we'll be in the\n
+clear...
 <$00>
 
 
@@ -289,7 +297,8 @@ Maria... Who in the world are you?
 // Pos : 000056E6
 #WRITE(PTR, $00003361)
 //『まさか…、そんなにたくさんのパトカーか゛巡回していたなんて…』
-There's no way. Why are so many police pursuing this one woman?
+There's no way. Why are so many police\n
+pursuing this one woman?
 <$00>
 
 
@@ -343,7 +352,8 @@ Somehow or other, I got a second wind.
 // Pos : 000058C0
 #WRITE(PTR, $00003760)
 //『パトカーから逃け゛ているというのに』
-I managed to get away from the police on patrol.
+I managed to get away from the police on\n
+patrol.
 <$00>
 
 
@@ -361,7 +371,8 @@ But at what cost?
 // Pos : 000058F8
 #WRITE(PTR, $000037D4)
 //『日頃の運動不足のせいて゛、みるみる足腰か゛重くなって…』
-I'd skimped on exercise for a good while. My legs were about to give out on me!
+I'd skimped on exercise for a good while. My\n
+legs were about to give out on me!
 <$00>
 
 
@@ -551,7 +562,8 @@ I stepped out in front of the car.
 // Pos : 00005DCF
 #WRITE(PTR, $000042CC)
 //『ライトか゛僕とマリアを照らし出す』
-Its headlights nearly blinded Maria and me.
+Its headlights nearly blinded Maria and\n
+me.
 <$00>
 
 
@@ -560,7 +572,8 @@ Its headlights nearly blinded Maria and me.
 // Pos : 00005E65
 #WRITE(PTR, $000043E8)
 //『こ゛めんね。て゛もこれて゛いいんた゛』
-Sure, I felt bad, but it was better this way.
+Sure, I felt bad, but it was better this\n
+way.
 <$00>
 
 
@@ -569,7 +582,8 @@ Sure, I felt bad, but it was better this way.
 // Pos : 00005E9A
 #WRITE(PTR, $000044A6)
 //『最後に僕を見た彼女の表情を、僕は忘れる事か゛出来ないた゛ろう』
-I would never forget the way she looked at me that one last time.
+I would never forget the way she looked at me\n
+that one last time.
 <$00>
 
 
@@ -587,7 +601,8 @@ Why would you do such a thing?!
 // Pos : 00005F50
 #WRITE(PTR, $00004670)
 //「て゛も、もう少し一緒にいたかったナ」
-All I wanted was to stay with you a little longer.
+All I wanted was to stay with you a little\n
+longer.
 <$00>
 
 
@@ -605,7 +620,8 @@ This was do or die!
 // Pos : 00005FAB
 #WRITE(PTR, $000047A8)
 //『僕はマリアを背負って思いきりダッシュした』
-As Maria held on, I gathered all of my strength and broke into a jolt.
+As Maria held on, I gathered all of my\n
+strength and broke into a jolt.
 <$00>
 
 
@@ -614,7 +630,8 @@ As Maria held on, I gathered all of my strength and broke into a jolt.
 // Pos : 00005FED
 #WRITE(PTR, $00004880)
 //『なんとかパトカーはやり過こ゛したようた゛』
-Who knew losing the police would be that easy?
+Who knew losing the police would be that\n
+easy?
 <$00>
 
 
@@ -623,7 +640,8 @@ Who knew losing the police would be that easy?
 // Pos : 0000604F
 #WRITE(PTR, $000049A7)
 //『雨粒か゛目にはいる。衣服は張りつき何度も転ひ゛そうになる』
-Rain droplets fell into my eyes and clung to my clothes.
+Rain droplets fell into my eyes and clung to\n
+my clothes.
 <$00>
 
 
@@ -632,7 +650,8 @@ Rain droplets fell into my eyes and clung to my clothes.
 // Pos : 00006083
 #WRITE(PTR, $000049E1)
 //『女の子を背負って逃け゛てるなんて…』
-I ran, and ran, and ran as the woman held onto me.
+I ran, and ran, and ran as the woman held onto\n
+me.
 <$00>
 
 
@@ -659,7 +678,8 @@ This has to be some sort of weird dream.
 // Pos : 0000610D
 #WRITE(PTR, $00004AA0)
 //「た゛っ大丈夫た゛よ。もうすく゛着くから…」
-「You'll be fine! We'll get there soon...」
+「You'll be fine! We'll get there\n
+soon...」
 <$00>
 
 

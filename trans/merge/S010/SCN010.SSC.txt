@@ -1,0 +1,1707 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#VAR(APTR, CUSTOMPOINTER)
+#VAR(BPTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", $00006990, 16)
+#CREATEPTR(APTR, "LINEAR", $00000000, 32)
+#CREATEPTR(BPTR, "LINEAR", $00000030, 32)
+#JMP(-1)
+
+// 0000016E
+// Pos : 00006AFE
+#WRITE(PTR, $00001FAC)
+//『１０月もなかは゛を過き゛るとす゛いふ゛んと風か゛つめたい』
+The windy weather in the district had really picked up once we'd hit mid-October.
+<$00>
+
+
+
+// 0000019F
+// Pos : 00006B2F
+#WRITE(PTR, $00001FE6)
+//『広い公園のわりには人の数はまは゛らた゛』
+Still, public park visitors stayed roughly the same.
+<$00>
+
+
+
+// 000001C7
+// Pos : 00006B57
+#WRITE(PTR, $00002020)
+//『落ち葉を踏む音か゛、やけにひひ゛く』
+If I was being honest, the crunches of leaves under our feet were quite grating.
+<$00>
+
+
+
+// 00000215
+// Pos : 00006BA5
+#WRITE(PTR, $00002066)
+//「ちょっと寒いね」
+"Kind of dreary, isn't it."
+<$00>
+
+
+
+// 0000024A
+// Pos : 00006BDA
+#WRITE(PTR, $000020C1)
+#WRITE(PTR, $000030A6)
+#WRITE(PTR, $00003CF6)
+//「ウン…」
+"Yes."
+<$00>
+
+
+
+// 000002AC
+// Pos : 00006C3C
+#WRITE(PTR, $00002161)
+//『僕たちは拳銃を埋めたあの樹の下に立ってみた』
+We stood beneath the tree where we buried the handgun.
+<$00>
+
+
+
+// 00000300
+// Pos : 00006C90
+#WRITE(PTR, $000021AF)
+//「また゛埋まっているの？」
+"Is it still down there?"
+<$00>
+
+
+
+// 0000032E
+// Pos : 00006CBE
+#WRITE(PTR, $0000220D)
+//「うん…」
+"It is."
+<$00>
+
+
+
+// 00000356
+// Pos : 00006CE6
+#WRITE(PTR, $0000226D)
+//『掘り起こした跡はなさそうた゛』
+I saw no signs of further disturbance in the soil.
+<$00>
+
+
+
+// 000003CE
+// Pos : 00006D5E
+#WRITE(PTR, $000022F5)
+//「このまま土になってしまえは゛いいのに…」
+"You know what? If it were in a place like this, becoming one with the earth when I died wouldn't feel half bad."
+<$00>
+
+
+
+// 00000404
+// Pos : 00006D94
+#WRITE(PTR, $0000234D)
+//「そうた゛ね。ホントに…」
+"I can see that."
+<$00>
+
+
+
+// 00000492
+// Pos : 00006E22
+#WRITE(PTR, $00002435)
+//『僕はこれからと゛うすれは゛いいんた゛ろう』
+What should I do now?
+<$00>
+
+
+
+// 000004B8
+// Pos : 00006E48
+#WRITE(PTR, $0000246F)
+//『いまた゛もと゛らないマリアの記憶…』
+With Maria's memories still gone...
+<$00>
+
+
+
+// 000004E0
+// Pos : 00006E70
+#WRITE(PTR, $000024A9)
+//『ふたりて゛暮らすことた゛って決して楽し゛ゃない』
+Living together is by no means "simple".
+<$00>
+
+
+
+// 0000050B
+// Pos : 00006E9B
+#WRITE(PTR, $000024E3)
+//『僕はこのまま学校に通いなか゛ら、マリアを守っていけるのた゛ろうか』
+How can I to protect Maria closely enough when I'm coming and going from school as I am?
+<$00>
+
+
+
+// 00000544
+// Pos : 00006ED4
+#WRITE(PTR, $00002512)
+//このままなんとかやっていこう
+Go with the motions
+<$00>
+
+
+
+// 00000553
+// Pos : 00006EE3
+#WRITE(PTR, $0000251B)
+//いまの生活を変えよう
+Turn a new leaf
+<$00>
+
+
+
+// 0000059A
+// Pos : 00006F2A
+#WRITE(PTR, $0000259E)
+//『僕たちは大きな樹の下に立ってみた』
+We stood beneath a massive tree.
+<$00>
+
+
+
+// 000005B4
+// Pos : 00006F44
+#WRITE(PTR, $000025C1)
+//『僕はふと、思い出す』
+Suddenly, I remembered.
+<$00>
+
+
+
+// 000005D0
+// Pos : 00006F60
+#WRITE(PTR, $000025FB)
+//『僕か゛また゛小さかったころ、家て゛子犬を飼っていたことか゛ある』
+Back when I was still small, I had a pet puppy.
+<$00>
+
+
+
+// 000005FA
+// Pos : 00006F8A
+#WRITE(PTR, $0000261E)
+//『ある日、その犬か゛病気て゛死んた゛』
+One day, the dog got sick and died.
+<$00>
+
+
+
+// 00000615
+// Pos : 00006FA5
+#WRITE(PTR, $00002641)
+//『そのとき、僕は姉とふたりて゛、近所の公園に埋めたのた゛』
+My sister and I buried it together in the public park.
+<$00>
+
+
+
+// 0000065A
+// Pos : 00006FEA
+#WRITE(PTR, $0000268F)
+//「かわいそう…」
+"How sad..."
+<$00>
+
+
+
+// 00000682
+// Pos : 00007012
+#WRITE(PTR, $000026DD)
+//「やっは゜りこんな大きな樹の下た゛ったよ」
+"Goodness, this tree really is huge, isn't it?"
+<$00>
+
+
+
+// 000006B8
+// Pos : 00007048
+#WRITE(PTR, $0000274F)
+//『ちょっとしんみりしてしまった…』
+We had a brief heart-to-heart.
+<$00>
+
+
+
+// 000006D8
+// Pos : 00007068
+#WRITE(PTR, $00002799)
+//『僕の腕にまわされたマリアの手か゛あたたかい』
+Maria gently placed her hand on my arm.
+<$00>
+
+
+
+// 00000749
+// Pos : 000070D9
+#WRITE(PTR, $00002822)
+//「マリア、寒くない？」
+"Aren't you cold, Maria?"
+<$00>
+
+
+
+// 00000777
+// Pos : 00007107
+#WRITE(PTR, $0000287D)
+//「ウン、ちょっとネ…」
+"Yeah, a little."
+<$00>
+
+
+
+// 00000792
+// Pos : 00007122
+#WRITE(PTR, $000028B6)
+//と゛こか寄り道しない？
+Want to stop somewhere?
+<$00>
+
+
+
+// 000007A1
+// Pos : 00007131
+#WRITE(PTR, $000028BF)
+//寒いから帰ろうか
+Shall we head back?
+<$00>
+
+
+
+// 000007F7
+// Pos : 00007187
+#WRITE(PTR, $00002938)
+//「と゛こか寄り道しない？」
+"Would you like to stop somewhere?"
+<$00>
+
+
+
+// 00000858
+// Pos : 000071E8
+#WRITE(PTR, $000029A9)
+//「ウン！ 行コ行コ！」
+"Sure! Let's go!"
+<$00>
+
+
+
+// 0000088A
+// Pos : 0000721A
+#WRITE(PTR, $00002A07)
+//「そうた゛な…それし゛ゃあと゛こ行こうか？」
+"Very well then... So, where to？"
+<$00>
+
+
+
+// 000008AF
+// Pos : 0000723F
+#WRITE(PTR, $00002A54)
+#WRITE(PTR, $0000406A)
+//スーパーに行こうか
+The supermarket
+<$00>
+
+
+
+// 000008BC
+// Pos : 0000724C
+#WRITE(PTR, $00002A5D)
+#WRITE(PTR, $00004061)
+//ゲームセンターへ行こう
+The arcade
+<$00>
+
+
+
+// 00000919
+// Pos : 000072A9
+#WRITE(PTR, $00002AD6)
+#WRITE(PTR, $000040E9)
+//「ゲームセンターへ行こう」
+"Let's go to the arcade!"
+<$00>
+
+
+
+// 00000956
+// Pos : 000072E6
+#WRITE(PTR, $00002B5C)
+#WRITE(PTR, $00004B5C)
+//「スーパーに行こうか」
+"How about the supermarket?"
+<$00>
+
+
+
+// 0000098E
+// Pos : 0000731E
+#WRITE(PTR, $00002BD1)
+//「寒いから帰ろうか」
+"It's cold. Shall we head back?"
+<$00>
+
+
+
+// 000009BB
+// Pos : 0000734B
+#WRITE(PTR, $00002C2F)
+//「し゛ゃあ帰ろうか」
+"Well, shall we head back?"
+<$00>
+
+
+
+// 00000A1A
+// Pos : 000073AA
+#WRITE(PTR, $00002CBA)
+//「ウン、帰ろう」
+"Yes, let's go home!"
+<$00>
+
+
+
+// 00000A4F
+// Pos : 000073DF
+#WRITE(PTR, $00002D04)
+//『ひと気のない公園を歩いていると』
+We walked together through the empty park.
+<$00>
+
+
+
+// 00000A72
+// Pos : 00007402
+#WRITE(PTR, $00002D3E)
+//『まるて゛世界には僕とマリアのふたりた゛けしか存在していないかのように思える』
+It felt like Maria and I were the only two people on Earth.
+<$00>
+
+
+
+// 00000AB0
+// Pos : 00007440
+#WRITE(PTR, $00002D78)
+//『そんななかて゛、僕にはマリアの手の温もりた゛けか゛』
+The touch of Maria's hand warmed me all the while.
+<$00>
+
+
+
+// 00000ADF
+// Pos : 0000746F
+#WRITE(PTR, $00002DB2)
+//『唯一確かなものに感し゛られた』
+It was the one, sole thing I took in.
+<$00>
+
+
+
+// 00000B30
+// Pos : 000074C0
+#WRITE(PTR, $00002E6D)
+#WRITE(PTR, $00005D40)
+//「マリア」
+"Maria?"
+<$00>
+
+
+
+// 00000B56
+// Pos : 000074E6
+#WRITE(PTR, $00002EC8)
+#WRITE(PTR, $00003BF7)
+//「ウン？」
+"Hm?"
+<$00>
+
+
+
+// 00000B6A
+// Pos : 000074FA
+#WRITE(PTR, $00002F11)
+//僕たちと゛うなるのかな
+What will happen to us?
+<$00>
+
+
+
+// 00000B77
+// Pos : 00007507
+#WRITE(PTR, $00002F1A)
+//これからもいっしょた゛よね
+We'll always be together!
+<$00>
+
+
+
+// 00000BD0
+// Pos : 00007560
+#WRITE(PTR, $00002F93)
+//「僕たちと゛うなるのかな」
+"I wonder what will happen to us."
+<$00>
+
+
+
+// 00000BEA
+// Pos : 0000757A
+#WRITE(PTR, $00002FFA)
+//『マリアはなにも言わす゛に、僕の手を強くにき゛った』
+Maria stiffened under my touch as I spoke.
+<$00>
+
+
+
+// 00000C2C
+// Pos : 000075BC
+#WRITE(PTR, $00003044)
+//「これからもいっしょた゛よね」
+"We'll always be together!"
+<$00>
+
+
+
+// 00000C9C
+// Pos : 0000762C
+#WRITE(PTR, $00003164)
+//『そうた゛よね、と゛んなに生活か゛苦しくったって、君の笑顔か゛あれは゛のりきれるさ』
+That's right. No matter what happens, your smile will get me through it.
+<$00>
+
+
+
+// 00000CDA
+// Pos : 0000766A
+#WRITE(PTR, $000031AE)
+//『マリアの手のぬくもりは、あらためて僕の決心をかためてくれた』
+The warmth of Maria's hand strengthened my resolve a thousand times over.
+<$00>
+
+
+
+// 00000D0E
+// Pos : 0000769E
+#WRITE(PTR, $0000322F)
+//『マリアの手のぬくもりは僕の決心をかためてくれた』
+The warmth of Maria's hand strengthened my resolve.
+<$00>
+
+
+
+// 00000D3C
+// Pos : 000076CC
+#WRITE(PTR, $00003269)
+//『ます゛は生活の安定のために、きちんとした仕事をさか゛さなきゃ…』
+The first thing I'll do is look for a real job that can support us both.
+<$00>
+
+
+
+// 00000D72
+// Pos : 00007702
+#WRITE(PTR, $000032A3)
+//『明日、学校に休学届けを出そう』
+Tomorrow, I'll go register for a temporary leave of absence from school.
+<$00>
+
+
+
+// 00000D98
+// Pos : 00007728
+#WRITE(PTR, $000032DD)
+//『もうひとりし゛ゃないんた゛し…』
+I'm not alone anymore.
+<$00>
+
+
+
+// 00000DE6
+// Pos : 00007776
+#WRITE(PTR, $000033DE)
+#WRITE(PTR, $00006254)
+//『１０月か゛過き゛、１１月も過き゛た。マリアの記憶は戻らないままた゛』
+October had turned into November. Maria's memory had yet to return.
+<$00>
+
+
+
+// 00000E4F
+// Pos : 000077DF
+#WRITE(PTR, $00003424)
+//「し゛ゃあ仕事行ってくるね」
+"Well, I'm off to work!"
+<$00>
+
+
+
+// 00000E7F
+// Pos : 0000780F
+#WRITE(PTR, $0000347F)
+//「お弁当もった？」
+"Did you grab your lunch?"
+<$00>
+
+
+
+// 00000EAB
+// Pos : 0000783B
+#WRITE(PTR, $000034C7)
+//「うん」
+"Mhmmm."
+<$00>
+
+
+
+// 00000ECE
+// Pos : 0000785E
+#WRITE(PTR, $00003528)
+#WRITE(PTR, $00006312)
+//「行ってらっしゃい」
+"Take care!"
+<$00>
+
+
+
+// 00000F08
+// Pos : 00007898
+#WRITE(PTR, $000035C3)
+//『いつになれは゛記憶か゛戻るのか…僕は何の手か゛かりも見つけられないて゛いた』
+When would her memory come back? I hadn't found any clues in all that time.
+<$00>
+
+
+
+// 00000F84
+// Pos : 00007914
+#WRITE(PTR, $00003641)
+#WRITE(PTR, $000063EE)
+//『このままて゛いいわけか゛ない』
+We couldn't keep going like this.
+<$00>
+
+
+
+// 00000FA3
+// Pos : 00007933
+#WRITE(PTR, $0000367B)
+#WRITE(PTR, $00006428)
+//『このまま彼女と暮らし続けたところて゛、本当の幸せはやって来ない』
+Even if we continued to live together, I'd never be able to give what she truly wanted.
+<$00>
+
+
+
+// 00001003
+// Pos : 00007993
+#WRITE(PTR, $000036DC)
+//『くそっ、と゛うすれは゛…』
+Darnit all. Where do I go from here?
+<$00>
+
+
+
+// 00001037
+// Pos : 000079C7
+#WRITE(PTR, $0000371E)
+#WRITE(PTR, $0000650A)
+//『いつか…いつの日かきっと幸せになれるよね。マリア』
+Someday, Maria... I swear I'll make you happy.
+<$00>
+
+
+
+// 00001066
+// Pos : 000079F6
+#WRITE(PTR, $00003758)
+#WRITE(PTR, $00006544)
+//『そのためにも、僕か゛しっかりしなくちゃ……』
+And to that end, I'll hang on for you.
+<$00>
+
+
+
+// 000010DD
+// Pos : 00007A6D
+#WRITE(PTR, $00003868)
+//「アナタか゛手か゛かりを見つけてくれるまて゛、ダイジョウブ、す゛っと待ってるから……」
+"We've yet to find any clues to my past, but that's fine. I'll wait alongside you, always."
+<$00>
+
+
+
+// 00001137
+// Pos : 00007AC7
+#WRITE(PTR, $000038BF)
+//「た゛から…おねか゛い」
+"So, please..."
+<$00>
+
+
+
+// 00001165
+// Pos : 00007AF5
+#WRITE(PTR, $00003916)
+//「あきらめないて゛ネ」
+"Don't give up!"
+<$00>
+
+
+
+// 000011B0
+// Pos : 00007B40
+#WRITE(PTR, $000039EC)
+//『て゛も、彼女の記憶はきっとこの僕か゛取り戻してみせる』
+Together, we would surely get her memory back!
+<$00>
+
+
+
+// 000011E2
+// Pos : 00007B72
+#WRITE(PTR, $00003A2E)
+//『それまて゛は、僕との思い出て゛満たしてあけ゛よう』
+But until then, I hoped her memories of being with me were enough.
+<$00>
+
+
+
+// 0000120F
+// Pos : 00007B9F
+#WRITE(PTR, $00003A68)
+//『そしていつの日か…』
+Then, one day...
+<$00>
+
+
+
+// 0000122B
+// Pos : 00007BBB
+#WRITE(PTR, $00003AA2)
+//『マリアをふるさとへ連れて帰るんた゛』
+...maybe I could be the one who took her back to her hometown.
+<$00>
+
+
+
+// 00001287
+// Pos : 00007C17
+#WRITE(PTR, $00003B9C)
+//「ねえマリア」
+"Say, Maria..."
+<$00>
+
+
+
+// 000012BA
+// Pos : 00007C4A
+#WRITE(PTR, $00003C30)
+#WRITE(PTR, $00003DBD)
+//もう行く？
+Shall we go?
+<$00>
+
+
+
+// 000012C2
+// Pos : 00007C52
+#WRITE(PTR, $00003C39)
+//寒くない？
+Aren't you cold?
+<$00>
+
+
+
+// 00001315
+// Pos : 00007CA5
+#WRITE(PTR, $00003CB2)
+#WRITE(PTR, $00003E3F)
+//「もう行く？」
+"Shall we go?"
+<$00>
+
+
+
+// 0000134F
+// Pos : 00007CDF
+#WRITE(PTR, $00003D40)
+//「寒くない？」
+"Aren't you cold?"
+<$00>
+
+
+
+// 0000136B
+// Pos : 00007CFB
+#WRITE(PTR, $00003D84)
+//「ちょっと……さむい……」
+"It's a little chilly out."
+<$00>
+
+
+
+// 00001388
+// Pos : 00007D18
+#WRITE(PTR, $00003DC6)
+//また゛いる？
+Shall we stay here?
+<$00>
+
+
+
+// 000013DB
+// Pos : 00007D6B
+#WRITE(PTR, $00003E83)
+//「ウン」
+"Yeah."
+<$00>
+
+
+
+// 00001400
+// Pos : 00007D90
+#WRITE(PTR, $00003ECD)
+//「また゛いる？」
+"Shall we stay here?"
+<$00>
+
+
+
+// 0000141C
+// Pos : 00007DAC
+#WRITE(PTR, $00003F11)
+//「もう行こう」
+"Shall we go?"
+<$00>
+
+
+
+// 00001430
+// Pos : 00007DC0
+#WRITE(PTR, $00003F4A)
+//し゛ゃあ帰ろうか
+Shall we head home?
+<$00>
+
+
+
+// 0000143A
+// Pos : 00007DCA
+#WRITE(PTR, $00003F53)
+//ねえ、と゛こか寄り道しない？
+Shall we go elsewhere?
+<$00>
+
+
+
+// 00001497
+// Pos : 00007E27
+#WRITE(PTR, $00003FCC)
+//「ねえ、と゛こか寄り道しない？」
+"Shall we go elsewhere?"
+<$00>
+
+
+
+// 000014BD
+// Pos : 00007E4D
+#WRITE(PTR, $00004018)
+//「ホント？」
+"Elsewhere?"
+<$00>
+
+
+
+// 0000151D
+// Pos : 00007EAD
+#WRITE(PTR, $0000414E)
+//「ウン、行こう」
+"Sure, let's go!"
+<$00>
+
+
+
+// 00001543
+// Pos : 00007ED3
+#WRITE(PTR, $000041A4)
+#WRITE(PTR, $00004C00)
+//ゆっくり歩いて行こう
+Walk slowly
+<$00>
+
+
+
+// 00001550
+// Pos : 00007EE0
+#WRITE(PTR, $000041AD)
+//寒いから早く行こう
+Get out of the cold
+<$00>
+
+
+
+// 000015AC
+// Pos : 00007F3C
+#WRITE(PTR, $0000422E)
+//「風か゛つめたいね。急こ゛う」
+"The wind's getting chilly. Let's hurry."
+<$00>
+
+
+
+// 000015E9
+// Pos : 00007F79
+#WRITE(PTR, $000042B4)
+//「ゆっくり歩こうか、いい天気た゛し」
+"I like the weather. Let's take out time."
+<$00>
+
+
+
+// 00001615
+// Pos : 00007FA5
+#WRITE(PTR, $00004327)
+//今日もアレやるの？
+There again?!
+<$00>
+
+
+
+// 00001624
+// Pos : 00007FB4
+#WRITE(PTR, $00004330)
+//今日はなにプレイするの？
+What are we playing?
+<$00>
+
+
+
+// 00001682
+// Pos : 00008012
+#WRITE(PTR, $000043A9)
+//「今日もアレやるの？」
+"There again?!"
+<$00>
+
+
+
+// 000016A5
+// Pos : 00008035
+#WRITE(PTR, $000043F5)
+//「ウン！」
+"Yup, all of them!"
+<$00>
+
+
+
+// 000016B9
+// Pos : 00008049
+#WRITE(PTR, $00004439)
+//『アレ、というのはマリアか゛最近ハマっている格闘ゲームのことた゛』
+Maria's really into the fighting games there, these days.
+<$00>
+
+
+
+// 000016F5
+// Pos : 00008085
+#WRITE(PTR, $00004468)
+//またあの技見せてね
+Show me that one move!
+<$00>
+
+
+
+// 00001701
+// Pos : 00008091
+#WRITE(PTR, $00004471)
+//今日こそは負けないそ゛
+I won't lose to you!
+<$00>
+
+
+
+// 0000175B
+// Pos : 000080EB
+#WRITE(PTR, $000044F5)
+//「またあの技見せてね」
+"Show me that one move!"
+<$00>
+
+
+
+// 0000177B
+// Pos : 0000810B
+#WRITE(PTR, $00004541)
+//「ストーム＆ライトニング？」
+"'Storm & Lightning'?"
+<$00>
+
+
+
+// 000017B3
+// Pos : 00008143
+#WRITE(PTR, $00004589)
+//「そう、それそれ」
+"Okay, here!"
+<$00>
+
+
+
+// 000017DA
+// Pos : 0000816A
+#WRITE(PTR, $000045E4)
+//「今日はねェ、別なの見せてあけ゛る。フフッ…たのしみにしててネ」
+"That's all for today! Maybe I'll show you more another time. Hehe, what fun!"
+<$00>
+
+
+
+// 0000182E
+// Pos : 000081BE
+#WRITE(PTR, $00004650)
+//「今日こそは負けないそ゛」
+"I won't lose to you!"
+<$00>
+
+
+
+// 00001851
+// Pos : 000081E1
+#WRITE(PTR, $0000469C)
+//「ウフ……マリアに勝てるかナ？」
+"Oh? Hehe, think you can beat Maria, do you?"
+<$00>
+
+
+
+// 0000188A
+// Pos : 0000821A
+#WRITE(PTR, $000046E4)
+//「いや！ 勝つ！ 勝ってみせる！ 今日こそ君に絶対勝つ！」
+"Ahaha! Victory will be mine! I'll destroy you!"
+<$00>
+
+
+
+// 000018D1
+// Pos : 00008261
+#WRITE(PTR, $0000473F)
+//「ウフフフフ…」
+"Hehehe!"
+<$00>
+
+
+
+// 000018FE
+// Pos : 0000828E
+#WRITE(PTR, $00004787)
+//「なにか゛おかしいのさ」
+"Something funny's going on..."
+<$00>
+
+
+
+// 00001928
+// Pos : 000082B8
+#WRITE(PTR, $000047E2)
+//「なんて゛もナイ。なんて゛もナイったら…」
+"No, it's nothing. As long as I keep my mind off it..."
+<$00>
+
+
+
+// 00001961
+// Pos : 000082F1
+#WRITE(PTR, $00004837)
+//「今日はなにプレイするの？」
+"What are we playing?"
+<$00>
+
+
+
+// 00001988
+// Pos : 00008318
+#WRITE(PTR, $00004883)
+//「もちろん！ いつものアレヨ！！」
+"What else? I only want one thing!"
+<$00>
+
+
+
+// 000019BE
+// Pos : 0000834E
+#WRITE(PTR, $000048CB)
+//「け゛け゛っ！？  またあ！？」
+"AG-AG-AGAIN?!"
+<$00>
+
+
+
+// 000019DE
+// Pos : 0000836E
+#WRITE(PTR, $00004923)
+//『と゛ういうわけかマリアは最近、格闘ゲームにハマっている』
+Man, she's really into fighting games, these days.
+<$00>
+
+
+
+// 00001A14
+// Pos : 000083A4
+#WRITE(PTR, $00004952)
+//いいよ、つきあうよ
+All right, let's play!
+<$00>
+
+
+
+// 00001A1E
+// Pos : 000083AE
+#WRITE(PTR, $0000495B)
+//ほかのにしよう
+You have fun, okay?
+<$00>
+
+
+
+// 00001A71
+// Pos : 00008401
+#WRITE(PTR, $000049D4)
+//「いいよ、つきあうよ」
+"All right, let's play!"
+<$00>
+
+
+
+// 00001A8F
+// Pos : 0000841F
+#WRITE(PTR, $00004A20)
+//「サラマット。アリガトウ」
+"Salamat, err! Thank you!"
+<$00>
+
+
+
+// 00001AD0
+// Pos : 00008460
+#WRITE(PTR, $00004A81)
+//「ほかのにしよう」
+"You have fun, okay?"
+<$00>
+
+
+
+// 00001AEC
+// Pos : 0000847C
+#WRITE(PTR, $00004ACD)
+//「ダメ！ ワタシあれしかやりたくないもの」
+"Aww, but I wanted to play together."
+<$00>
+
+
+
+// 00001B13
+// Pos : 000084A3
+#WRITE(PTR, $00004B11)
+//『やれやれ…』
+『Good grief...』
+<$00>
+
+
+
+// 00001B3B
+// Pos : 000084CB
+#WRITE(PTR, $00004BC1)
+//「ウン！ イイヨ」
+"Okay, just this once."
+<$00>
+
+
+
+// 00001B58
+// Pos : 000084E8
+#WRITE(PTR, $00004C09)
+//おなかか゛すいたから早く行こう
+I'm hungry.
+<$00>
+
+
+
+// 00001BB9
+// Pos : 00008549
+#WRITE(PTR, $00004C8A)
+//「なんか腹減ってきちゃったよ。はやく行こう」
+"I'd like to grab something to eat soon. Can we get a move-on?"
+<$00>
+
+
+
+// 00001BFE
+// Pos : 0000858E
+#WRITE(PTR, $00004CFF)
+//「ゆっくり歩いて行こう」
+"Let's take our time on a nice walk."
+<$00>
+
+
+
+// 00001C23
+// Pos : 000085B3
+#WRITE(PTR, $00004D72)
+//今夜のおかす゛はなにか゛いいかなあ
+What do you want to eat?
+<$00>
+
+
+
+// 00001C37
+// Pos : 000085C7
+#WRITE(PTR, $00004D7B)
+//なにか買うものあったっけ
+Did we need groceries?
+<$00>
+
+
+
+// 00001C90
+// Pos : 00008620
+#WRITE(PTR, $00004DF4)
+//「今夜のおかす゛はなにか゛いいかなあ」
+"What do you want to eat?"
+<$00>
+
+
+
+// 00001CB8
+// Pos : 00008648
+#WRITE(PTR, $00004E40)
+//「なに食へ゛たい？」
+"What are you in the mood for?"
+<$00>
+
+
+
+// 00001CE3
+// Pos : 00008673
+#WRITE(PTR, $00004E88)
+//「ん～～とね」
+"It's like that, is it..."
+<$00>
+
+
+
+// 00001CF8
+// Pos : 00008688
+#WRITE(PTR, $00004ED5)
+#WRITE(PTR, $0000536E)
+//ステーキか゛いいな
+Steak sounds nice!
+<$00>
+
+
+
+// 00001D05
+// Pos : 00008695
+#WRITE(PTR, $00004EDE)
+#WRITE(PTR, $000050DD)
+//お刺身か゛いいな
+Sushimi sounds nice!
+<$00>
+
+
+
+// 00001D10
+// Pos : 000086A0
+#WRITE(PTR, $00004EE8)
+#WRITE(PTR, $000050E6)
+#WRITE(PTR, $00005377)
+//なんて゛もいいや
+I'm fine with whatever.
+<$00>
+
+
+
+// 00001D64
+// Pos : 000086F4
+#WRITE(PTR, $00004F70)
+//「ねえ、バイト代も出たは゛かりた゛しさ」
+"Wait, can you afford that on a part-timer's budget?"
+<$00>
+
+
+
+// 00001D91
+// Pos : 00008721
+#WRITE(PTR, $00004FB5)
+#WRITE(PTR, $00005407)
+//「たまにはステーキて゛も食へ゛ようよ」
+"I like to have a little meat on these bones from time to time."
+<$00>
+
+
+
+// 00001DBB
+// Pos : 0000874B
+#WRITE(PTR, $00005001)
+#WRITE(PTR, $0000546A)
+//「ダーメ！ 高いもん。ゼイタクは敵ヨ」
+"Hang on, that's way too expensive! Luxury is the wallet's worst enemy!"
+<$00>
+
+
+
+// 00001DF7
+// Pos : 00008787
+#WRITE(PTR, $00005049)
+#WRITE(PTR, $000054B2)
+//「し゛ょ、冗談た゛よ、冗談」
+"Oh, c'mon! I'm kidding. I'm kidding!"
+<$00>
+
+
+
+// 00001E27
+// Pos : 000087B7
+#WRITE(PTR, $000050A4)
+#WRITE(PTR, $0000550D)
+//「ホントはなにか゛いい？」
+"Then what do you want for real?"
+<$00>
+
+
+
+// 00001E8F
+// Pos : 0000881F
+#WRITE(PTR, $0000515F)
+//「和食か゛食へ゛たい。刺身なんてと゛う？」
+"You like Japanese food, right? Sashimi sound good?"
+<$00>
+
+
+
+// 00001EBD
+// Pos : 0000884D
+#WRITE(PTR, $000051AB)
+//「エ～～～ッ！ 気持ちワルイヨォ！」
+"What?! Isn't that raw? I couldn't possibly!"
+<$00>
+
+
+
+// 00001EFC
+// Pos : 0000888C
+#WRITE(PTR, $000051F3)
+//「と゛うしてさ。うまいし゛ゃん」
+"What's the matter, scaredy pants? It's delicious!"
+<$00>
+
+
+
+// 00001F2A
+// Pos : 000088BA
+#WRITE(PTR, $0000524E)
+//「ヤダヨォ、あんなの！ ニュルニュルしてて…」
+"There's no way I'd eat raw fish! I mean, just the way it feels in my mouth!"
+<$00>
+
+
+
+// 00001F6C
+// Pos : 000088FC
+#WRITE(PTR, $00005296)
+//「フィリピンし゛ゃ食へ゛ないの？」
+"You mean people don't eat sashimi down in the Phillipines?"
+<$00>
+
+
+
+// 00001FA2
+// Pos : 00008932
+#WRITE(PTR, $000052F1)
+//「アヨコ！ 嫌いヨォ、ほかのにして！！」
+"That's not the point! Pick something else!"
+<$00>
+
+
+
+// 00002094
+// Pos : 00008A24
+#WRITE(PTR, $00005576)
+//「マリアにまかせるよ」
+"How's about you pick?"
+<$00>
+
+
+
+// 000020C0
+// Pos : 00008A50
+#WRITE(PTR, $000055D1)
+//「し゛ゃあオムレツね」
+"Okay, then. How about omelettes?"
+<$00>
+
+
+
+// 000020EE
+// Pos : 00008A7E
+#WRITE(PTR, $00005619)
+//「えっ！？」
+"Huh?!"
+<$00>
+
+
+
+// 00002114
+// Pos : 00008AA4
+#WRITE(PTR, $00005674)
+//「決めた！ オムレツ！ オムレツ！」
+"Yeah! Omelettes! Omelettes!"
+<$00>
+
+
+
+// 00002146
+// Pos : 00008AD6
+#WRITE(PTR, $000056A5)
+//「ええ～」
+"Hah..."
+<$00>
+
+
+
+// 00002158
+// Pos : 00008AE8
+#WRITE(PTR, $000056FD)
+//『マリアと暮らしはし゛めてからというもの、毎日毎日、朝、昼、晩とオムレツた゛』
+Ever since I'd started living with this girl, we'd eaten omelettes morning, noon and night.
+<$00>
+
+
+
+// 0000219C
+// Pos : 00008B2C
+#WRITE(PTR, $00005737)
+//『３時のおやつもオムレツた゛…』
+She'd also make omelettes as a 3 p.m. treat.
+<$00>
+
+
+
+// 000021B6
+// Pos : 00008B46
+#WRITE(PTR, $0000575A)
+//『暮らしはし゛めのころには、お互いによく作りあったものた゛けと゛…』
+In the beginning, it'd been fun to make them for eachother, but now... 
+<$00>
+
+
+
+// 000021DF
+// Pos : 00008B6F
+#WRITE(PTR, $0000577D)
+//『最近はさすか゛にちょっとつらい…』
+Maria's omelette game was too strong. It frightened a man.
+<$00>
+
+
+
+// 00002214
+// Pos : 00008BA4
+#WRITE(PTR, $000057BA)
+//「はりきって作るからネ！」
+"I'll make them myself!"
+<$00>
+
+
+
+// 00002230
+// Pos : 00008BC0
+#WRITE(PTR, $000057FE)
+//『トホホホホ…』
+Hahaha...
+<$00>
+
+
+
+// 0000225F
+// Pos : 00008BEF
+#WRITE(PTR, $0000583E)
+//「なにか買うものあったっけ」
+"Did we need groceries?"
+<$00>
+
+
+
+// 00002281
+// Pos : 00008C11
+#WRITE(PTR, $0000588A)
+//「アンダーウェアよ」
+"Underwear!"
+<$00>
+
+
+
+// 000022B0
+// Pos : 00008C40
+#WRITE(PTR, $000058D2)
+//「アンダーウェア…？」
+"Underwear...?"
+<$00>
+
+
+
+// 000022CF
+// Pos : 00008C5F
+#WRITE(PTR, $0000591F)
+//僕の！？
+For me?
+<$00>
+
+
+
+// 000022D7
+// Pos : 00008C67
+#WRITE(PTR, $00005928)
+//マリアの！？
+For you?
+<$00>
+
+
+
+// 0000232E
+// Pos : 00008CBE
+#WRITE(PTR, $000059A1)
+//「僕の！？」
+"For me?"
+<$00>
+
+
+
+// 0000234A
+// Pos : 00008CDA
+#WRITE(PTR, $000059ED)
+//「そうよ。アナタの破れてたて゛しょ」
+"That's right! Yours are falling apart!"
+<$00>
+
+
+
+// 00002374
+// Pos : 00008D04
+#WRITE(PTR, $00005A1E)
+//「あ…あはははは…」
+"Oh, yeah. Ahahaha..."
+<$00>
+
+
+
+// 000023AA
+// Pos : 00008D3A
+#WRITE(PTR, $00005A93)
+//「マリアの！？」
+"For you?"
+<$00>
+
+
+
+// 000023CA
+// Pos : 00008D5A
+#WRITE(PTR, $00005ADF)
+//「チガウよ、モォ！」
+"Of course not, silly!"
+<$00>
+
+
+
+// 000023E6
+// Pos : 00008D76
+#WRITE(PTR, $00005B19)
+//「アナタのヨ。穴か゛あいてたから買わなきゃ」
+"For you! Yours are riddled with holes!"
+<$00>
+
+
+
+// 00002416
+// Pos : 00008DA6
+#WRITE(PTR, $00005B4A)
+//「あ…そうた゛っけ…」
+"Yeah, that checks out."
+<$00>
+
+
+
+// 000024D1
+// Pos : 00008E61
+#WRITE(PTR, $00005CC4)
+//『買い物をすますとマリアは、僕の左腕に思いっきりしか゛みついてくる』
+Maria happily clinged to my left arm the entire time we shopped.
+<$00>
+
+
+
+// 0000257D
+// Pos : 00008F0D
+#WRITE(PTR, $00005DA4)
+//「ん？」
+"Yes?"
+<$00>
+
+
+
+// 000025C6
+// Pos : 00008F56
+#WRITE(PTR, $00005E39)
+//「恥す゛かしいよォ…」
+"Talk about nerve-wracking."
+<$00>
+
+
+
+// 00002660
+// Pos : 00008FF0
+#WRITE(PTR, $00005F12)
+//「と゛ーして？ と゛ーして恥す゛かしいの？」
+"What do you mean? What's wrong with this?"
+<$00>
+
+
+
+// 000026C4
+// Pos : 00009054
+#WRITE(PTR, $00005FA8)
+//「と゛ーして？」
+"What's the matter?"
+<$00>
+
+
+
+// 00002700
+// Pos : 00009090
+#WRITE(PTR, $00006005)
+//『あたりはは゛からぬ大声て゛、唇か゛触れるほと゛に顔を近つ゛けるマリア』
+When Maria asked me, her face was so close to mine, our lips could have touched.
+<$00>
+
+
+
+// 0000274D
+// Pos : 000090DD
+#WRITE(PTR, $00006051)
+//『僕は赤くなって黙るしかなかった…』
+All I could do was blush and fall silent.
+<$00>
+
+
+
+// 00002845
+// Pos : 000091D5
+#WRITE(PTR, $0000629A)
+//「し゛ゃあ学校行ってくるネ」
+"Well, I'm off to school now. See you!"
+<$00>
+
+
+
+// 0000288A
+// Pos : 0000921A
+#WRITE(PTR, $000063B4)
+//『いつになれは゛記憶か゛戻るのか…。僕は何の手か゛かりも見つけられないて゛いた』
+If Maria's memory ever came back, what then? I hadn't found any clues for her all this time.
+<$00>
+
+
+
+// 000028F3
+// Pos : 00009283
+#WRITE(PTR, $000064C8)
+//「くそっ、と゛うすれは゛…」
+"Damn. What am I going to do?"
+<$00>
+
+
+
+// 00002983
+// Pos : 00009313
+#WRITE(PTR, $00006661)
+#WRITE(PTR, $000066CE)
+#WRITE(PTR, $0000676D)
+#WRITE(PTR, $000067F9)
+//D1佐藤
+D1Satoh
+<$00>
+
+
+
+// 0000298A
+// Pos : 0000931A
+#WRITE(PTR, $0000666C)
+//「まぁ～す゛、ボクに会ってない人は、ます゛僕に会うことか゛ダイジ！」
+"That's too bad! To get close to my sources, you'll have to get through me first!"
+<$00>
+
+
+
+// 000029F7
+// Pos : 00009387
+#WRITE(PTR, $000066D9)
+//「て゛も、ボクに会ったひとは…」
+"Unless you stay on my good side..."
+<$00>
+
+
+
+// 00002A6B
+// Pos : 000093FB
+#WRITE(PTR, $00006778)
+//「これ以上は言えないなァ」
+"I don't see why I should help you!"
+<$00>
+
+
+
+// 00002ADA
+// Pos : 0000946A
+#WRITE(PTR, $00006804)
+//「さあ、レッツ
+"Come on! Let's...
+<$00>
+
+
+
+// 00002B18
+// Pos : 000094A8
+#WRITE(PTR, $00006872)
+// トライ
+ try...
+<$00>
+
+
+
+// 00002B2B
+// Pos : 000094BB
+#WRITE(PTR, $00006898)
+// アゲーーーン！！」
+ AGAIN!"
+<$00>
+
+
+
+#WRITE(APTR, $00000008)
+#WRITE(BPTR, $0000000C)
+

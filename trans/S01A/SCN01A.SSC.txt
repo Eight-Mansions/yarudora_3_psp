@@ -58,7 +58,8 @@ D1Male Voice
 // Pos : 00005104
 #WRITE(PTR, $0000219B)
 //「はい、おはようこ゛さ゛います。石川商事て゛こ゛さ゛いますか゛」
-"Oh! Good morning! Are you Ishikawa Shoji?"
+"Oh! Good morning! Are you Ishikawa\n
+Shoji?"
 <$00>
 
 
@@ -94,7 +95,8 @@ D1Girl
 // Pos : 00005285
 #WRITE(PTR, $00002367)
 //「課長、見積もりのまとめて゛す」
-"Sir, I've brought the latest estimate summaries."
+"Sir, I've brought the latest estimate\n
+summaries."
 <$00>
 
 
@@ -130,7 +132,8 @@ Must mean I'm some sort of ghost now.
 // Pos : 000053B5
 #WRITE(PTR, $00002577)
 //『しかも、死んて゛から既に二年近くか゛経っているのた゛』
-A little under two years had passed since I'd died.
+A little under two years had passed since\n
+I'd died.
 <$00>
 
 
@@ -139,7 +142,8 @@ A little under two years had passed since I'd died.
 // Pos : 0000540F
 #WRITE(PTR, $0000260D)
 //『そう考えてみると、僕はこの二年間、あの場所て゛眠り続けていたことになる』
-When I thought about it, I decided I must've been asleep that whole time.
+When I thought about it, I decided I\n
+must've been asleep that whole time.
 <$00>
 
 
@@ -148,7 +152,9 @@ When I thought about it, I decided I must've been asleep that whole time.
 // Pos : 0000545F
 #WRITE(PTR, $00002680)
 //『あの新しい会社の人たちには、なにか迷惑をかけなかったた゛ろうか？』
-I hoped my presence hadn't scared any employees from the new company that'd bought out the building since.
+I hoped my presence hadn't scared any\n
+employees from the new company that'd\n
+bought out the building since.
 <$00>
 
 
@@ -157,7 +163,9 @@ I hoped my presence hadn't scared any employees from the new company that'd boug
 // Pos : 000054CC
 #WRITE(PTR, $0000271A)
 //『僕は思わす゛向き直り、あの、元ヤクザ達のいたマンションに向かい軽く頭を下け゛た』
-I turned myself around on a whim, facing the former apartment building those yakuza once took roost in.
+I turned myself around on a whim, facing\n
+the former apartment building those\n
+yakuza once took roost in.
 <$00>
 
 
@@ -175,7 +183,8 @@ I'm sorry!
 // Pos : 00005573
 #WRITE(PTR, $0000281B)
 //『幽霊になってわかったことか゛ある』
-Being a ghost, there were some things I have come to accept.
+Being a ghost, there were some things I have\n
+come to accept.
 <$00>
 
 
@@ -184,7 +193,8 @@ Being a ghost, there were some things I have come to accept.
 // Pos : 000055A9
 #WRITE(PTR, $0000288E)
 //『幽霊になっても、マンガみたいに空を飛へ゛るわけし゛ゃないんた゛』
-For one, ghosts don't get to fly around in the air like media tells you they do.
+For one, ghosts don't get to fly around in\n
+the air like media tells you they do.
 <$00>
 
 
@@ -193,7 +203,8 @@ For one, ghosts don't get to fly around in the air like media tells you they do.
 // Pos : 00005609
 #WRITE(PTR, $0000293D)
 //『重力とか慣性の法則とかは、しっかりあって』
-The laws of gravity and intertia faltered for no one.
+The laws of gravity and intertia faltered\n
+for no one.
 <$00>
 
 
@@ -202,7 +213,8 @@ The laws of gravity and intertia faltered for no one.
 // Pos : 00005647
 #WRITE(PTR, $000029A0)
 //『遠くへ移動するときには、やはり乗り物にのらなくてはいけない』
-If you wanted to travel long distances, you still had to take a car, like everyone else.
+If you wanted to travel long distances, you\n
+still had to take a car, like everyone else.
 <$00>
 
 
@@ -211,7 +223,8 @@ If you wanted to travel long distances, you still had to take a car, like everyo
 // Pos : 000056A3
 #WRITE(PTR, $00002A3E)
 //『て゛も、切符を買わなくても怒られることはないけと゛…』
-Except, if you wanted to take the train, you never had to by a ticket.
+Except, if you wanted to take the train, you\n
+never had to by a ticket.
 <$00>
 
 
@@ -220,7 +233,8 @@ Except, if you wanted to take the train, you never had to by a ticket.
 // Pos : 00005708
 #WRITE(PTR, $00002AF8)
 //『僕はこれまて゛のいきさつを教えてもらおうと義兄の家へやってきた』
-I paid a visit to my brother-in-law's house. To let him know how I'm doing.
+I paid a visit to my brother-in-law's\n
+house. To let him know how I'm doing.
 <$00>
 
 
@@ -229,7 +243,9 @@ I paid a visit to my brother-in-law's house. To let him know how I'm doing.
 // Pos : 00005766
 #WRITE(PTR, $00002B63)
 //『幽霊になって何か゛不便かというと、普通の人とは、話か゛出来ないことた゛』
-Another inconveniece of being a ghost was that you couldn't walk up next to a person and start a conversation.
+Another inconveniece of being a ghost was\n
+that you couldn't walk up next to a person and\n
+start a conversation.
 <$00>
 
 
@@ -238,7 +254,8 @@ Another inconveniece of being a ghost was that you couldn't walk up next to a pe
 // Pos : 000057B8
 #WRITE(PTR, $00002BC6)
 //『て゛も、その人の夢の中て゛なら…』
-If the person in question were dreaming, however...
+If the person in question were dreaming,\n
+however...
 <$00>
 
 
@@ -270,7 +287,9 @@ D1Mizushima
 // Pos : 00005859
 #WRITE(PTR, $00002CB6)
 //「と゛うした？ 久しふ゛りし゛ゃないか。まあ、立ってないて゛座らないか」
-"Hey, what's going on? Long time, no see, eh? Come now, don't just stand there. Sit down!"
+"Hey, what's going on? Long time, no see,\n
+eh? Come now, don't just stand there. Sit\n
+down!"
 <$00>
 
 
@@ -315,7 +334,8 @@ D1Mizushima
 // Pos : 00005A1A
 #WRITE(PTR, $00002F04)
 //「そろそろおまえか゛訪ねてくるんし゛ゃないかと思っていたんた゛」
-"A feeling that you would come soon to see me."
+"A feeling that you would come soon to see\n
+me."
 <$00>
 
 
@@ -324,7 +344,8 @@ D1Mizushima
 // Pos : 00005A9D
 #WRITE(PTR, $00002F98)
 //「それにな…実は先週マニラから帰って来たは゛かりて゛な」
-"Actually, I just got back from Manila last week."
+"Actually, I just got back from Manila\n
+last week."
 <$00>
 
 
@@ -333,7 +354,8 @@ D1Mizushima
 // Pos : 00005AF8
 #WRITE(PTR, $00003005)
 //『義兄の話によれは゛、あのヤクザとの戦いて゛$マリアをのそ゛いてボーイもその仲間たちも』
-According to Hideo, Maria, Boy and his men all fought back against the yakuza.
+According to Hideo, Maria, Boy and his men\n
+all fought back against the yakuza.
 <$00>
 
 
@@ -351,7 +373,8 @@ Most of them died in the skirmish.
 // Pos : 00005B8C
 #WRITE(PTR, $000030CB)
 //『そしてマリアはフィリピンに強制送還になったという…』
-Following the incident, he said, Maria was deported to the Philippines.
+Following the incident, he said, Maria\n
+was deported to the Philippines.
 <$00>
 
 
@@ -369,7 +392,7 @@ Following the incident, he said, Maria was deported to the Philippines.
 // Pos : 00005C7A
 #WRITE(PTR, $000031E6)
 //「うん、
-"Yeah, 
+"Yeah,
 <$00>
 
 
@@ -378,7 +401,8 @@ Following the incident, he said, Maria was deported to the Philippines.
 // Pos : 00005CC0
 #WRITE(PTR, $00003247)
 //会ってきたそ゛、マリアは元気た゛」
- Yep! Just saw her. Maria is alive and well!"
+\nYep! Just saw her. Maria is alive and\n
+well!"
 <$00>
 
 
@@ -387,7 +411,8 @@ Following the incident, he said, Maria was deported to the Philippines.
 // Pos : 00005D38
 #WRITE(PTR, $000032DB)
 //「それともうひとつ…」
-"There's just, uh, one teeny tiny thing..."
+"There's just, uh, one teeny tiny\n
+thing..."
 <$00>
 
 
@@ -423,7 +448,8 @@ Following the incident, he said, Maria was deported to the Philippines.
 // Pos : 00005EA9
 #WRITE(PTR, $000034DC)
 //「そら、これか゛今のマリアの住所た゛」
-"Take this. It's Maria's current address."
+"Take this. It's Maria's current\n
+address."
 <$00>
 
 
@@ -432,7 +458,8 @@ Following the incident, he said, Maria was deported to the Philippines.
 // Pos : 00005EF8
 #WRITE(PTR, $00003549)
 //『僕はメモをもらって立ち上か゛り、帰り際に言う』
-I took the memo, stood up, and told him I'd be on my way.
+I took the memo, stood up, and told him I'd\n
+be on my way.
 <$00>
 
 
@@ -441,7 +468,9 @@ I took the memo, stood up, and told him I'd be on my way.
 // Pos : 00005F50
 #WRITE(PTR, $000035AD)
 //「義兄さん、姉さんから母さんに伝えてくれないかな。ゴメンネって」
-Hideo. Can you go scare the missus for me? She is my sister and all. Sorry for the trouble."
+Hideo. Can you go scare the missus for me? She\n
+is my sister and all. Sorry for the\n
+trouble."
 <$00>
 
 
@@ -450,7 +479,8 @@ Hideo. Can you go scare the missus for me? She is my sister and all. Sorry for t
 // Pos : 00005FE1
 #WRITE(PTR, $00003641)
 //「心配するな。人にはいろんな生き方も死に方も」
-"None at all. All a part of living and dying."
+"None at all. All a part of living and\n
+dying."
 <$00>
 
 
@@ -459,7 +489,9 @@ Hideo. Can you go scare the missus for me? She is my sister and all. Sorry for t
 // Pos : 0000604D
 #WRITE(PTR, $000036D7)
 //「そしておまえを見てると死んて゛からの過こ゛し方もあるようた゛」
-"But, seeing as you're faring well in the afterlife, I'm glad you're making the most of it."
+"But, seeing as you're faring well in the\n
+afterlife, I'm glad you're making the\n
+most of it."
 <$00>
 
 
@@ -495,7 +527,8 @@ Hideo. Can you go scare the missus for me? She is my sister and all. Sorry for t
 // Pos : 0000618B
 #WRITE(PTR, $000038D1)
 //『僕は義兄からもらったメモを握りしめて、マニラに旅立った』
-I took the address Hideo gave me, and left for Manila.
+I took the address Hideo gave me, and left\n
+for Manila.
 <$00>
 
 
@@ -540,7 +573,8 @@ Happy. Everyone's so... amazingly happy.
 // Pos : 00006305
 #WRITE(PTR, $00003AC6)
 //『うれしいついて゛に驚いたことか゛ある』
-I'm shocked to see people in such good spirits.
+I'm shocked to see people in such good\n
+spirits.
 <$00>
 
 
@@ -549,7 +583,8 @@ I'm shocked to see people in such good spirits.
 // Pos : 00006352
 #WRITE(PTR, $00003B41)
 //『わかるんた゛…みんなの話している事か゛…！』
-Wait! Do I understand Tagalog? I understand what everyone is saying.
+Wait! Do I understand Tagalog? I understand\n
+what everyone is saying.
 <$00>
 
 
@@ -558,7 +593,8 @@ Wait! Do I understand Tagalog? I understand what everyone is saying.
 // Pos : 000063A6
 #WRITE(PTR, $00003BBC)
 //『なせ゛かわからないけと゛、この国の言葉か゛わかるんた゛！！』
-I don't know how, but I understand this country's language perfectly now!
+I don't know how, but I understand this\n
+country's language perfectly now!
 <$00>
 
 
@@ -576,7 +612,8 @@ Is it because I'm a ghost?
 // Pos : 0000642E
 #WRITE(PTR, $00003C80)
 //『た゛としたら幽霊も捨てたもんし゛ゃない』
-Even if that's the case, this ghost is not giving up!
+Even if that's the case, this ghost is not\n
+giving up!
 <$00>
 
 
@@ -585,7 +622,8 @@ Even if that's the case, this ghost is not giving up!
 // Pos : 0000647F
 #WRITE(PTR, $00003CE9)
 //『夜になって、ようやくトンドというところにたと゛り着いた』
-By nightfall, I finally arrived at a place known as Tondo.
+By nightfall, I finally arrived at a\n
+place known as Tondo.
 <$00>
 
 
@@ -603,7 +641,8 @@ The place where Maria lived.
 // Pos : 00006517
 #WRITE(PTR, $00003DD6)
 //『何た゛ろう？ たくさんの人か゛集まっている』
-I wonder what was going on. A lot of people were gathering in one specific spot.
+I wonder what was going on. A lot of people\n
+were gathering in one specific spot.
 <$00>
 
 
@@ -630,7 +669,7 @@ And that...
 // Pos : 0000662F
 #WRITE(PTR, $00003F80)
 //『これか……』
-was where... 
+was where...
 <$00>
 
 
@@ -639,7 +678,8 @@ was where...
 // Pos : 0000665B
 #WRITE(PTR, $00003FF3)
 //『これか゛義兄さんの言ってたもうひとつのことか…』
-I saw the other thing my brother-in-law had wanted to mention.
+I saw the other thing my brother-in-law\n
+had wanted to mention.
 <$00>
 
 
@@ -666,7 +706,8 @@ Maria. It's really her...!
 // Pos : 000067C3
 #WRITE(PTR, $00004267)
 //『今日はその子の一歳の誕生パーティーて゛…』
-I stood in the middle of the infant's first birthday celebration.
+I stood in the middle of the infant's\n
+first birthday celebration.
 <$00>
 
 
@@ -693,7 +734,8 @@ Are you mine and Maria's?
 // Pos : 000068BB
 #WRITE(PTR, $00004441)
 //『あれ？ この子には僕の姿か゛見えるんた゛ろうか』
-Hold on! There's no way this baby can see my finger, is there?
+Hold on! There's no way this baby can see my\n
+finger, is there?
 <$00>
 
 
@@ -702,7 +744,8 @@ Hold on! There's no way this baby can see my finger, is there?
 // Pos : 00006939
 #WRITE(PTR, $000044FB)
 //「と゛うしたの？ そんなにいっは゜い手をのは゛して…」
-"What are you trying to hard to grab at, little one? 
+"What are you trying to hard to grab at,\n
+little one?
 <$00>
 
 
@@ -757,7 +800,8 @@ Maria...
 // Pos : 00006B86
 #WRITE(PTR, $000048BA)
 //『しは゛らくして電気か゛戻ったとき、ひとりのおは゛あさんか゛言ったものた゛』
-Once the power came back on, the lone, old woman of the house spoke.
+Once the power came back on, the lone, old\n
+woman of the house spoke.
 <$00>
 
 
@@ -795,7 +839,8 @@ D1Old Woman
 // Pos : 00006CA4
 #WRITE(PTR, $00004A4E)
 //「今のはネ。死んた゛旦那さんか゛ここに来て、$マリアにキスしていったんた゛よ」
-"See, children? That flicker was her long-lost love. He came to give her a kiss."
+"See, children? That flicker was her\n
+long-lost love. He came to give her a kiss."
 <$00>
 
 
@@ -804,7 +849,8 @@ D1Old Woman
 // Pos : 00006D17
 #WRITE(PTR, $00004ABA)
 //「た゛から神様か゛気をきかせて、
-"The Lord wanted to give these two a little privacy,
+"The Lord wanted to give these two a little\n
+privacy,
 <$00>
 
 
@@ -813,7 +859,8 @@ D1Old Woman
 // Pos : 00006D37
 #WRITE(PTR, $00004AE1)
 //ほんのちょっとた゛け電気を消したのさ」
- so he turned off aaall the lights for that one instant!"
+\nso he turned off aaall the lights for that\n
+one instant!"
 <$00>
 
 
