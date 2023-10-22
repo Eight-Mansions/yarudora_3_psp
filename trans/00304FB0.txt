@@ -376,7 +376,7 @@
 // Ptr: 00106A58
 #WRITE(PTR, $003050A4)
 //ïsévãcÇ»ëÃå±
-. Strange Occurance
+. Strange Occurence
 <$00>
 
 // Ptr: 00106A68
@@ -442,7 +442,7 @@
 // Ptr: 00106ACC
 #WRITE(PTR, $003050D0)
 //ç≤ì°
-. Sato
+. Satoh
 <$00>
 
 // Ptr: 00106AD4
