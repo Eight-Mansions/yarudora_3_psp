@@ -76,7 +76,7 @@ The hands on the clock teetered past 2 a.m.
 {end}
 
 『あの佐藤につきあってしまったおかけ゛て゛、僕は…』
-All thanks to that good-for-nothing Satoh...
+All thanks to that good-for-nothing Hikaru...
 {end}
 
 『妖しいお店に連れて行かれ、バイト代をこ゛っそりまきあけ゛られてしまった…』
@@ -166,7 +166,7 @@ EXCEPTION HANDLING HAS OCCURED. $SEE: 11_3!
 {end}
 
 D1警官
-D1Police Officer
+Ｄ１Police Officer
 {end}
 
 「……………………」
@@ -437,7 +437,7 @@ She'd been hiding herself away in the darkness.
 {end}
 
 『助けないわけにはいかなかった…』
-"I couldn't live with myself if I didn't try to help."
+I'd never live with myself if I didn't try to help.
 {end}
 
 『不思議な夜た゛った…』
@@ -508,8 +508,8 @@ Or, maybe not...
 "Can you speak?"
 {end}
 
-//D1女の子
-D1Girl
+D1女の子
+Ｄ１Girl
 {end}
 
 //「ン…」
@@ -528,8 +528,8 @@ D1Girl
 "What were you doing in that alley?"
 {end}
 
-//D1マリア
-D1Maria
+D1マリア
+Ｄ１Maria Santos
 {end}
 
 //「…わからない」
@@ -658,11 +658,11 @@ Good. She said her name was Maria.
 {end}
 
 『え～と、こういう場合…』
-"Hmmm. Well, in that case..."
+Hmmm. Well, in that case...
 {end}
 
 「Ｄｏ　ｙｏｕ　ｓｐｅａｋ$Ｊａｐａｎｅｓｅ？」
-"Dooo youuu speaaak $Japaneeese?"
+"Dooo youuu speaaak Japaneeese?"
 {end}
 
 「Ｙｅｓ…ダイジョウブよ…」
@@ -730,7 +730,7 @@ EXCEPTION HANDLING HAS OCCURED. $SEE: 31_15_1!
 {end}
 
 『濡れた衣服を通して彼女の体温を感し゛る。また゛酔っているのかな…』
-『I can feel the woman's body temperature through my soaked clothes. I'm still a little buzzed...』
+Perhaps the alcohol enhanced my senses, but I could feel how cold she was through my soaked clothes.
 {end}
 
 『僕はドキドキしなか゛らアパートへ急いた゛』
@@ -876,7 +876,7 @@ Dangit. A police vehicle!
 {end}
 
 『やた゛な…。さっきの感し゛の悪い警官た゛ったらと゛うしよう…』
-And I've got a feeling it's that same officer I spoke with earlier.
+And I've got a feeling it's that same officer I saw earlier.
 {end}
 
 『きっと何か言われるにちか゛いない』
@@ -904,7 +904,7 @@ Dangit. A police vehicle! What if it stops us?
 {end}
 
 『あの警官た゛ったらと゛うしよう…。それに今度は…』
-And what do I do if it's that same officer I spoke with earlier?
+And what do I do if it's that same officer I saw earlier?
 {end}
 
 『やっは゜りおひ゛えてる…』
@@ -1028,7 +1028,7 @@ Your back was so warm.
 {end}
 
 「ゴメンね。せっかく知り合えたのに…」
-It's a shame we never get to know eachother.
+It's a shame we never get to know each other.
 {end}
 //bad end 01
 
@@ -1141,11 +1141,11 @@ I would never forget the way she looked at me that one last time.
 {end}
 
 「アナタのしたコトまちか゛ってないヨ」
-Why would you do such a thing?!
+"Why would you do such a thing?"
 {end}
 
 「て゛も、もう少し一緒にいたかったナ」
-All I wanted was to stay with you a little longer.
+"All I wanted was to stay with you a little longer."
 {end}
 //Bad End 02- Anxiety
 
@@ -1178,7 +1178,7 @@ This has to be some sort of weird dream.
 {end}
 
 「た゛っ大丈夫た゛よ。もうすく゛着くから…」
-「You'll be fine! We'll get there soon...」
+"Don't worry. We're almost there!"
 {end}
 
 『やっと着いた。もう安心た゛…』
@@ -1242,11 +1242,11 @@ EXCEPTION HANDLING HAS OCCURED. $SEE: 37_7_1!
 {end}
 
 『不安そうな顔て゛僕を見てる…』
-"She gave me a stare of skepticism."
+She gave me a stare of straight skepticism.
 {end}
 
 「と、とにかく着替えた方か゛いいよ」
-Annnyways! Let's say we get you out of those wet clothes!
+"Annnyways! Let's say we get you out of those wet clothes!"
 {end}
 
 『えっ…！？』
@@ -1270,7 +1270,7 @@ EXCEPTION HANDLING HAS OCCURED. $SEE: 37_9_2!
 {end}
 
 「こ、これはね、悪い友達か゛置いていったものて゛…」
-Yeaaah, sorry. Some creepy friend left that. Nothing to see here!
+"Yeaaah, sorry. A buddy of mine left that. Nothing to see here!"
 {end}
 
 『た゛っ、ダメた゛！　言えは゛言うほと゛おかしくなる…』
@@ -1286,7 +1286,7 @@ Avert! Avert thine eyes!
 {end}
 
 「た゛っ、た゛からさ、これは僕の友達に佐藤ってやつか゛いて、そいつか゛置いてったもんて゛…」
-"The mags are Satoh's. That miscreant lives and breathes off the stuff."
+"The mags are Hikaru's. That miscreant lives and breathes off the stuff."
 {end}
 
 「決して僕のものなんかし゛ゃなくって…」
@@ -1314,7 +1314,7 @@ Isn't it time you got undressed?
 {end}
 
 モ、モォ、なにか゛なんた゛か…！！
-Hey. Hey, now... What're you...?!
+Heyyy, what're you...?
 {end}
 
 例外処理か゛発生しました　。$発生場所は 37_13_1て゛す！
@@ -1388,7 +1388,7 @@ I'm sorry! I'm sorry!
 //Bad End 03 - Womanizer
 
 『しまった、あいつか゛置いていった雑誌か゛出しっは゜なした゛！！』
-Oh, man. Satoh WOULD leave those out in the open, wouldn't he!
+Oh, man. Hikaru WOULD leave those out in the open, wouldn't he!
 {end}
 
 て゛も着替えをわたすのか゛先た゛！！
@@ -1456,7 +1456,7 @@ She looks absolutely done with me... She must be disgusted!
 {end}
 
 「こっ、これ…。風邪ひかないように早く着替えた方か゛いいよ」
-Here. You should change... before you catch cold."
+"Here. You should change... before you catch cold."
 {end}
 
 「な、なにか僕、あったかいものて゛も買ってくるからさ」
@@ -1504,7 +1504,7 @@ We needed bandaids.
 {end}
 
 D1警官の声
-D1Police Officer's Voice
+Ｄ１Police Officer's Voice
 {end}
 
 「それて゛は何かありましたら、よろしくお願いします」
@@ -1544,11 +1544,11 @@ Is she not here?
 {end}
 
 「やっは゜り帰っちゃったのか……」
-Maybe she went home.
+"Maybe she went home."
 {end}
 
 「なんた゛、そんなとこにいたんた゛…」
-What are you... doing in there?!
+"What are you... doing in there?!"
 {end}
 
 「ホントに風邪ひいちゃうよ。早く着か゛えたら？」
@@ -1632,7 +1632,7 @@ But... But...
 {end}
 
 「と゛わっ！」
-Gyack!
+"Gyack!"
 {end}
 
 「も、もう着替えは終わったの？」
@@ -1652,7 +1652,7 @@ Okay, that's enough!
 {end}
 
 い、いやいや、もっと見たい！！
-No! No! I must see more!
+More! I must see more!
 {end}
 
 例外処理か゛発生しました　。$発生場所は 59_4_5て゛す！
@@ -1660,7 +1660,7 @@ EXCEPTION HANDLING HAS OCCURED. $SEE: 59_4_5!
 {end}
 
 『も、もうやめとこう！！』
-"Okay, that's enough!"
+Okay, that's enough!
 {end}
 
 も、もういいかけ゛んやめとこう！！
@@ -1689,7 +1689,7 @@ RED ALERT!
 
 //18:43 mabuhay 03 video
 『その後、気ます゛くなった僕は早々と布団を敷き、電気も消さす゛に横になった…』
-I curled up on the futon with nary a word after turning out the overhead light.
+I curled up on the futon with nary a word, ignoring the overhead light.
 {end}
 
 『朝、目を覚ますとテレビの横には誰もいない』
@@ -1709,12 +1709,9 @@ Boy, did I blow it.
 {end}
 
 『僕は深いため息とともに、大きく肩を落とした』
-I heaved a heavy sigh and slunked my heavy shoulders.
+I heaved a heavy sigh and slunk my heavy shoulders.
 {end}
 
-//sitting at table, Maria is dressed and rubbing her leg
-//https://www.youtube.com/watch?v=6v3qp0PVv2A&list=PLWswk_pa3icPptOrEcSZPWtGO8HwpfXJ6
-//14:00
 『しきりに足をさすっているけと゛、大丈夫かな…？』
 She rubbed her ankle a lot. I wondered if she was okay.
 {end}
@@ -1724,11 +1721,11 @@ The cut on her forehead told me she had hit her head something serious as well.
 {end}
 
 『とりあえす゛血は止まったけれと゛…』
-The bleeded stopped, at least.
+The bleeding stopped, at least.
 {end}
 
 『…あらためて見ると可愛いし゛ゃないか…』
-But, because I stood so close to her, I couldn't help but notice how pretty she was.
+But, because I sat so close to her, I couldn't help but notice how pretty she was.
 {end}
 
 「な、なにはともあれ、カンパイ！！」
@@ -1788,7 +1785,7 @@ She forgot both her birthplace and her current address.
 {end}
 
 『もしかして、あの額の傷のせい…？』
-Did that blow to the head she got scramble to her memory?
+Did that blow she got to the head scramble her memory?
 {end}
 
 そのへんのところは、はっきり聞いてみなきゃ
@@ -1796,7 +1793,7 @@ We need specifics here!
 {end}
 
 人のプライバシーに立ち入るのはちょっと…
-I need her private info
+I need her private info.
 {end}
 
 例外処理か゛発生しました　。$発生場所は 62_1_19て゛す！
@@ -1836,7 +1833,7 @@ EXCEPTION HANDLING HAS OCCURED. $SEE: 62_3_1!
 {end}
 
 「君、なにか知ってる？」
-"Do you know what triggered it?
+"Do you know what triggered it?"
 {end}
 
 「やっは゜りわからないの？」
@@ -1844,7 +1841,7 @@ EXCEPTION HANDLING HAS OCCURED. $SEE: 62_3_1!
 {end}
 
 「ウン………」
-「No...」
+"No..."
 {end}
 
 「ホントになんにも？」
@@ -1860,7 +1857,7 @@ Is this what amnesia looks like?
 {end}
 
 『おそらく彼女はと゛こかから逃け゛てくる途中て゛、頭を強く打って…』
-She must've she been running away from someone when she accidentally hit her head."
+She must've she been running away from someone when she accidentally hit her head.
 {end}
 
 『額の傷と、足首を痛めているのも、そのために違いない…』
@@ -1932,7 +1929,7 @@ That's when I saw her purse.
 {end}
 
 「え？」
-"My purse?"
+"Huh?"
 {end}
 
 「ほら、アドレス帳とか何か、身元のわかるやつ」
@@ -1948,7 +1945,7 @@ Woo Mama, THAT is a lot of cash!
 {end}
 
 『すこ゛い…、３０万、いやそれ以上はある…』
-That's a good... 300, 000 yen and then some!』
+That's a good... 300, 000 yen and then some!
 {end}
 
 「何、それ？」
@@ -2344,7 +2341,7 @@ Maria didn't respond to a word I said.
 {end}
 
 マリアのタガログ語講座Ａコース
-Maria's Tagalog Course. A
+Maria's Tagalog Course A
 {end}
 
 マリアのタガログ語講座Ｂコース
@@ -2864,7 +2861,7 @@ EXCEPTION HANDLING HAS OCCURED. $SEE: 76_2_113!
 {end}
 
 「破談た゛、すまんな」
-"Sorry I slipped up."
+"Sorry I slipped up?"
 {end}
 
 「お母さん、妻か゛」
@@ -2904,7 +2901,7 @@ EXCEPTION HANDLING HAS OCCURED. $SEE: 76_2_123!
 {end}
 
 「『いいえ』は、『ヒンディ』。
-「『No』 is 『hindi』.
+"'No' is 'hindi'."
 {end}
 
 「アッポー」
@@ -3116,7 +3113,7 @@ Yikes! Moving along...
 {end}
 
 「ねえ、こういうの知ってる？」
-「Hey, do you know this one？」
+"Hey, do you know this one?"
 {end}
 
 「牛か゛笑って…」
@@ -3232,7 +3229,7 @@ Maria's voice cracked as she cried out in the tiny room.
 {end}
 
 『僕はと゛うすることもて゛きす゛、たた゛見守るしかなかった…』
-All I would do was watch her in silence.
+All I could do was watch her in silence.
 {end}
 
 例外処理か゛発生しました　。$発生場所は 76_4_8_1て゛す！
@@ -3538,14 +3535,14 @@ Were I in her shoes, I'd want to keep the light on too.
 {end}
 
 「わかった。このままにしとくよ」
-"Understood. I'll leave it on.
+"Understood. I'll leave it on."
 {end}
 
 わかった。このままにしとくよ
 Understood.
 {end}
 
-大丈夫、こわくないよ
+You'll be fine!
 You'll be fine!
 {end}
 
@@ -3557,7 +3554,7 @@ I sleep in the dark!
 EXCEPTION HANDLING HAS OCCURED. $SEE: 80_1_9!
 {end}
 
-「大丈夫、こわくないよ」
+「You'll be fine!」
 "Don't be scared. You'll be fine!"
 {end}
 
@@ -3610,7 +3607,7 @@ EXCEPTION HANDLING HAS OCCURED. $SEE: 80_25!
 {end}
 
 『僕は電気を消さす゛に畳の上て゛横になった…』
-I curled up on the tatami mat and turned out the overhead light.
+I curled up on the tatami mat, ignoring the overhead light.
 {end}
 
 セーブ２
@@ -3654,7 +3651,7 @@ EXCEPTION HANDLING HAS OCCURED. $SEE: 84_4_3!
 {end}
 
 『………』
-"......"
+......
 {end}
 
 「やっは゜り警察に行ったほうか゛いいと思うよ」
@@ -3704,7 +3701,7 @@ Once we survived the lunch rush, I took a late break in the back. Some customer 
 {end}
 
 『新聞によれは゛、その中国系マフィアのアジトは僕の住んて゛いる駅の近くにあって』
-According to this article, there's triad hideout near the station live by.
+According to this article, there's a triad hideout near the station live by.
 {end}
 
 『警察か゛駆けつけた時には、既にもぬけのからた゛ったそうた゛』
@@ -3759,7 +3756,7 @@ It sounds like the boring narration you hear in a movie.
 {end}
 
 『と゛うりて゛昨日、駅前か゛騒か゛しかったわけた゛』
-Funnily enough, there had been some sort of commotion last night near the station live by.
+Funnily enough, there had been some sort of commotion last night near the station I live by.
 {end}
 
 『今日も１日か゛終わった…』
@@ -3767,7 +3764,7 @@ Today, however, went exactly as routine.
 {end}
 
 D1店長の声
-D1Manager's Voice
+Ｄ１Manager's Voice
 {end}
 
 「おーい、そろそろ仕事に戻れよ！」
@@ -3950,7 +3947,7 @@ EXCEPTION HANDLING HAS OCCURED.
 {end}
 
 『ちょっともったいない気もしたけれと゛、僕は交番をあとにした』
-『His offer felt a little too good to be true. I opted to leave police box instead.』
+His offer felt a little too good to be true. I opted to leave police box instead.
 {end}
 
 「はいっ！ 応募します！」
@@ -3974,7 +3971,7 @@ With the police officer there to walk me through it, I filled out a job applicat
 {end}
 
 『あとて゛聞いたことた゛か゛、僕に勧誘の声をかけたのは、し゛つは冗談のつもりた゛ったらしい』
-Deep down, questioned whether he'd genuinely wanted me to apply, or if he'd just done all this to humor himself. 
+Deep down, I questioned whether he'd genuinely wanted me to apply, or if he'd just done all this to humor himself. 
 {end}
 
 『たた゛、僕のあまりの熱意に対し、特別にはからってくれたのた゛そうた゛』
@@ -3992,7 +3989,7 @@ Anything to shake up the boring life I'd led so far.
 「ザンネンた゛ったわね。もう一度か゛んは゛って$早くワタシをつかまえて！ ねっ！」
 "Well, so much for 'us'. You'll try again, won't you? Catch me if you caaan!"
 {end}
-//bad end 06
+--bad end 06
 
 『僕はホッとして交番の前を離れた』
 I passed the police box.
@@ -4007,7 +4004,7 @@ I passed the police box.
 {end}
 
 「え、ええ…」
-"Who, me?."
+"Who, me?"
 {end}
 
 「女性を背負って歩いていた男を見たっていう報告か゛入ってるんた゛か゛…」
@@ -4051,7 +4048,7 @@ EXCEPTION HANDLING HAS OCCURED.
 {end}
 
 『ドキッ…！！』
-『Badump...!』
+Badump...!
 {end}
 
 「やっは゜りキミし゛ゃないのか？」
@@ -4107,7 +4104,7 @@ Whew! He almost got me there.
 {end}
 
 『て゛もいくら僕か゛かは゛ったって、あの子はもういないに決まってる…』
-Honestly, thought, why stick my neck out for a girl who'd ghost me like that?
+Honestly, though, why stick my neck out for a girl who'd ghost me the way she did?
 {end}
 
 「あ、あの子は関係ないて゛すよ」
@@ -4123,7 +4120,7 @@ Aww, now I've done it!
 {end}
 
 「い、いや、あの…その…」
-Aww, did I say 'she'? Nah, I meant... Uhhh..."
+"Aww, did I say 'she'? Nah, I meant... Uhhh..."
 {end}
 
 「ん～～～！？」
@@ -4210,7 +4207,7 @@ Maria had been so scared, she'd waited in the restroom all day.
 {end}
 
 『僕の胸に身体をあす゛けたまま、小さく震えている彼女を前にして僕は…』
-She trembled like a deer against to my chest.
+She trembled like a deer against my chest.
 {end}
 
 『と゛うすれは゛いいんた゛…』
@@ -4346,7 +4343,7 @@ It felt pretty nice.
 {end}
 
 声をかけるのはやめておこう
-End the conversation
+Leave her be
 {end}
 
 例外処理か゛発生しました　。$発生場所は 117_1_3て゛す！
@@ -4666,7 +4663,7 @@ In her defense, that was way out of character for me.
 {end}
 
 「ア、それとネ、アノ雑誌かたつ゛けちゃったヨ」
-"Also, before I forget: I sorted your magazines collection over there."
+"Also, before I forget: I sorted your entire magazine collection over there."
 {end}
 
 「雑誌？」
@@ -4674,7 +4671,7 @@ In her defense, that was way out of character for me.
 {end}
 
 「ウン！」
-"Yup, all of them!"
+"Mhmm!"
 {end}
 
 『そ、それってまさか……』
@@ -4682,7 +4679,7 @@ Oh, no. Oooh, no, no no...
 {end}
 
 『あ、あの…恥す゛かしい本…！？』
-Surely she didn't touch Satoh's sticky tomes of shame, did she?!
+Surely she didn't touch Hikaru's sticky tomes of shame, did she?!
 {end}
 
 『トホホホ…』
@@ -4726,7 +4723,7 @@ EXCEPTION HANDLING HAS OCCURED.
 {end}
 
 D1マリアの声
-D1Maria's Voice
+Ｄ１Maria's Voice
 {end}
 
 「ネェ、窓のところのラジカセか゛乗っている箱、動かしてもイイ？」
@@ -4975,11 +4972,11 @@ EXCEPTION HANDLING HAS OCCURED.
 {end}
 
 「マリアね、オムレツ得意なの」
-"Are omelettes your specialty or something?"
+"I wonder if omelettes were my specialty."
 {end}
 
 「と゛こて゛覚えたの？」
-"Did that spark a memory?!"
+"Did that spark a memory?"
 {end}
 
 「エ…」
@@ -4987,7 +4984,7 @@ EXCEPTION HANDLING HAS OCCURED.
 {end}
 
 「あ…覚えてないんた゛…」
-"Sorry... I don't remember."
+"Ah. I suppose not, huh."
 {end}
 
 「…ウン」
@@ -5015,7 +5012,7 @@ EXCEPTION HANDLING HAS OCCURED.
 {end}
 
 「と゛う？ 僕の作ったオムレツ」
-"Well? How was the omolette I made?"
+"Well? How was the omelette I made?"
 {end}
 
 「すっこ゛く美味しかったヨ」
@@ -5075,7 +5072,7 @@ It weirded me out when I first saw it, but soon came to find it endearing.
 {end}
 
 『あ……』
-Ah...
+I...
 {end}
 
 僕はマリアに微笑んた゛
@@ -5087,7 +5084,7 @@ Stared at Maria
 {end}
 
 僕はマリアから目をそらした
-Look away from Maria.
+Looked away from Maria
 {end}
 
 例外処理か゛発生しました　。$発生場所は 132_1_4て゛す！
@@ -5139,7 +5136,7 @@ EXCEPTION HANDLING HAS OCCURED.
 {end}
 
 「そう…そうた゛よね」
-"I see... That's fine, then.」
+"I see... That's fine, then."
 {end}
 
 『そうなんた゛。いつまて゛もこのままし゛ゃいけないんた゛…』
@@ -5239,7 +5236,7 @@ SAVE 4
 {end}
 
 『それから一週間後』
-One week later..
+One week later...
 {end}
 
 『風の強い夜た゛った』
@@ -5275,7 +5272,7 @@ What should I do?
 {end}
 
 写真の男の子について聞いてみようか…
-Inspect the photo.
+Inspect the photo
 {end}
 
 例外処理か゛発生しました　。$発生場所は 139_1_5て゛す！
@@ -5335,7 +5332,7 @@ Of course it was sad, but it was for her own good. She would understand.
 {end}
 
 『僕か゛しっかりしていれは゛いいんた゛。外出禁止た゛なんてかわいそうた゛よ』
-I felt bad for chastizing Maria, but if I abstained her from going outdoors, that would keep her safe.
+I felt bad for chastizing Maria, but if I forbade her from going outdoors, that would keep her safe.
 {end}
 
 『僕にて゛きることって…』
@@ -5472,7 +5469,7 @@ EXCEPTION HANDLING HAS OCCURED.
 {end}
 
 「プレイステーション用ソフト$　『雪割りの花』」
-「PLAYSTATION SOFTWARE$　『Yukiwari No Hana』」
+"'Yukiwari No Hana', coming soon to Playstation!"
 {end}
 
 「なにコレ？」
@@ -5512,7 +5509,7 @@ EXCEPTION HANDLING HAS OCCURED.
 {end}
 
 D1店員
-D1Clerk
+Ｄ１Clerk
 {end}
 
 「ありか゛とうこ゛さ゛いましたァ！！」
@@ -5520,7 +5517,7 @@ D1Clerk
 {end}
 
 『これて゛僕の全財産は数百円になってしまった…』
-I walked away from the game with a mere several hundred yen to my name.
+I walked away from the store with the few hundred yen to my name intact.
 {end}
 
 「また今度にしよう」
@@ -5656,7 +5653,7 @@ I helped myself to a glance into Maria's hand mirror.
 {end}
 
 『かなり酔いか゛まわっていたのた゛ろうか…』
-Perhaps we overdid it with the alochol.
+Perhaps we overdid it with the alcohol.
 {end}
 
 『気か゛ついたら僕は』
@@ -5834,7 +5831,7 @@ I took another look through her purse's contents.
 「マ、マリア…」
 "Maria..."
 {end}
-//https://www.youtube.com/watch?v=5Y8EirSeg4c
+https://www.youtube.com/watch?v=5Y8EirSeg4c
 //08:12
 
 「こ、今夜はとてもセクシーた゛ね」
@@ -5919,7 +5916,7 @@ EXCEPTION HANDLING HAS OCCURED.
 {end}
 
 た゛ってやってみたかったんた゛もん
-C'mon, live a little!
+C'mon. Live a little!
 {end}
 
 こ゛、こ゛めんなさい
@@ -5931,7 +5928,7 @@ EXCEPTION HANDLING HAS OCCURED.
 {end}
 
 「た゛ってやってみたかったんた゛もん」
-"C'mon, live a little!"
+"C'mon. Live a little!"
 {end}
 
 「ダッテし゛ゃないヨォ！」
@@ -5951,19 +5948,19 @@ EXCEPTION HANDLING HAS OCCURED.
 {end}
 
 『ダメた゛…、完全に怒ってる』
-Yikes, now she's pissed.
+Yikes. She looks annoyed now.
 {end}
 
 『僕はいし゛けてみる』
-Yep. Someone overdid it.
+Seems I overdid it.
 {end}
 
 「た、楽しいと思うよ…」
-"I just think it could be fun."
+"I just think we should have some fun."
 {end}
 
 もう一度た゛けやりたいな
-Press the issue
+Fool around
 {end}
 
 もうやめよう
@@ -5995,27 +5992,27 @@ EXCEPTION HANDLING HAS OCCURED.
 {end}
 
 「最初にあやまっておくね」
-"I need to apologize to you first."
+"I'm sorry ahead of time, but..."
 {end}
 
 「わはははははは……これて゛見おさめし゛ゃーーーっ！」
-"Hahaha! Sure. This is my 'Get lost!' face!"
+"Mwahahaha! Hope you don't mind, but I've always wanted to try thiiis!"
 {end}
 
 「モォ！ マリアホントに怒るよォ！！」
-"Well! I'm more than a little upset!"
+"Hey! How could I not mind that?!"
 {end}
 
 「ちゃんとひろうのヨ！」
-"That was really horrible!"
+"Look at this mess!"
 {end}
 
 『マリアったら本気て゛怒ってる…』
-Maria's beyond pissed.
+Maria's beyond ticked.
 {end}
 
 『僕は気をとりなおしてバッグに目をやる』
-I need to be careful next time I go through her stuff.
+I need to be careful next time I play with her stuff.
 {end}
 
 //casette in purse
@@ -6032,7 +6029,7 @@ Music began to play.
 {end}
 
 「コレ、フィリピンの古いラブソング、$ダヒル・サ・ヨ」
-"This is a Filipino love song called $'Dahil Sa'yo'."
+"This is a Filipino love song called 'Dahil Sa'yo'."
 {end}
 
 「アナタのためにって言うの…」
@@ -6088,7 +6085,7 @@ why can't I..."
 {end}
 
 『いきなりマリアの柔らかな唇か゛、痛いくらいに押しつけられた』
-Without warning, Maria painfully pressed her soft lips against mine.』
+Without warning, Maria painfully pressed her soft lips against mine.
 {end}
 
 『頬に、額に、まふ゛たに、怒ったようにマリアの唇か゛降ってきた』
@@ -6237,7 +6234,7 @@ I knew what it was I had to cherish.
 {end}
 
 『たた゛、自分か゛この子を愛しているかといえは゛、正直いって確信か゛持てない』
-And yet, I didn't have it in my to outright say I was "in love" with her.
+And yet, I didn't have it in me to outright say I was "in love" with her.
 {end}
 
 「大丈夫。僕か゛ついてるから」
@@ -6305,7 +6302,7 @@ EXCEPTION HANDLING HAS OCCURED.
 {end}
 
 『目覚めると、僕の横にマリアの姿はなかった…』
-When I woke up that morning, Maria's wasn't lying next to me.
+When I woke up that morning, Maria wasn't lying next to me.
 {end}
 
 『鳥のさえす゛りか゛聞こえる…』
@@ -6433,7 +6430,7 @@ I closed my eyes as I listened to Maria's story.
 {end}
 
 「チャナックはネ、小さいとき、洗礼、$ビンニャグね」
-"When children in the Philippines are small, they typically receive a baptism. or a $'binyag'."
+"When children in the Philippines are small, they typically receive a baptism, or a 'binyag'."
 {end}
 
 「それを受けられなかったかわいそうな子供か゛、赤ちゃんの姿になってしまうの」
@@ -6483,11 +6480,11 @@ Maria's voice trailed off.
 {end}
 
 「アスワンはね、体の上た゛けか゛空を飛んて゛襲ってくるの」
-"The Mananggal can separate it's upper torso from the rest of its body. Then, it flies around and attacks people!"
+"The Mananggal can separate its upper torso from the rest of its body. Then, it flies around and attacks people!"
 {end}
 
 「そういう時にはきっとと゛こかに体の下の部分か゛寝ているから」
-"When it does that, it's lower half is still standing around nearby."
+"When it does that, its lower half is still standing around nearby."
 {end}
 
 「早くそれを見つけて、塩、ソルトね」
@@ -6530,7 +6527,7 @@ The supermarket
 The arcade
 {end}
 
-自然公園へ行く
+The nature park
 The nature park
 {end}
 
@@ -6603,7 +6600,7 @@ I did it! A prize came out!
 {end}
 
 D1怪しい声
-D1Suspicious Voice
+Ｄ１Suspicious Voice
 {end}
 
 「い、いいなあ！！ 美月ちゃんのポスターた゛あ…」
@@ -6611,7 +6608,7 @@ D1Suspicious Voice
 {end}
 
 D1コレクター
-D1Collector
+Ｄ１Collector
 {end}
 
 「そ、そのポスターなかなか出ないんた゛よね」
@@ -6652,7 +6649,7 @@ We started to duke it out on one another.
 {end}
 
 「勝ったァーッ！！」
-「I won！！」
+"I won!"
 {end}
 
 『マリアはゲームか゛得意た゛』
@@ -6704,11 +6701,11 @@ EXCEPTION HANDLING HAS OCCURED.
 {end}
 
 「いい、右中キック、ななめ強キック、上強パンチ、レバーを上に２回」
-"Here, it's up forward Medium Kick, slanted Strong Kick, upward Strong Punch, Up, Up..."
+"Here. It's forward Medium Kick, diagonal Strong Kick, upward Strong Punch, then Up, Up."
 {end}
 
 「最後に強パンチ中キックを同時押し」
-「...and finish it off with hitting Strong Punch and Medium Kick simultaneously.」
+"After that, finish it off by pressing Strong Punch and Medium Kick at the same time."
 {end}
 
 「そんなのせ゛ったいて゛きないよ」
@@ -6756,11 +6753,11 @@ Without a doubt, it belonged to none other than...
 {end}
 
 「さっ、佐藤！」
-"Satoh!"
+"Hikaru!"
 {end}
 
 D1佐藤
-D1Satoh
+Ｄ１Hikaru Satoh
 {end}
 
 「はァ～～～～～～い」
@@ -6772,7 +6769,7 @@ D1Satoh
 {end}
 
 「ボク佐藤くんと言います」
-"YOU CAN CALL ME SATOH-KUN!"
+"YOU CAN CALL ME HIKARU-KUN!"
 {end}
 
 「キミの名前は？」
@@ -6796,7 +6793,7 @@ Wait, Maria understands him?!
 {end}
 
 「ね、ね、ちょっとちょっと」
-「Hey, hey, WAIT A MINUTE!」
+"Hey, hey, WAIT A MINUTE!"
 {end}
 
 『わっ、な、なんた゛！？』
@@ -6852,7 +6849,7 @@ EXCEPTION HANDLING HAS OCCURED.
 {end}
 
 「おい、佐藤…」
-"Sheesh, Satoh."
+"Sheesh, Hikaru."
 {end}
 
 「ねーーーっ、教えてよ」
@@ -6980,7 +6977,7 @@ I lied through my teeth.
 {end}
 
 「て゛もす゛いふ゛ん仲良さそうに見えたけと゛なァ。やることやってんて゛しょ？」
-"But you two are SOOO buddy-buddy with eachother! You sure you two aren't DOIN' the DO?"
+"But you two are SOOO buddy-buddy with each other! You sure you two aren't DOIN' the DO?"
 {end}
 
 「そんなんし゛ゃないよ」
@@ -7016,7 +7013,7 @@ Mr. Baba, huh...
 {end}
 
 「この前、先輩にパブに連れていかれてさ。まあ…そこて゛…」
-"Bumped into her at the pub with some friends, and, well...」
+"Bumped into her at the pub with some friends, and, well..."
 {end}
 
 「いい仲になったんた゛ね？ ん～？」
@@ -7064,7 +7061,7 @@ Would you look at that.
 {end}
 
 『佐藤か゛話していた言葉…』
-Satoh, talking like a civilized human being!
+Hikaru, talking like a civilized human being!
 {end}
 
 『あれはフィリピンの言葉し゛ゃないのか？』
@@ -7080,11 +7077,11 @@ Hmph.
 {end}
 
 『もしかして佐藤からなにか引き出せるかもしれないな…』
-Maybe I can still coax some information out of Satoh.
+Maybe I can still coax some information out of Hikaru.
 {end}
 
 「なあ、佐藤…」
-"Saaay, Satoooh..."
+"Saaay, Hikaruuu..."
 {end}
 
 「ねっ、ねっ、はやく教えてよ！」
@@ -7128,7 +7125,7 @@ Maybe I can pull his chain a bit.
 {end}
 
 「わかった、今のは忘れてくれ。それより佐藤、おまえって…」
-"Ask and we shall receive. But first, Satoh, I've gotta ask, how are you so..."
+"Ask and we shall receive. But first, Hikaru, I've gotta ask, how are you so..."
 {end}
 
 カッコいいよなあ
@@ -7228,7 +7225,7 @@ My temper hit its boiling point.
 {end}
 //45:48
 //https://www.youtube.com/watch?v=kf8IVSPpqOA
-// list https://www.youtube.com/results?search_query=%28%E3%82%B5%E3%83%B3%E3%83%91%E3%82%AE%E3%83%BC%E3%82%BF%29+%23BAD+END16
+// list https://www.youtube.com/results?search_query=%28%E3%82%B5%E3%83%B3%E3%83%91%E3%82%AE%E3%83%BC%E3%82%BF%29+%23BAD+ENＤ１6
 
 「佐藤にはかなわないよ」
 "I can't stand you!"
@@ -7263,7 +7260,7 @@ He really is all over the place with this conversation.
 {end}
 
 「なくてもいいから早くおしえろ！」
-"Tell me NOW! I've GOTTA KNOW!"
+"Tell me, tell me!"
 {end}
 
 「おおきなお世話た゛」
@@ -7307,11 +7304,11 @@ Aww, dammit.
 {end}
 
 なくてもいいから早くおしえろ！
-Tell me how to say stuff!
+Tell me, tell me!
 {end}
 
 おしえてくた゛さい佐藤さま
-Teach me, Master Satoh!
+Teach me, Master Hikaru!
 {end}
 
 僕たち友達し゛ゃないか
@@ -7323,11 +7320,11 @@ EXCEPTION HANDLING HAS OCCURED.
 {end}
 
 「おしえてくた゛さい佐藤さま」
-"Teach me, Master Satoh!"
+"Teach me, Master Hikaru!"
 {end}
 
 「佐藤さまあ？」
-"Master Satoh?"
+"Master Hikaru?"
 {end}
 
 ほ゛、僕たち友達し゛ゃん！
@@ -7419,7 +7416,7 @@ EXCEPTION HANDLING HAS OCCURED.
 {end}
 
 「そういう意味さ。ボクをた゛まそうったって、そうはいかないそ゛」
-"You tell me! Like heck I'd let you wool over MY dazzling eyes.」
+"You tell me! Like heck I'd let you wool over MY dazzling eyes."
 {end}
 
 『は゛、は゛れてる！？』
@@ -7443,7 +7440,7 @@ EXCEPTION HANDLING HAS OCCURED.
 {end}
 
 「ボクは哀しいよ。親しい友人か゛し゛つは大うそつきた゛ったなんて」
-「Now I'm disappointed. I can't believe my best-est-besty-est friend in the whole, wide world is telling me a big, fat lie!」
+"Now I'm disappointed. I can't believe my bestest friend in the whole world is fibbing to me!"
 {end}
 
 「キミとの友情もこれまて゛た゛。し゛ゃあね」
@@ -7459,7 +7456,7 @@ EXCEPTION HANDLING HAS OCCURED.
 {end}
 
 「さあ正直に言っちゃいなよ」
-「Come on, tell me the truth!」
+"Come on, tell me the truth!"
 {end}
 
 「いったいボクからなにを聞きたいの？」
@@ -7543,11 +7540,11 @@ I've had it up to here with him, but I'll give it one more try.
 {end}
 
 「佐藤、フィリピンと聞いて思いつくのは？」
-"Satoh, do you know anyone else who can speak Tagalog?"
+"Hikaru, do you know anyone else who can speak Tagalog?"
 {end}
 
 「ん～～～と、馬場先輩かなあ…」
-"Welll, maaaybe Mr. Baba..."
+"Welll, maaaybe Mr. Baba... Eep!"
 {end}
 
 「やったあ！ ありか゛とう！！」
@@ -7555,15 +7552,15 @@ I've had it up to here with him, but I'll give it one more try.
 {end}
 
 「あ～～～っ！ よくわからんか゛す゛るいそ゛ォ！！」
-"ACK! H-holh on. Who knows if anyone speaks Tagalog but me!"
+"ACK! Hold on. You heard nothing! NOTHING!"
 {end}
 
 『佐藤に勝った！ 手か゛かりは馬場先輩た゛！』
-I wriggled the answer out of Satoh! Maybe this Mr. Baba is the next piece of our puzzle.
+I wriggled the answer out of Hikaru! Maybe this Mr. Baba is the next piece of our puzzle.
 {end}
 
 『僕とマリアは、なおもかまってもらいたそうな佐藤を置き去りにして、ゲームセンターをあとにした』
-I held Maria by the hand and scampered out of the arcade, leaving the lonely Satoh where he stood.
+I held Maria by the hand and scampered out of the arcade, leaving the lonely Hikaru where he stood.
 {end}
 
 「し゛ゃあね、バイバイ！」
@@ -7571,7 +7568,7 @@ I held Maria by the hand and scampered out of the arcade, leaving the lonely Sat
 {end}
 
 『僕とマリアは、かまってもらいたそうな佐藤を置き去りにして、ゲームセンターをあとにした』
-I took Maria by the hand and scampered out of the arcade, leaving Satoh where he stood.
+I took Maria by the hand and scampered out of the arcade, leaving Hikaru where he stood.
 {end}
 
 「なに話ししてたの？」
@@ -7663,7 +7660,7 @@ Living together is by no means "simple".
 {end}
 
 『僕はこのまま学校に通いなか゛ら、マリアを守っていけるのた゛ろうか』
-How can I to protect Maria closely enough when I'm coming and going from school as I am?
+How can I protect Maria when I'm always coming and going from school as I am?
 {end}
 
 このままなんとかやっていこう
@@ -8013,7 +8010,7 @@ EXCEPTION HANDLING HAS OCCURED.
 {end}
 
 「ゆっくり歩こうか、いい天気た゛し」
-"I like the weather. Let's take out time."
+"I like the weather. Let's take our time."
 {end}
 
 今日もアレやるの？
@@ -8037,7 +8034,7 @@ Maria's really into the fighting games there, these days.
 {end}
 
 またあの技見せてね
-Show me that one move!
+Show me that one combo!
 {end}
 
 今日こそは負けないそ゛
@@ -8065,27 +8062,27 @@ EXCEPTION HANDLING HAS OCCURED.
 {end}
 
 「今日こそは負けないそ゛」
-"I won't lose to you!"
+"I won't lose to you again!"
 {end}
 
 「ウフ……マリアに勝てるかナ？」
-"Oh? Hehe, think you can beat Maria, do you?"
+"Oh, think you can beat me in a fighting game, do you?"
 {end}
 
 「いや！ 勝つ！ 勝ってみせる！ 今日こそ君に絶対勝つ！」
-"Ahaha! Victory will be mine! I'll destroy you!"
+"Too bad! Victory will be mine, see? I'll destroy you!"
 {end}
 
 「ウフフフフ…」
-"Hehehe!"
+"Mwehehe..."
 {end}
 
 「なにか゛おかしいのさ」
-"Something funny's going on..."
+"That's one scary laugh..."
 {end}
 
 「なんて゛もナイ。なんて゛もナイったら…」
-"No, it's nothing. As long as I keep my mind off it..."
+"Oh, I'll show you 'scary' next time."
 {end}
 
 「今日はなにプレイするの？」
@@ -8185,7 +8182,7 @@ Steak sounds nice!
 {end}
 
 お刺身か゛いいな
-Sushimi sounds nice!
+Sashimi sounds nice!
 {end}
 
 なんて゛もいいや
@@ -8277,7 +8274,7 @@ She'd also make omelettes as a 3 p.m. treat.
 {end}
 
 『暮らしはし゛めのころには、お互いによく作りあったものた゛けと゛…』
-In the beginning, it'd been fun to make them for eachother, but now... 
+In the beginning, it'd been fun to make them for each other, but now... 
 {end}
 
 『最近はさすか゛にちょっとつらい…』
@@ -8422,7 +8419,7 @@ Maria really was magical. Just recently, we...
 {end}
 
 D1募金の子供たち
-D1Fund-raising Children
+Ｄ１Fund-raising Children
 {end}
 
 「共同募金にこ゛協力お願いしまーす」
@@ -8434,7 +8431,7 @@ In front of the station, I noticed a fundraiser for helping children in some Thi
 {end}
 
 『マリアは僕からの説明を聞くと、大急き゛て゛駆けていって、その日残った手持ちの一万円札を寄付した』
-Once I pointed it out Maria, she ran over and donated 10, 000 yen on the spot!』
+Once I pointed it out Maria, she ran over and donated 10, 000 yen on the spot!
 {end}
 
 「ありか゛とうこ゛さ゛いまーす」
@@ -8474,7 +8471,7 @@ EXCEPTION HANDLING HAS OCCURED.
 {end}
 
 「僕もマリアもそんなにお金持ちし゛ゃないて゛$しょ？」
-"Neither of us are swimming in money, $you know?"
+"Neither of us are swimming in money, you know?"
 {end}
 
 例外処理か゛発生しました　。$発生場所は 200_2_5て゛す！
@@ -8554,7 +8551,7 @@ EXCEPTION HANDLING HAS OCCURED.
 {end}
 
 「あんなお金、ワタシか゛持っているより子供たちのために使ったほうか゛いいもの」
-「Those children need it way more than I do, is all!」
+"Those children need it way more than I do, is all!"
 {end}
 
 僕は折れるしかなかった
@@ -8650,7 +8647,7 @@ Well, I had to wonder.
 {end}
 
 「僕たちた゛って余裕ないんた゛しさ」
-「We can't afford it.」
+"We can't afford it."
 {end}
 
 「ウ……ン」
@@ -8678,7 +8675,7 @@ Great. Now I feel ashamed of myself.
 {end}
 
 こいつも寄付してしまえ！
-Let's donate too!
+I'll donate too!
 {end}
 
 こ、これた゛けは持っておこう
@@ -8850,11 +8847,11 @@ First, I'm going to look for a real job.
 {end}
 
 『マリアの記憶をさか゛す手か゛かりも見つけなくちゃ…』
-I have to find clues that will lead to Maria's memories coming back.
+There must be some clue out there that will lead to Maria's memories coming back.
 {end}
 
 『これからいそか゛しくなるそ゛』
-I'm going to be busy now on.
+Until everything's resolved, I'm going to be one busy man.
 {end}
 
 //supermarket are you all right
@@ -8871,11 +8868,11 @@ I'm going to be busy now on.
 {end}
 
 「もし、誰かに見つかったら…」
-"In which case, if someone who knew where to see you..."
+"What happens, then, if some other gangster were to see you?"
 {end}
 
 「うーん、なんとかなる…神様か゛と゛うにかしてくれるっていうコト」
-"Ohhh, that. Guess we'll have to leave it up to the Lord!"
+"Ohhh, that. Guess we'll have to leave that up to the Lord!"
 {end}
 
 セーブ６
@@ -8948,7 +8945,7 @@ After today's lecture, I spoke to Mr. Baba, whom a friend had mentioned liked to
 {end}
 
 『今日のゼミの終わり、僕は佐藤から聞いたフィリピン通た゛と言う馬場先輩を訪ねる事にした』
-After today's lecture, I spoke to Mr. Baba, whom Satoh had mentioned liked to share the Filipino culture.
+After today's lecture, I spoke to Mr. Baba, whom Hikaru had mentioned liked to share the Filipino culture.
 {end}
 
 例外処理か゛発生しました　。$発生場所は 212_2_3て゛す！
@@ -8960,7 +8957,7 @@ EXCEPTION HANDLING HAS OCCURED.
 {end}
 
 D1馬場
-D1Baba
+Ｄ１Kenichiro Baba
 {end}
 
 「オウ、話は聞いてるよ」
@@ -9056,7 +9053,7 @@ I wouldn't have known from looking at him that Baba had it so rough.
 {end}
 
 「しかし君も大変た゛な。あいつとつきあうのは骨か゛折れるた゛ろ？」
-"Look, I get he's a pain in the ass, but can't you at least try to get along with Satoh?"
+"Look, I get he's a pain in the ass, but can't you at least try to get along with Hikaru?"
 {end}
 
 「ま、仲良くしてやってくれよ」
@@ -9108,7 +9105,7 @@ When I stepped inside, I was struck by the strong scent of flowers.
 {end}
 
 D1ランディ
-D1Randy
+Ｄ１Randy Santiago
 {end}
 
 「ヤァ、ヤァ、ヤァ、ヤァ」
@@ -9164,7 +9161,7 @@ It looked like one of the garlands the children in Maria's photo had held.
 {end}
 
 『ランディのおしゃへ゛りに苦笑して、僕はカウンターをなか゛める』
-I smiled wrly as Randy told his story, then turned my eyes over to the counter.
+I smiled wryly as Randy told his story, then turned my eyes over to the counter.
 {end}
 
 『若いフィリピン人か゛グラスを洗っている』
@@ -9220,7 +9217,7 @@ EXCEPTION HANDLING HAS OCCURED.
 {end}
 
 D1若いフィリピン人
-D1Young Filipino
+Ｄ１Young Filipino
 {end}
 
 「いいえ」
@@ -9228,15 +9225,15 @@ D1Young Filipino
 {end}
 
 「失礼て゛すか゛あなたの名前は？」
-"Excuse me, what is your name?"
+"Do you mind if I ask your name?"
 {end}
 
 「ワタシの名前はダニーといいます」
-「Call me Danny.」
+"Call me Danny."
 {end}
 
 「そうて゛すか…」
-"Danny? I see."
+"All right..."
 {end}
 
 テーブルにもと゛る
@@ -9256,7 +9253,7 @@ EXCEPTION HANDLING HAS OCCURED.
 {end}
 
 D1ダニー
-D1Danny
+Ｄ１Danny
 {end}
 
 「いいえ、知りません」
@@ -9276,7 +9273,7 @@ I gave Danny a nod before turning back around to the table.
 {end}
 
 「僕の知りあいにマリアというフィリピンの子か゛いるんて゛すか゛、こ゛存し゛ありませんか？」
-"I met a named Maria around here. Any chance you know her?"
+"I met a woman named Maria around here. Any chance you know her?"
 {end}
 
 ボーイについて聞いてみる
@@ -9484,15 +9481,15 @@ It was the Filipino man from Randy's restaurant!
 {end}
 
 「な、なんた゛よ君は。乱暴に…」
-What's with this guy?! Talk about reckless.
+"What's with this guy?! Talk about reckless."
 {end}
 
 D1ボーイ
-D1Boy
+Ｄ１Boy
 {end}
 
 「マリア！！」
-「Maria！！」
+"Maria!"
 {end}
 
 「ボーイ！！ 違うよ！ この人は！！」
@@ -9584,7 +9581,7 @@ Dwell on Maria's purse
 {end}
 
 ランディを訪ねてみる
-Visit
+Visit Randy's restaurant
 {end}
 
 例外処理か゛発生しました　。$発生場所は 285_1_4て゛す！
@@ -9596,7 +9593,7 @@ I lined up the contents from Maria's purse across the table.
 {end}
 
 『僕はもう一度話を聞こうと、ランディの店を訪ねた』
-I stopped by Randy's store in hopes to check in.
+I stopped by Randy's restaurant in hopes to check in.
 {end}
 
 「ヤァ、ヤァ、ヤァ、ヤァ、」
@@ -9668,7 +9665,7 @@ As I returned to the apartment, I poked through the contents of Maria's purse. I
 {end}
 
 『口紅、コンパクト、いくつかの化粧品、$カセットテープ』
-Okay. Lipstick, hand mirror, other cosmetics, $casette tape.
+Okay. Lipstick, hand mirror, other cosmetics, casette tape...
 {end}
 
 『札束、そしてマリアとボーイの写真』
@@ -9748,7 +9745,7 @@ I took a look at her photos.
 {end}
 
 『写真を置きかけて僕はふと、ある事を思い出す』
-Holding the photograph, and immediately rememberd something.
+When I held the photograph, I immediately thought of someone.
 {end}
 
 『そうた゛…姉さんのところへ電話してみよう…』
@@ -9828,7 +9825,7 @@ EXCEPTION HANDLING HAS OCCURED.
 {end}
 
 D1水島
-D1Mizushima
+Ｄ１Hideo Mizushima
 {end}
 
 「いやあ、懐かしいなァ」
@@ -9856,7 +9853,7 @@ D1Mizushima
 {end}
 
 「この子たちの面倒は、シンジケートか゛みているんた゛」
-"The crime syndicates in the area took care of them."
+"The crime sindicates in the area took care of them."
 {end}
 
 「ちゃんとこ゛飯を食へ゛させているし、寝るところもある。
@@ -9864,7 +9861,7 @@ D1Mizushima
 {end}
 
 $  こうしてサンパギータを売っているのも、この子たちにとっては生きていくためのビジネスなんた゛よ」
-$  In return, the children would sell these flowers for income."
+In return, the children would sell these flowers for income."
 {end}
 
 「ところて゛なんなんた゛問題は？ フィリピンの娘にて゛も惚れたか？」
@@ -9872,7 +9869,7 @@ $  In return, the children would sell these flowers for income."
 {end}
 
 「うーん、血はつなか゛っていないた゛ろうか゛、$マリアとそのボーイというのは兄妹た゛な」
-"While perhaps not by blood, $Maria and that Boy fellow are brother and sister."
+"While perhaps not by blood, Maria and that Boy fellow are brother and sister."
 {end}
 
 「おそらく、小さい時からふたりっきりて゛生きてきたんた゛ろうよ」
@@ -9880,7 +9877,7 @@ $  In return, the children would sell these flowers for income."
 {end}
 
 「ところて゛その…中国系マフィアとの関連な」
-"But what if that man... has relations to the Triad?"
+"But what if that man... has relations to the triad?"
 {end}
 
 「フィリピンというのは華僑の力か゛非常に強いところて゛な」
@@ -10321,7 +10318,7 @@ What could I do for Maria now?
 {end}
 
 「マイバン、マイバンおまつりネ…」
-"Festivals are held every, single night."
+"Festivals are held every single night."
 {end}
 
 寂しいのかな？
@@ -10405,7 +10402,7 @@ Do you promise?
 {end}
 
 そのときは案内してね
-I need the tour!
+I'll need the tour!
 {end}
 
 例外処理か゛発生しました　。$発生場所は 352_5_5て゛す！
@@ -10421,7 +10418,7 @@ EXCEPTION HANDLING HAS OCCURED.
 {end}
 
 「そのときは案内してね」
-"I need the tour!"
+"I'll need the tour!"
 {end}
 
 「ウン、いいヨ」
@@ -10457,7 +10454,7 @@ EXCEPTION HANDLING HAS OCCURED.
 {end}
 
 『ボーイは冷たい視線て゛僕をにらんて゛いる』
-Boy stared directly at me with an stone-cold look in his eye.
+Boy stared directly at me with a stone-cold look in his eye.
 {end}
 
 「なに？ ドシタノ？」
@@ -10650,7 +10647,7 @@ Maria and Boy move to Japan at the start of the new year.
 {end}
 
 「ワタシに日本語を教えてくれたおし゛いちゃんは」
-"The old man who tought me Japanese read my palm."
+"The old man who taught me Japanese read my palm."
 {end}
 
 「ワタシの手を長いこと見つめたあとに言ったワ」
@@ -10658,7 +10655,7 @@ Maria and Boy move to Japan at the start of the new year.
 {end}
 
 D1老人
-D1Old Man
+Ｄ１Old Man
 {end}
 
 「マリア…。おまえは日本て゛、おまえにとって大切な意味を持つ人に出会うた゛ろう」
@@ -10698,7 +10695,7 @@ But then, the organization had asked to put Maria to work too.
 {end}
 
 『組織は…』
-『The organization...』
+The organization...
 {end}
 
 『マリアを見逃すかわりに、ボーイにある条件をつけた』
@@ -10706,7 +10703,7 @@ was willing to turn a blind eye to Maria for Boy, on one condition.
 {end}
 
 「そう言ってワタシを送りた゛してくれたの…」
-With those words, he sent me on my way.
+"With those words, he sent me on my way."
 {end}
 
 「いっは゜い歩いたよ。たくさんの人にも会った…」
@@ -10846,7 +10843,7 @@ Man, he's a piece of work...
 {end}
 
 僕はガマン出来す゛に佐藤を殴った
-Punch Satoh
+Punch Hikaru
 {end}
 
 ここはグッとこらえた
@@ -10906,7 +10903,7 @@ Oh, I'll REMEMBER this！ I'll YOU! EVERYONE'll know what you did to me!"
 {end}
 
 『佐藤にはなにかされるかもしれないけれと゛、なあに、構うものか…』
-Even if it were beneficial to settle things with Satoh differently, I didn't see much point.
+Even if it were beneficial to settle things with Hikaru differently, I didn't see much point.
 {end}
 
 //boy walking down street
@@ -10990,7 +10987,7 @@ I need to get out of here.
 {end}
 
 『僕は夢中て゛逃け゛出した』
-I was entranced. Where do I run to?
+It's like I'm some wild animal. Where can I run?!
 {end}
 
 工場の裏を逃け゛る
@@ -11023,7 +11020,7 @@ Dammit! A dead end.
 //bad end 15
 
 D1ヤクザ
-D1Yakuza Member
+Ｄ１Yakuza Member
 {end}
 
 「運か゛悪かったな兄ちゃん。もう一回やってくれや」
@@ -11067,7 +11064,7 @@ Out of nowhere, someone grabbed my by the arm and yanked me into an alley.
 {end}
 
 「さ、佐藤！」
-"Satoh!"
+"Hikaru!"
 {end}
 
 「あんな侮辱を受けたのは生まれてはし゛めてた゛。ボクは絶対キミを許さないからな」
@@ -11075,7 +11072,7 @@ Out of nowhere, someone grabbed my by the arm and yanked me into an alley.
 {end}
 
 「は、離せよ！」
-"Let me go, Satoh!"
+"Let me go, Hikaru!"
 {end}
 
 「ヤーダよ！！」
@@ -11095,7 +11092,7 @@ I'll do anything!
 {end}
 
 仕方ない、許せ！ 佐藤！
-Let me go, Satoh!
+Let me go, Hikaru!
 {end}
 
 例外処理か゛発生しました　。$発生場所は 398_1_10_2て゛す！
@@ -11131,7 +11128,7 @@ Left with confusion and anxiety after the sudden turn of events, I raced back to
 {end}
 
 「ボーイ…」
-Boy...
+"Boy..."
 {end}
 
 L407欠番:
@@ -11212,7 +11209,7 @@ Hm? It's unlocked. Guess I got careless on my way out.
 {end}
 
 D1男の声
-D1Male Voice
+Ｄ１Male Voice
 {end}
 
 「おお…」
@@ -11292,7 +11289,7 @@ I got desperate.
 {end}
 
 『と、その時…』
-『Th-That time, I...』
+Th-That time, I had to...
 {end}
 
 拳銃を掘り起こすんた゛！
@@ -11427,7 +11424,7 @@ He did not answer with words.
 {end}
 
 『拳銃を僕に返し、その扱い方を教えてくれた』
-He took my handgun and showed me out to shoot.
+He took my handgun and showed me how to shoot.
 {end}
 
 「いいのか？」
@@ -11535,7 +11532,7 @@ Someone's here!
 {end}
 
 D1日本刀の男
-D1Japanese Swordsman
+Ｄ１Japanese Swordsman
 {end}
 
 「こちとらプロた゛せ゛」
@@ -11595,7 +11592,7 @@ She must be on the other side of this door.
 {end}
 
 D1組長
-D1Yakuza Boss
+Ｄ１Yakuza Boss
 {end}
 
 「ダメた゛よ、おにいちゃん。ドアはノックするもんた゛よ。学校て゛習わなかったの？」
@@ -11607,7 +11604,7 @@ D1Yakuza Boss
 {end}
 
 「ったく…、これた゛からド素人は使えねえんた゛よ」
-"Hoo boy, I can't believe they called in some the bedwetters for this."
+"Hoo boy, I can't believe they called in you bedwetters for this."
 {end}
 
 「アバヨ…」
@@ -11632,11 +11629,11 @@ EXCEPTION HANDLING HAS OCCURED.
 {end}
 
 『弾はもう残っていない…』
-I'm out of ammo...
+The final shot.
 {end}
 
 『僕にて゛きることはたた゛ひとつ…』
-『There's only one thing I can do now...』
+There's only one thing I can do now...
 {end}
 
 マリアをかは゛う
@@ -11774,7 +11771,7 @@ A woman with a document in hand approached.
 {end}
 
 D1女の人
-D1Girl
+Ｄ１Girl
 {end}
 
 「課長、見積もりのまとめて゛す」
@@ -11814,7 +11811,7 @@ I'm sorry!
 {end}
 
 『幽霊になってわかったことか゛ある』
-Being a ghost, there were some things I have come to accept.
+Being a ghost, there are some things I have to accept.
 {end}
 
 『幽霊になっても、マンガみたいに空を飛へ゛るわけし゛ゃないんた゛』
@@ -11890,7 +11887,7 @@ Following the incident, he said, Maria was deported to the Philippines.
 {end}
 
 会ってきたそ゛、マリアは元気た゛」
- Yep! Just saw her. Maria is alive and well!"
+I just saw her. Maria is alive and well."
 {end}
 
 「それともうひとつ…」
@@ -11914,7 +11911,7 @@ I took the memo, stood up, and told him I'd be on my way.
 {end}
 
 「義兄さん、姉さんから母さんに伝えてくれないかな。ゴメンネって」
-Hideo. Can you go scare the missus for me? She is my sister and all. Sorry for the trouble."
+"Hideo. Can you go scare the missus for me? She is my sister and all. Sorry for the trouble."
 {end}
 
 「心配するな。人にはいろんな生き方も死に方も」
@@ -11942,7 +11939,7 @@ I took the address Hideo gave me, and left for Manila.
 {end}
 
 『僕は今、マニラの街を走っている』
-I'm now running into the city of Manila.
+I'm now on my way to the city of Manila.
 {end}
 
 『あのジプニーという乗り物に乗って…』
@@ -12031,7 +12028,7 @@ Hold on! There's no way this baby can see my finger, is there?
 {end}
 
 「と゛うしたの？ そんなにいっは゜い手をのは゛して…」
-"What are you trying to hard to grab at, little one? 
+"What are you trying so hard to grab at, little one? 
 {end}
 
 「ン？…」
@@ -12051,7 +12048,7 @@ Once the power came back on, the lone, old woman of the house spoke.
 {end}
 
 D1老女
-D1Old Woman
+Ｄ１Old Woman
 {end}
 
 「本当に愛されているんた゛ね、マリアは」
@@ -12071,7 +12068,7 @@ D1Old Woman
 {end}
 
 D1子供たち
-D1Children
+Ｄ１Children
 {end}
 
 「わあ～～～～～」
@@ -12210,7 +12207,7 @@ From what I had heard, a lone Filipino woman had been forcibly repatriated after
 {end}
 
 『夏を間近にひかえて、長い雨か゛続いていたある日のこと』
-Since then, long rained plagued our days as summertime ticked nearer.
+Since then, long rains plagued our days as summertime ticked nearer.
 {end}
 
 『僕はフィリピンからのエアメールを受け取る』
@@ -12242,11 +12239,11 @@ The days and months had drifted by.
 {end}
 
 『僕は格子窓から季節をなか゛め、ひとつのことた゛けを想い続けていた』
-As I looked down at changing world from my latticed window, I thought of only one thing.
+As I looked down at the changing world from my latticed window, I thought of only one thing.
 {end}
 
 D1子供
-D1Child
+Ｄ１Child
 {end}
 
 「マミー、マミー」
@@ -12361,7 +12358,7 @@ I never learned Maria's whereabouts.
 {end}
 
 『義兄に聞いてみても、縄張りと麻薬の利権に関する争いか゛原因というのはわかったか゛』
-When I asked my brother-in-law, all I learned was that the incident had stemmed from a terf war. A dispute over narcotics.
+When I asked my brother-in-law, all I learned was that the incident had stemmed from a turf war. A dispute over narcotics.
 {end}
 
 『僕にとってはと゛うて゛もいいことた゛った…』
@@ -12414,7 +12411,7 @@ Behind us, police sirens blared as police officers piled onto the scene.
 {end}
 
 D1刑事
-D1Detective
+Ｄ１Detective
 {end}
 
 「と゛うもこ゛協力ありか゛とうこ゛さ゛いました。なにかありましたらこ゛連絡くた゛さい」
@@ -12466,7 +12463,7 @@ My brother-in-law called an acquaintance of his in the Metropolitan Police Depar
 {end}
 
 「結局はなわ張りと、麻薬の利権に関する争いた゛な」
-"Ultimately, the conflict had stemmed from a terf war. A dispute over narcotics."
+"Ultimately, the conflict had stemmed from a turf war. A dispute over narcotics."
 {end}
 
 「ボーイというフィリピン人はと゛うやら死んて゛しまったらしい…」
@@ -12518,7 +12515,7 @@ There's no one waiting for me at my apartment.
 {end}
 
 D1女性の声
-D1Female Voice
+Ｄ１Female Voice
 {end}
 
 「こちら航空券販売サービスの予約課て゛す。予約の確認をさせていたた゛きます」
@@ -12546,7 +12543,7 @@ I'd called to get Maria's flight reservation transferred over in my name.
 {end}
 
 D1同僚
-D1Associate
+Ｄ１Associate
 {end}
 
 「水島さん、エア・メールて゛すよ」
@@ -12642,11 +12639,11 @@ I'm certain I'll find Maria! I can see it already!
 {end}
 
 『彼女に会えたらまた書きます』
-I'll write you again the moment I do."
+I'll write you again the moment I do.
 {end}
 
 『義兄さんの好きた゛った南の国の青い空の下から…』
-Here, beneath the blue skies of the country you adored so much.
+Here, beneath the blue skies of the country you adored so much."
 {end}
 
 //jeepney
