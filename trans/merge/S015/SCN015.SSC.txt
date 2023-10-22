@@ -238,7 +238,7 @@ What could I do for Maria now?
 // Pos : 00007329
 #WRITE(PTR, $00002C87)
 //「マイバン、マイバンおまつりネ…」
-"Festivals are held every, single night."
+"Festivals are held every single night."
 <$00>
 
 
@@ -342,7 +342,7 @@ You're strong.
 #WRITE(PTR, $00004622)
 #WRITE(PTR, $000046E0)
 //D1ボーイ
-D1Boy
+Ｄ１Boy
 <$00>
 
 
@@ -447,7 +447,7 @@ Do you promise?
 // Pos : 00007789
 #WRITE(PTR, $000034B7)
 //そのときは案内してね
-I need the tour!
+I'll need the tour!
 <$00>
 
 
@@ -474,7 +474,7 @@ I need the tour!
 // Pos : 00007854
 #WRITE(PTR, $00003669)
 //「そのときは案内してね」
-"I need the tour!"
+"I'll need the tour!"
 <$00>
 
 
@@ -564,7 +564,7 @@ I need the tour!
 // Pos : 00007B45
 #WRITE(PTR, $00003CF7)
 //『ボーイは冷たい視線て゛僕をにらんて゛いる』
-Boy stared directly at me with an stone-cold look in his eye.
+Boy stared directly at me with a stone-cold look in his eye.
 <$00>
 
 
@@ -987,7 +987,7 @@ Maria and Boy move to Japan at the start of the new year.
 #WRITE(PTR, $00005A7A)
 #WRITE(PTR, $00006525)
 //「ワタシに日本語を教えてくれたおし゛いちゃんは」
-"The old man who tought me Japanese read my palm."
+"The old man who taught me Japanese read my palm."
 <$00>
 
 
@@ -1009,7 +1009,7 @@ Maria and Boy move to Japan at the start of the new year.
 #WRITE(PTR, $00006603)
 #WRITE(PTR, $0000665A)
 //D1老人
-D1Old Man
+Ｄ１Old Man
 <$00>
 
 
@@ -1101,7 +1101,7 @@ But then, the organization had asked to put Maria to work too.
 // Pos : 00009197
 #WRITE(PTR, $0000610D)
 //『組織は…』
-『The organization...』
+The organization...
 <$00>
 
 
@@ -1119,7 +1119,7 @@ was willing to turn a blind eye to Maria for Boy, on one condition.
 // Pos : 000093ED
 #WRITE(PTR, $000066E5)
 //「そう言ってワタシを送りた゛してくれたの…」
-With those words, he sent me on my way.
+"With those words, he sent me on my way."
 <$00>
 
 

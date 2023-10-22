@@ -89,7 +89,7 @@ December had almost come.
 #WRITE(PTR, $00004B2D)
 #WRITE(PTR, $00004B5F)
 //D1佐藤
-D1Satoh
+Ｄ１Hikaru Satoh
 <$00>
 
 
@@ -296,7 +296,7 @@ Man, he's a piece of work...
 // Pos : 0000624D
 #WRITE(PTR, $00002982)
 //僕はガマン出来す゛に佐藤を殴った
-Punch Satoh
+Punch Hikaru
 <$00>
 
 
@@ -434,7 +434,7 @@ Man, am I war-torn!
 #WRITE(PTR, $0000300B)
 //『佐藤にはなにかされるかもしれないけれと゛、なあに、構うものか…』
 Even if it were beneficial to settle\n
-things with Satoh differently, I\n
+things with Hikaru differently, I\n
 didn't see much point.
 <$00>
 
@@ -643,7 +643,8 @@ I need to get out of here.
 // Pos : 00006C77
 #WRITE(PTR, $00003AF2)
 //『僕は夢中て゛逃け゛出した』
-I was entranced. Where do I run to?
+It's like I'm some wild animal. Where can\n
+I run?!
 <$00>
 
 
@@ -700,7 +701,7 @@ Dammit! A dead end.
 // Pos : 00006EF7
 #WRITE(PTR, $00003F18)
 //D1ヤクザ
-D1Yakuza Member
+Ｄ１Yakuza Member
 <$00>
 
 
@@ -779,7 +780,7 @@ arm and yanked me into an alley.
 // Pos : 0000722D
 #WRITE(PTR, $00004473)
 //「さ、佐藤！」
-"Satoh!"
+"Hikaru!"
 <$00>
 
 
@@ -799,7 +800,7 @@ me!"
 // Pos : 000072FB
 #WRITE(PTR, $00004580)
 //「は、離せよ！」
-"Let me go, Satoh!"
+"Let me go, Hikaru!"
 <$00>
 
 
@@ -845,7 +846,7 @@ I'll do anything!
 // Pos : 00007419
 #WRITE(PTR, $00004755)
 //仕方ない、許せ！ 佐藤！
-Let me go, Satoh!
+Let me go, Hikaru!
 <$00>
 
 
@@ -943,7 +944,7 @@ apartment.
 #WRITE(PTR, $000052D8)
 #WRITE(PTR, $000058B1)
 //「ボーイ…」
-Boy...
+"Boy..."
 <$00>
 
 
@@ -968,7 +969,7 @@ Boy...
 #WRITE(PTR, $00005737)
 #WRITE(PTR, $00005818)
 //D1ボーイ
-D1Boy
+Ｄ１Boy
 <$00>
 
 

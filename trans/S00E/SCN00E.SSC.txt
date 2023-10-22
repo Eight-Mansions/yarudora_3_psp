@@ -262,7 +262,7 @@ hand mirror.
 // Pos : 00008ED5
 #WRITE(PTR, $00002897)
 //『かなり酔いか゛まわっていたのた゛ろうか…』
-Perhaps we overdid it with the alochol.
+Perhaps we overdid it with the alcohol.
 <$00>
 
 
@@ -831,7 +831,7 @@ if she and I ever...
 // Pos : 00009CB9
 #WRITE(PTR, $00003E6D)
 //た゛ってやってみたかったんた゛もん
-C'mon, live a little!
+C'mon. Live a little!
 <$00>
 
 
@@ -850,7 +850,7 @@ I'm sorry...
 // Pos : 00009D20
 #WRITE(PTR, $00003EF7)
 //「た゛ってやってみたかったんた゛もん」
-"C'mon, live a little!"
+"C'mon. Live a little!"
 <$00>
 
 
@@ -886,7 +886,7 @@ Don't you want to try it?
 // Pos : 00009DD2
 #WRITE(PTR, $00004046)
 //『ダメた゛…、完全に怒ってる』
-Yikes, now she's pissed.
+Yikes. She looks annoyed now.
 <$00>
 
 
@@ -895,7 +895,7 @@ Yikes, now she's pissed.
 // Pos : 00009DEA
 #WRITE(PTR, $00004069)
 //『僕はいし゛けてみる』
-Yep. Someone overdid it.
+Seems I overdid it.
 <$00>
 
 
@@ -904,7 +904,7 @@ Yep. Someone overdid it.
 // Pos : 00009E22
 #WRITE(PTR, $00004098)
 //「た、楽しいと思うよ…」
-"I just think it could be fun."
+"I just think we should have some fun."
 <$00>
 
 
@@ -913,7 +913,7 @@ Yep. Someone overdid it.
 // Pos : 00009E3D
 #WRITE(PTR, $000040E5)
 //もう一度た゛けやりたいな
-Press the issue
+Fool around
 <$00>
 
 
@@ -979,7 +979,7 @@ handle all this money."
 // Pos : 00009F83
 #WRITE(PTR, $00004323)
 //「最初にあやまっておくね」
-"I need to apologize to you first."
+"I'm sorry ahead of time, but..."
 <$00>
 
 
@@ -988,7 +988,7 @@ handle all this money."
 // Pos : 00009FB1
 #WRITE(PTR, $0000437E)
 //「え？」
-"My purse?"
+"Huh?"
 <$00>
 
 
@@ -997,8 +997,8 @@ handle all this money."
 // Pos : 00009FE0
 #WRITE(PTR, $00004423)
 //「わはははははは……これて゛見おさめし゛ゃーーーっ！」
-"Hahaha! Sure. This is my 'Get lost!'\n
-face!"
+"Mwahahaha! Hope you don't mind, but I've\n
+always wanted to try thiiis!"
 <$00>
 
 
@@ -1007,7 +1007,7 @@ face!"
 // Pos : 0000A01D
 #WRITE(PTR, $00004497)
 //「モォ！ マリアホントに怒るよォ！！」
-"Well! I'm more than a little upset!"
+"Hey! How could I not mind that?!"
 <$00>
 
 
@@ -1016,7 +1016,7 @@ face!"
 // Pos : 0000A079
 #WRITE(PTR, $00004549)
 //「ちゃんとひろうのヨ！」
-"That was really horrible!"
+"Look at this mess!"
 <$00>
 
 
@@ -1034,7 +1034,7 @@ face!"
 // Pos : 0000A0B8
 #WRITE(PTR, $000045F9)
 //『マリアったら本気て゛怒ってる…』
-Maria's beyond pissed.
+Maria's beyond ticked.
 <$00>
 
 
@@ -1043,7 +1043,7 @@ Maria's beyond pissed.
 // Pos : 0000A0FC
 #WRITE(PTR, $000046A3)
 //『僕は気をとりなおしてバッグに目をやる』
-I need to be careful next time I go through\n
+I need to be careful next time I play with\n
 her stuff.
 <$00>
 
@@ -1081,8 +1081,8 @@ Music began to play.
 // Pos : 0000A245
 #WRITE(PTR, $000048B0)
 //「コレ、フィリピンの古いラブソング、$ダヒル・サ・ヨ」
-"This is a Filipino love song called\n
-$'Dahil Sa'yo'."
+"This is a Filipino love song called 'Dahil\n
+Sa'yo'."
 <$00>
 
 
@@ -1212,7 +1212,7 @@ it."
 #WRITE(PTR, $0000515F)
 //『いきなりマリアの柔らかな唇か゛、痛いくらいに押しつけられた』
 Without warning, Maria painfully\n
-pressed her soft lips against mine.』
+pressed her soft lips against mine.
 <$00>
 
 
@@ -1574,7 +1574,7 @@ I knew what it was I had to cherish.
 // Pos : 0000B1BA
 #WRITE(PTR, $0000630C)
 //『たた゛、自分か゛この子を愛しているかといえは゛、正直いって確信か゛持てない』
-And yet, I didn't have it in my to outright\n
+And yet, I didn't have it in me to outright\n
 say I was "in love" with her.
 <$00>
 
@@ -1711,8 +1711,8 @@ Don't reciprocate
 // Pos : 0000B8F4
 #WRITE(PTR, $00006F55)
 //『目覚めると、僕の横にマリアの姿はなかった…』
-When I woke up that morning, Maria's\n
-wasn't lying next to me.
+When I woke up that morning, Maria wasn't\n
+lying next to me.
 <$00>
 
 
@@ -1998,8 +1998,8 @@ story.
 #WRITE(PTR, $00007CD5)
 //「チャナックはネ、小さいとき、洗礼、$ビンニャグね」
 "When children in the Philippines are\n
-small, they typically receive a baptism.\n
-or a $'binyag'."
+small, they typically receive a baptism,\n
+or a 'binyag'."
 <$00>
 
 
@@ -2117,9 +2117,9 @@ ghost known as a Manananggal."
 // Pos : 0000C489
 #WRITE(PTR, $0000853D)
 //「アスワンはね、体の上た゛けか゛空を飛んて゛襲ってくるの」
-"The Mananggal can separate it's upper\n
-torso from the rest of its body. Then, it\n
-flies around and attacks people!"
+"The Mananggal can separate its upper torso\n
+from the rest of its body. Then, it flies\n
+around and attacks people!"
 <$00>
 
 
@@ -2128,7 +2128,7 @@ flies around and attacks people!"
 // Pos : 0000C4BA
 #WRITE(PTR, $00008577)
 //「そういう時にはきっとと゛こかに体の下の部分か゛寝ているから」
-"When it does that, it's lower half is\n
+"When it does that, its lower half is\n
 still standing around nearby."
 <$00>
 

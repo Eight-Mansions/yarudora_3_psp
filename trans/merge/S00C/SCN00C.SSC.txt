@@ -184,7 +184,7 @@ She's so cute...
 // Pos : 00004918
 #WRITE(PTR, $000028ED)
 //「マリアね、オムレツ得意なの」
-"Are omelettes your specialty or something?"
+"I wonder if omelettes were my specialty."
 <$00>
 
 
@@ -193,7 +193,7 @@ She's so cute...
 // Pos : 0000494E
 #WRITE(PTR, $00002945)
 //「と゛こて゛覚えたの？」
-"Did that spark a memory?!"
+"Did that spark a memory?"
 <$00>
 
 
@@ -211,7 +211,7 @@ She's so cute...
 // Pos : 0000499D
 #WRITE(PTR, $000029F8)
 //「あ…覚えてないんた゛…」
-"Sorry... I don't remember."
+"Ah. I suppose not, huh."
 <$00>
 
 
@@ -274,7 +274,7 @@ She's so cute...
 // Pos : 00004B1C
 #WRITE(PTR, $00002CE8)
 //「と゛う？ 僕の作ったオムレツ」
-"Well? How was the omolette I made?"
+"Well? How was the omelette I made?"
 <$00>
 
 
@@ -418,7 +418,7 @@ It weirded me out when I first saw it, but soon came to find it endearing.
 // Pos : 00004E99
 #WRITE(PTR, $000032E8)
 //『あ……』
-Ah...
+I...
 <$00>
 
 
@@ -445,7 +445,7 @@ Stared at Maria
 // Pos : 00004ED3
 #WRITE(PTR, $0000332C)
 //僕はマリアから目をそらした
-Look away from Maria.
+Looked away from Maria
 <$00>
 
 
@@ -544,7 +544,7 @@ I want you to stay.
 // Pos : 00005197
 #WRITE(PTR, $00003783)
 //「そう…そうた゛よね」
-"I see... That's fine, then.」
+"I see... That's fine, then."
 <$00>
 
 

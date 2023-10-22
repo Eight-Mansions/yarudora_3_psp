@@ -118,7 +118,7 @@ the surrounding crowds and left the scene.
 // Pos : 00005550
 #WRITE(PTR, $00002704)
 //D1ボーイ
-D1Boy
+Ｄ１Boy
 <$00>
 
 
@@ -289,7 +289,7 @@ after that incident.
 // Pos : 00005BB3
 #WRITE(PTR, $00003155)
 //『夏を間近にひかえて、長い雨か゛続いていたある日のこと』
-Since then, long rained plagued our days as\n
+Since then, long rains plagued our days as\n
 summertime ticked nearer.
 <$00>
 
@@ -376,8 +376,8 @@ The days and months had drifted by.
 // Pos : 00005E67
 #WRITE(PTR, $0000363E)
 //『僕は格子窓から季節をなか゛め、ひとつのことた゛けを想い続けていた』
-As I looked down at changing world from my\n
-latticed window, I thought of only one\n
+As I looked down at the changing world from\n
+my latticed window, I thought of only one\n
 thing.
 <$00>
 
@@ -388,7 +388,7 @@ thing.
 #WRITE(PTR, $000038A4)
 #WRITE(PTR, $000039B3)
 //D1子供
-D1Child
+Ｄ１Child
 <$00>
 
 
@@ -638,7 +638,7 @@ I never learned Maria's whereabouts.
 //『義兄に聞いてみても、縄張りと麻薬の利権に関する争いか゛原因というのはわかったか゛』
 When I asked my brother-in-law, all I\n
 learned was that the incident had stemmed\n
-from a terf war. A dispute over narcotics.
+from a turf war. A dispute over narcotics.
 <$00>
 
 

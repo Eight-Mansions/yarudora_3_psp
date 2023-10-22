@@ -13,7 +13,7 @@
 // Pos : 00004117
 #WRITE(PTR, $00001FC2)
 //w‚»‚ê‚©‚çˆêTŠÔŒãx
-One week later..
+One week later...
 <$00>
 
 
@@ -112,7 +112,7 @@ What should I do?
 // Pos : 000043DD
 #WRITE(PTR, $000023BD)
 //Ê^‚Ì’j‚Ìq‚É‚Â‚¢‚Ä•·‚¢‚Ä‚İ‚æ‚¤‚©c
-Inspect the photo.
+Inspect the photo
 <$00>
 
 
@@ -222,7 +222,7 @@ Of course it was sad, but it was for her own good. She would understand.
 // Pos : 000046C7
 #WRITE(PTR, $00002785)
 //w–l‚©J‚µ‚Á‚©‚è‚µ‚Ä‚¢‚ê‚ÍJ‚¢‚¢‚ñ‚½JBŠOo‹Ö~‚½J‚È‚ñ‚Ä‚©‚í‚¢‚»‚¤‚½J‚æx
-I felt bad for chastizing Maria, but if I abstained her from going outdoors, that would keep her safe.
+I felt bad for chastizing Maria, but if I forbade her from going outdoors, that would keep her safe.
 <$00>
 
 
@@ -592,7 +592,7 @@ I have bills to pay!
 // Pos : 000053C6
 #WRITE(PTR, $00003D4B)
 //D1“Xˆõ
-D1Clerk
+‚c‚PClerk
 <$00>
 
 
@@ -610,7 +610,7 @@ D1Clerk
 // Pos : 00005404
 #WRITE(PTR, $00003DC0)
 //w‚±‚ê‚ÄJ–l‚Ì‘SàY‚Í”•S‰~‚É‚È‚Á‚Ä‚µ‚Ü‚Á‚½cx
-I walked away from the game with a mere several hundred yen to my name.
+I walked away from the store with the few hundred yen to my name intact.
 <$00>
 
 

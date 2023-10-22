@@ -112,7 +112,7 @@ Once we found the exit, we slipped through the surrounding crowds and left the s
 // Pos : 00005550
 #WRITE(PTR, $00002704)
 //D1ボーイ
-D1Boy
+Ｄ１Boy
 <$00>
 
 
@@ -274,7 +274,7 @@ From what I had heard, a lone Filipino woman had been forcibly repatriated after
 // Pos : 00005BB3
 #WRITE(PTR, $00003155)
 //『夏を間近にひかえて、長い雨か゛続いていたある日のこと』
-Since then, long rained plagued our days as summertime ticked nearer.
+Since then, long rains plagued our days as summertime ticked nearer.
 <$00>
 
 
@@ -356,7 +356,7 @@ The days and months had drifted by.
 // Pos : 00005E67
 #WRITE(PTR, $0000363E)
 //『僕は格子窓から季節をなか゛め、ひとつのことた゛けを想い続けていた』
-As I looked down at changing world from my latticed window, I thought of only one thing.
+As I looked down at the changing world from my latticed window, I thought of only one thing.
 <$00>
 
 
@@ -366,7 +366,7 @@ As I looked down at changing world from my latticed window, I thought of only on
 #WRITE(PTR, $000038A4)
 #WRITE(PTR, $000039B3)
 //D1子供
-D1Child
+Ｄ１Child
 <$00>
 
 
@@ -600,7 +600,7 @@ I never learned Maria's whereabouts.
 // Pos : 00006A6E
 #WRITE(PTR, $00004BC9)
 //『義兄に聞いてみても、縄張りと麻薬の利権に関する争いか゛原因というのはわかったか゛』
-When I asked my brother-in-law, all I learned was that the incident had stemmed from a terf war. A dispute over narcotics.
+When I asked my brother-in-law, all I learned was that the incident had stemmed from a turf war. A dispute over narcotics.
 <$00>
 
 

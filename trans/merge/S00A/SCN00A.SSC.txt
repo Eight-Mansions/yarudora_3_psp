@@ -85,7 +85,7 @@ You didn't sleep?
 // Pos : 0000654F
 #WRITE(PTR, $0000233D)
 //『………』
-"......"
+......
 <$00>
 
 
@@ -204,7 +204,7 @@ Once we survived the lunch rush, I took a late break in the back. Some customer 
 // Pos : 00006902
 #WRITE(PTR, $00002920)
 //『新聞によれは゛、その中国系マフィアのアジトは僕の住んて゛いる駅の近くにあって』
-According to this article, there's triad hideout near the station live by.
+According to this article, there's a triad hideout near the station live by.
 <$00>
 
 
@@ -321,7 +321,7 @@ It sounds like the boring narration you hear in a movie.
 // Pos : 00006CA5
 #WRITE(PTR, $00003056)
 //『と゛うりて゛昨日、駅前か゛騒か゛しかったわけた゛』
-Funnily enough, there had been some sort of commotion last night near the station live by.
+Funnily enough, there had been some sort of commotion last night near the station I live by.
 <$00>
 
 
@@ -339,7 +339,7 @@ Today, however, went exactly as routine.
 // Pos : 00006D0C
 #WRITE(PTR, $000030EC)
 //D1店長の声
-D1Manager's Voice
+Ｄ１Manager's Voice
 <$00>
 
 
@@ -489,7 +489,7 @@ Maybe it was all in my head, but it felt like I was under surveillance.
 #WRITE(PTR, $00005154)
 #WRITE(PTR, $00005203)
 //D1警官
-D1Police Officer
+Ｄ１Police Officer
 <$00>
 
 
@@ -736,7 +736,7 @@ I'm still a student!
 // Pos : 000076BB
 #WRITE(PTR, $00004223)
 //『ちょっともったいない気もしたけれと゛、僕は交番をあとにした』
-『His offer felt a little too good to be true. I opted to leave police box instead.』
+His offer felt a little too good to be true. I opted to leave police box instead.
 <$00>
 
 
@@ -790,7 +790,7 @@ With the police officer there to walk me through it, I filled out a job applicat
 // Pos : 000077F5
 #WRITE(PTR, $000043DE)
 //『あとて゛聞いたことた゛か゛、僕に勧誘の声をかけたのは、し゛つは冗談のつもりた゛ったらしい』
-Deep down, questioned whether he'd genuinely wanted me to apply, or if he'd just done all this to humor himself. 
+Deep down, I questioned whether he'd genuinely wanted me to apply, or if he'd just done all this to humor himself. 
 <$00>
 
 
@@ -862,7 +862,7 @@ I passed the police box.
 // Pos : 00007A2B
 #WRITE(PTR, $000047B3)
 //「え、ええ…」
-"Who, me?."
+"Who, me?"
 <$00>
 
 
@@ -952,7 +952,7 @@ Confess
 // Pos : 00007C33
 #WRITE(PTR, $00004AE4)
 //『ドキッ…！！』
-『Badump...!』
+Badump...!
 <$00>
 
 
@@ -1069,7 +1069,7 @@ Whew! He almost got me there.
 // Pos : 00007E47
 #WRITE(PTR, $00004ED8)
 //『て゛もいくら僕か゛かは゛ったって、あの子はもういないに決まってる…』
-Honestly, thought, why stick my neck out for a girl who'd ghost me like that?
+Honestly, though, why stick my neck out for a girl who'd ghost me the way she did?
 <$00>
 
 
@@ -1105,7 +1105,7 @@ Aww, now I've done it!
 // Pos : 00007EFD
 #WRITE(PTR, $0000500C)
 //「い、いや、あの…その…」
-Aww, did I say 'she'? Nah, I meant... Uhhh..."
+"Aww, did I say 'she'? Nah, I meant... Uhhh..."
 <$00>
 
 
@@ -1304,7 +1304,7 @@ Maria had been so scared, she'd waited in the restroom all day.
 // Pos : 00008594
 #WRITE(PTR, $00005C24)
 //『僕の胸に身体をあす゛けたまま、小さく震えている彼女を前にして僕は…』
-She trembled like a deer against to my chest.
+She trembled like a deer against my chest.
 <$00>
 
 

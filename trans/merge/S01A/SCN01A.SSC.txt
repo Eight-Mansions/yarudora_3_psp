@@ -49,7 +49,7 @@ My ears told me I was in a bustling area.
 // Pos : 000050FC
 #WRITE(PTR, $00002190)
 //D1男の声
-D1Male Voice
+Ｄ１Male Voice
 <$00>
 
 
@@ -85,7 +85,7 @@ A woman with a document in hand approached.
 // Pos : 0000527D
 #WRITE(PTR, $0000235C)
 //D1女の人
-D1Girl
+Ｄ１Girl
 <$00>
 
 
@@ -175,7 +175,7 @@ I'm sorry!
 // Pos : 00005573
 #WRITE(PTR, $0000281B)
 //『幽霊になってわかったことか゛ある』
-Being a ghost, there were some things I have come to accept.
+Being a ghost, there are some things I have to accept.
 <$00>
 
 
@@ -261,7 +261,7 @@ If the person in question were dreaming, however...
 #WRITE(PTR, $00003750)
 #WRITE(PTR, $000037E8)
 //D1水島
-D1Mizushima
+Ｄ１Hideo Mizushima
 <$00>
 
 
@@ -378,7 +378,7 @@ Following the incident, he said, Maria was deported to the Philippines.
 // Pos : 00005CC0
 #WRITE(PTR, $00003247)
 //会ってきたそ゛、マリアは元気た゛」
- Yep! Just saw her. Maria is alive and well!"
+I just saw her. Maria is alive and well."
 <$00>
 
 
@@ -441,7 +441,7 @@ I took the memo, stood up, and told him I'd be on my way.
 // Pos : 00005F50
 #WRITE(PTR, $000035AD)
 //「義兄さん、姉さんから母さんに伝えてくれないかな。ゴメンネって」
-Hideo. Can you go scare the missus for me? She is my sister and all. Sorry for the trouble."
+"Hideo. Can you go scare the missus for me? She is my sister and all. Sorry for the trouble."
 <$00>
 
 
@@ -504,7 +504,7 @@ I took the address Hideo gave me, and left for Manila.
 // Pos : 00006209
 #WRITE(PTR, $00003949)
 //『僕は今、マニラの街を走っている』
-I'm now running into the city of Manila.
+I'm now on my way to the city of Manila.
 <$00>
 
 
@@ -702,7 +702,7 @@ Hold on! There's no way this baby can see my finger, is there?
 // Pos : 00006939
 #WRITE(PTR, $000044FB)
 //「と゛うしたの？ そんなにいっは゜い手をのは゛して…」
-"What are you trying to hard to grab at, little one? 
+"What are you trying so hard to grab at, little one? 
 <$00>
 
 
@@ -768,7 +768,7 @@ Once the power came back on, the lone, old woman of the house spoke.
 #WRITE(PTR, $00004A43)
 #WRITE(PTR, $00004AAF)
 //D1老女
-D1Old Woman
+Ｄ１Old Woman
 <$00>
 
 
@@ -786,7 +786,7 @@ D1Old Woman
 // Pos : 00006C3F
 #WRITE(PTR, $000049BA)
 //「え？」
-"My purse?"
+"Huh?"
 <$00>
 
 
@@ -822,7 +822,7 @@ D1Old Woman
 // Pos : 00006D84
 #WRITE(PTR, $00004B51)
 //D1子供たち
-D1Children
+Ｄ１Children
 <$00>
 
 

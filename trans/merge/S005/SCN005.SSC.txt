@@ -31,7 +31,7 @@ The cut on her forehead told me she had hit her head something serious as well.
 // Pos : 00005196
 #WRITE(PTR, $00002040)
 //『とりあえす゛血は止まったけれと゛…』
-The bleeded stopped, at least.
+The bleeding stopped, at least.
 <$00>
 
 
@@ -49,7 +49,7 @@ The bleeded stopped, at least.
 // Pos : 000051EA
 #WRITE(PTR, $000020E3)
 //『…あらためて見ると可愛いし゛ゃないか…』
-But, because I stood so close to her, I couldn't help but notice how pretty she was.
+But, because I sat so close to her, I couldn't help but notice how pretty she was.
 <$00>
 
 
@@ -193,7 +193,7 @@ She forgot both her birthplace and her current address.
 // Pos : 0000563B
 #WRITE(PTR, $0000279C)
 //『もしかして、あの額の傷のせい…？』
-Did that blow to the head she got scramble to her memory?
+Did that blow she got to the head scramble her memory?
 <$00>
 
 
@@ -211,7 +211,7 @@ We need specifics here!
 // Pos : 00005675
 #WRITE(PTR, $000027D6)
 //人のプライバシーに立ち入るのはちょっと…
-I need her private info
+I need her private info.
 <$00>
 
 
@@ -283,7 +283,7 @@ Don't pry
 // Pos : 0000584A
 #WRITE(PTR, $00002A86)
 //「君、なにか知ってる？」
-"Do you know what triggered it?
+"Do you know what triggered it?"
 <$00>
 
 
@@ -301,7 +301,7 @@ Don't pry
 // Pos : 000058F5
 #WRITE(PTR, $00002BD3)
 //「ウン………」
-「No...」
+"No..."
 <$00>
 
 
@@ -337,7 +337,7 @@ Is this what amnesia looks like?
 // Pos : 000059DB
 #WRITE(PTR, $00002D73)
 //『おそらく彼女はと゛こかから逃け゛てくる途中て゛、頭を強く打って…』
-She must've she been running away from someone when she accidentally hit her head."
+She must've she been running away from someone when she accidentally hit her head.
 <$00>
 
 
@@ -472,7 +472,7 @@ I shook my head and dragged myself into the kitchen to wash my face.
 // Pos : 00005DEF
 #WRITE(PTR, $0000335E)
 //「え？」
-"My purse?"
+"Huh?"
 <$00>
 
 
@@ -508,7 +508,7 @@ Woo Mama, THAT is a lot of cash!
 // Pos : 00006072
 #WRITE(PTR, $0000379B)
 //『すこ゛い…、３０万、いやそれ以上はある…』
-That's a good... 300, 000 yen and then some!』
+That's a good... 300, 000 yen and then some!
 <$00>
 
 

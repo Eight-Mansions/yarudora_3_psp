@@ -65,11 +65,10 @@ The arcade
 
 // 0000024C
 // Pos : 0000850C
-#WRITE(PTR, $00002101)
+//#WRITE(PTR, $00002101)
 //自然公園へ行く
-The nature park
-<$00>
-
+//<$00>
+//
 
 
 // 0000033D
@@ -203,7 +202,7 @@ I did it! A prize came out!
 #WRITE(PTR, $000027DF)
 #WRITE(PTR, $000036AE)
 //D1怪しい声
-D1Suspicious Voice
+Ｄ１Suspicious Voice
 <$00>
 
 
@@ -224,7 +223,7 @@ D1Suspicious Voice
 #WRITE(PTR, $0000292C)
 #WRITE(PTR, $00002A0C)
 //D1コレクター
-D1Collector
+Ｄ１Collector
 <$00>
 
 
@@ -323,7 +322,7 @@ We started to duke it out on one another.
 // Pos : 00008CA8
 #WRITE(PTR, $00002C4F)
 //「勝ったァーッ！！」
-「I won！！」
+"I won!"
 <$00>
 
 
@@ -404,7 +403,7 @@ Yep. She got lucky.
 // Pos : 00009024
 #WRITE(PTR, $000031FD)
 //「いい、右中キック、ななめ強キック、上強パンチ、レバーを上に２回」
-"Here, it's up forward Medium Kick, slanted Strong Kick, upward Strong Punch, Up, Up..."
+"Here. It's forward Medium Kick, diagonal Strong Kick, upward Strong Punch, then Up, Up."
 <$00>
 
 
@@ -413,7 +412,7 @@ Yep. She got lucky.
 // Pos : 00009059
 #WRITE(PTR, $00003220)
 //「最後に強パンチ中キックを同時押し」
-「...and finish it off with hitting Strong Punch and Medium Kick simultaneously.」
+"After that, finish it off by pressing Strong Punch and Medium Kick at the same time."
 <$00>
 
 
@@ -521,7 +520,7 @@ Without a doubt, it belonged to none other than...
 // Pos : 0000938B
 #WRITE(PTR, $0000381B)
 //「さっ、佐藤！」
-"Satoh!"
+"Hikaru!"
 <$00>
 
 
@@ -619,7 +618,7 @@ Without a doubt, it belonged to none other than...
 #WRITE(PTR, $00007E33)
 #WRITE(PTR, $00007EF3)
 //D1佐藤
-D1Satoh
+Ｄ１Hikaru Satoh
 <$00>
 
 
@@ -646,7 +645,7 @@ D1Satoh
 // Pos : 00009506
 #WRITE(PTR, $00003ABB)
 //「ボク佐藤くんと言います」
-"YOU CAN CALL ME SATOH-KUN!"
+"YOU CAN CALL ME HIKARU-KUN!"
 <$00>
 
 
@@ -700,7 +699,7 @@ Wait, Maria understands him?!
 // Pos : 0000973D
 #WRITE(PTR, $00003E12)
 //「ね、ね、ちょっとちょっと」
-「Hey, hey, WAIT A MINUTE!」
+"Hey, hey, WAIT A MINUTE!"
 <$00>
 
 
@@ -808,7 +807,7 @@ Sorry. Gotta go!
 // Pos : 00009A98
 #WRITE(PTR, $00004254)
 //「おい、佐藤…」
-"Sheesh, Satoh."
+"Sheesh, Hikaru."
 <$00>
 
 
@@ -1090,7 +1089,7 @@ I lied through my teeth.
 // Pos : 0000A27D
 #WRITE(PTR, $00004E9D)
 //「て゛もす゛いふ゛ん仲良さそうに見えたけと゛なァ。やることやってんて゛しょ？」
-"But you two are SOOO buddy-buddy with eachother! You sure you two aren't DOIN' the DO?"
+"But you two are SOOO buddy-buddy with each other! You sure you two aren't DOIN' the DO?"
 <$00>
 
 
@@ -1173,7 +1172,7 @@ Mr. Baba, huh...
 // Pos : 0000A50A
 #WRITE(PTR, $000051F7)
 //「この前、先輩にパブに連れていかれてさ。まあ…そこて゛…」
-"Bumped into her at the pub with some friends, and, well...」
+"Bumped into her at the pub with some friends, and, well..."
 <$00>
 
 
@@ -1281,7 +1280,7 @@ Would you look at that.
 // Pos : 0000A87F
 #WRITE(PTR, $000056E8)
 //『佐藤か゛話していた言葉…』
-Satoh, talking like a civilized human being!
+Hikaru, talking like a civilized human being!
 <$00>
 
 
@@ -1317,7 +1316,7 @@ Hmph.
 // Pos : 0000A915
 #WRITE(PTR, $000057D0)
 //『もしかして佐藤からなにか引き出せるかもしれないな…』
-Maybe I can still coax some information out of Satoh.
+Maybe I can still coax some information out of Hikaru.
 <$00>
 
 
@@ -1326,7 +1325,7 @@ Maybe I can still coax some information out of Satoh.
 // Pos : 0000A958
 #WRITE(PTR, $00005816)
 //「なあ、佐藤…」
-"Saaay, Satoooh..."
+"Saaay, Hikaruuu..."
 <$00>
 
 
@@ -1425,7 +1424,7 @@ Maybe I can pull his chain a bit.
 // Pos : 0000AB72
 #WRITE(PTR, $00005BA6)
 //「わかった、今のは忘れてくれ。それより佐藤、おまえって…」
-"Ask and we shall receive. But first, Satoh, I've gotta ask, how are you so..."
+"Ask and we shall receive. But first, Hikaru, I've gotta ask, how are you so..."
 <$00>
 
 
@@ -1712,7 +1711,7 @@ He really is all over the place with this conversation.
 // Pos : 0000B13B
 #WRITE(PTR, $0000658D)
 //「なくてもいいから早くおしえろ！」
-"Tell me NOW! I've GOTTA KNOW!"
+"Tell me, tell me!"
 <$00>
 
 
@@ -1811,7 +1810,7 @@ Aww, dammit.
 // Pos : 0000B412
 #WRITE(PTR, $00006B7B)
 //なくてもいいから早くおしえろ！
-Tell me how to say stuff!
+Tell me, tell me!
 <$00>
 
 
@@ -1820,7 +1819,7 @@ Tell me how to say stuff!
 // Pos : 0000B424
 #WRITE(PTR, $00006B84)
 //おしえてくた゛さい佐藤さま
-Teach me, Master Satoh!
+Teach me, Master Hikaru!
 <$00>
 
 
@@ -1838,7 +1837,7 @@ Well, we're friends, right?
 // Pos : 0000B48E
 #WRITE(PTR, $00006C10)
 //「おしえてくた゛さい佐藤さま」
-"Teach me, Master Satoh!"
+"Teach me, Master Hikaru!"
 <$00>
 
 
@@ -1847,7 +1846,7 @@ Well, we're friends, right?
 // Pos : 0000B4B2
 #WRITE(PTR, $00006C65)
 //「佐藤さまあ？」
-"Master Satoh?"
+"Master Hikaru?"
 <$00>
 
 
@@ -2046,7 +2045,7 @@ Yeah, you caught me...
 // Pos : 0000B8DC
 #WRITE(PTR, $00007387)
 //「そういう意味さ。ボクをた゛まそうったって、そうはいかないそ゛」
-"You tell me! Like heck I'd let you wool over MY dazzling eyes.」
+"You tell me! Like heck I'd let you wool over MY dazzling eyes."
 <$00>
 
 
@@ -2091,7 +2090,7 @@ Endure
 // Pos : 0000B9C7
 #WRITE(PTR, $00007533)
 //「ボクは哀しいよ。親しい友人か゛し゛つは大うそつきた゛ったなんて」
-「Now I'm disappointed. I can't believe my best-est-besty-est friend in the whole, wide world is telling me a big, fat lie!」
+"Now I'm disappointed. I can't believe my bestest friend in the whole world is fibbing to me!"
 <$00>
 
 
@@ -2127,7 +2126,7 @@ Endure
 // Pos : 0000BAC6
 #WRITE(PTR, $00007746)
 //「さあ正直に言っちゃいなよ」
-「Come on, tell me the truth!」
+"Come on, tell me the truth!"
 <$00>
 
 
@@ -2307,7 +2306,7 @@ I've had it up to here with him, but I'll give it one more try.
 // Pos : 0000BEDD
 #WRITE(PTR, $00007DCA)
 //「佐藤、フィリピンと聞いて思いつくのは？」
-"Satoh, do you know anyone else who can speak Tagalog?"
+"Hikaru, do you know anyone else who can speak Tagalog?"
 <$00>
 
 
@@ -2316,7 +2315,7 @@ I've had it up to here with him, but I'll give it one more try.
 // Pos : 0000BF1B
 #WRITE(PTR, $00007E3E)
 //「ん～～～と、馬場先輩かなあ…」
-"Welll, maaaybe Mr. Baba..."
+"Welll, maaaybe Mr. Baba... Eep!"
 <$00>
 
 
@@ -2334,7 +2333,7 @@ I've had it up to here with him, but I'll give it one more try.
 // Pos : 0000BF9B
 #WRITE(PTR, $00007EFE)
 //「あ～～～っ！ よくわからんか゛す゛るいそ゛ォ！！」
-"ACK! H-holh on. Who knows if anyone speaks Tagalog but me!"
+"ACK! Hold on. You heard nothing! NOTHING!"
 <$00>
 
 
@@ -2343,7 +2342,7 @@ I've had it up to here with him, but I'll give it one more try.
 // Pos : 0000BFC9
 #WRITE(PTR, $00007F48)
 //『佐藤に勝った！ 手か゛かりは馬場先輩た゛！』
-I wriggled the answer out of Satoh! Maybe this Mr. Baba is the next piece of our puzzle.
+I wriggled the answer out of Hikaru! Maybe this Mr. Baba is the next piece of our puzzle.
 <$00>
 
 
@@ -2352,7 +2351,7 @@ I wriggled the answer out of Satoh! Maybe this Mr. Baba is the next piece of our
 // Pos : 0000C00E
 #WRITE(PTR, $00007F8C)
 //『僕とマリアは、なおもかまってもらいたそうな佐藤を置き去りにして、ゲームセンターをあとにした』
-I held Maria by the hand and scampered out of the arcade, leaving the lonely Satoh where he stood.
+I held Maria by the hand and scampered out of the arcade, leaving the lonely Hikaru where he stood.
 <$00>
 
 
@@ -2370,7 +2369,7 @@ I held Maria by the hand and scampered out of the arcade, leaving the lonely Sat
 // Pos : 0000C07E
 #WRITE(PTR, $00008015)
 //『僕とマリアは、かまってもらいたそうな佐藤を置き去りにして、ゲームセンターをあとにした』
-I took Maria by the hand and scampered out of the arcade, leaving Satoh where he stood.
+I took Maria by the hand and scampered out of the arcade, leaving Hikaru where he stood.
 <$00>
 
 

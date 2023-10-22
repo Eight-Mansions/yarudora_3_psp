@@ -55,7 +55,7 @@ The room to the left
 #WRITE(PTR, $0000382F)
 #WRITE(PTR, $00003FD1)
 //「ボーイ…」
-Boy...
+"Boy..."
 <$00>
 
 
@@ -77,7 +77,7 @@ Boy...
 #WRITE(PTR, $00004076)
 #WRITE(PTR, $0000447C)
 //D1ボーイ
-D1Boy
+Ｄ１Boy
 <$00>
 
 
@@ -152,7 +152,7 @@ Someone's here!
 #WRITE(PTR, $00002C18)
 #WRITE(PTR, $00002CD5)
 //D1日本刀の男
-D1Japanese Swordsman
+Ｄ１Japanese Swordsman
 <$00>
 
 
@@ -273,7 +273,7 @@ She must be on the other side of this door.
 #WRITE(PTR, $00003BC1)
 #WRITE(PTR, $000040DB)
 //「マリア！！」
-「Maria！！」
+"Maria!"
 <$00>
 
 
@@ -282,7 +282,7 @@ She must be on the other side of this door.
 // Pos : 000060F1
 #WRITE(PTR, $00003C25)
 //D1組長
-D1Yakuza Boss
+Ｄ１Yakuza Boss
 <$00>
 
 
@@ -313,7 +313,7 @@ kid. Don't they teach manners in school?"
 #WRITE(PTR, $00004660)
 #WRITE(PTR, $00004712)
 //D1ヤクザ
-D1Yakuza Member
+Ｄ１Yakuza Member
 <$00>
 
 
@@ -322,8 +322,8 @@ D1Yakuza Member
 // Pos : 00006217
 #WRITE(PTR, $00003DAC)
 //「ったく…、これた゛からド素人は使えねえんた゛よ」
-"Hoo boy, I can't believe they called in some\n
-the bedwetters for this."
+"Hoo boy, I can't believe they called in you\n
+bedwetters for this."
 <$00>
 
 
@@ -359,7 +359,7 @@ He's pointing his handgun at Maria!
 // Pos : 000064D9
 #WRITE(PTR, $00004255)
 //『弾はもう残っていない…』
-I'm out of ammo...
+The final shot.
 <$00>
 
 
@@ -368,7 +368,7 @@ I'm out of ammo...
 // Pos : 000064F8
 #WRITE(PTR, $0000428F)
 //『僕にて゛きることはたた゛ひとつ…』
-『There's only one thing I can do now...』
+There's only one thing I can do now...
 <$00>
 
 

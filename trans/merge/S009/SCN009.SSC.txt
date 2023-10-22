@@ -148,7 +148,7 @@ Were I in her shoes, I'd want to keep the light on too.
 // Pos : 0000352A
 #WRITE(PTR, $000027A5)
 //「わかった。このままにしとくよ」
-"Understood. I'll leave it on.
+"Understood. I'll leave it on."
 <$00>
 
 
@@ -164,11 +164,10 @@ Understood.
 
 // 00000683
 // Pos : 00003553
-#WRITE(PTR, $00002805)
+//#WRITE(PTR, $00002805)
 //大丈夫、こわくないよ
-You'll be fine!
-<$00>
-
+//<$00>
+//
 
 
 // 00000691
@@ -182,11 +181,10 @@ I sleep in the dark!
 
 // 000006E7
 // Pos : 000035B7
-#WRITE(PTR, $00002891)
+//#WRITE(PTR, $00002891)
 //「大丈夫、こわくないよ」
-"Don't be scared. You'll be fine!"
-<$00>
-
+//<$00>
+//
 
 
 // 00000715
@@ -292,7 +290,7 @@ Let your eyes adjust!
 // Pos : 00003814
 #WRITE(PTR, $00002DC5)
 //『僕は電気を消さす゛に畳の上て゛横になった…』
-I curled up on the tatami mat and turned out the overhead light.
+I curled up on the tatami mat, ignoring the overhead light.
 <$00>
 
 

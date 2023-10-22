@@ -141,7 +141,7 @@ Living together is by no means "simple".
 // Pos : 00006E9B
 #WRITE(PTR, $000024E3)
 //『僕はこのまま学校に通いなか゛ら、マリアを守っていけるのた゛ろうか』
-How can I to protect Maria closely enough when I'm coming and going from school as I am?
+How can I protect Maria when I'm always coming and going from school as I am?
 <$00>
 
 
@@ -867,7 +867,7 @@ Get out of the cold
 // Pos : 00007F79
 #WRITE(PTR, $000042B4)
 //「ゆっくり歩こうか、いい天気た゛し」
-"I like the weather. Let's take out time."
+"I like the weather. Let's take our time."
 <$00>
 
 
@@ -903,7 +903,7 @@ What are we playing?
 // Pos : 00008035
 #WRITE(PTR, $000043F5)
 //「ウン！」
-"Yup, all of them!"
+"Mhmm!"
 <$00>
 
 
@@ -921,7 +921,7 @@ Maria's really into the fighting games there, these days.
 // Pos : 00008085
 #WRITE(PTR, $00004468)
 //またあの技見せてね
-Show me that one move!
+Show me that one combo!
 <$00>
 
 
@@ -975,7 +975,7 @@ I won't lose to you!
 // Pos : 000081BE
 #WRITE(PTR, $00004650)
 //「今日こそは負けないそ゛」
-"I won't lose to you!"
+"I won't lose to you again!"
 <$00>
 
 
@@ -984,7 +984,7 @@ I won't lose to you!
 // Pos : 000081E1
 #WRITE(PTR, $0000469C)
 //「ウフ……マリアに勝てるかナ？」
-"Oh? Hehe, think you can beat Maria, do you?"
+"Oh, think you can beat me in a fighting game, do you?"
 <$00>
 
 
@@ -993,7 +993,7 @@ I won't lose to you!
 // Pos : 0000821A
 #WRITE(PTR, $000046E4)
 //「いや！ 勝つ！ 勝ってみせる！ 今日こそ君に絶対勝つ！」
-"Ahaha! Victory will be mine! I'll destroy you!"
+"Too bad! Victory will be mine, see? I'll destroy you!"
 <$00>
 
 
@@ -1002,7 +1002,7 @@ I won't lose to you!
 // Pos : 00008261
 #WRITE(PTR, $0000473F)
 //「ウフフフフ…」
-"Hehehe!"
+"Mwehehe..."
 <$00>
 
 
@@ -1011,7 +1011,7 @@ I won't lose to you!
 // Pos : 0000828E
 #WRITE(PTR, $00004787)
 //「なにか゛おかしいのさ」
-"Something funny's going on..."
+"That's one scary laugh..."
 <$00>
 
 
@@ -1020,7 +1020,7 @@ I won't lose to you!
 // Pos : 000082B8
 #WRITE(PTR, $000047E2)
 //「なんて゛もナイ。なんて゛もナイったら…」
-"No, it's nothing. As long as I keep my mind off it..."
+"Oh, I'll show you 'scary' next time."
 <$00>
 
 
@@ -1220,7 +1220,7 @@ Steak sounds nice!
 #WRITE(PTR, $00004EDE)
 #WRITE(PTR, $000050DD)
 //お刺身か゛いいな
-Sushimi sounds nice!
+Sashimi sounds nice!
 <$00>
 
 
@@ -1406,7 +1406,7 @@ She'd also make omelettes as a 3 p.m. treat.
 // Pos : 00008B46
 #WRITE(PTR, $0000575A)
 //『暮らしはし゛めのころには、お互いによく作りあったものた゛けと゛…』
-In the beginning, it'd been fun to make them for eachother, but now... 
+In the beginning, it'd been fun to make them for each other, but now... 
 <$00>
 
 
@@ -1643,7 +1643,7 @@ If Maria's memory ever came back, what then? I hadn't found any clues for her al
 #WRITE(PTR, $0000676D)
 #WRITE(PTR, $000067F9)
 //D1佐藤
-D1Satoh
+Ｄ１Hikaru Satoh
 <$00>
 
 

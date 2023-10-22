@@ -3989,7 +3989,7 @@ Anything to shake up the boring life I'd led so far.
 「ザンネンた゛ったわね。もう一度か゛んは゛って$早くワタシをつかまえて！ ねっ！」
 "Well, so much for 'us'. You'll try again, won't you? Catch me if you caaan!"
 {end}
---bad end 06
+//--bad end 06
 
 『僕はホッとして交番の前を離れた』
 I passed the police box.
@@ -5831,7 +5831,7 @@ I took another look through her purse's contents.
 「マ、マリア…」
 "Maria..."
 {end}
-https://www.youtube.com/watch?v=5Y8EirSeg4c
+//https://www.youtube.com/watch?v=5Y8EirSeg4c
 //08:12
 
 「こ、今夜はとてもセクシーた゛ね」

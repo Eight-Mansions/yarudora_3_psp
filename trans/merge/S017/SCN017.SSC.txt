@@ -59,7 +59,7 @@ Hm? It's unlocked. Guess I got careless on my way out.
 #WRITE(PTR, $000022D8)
 #WRITE(PTR, $00002344)
 //D1男の声
-D1Male Voice
+Ｄ１Male Voice
 <$00>
 
 
@@ -232,7 +232,7 @@ I got desperate.
 #WRITE(PTR, $00002D5D)
 #WRITE(PTR, $000035B1)
 //『と、その時…』
-『Th-That time, I...』
+Th-That time, I had to...
 <$00>
 
 

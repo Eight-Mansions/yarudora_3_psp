@@ -169,7 +169,7 @@ Maria didn't respond to a word I said.
 // Pos : 00006A46
 #WRITE(PTR, $000027A2)
 //マリアのタガログ語講座Ａコース
-Maria's Tagalog Course. A
+Maria's Tagalog Course A
 <$00>
 
 

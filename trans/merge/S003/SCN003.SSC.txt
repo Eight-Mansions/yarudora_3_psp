@@ -22,7 +22,7 @@ Dangit. A police vehicle!
 // Pos : 00004DE1
 #WRITE(PTR, $00002096)
 //『やた゛な…。さっきの感し゛の悪い警官た゛ったらと゛うしよう…』
-And I've got a feeling it's that same officer I spoke with earlier.
+And I've got a feeling it's that same officer I saw earlier.
 <$00>
 
 
@@ -85,7 +85,7 @@ Dangit. A police vehicle! What if it stops us?
 // Pos : 00004F8D
 #WRITE(PTR, $000023E7)
 //『あの警官た゛ったらと゛うしよう…。それに今度は…』
-And what do I do if it's that same officer I spoke with earlier?
+And what do I do if it's that same officer I saw earlier?
 <$00>
 
 
@@ -325,7 +325,7 @@ Your back was so warm.
 // Pos : 00005848
 #WRITE(PTR, $00003665)
 //「ゴメンね。せっかく知り合えたのに…」
-It's a shame we never get to know eachother.
+It's a shame we never get to know each other.
 <$00>
 
 
@@ -578,7 +578,7 @@ I would never forget the way she looked at me that one last time.
 // Pos : 00005F05
 #WRITE(PTR, $000045C7)
 //「アナタのしたコトまちか゛ってないヨ」
-Why would you do such a thing?!
+"Why would you do such a thing?"
 <$00>
 
 
@@ -587,7 +587,7 @@ Why would you do such a thing?!
 // Pos : 00005F50
 #WRITE(PTR, $00004670)
 //「て゛も、もう少し一緒にいたかったナ」
-All I wanted was to stay with you a little longer.
+"All I wanted was to stay with you a little longer."
 <$00>
 
 
@@ -659,7 +659,7 @@ This has to be some sort of weird dream.
 // Pos : 0000610D
 #WRITE(PTR, $00004AA0)
 //「た゛っ大丈夫た゛よ。もうすく゛着くから…」
-「You'll be fine! We'll get there soon...」
+"Don't worry. We're almost there!"
 <$00>
 
 

@@ -24,7 +24,7 @@ we...
 #WRITE(PTR, $00001F9A)
 #WRITE(PTR, $00002094)
 //D1募金の子供たち
-D1Fund-raising Children
+Ｄ１Fund-raising Children
 <$00>
 
 
@@ -54,7 +54,7 @@ Third World country.
 #WRITE(PTR, $00002048)
 //『マリアは僕からの説明を聞くと、大急き゛て゛駆けていって、その日残った手持ちの一万円札を寄付した』
 Once I pointed it out Maria, she ran over and\n
-donated 10, 000 yen on the spot!』
+donated 10, 000 yen on the spot!
 <$00>
 
 
@@ -146,7 +146,7 @@ steep."
 // Pos : 00005D62
 #WRITE(PTR, $000023DA)
 //「僕もマリアもそんなにお金持ちし゛ゃないて゛$しょ？」
-"Neither of us are swimming in money, $you\n
+"Neither of us are swimming in money, you\n
 know?"
 <$00>
 
@@ -329,8 +329,8 @@ purse."
 // Pos : 0000625C
 #WRITE(PTR, $00002C07)
 //「あんなお金、ワタシか゛持っているより子供たちのために使ったほうか゛いいもの」
-「Those children need it way more than I do,\n
-is all!」
+"Those children need it way more than I do,\n
+is all!"
 <$00>
 
 
@@ -565,7 +565,7 @@ Well, I had to wonder.
 // Pos : 0000699C
 #WRITE(PTR, $00003723)
 //「僕たちた゛って余裕ないんた゛しさ」
-「We can't afford it.」
+"We can't afford it."
 <$00>
 
 
@@ -630,7 +630,7 @@ Great. Now I feel ashamed of myself.
 // Pos : 00006B24
 #WRITE(PTR, $00003958)
 //こいつも寄付してしまえ！
-Let's donate too!
+I'll donate too!
 <$00>
 
 
@@ -713,7 +713,7 @@ sorry."
 // Pos : 00006D73
 #WRITE(PTR, $00003E6C)
 //「え？」
-"My purse?"
+"Huh?"
 <$00>
 
 
@@ -731,7 +731,7 @@ sorry."
 // Pos : 00006DD7
 #WRITE(PTR, $00003F28)
 //「ウン！」
-"Yup, all of them!"
+"Mhmm!"
 <$00>
 
 
@@ -1076,8 +1076,8 @@ First, I'm going to look for a real job.
 // Pos : 00007830
 #WRITE(PTR, $00005168)
 //『マリアの記憶をさか゛す手か゛かりも見つけなくちゃ…』
-I have to find clues that will lead to\n
-Maria's memories coming back.
+There must be some clue out there that will\n
+lead to Maria's memories coming back.
 <$00>
 
 
@@ -1086,7 +1086,8 @@ Maria's memories coming back.
 // Pos : 00007861
 #WRITE(PTR, $000051A2)
 //『これからいそか゛しくなるそ゛』
-I'm going to be busy now on.
+Until everything's resolved, I'm going\n
+to be one busy man.
 <$00>
 
 
@@ -1134,8 +1135,8 @@ could be a member of the mafia."
 // Pos : 00007997
 #WRITE(PTR, $00005479)
 //「もし、誰かに見つかったら…」
-"In which case, if someone who knew where\n
-to see you..."
+"What happens, then, if some other\n
+gangster were to see you?"
 <$00>
 
 
@@ -1144,8 +1145,8 @@ to see you..."
 // Pos : 00007A6D
 #WRITE(PTR, $00005733)
 //「うーん、なんとかなる…神様か゛と゛うにかしてくれるっていうコト」
-"Ohhh, that. Guess we'll have to leave it\n
-up to the Lord!"
+"Ohhh, that. Guess we'll have to leave\n
+that up to the Lord!"
 <$00>
 
 

@@ -100,7 +100,7 @@ The hands on the clock teetered past 2 a.m.
 #WRITE(PTR, $000027CB)
 //『あの佐藤につきあってしまったおかけ゛て゛、僕は…』
 All thanks to that good-for-nothing\n
-Satoh...
+Hikaru...
 <$00>
 
 
@@ -307,7 +307,7 @@ It's none of my business.
 #WRITE(PTR, $0000374A)
 #WRITE(PTR, $00003C1A)
 //D1警官
-D1Police Officer
+Ｄ１Police Officer
 <$00>
 
 
@@ -891,8 +891,8 @@ darkness.
 // Pos : 00007532
 #WRITE(PTR, $00005864)
 //『助けないわけにはいかなかった…』
-"I couldn't live with myself if I didn't\n
-try to help."
+I'd never live with myself if I didn't\n
+try to help.
 <$00>
 
 

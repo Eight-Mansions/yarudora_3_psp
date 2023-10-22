@@ -40,7 +40,7 @@ This woman and I had met only moments later.
 // Pos : 000052DC
 #WRITE(PTR, $00002148)
 //D1警官
-D1Police Officer
+Ｄ１Police Officer
 <$00>
 
 
@@ -383,7 +383,7 @@ Good. She said her name was Maria.
 // Pos : 00005C60
 #WRITE(PTR, $000033FA)
 //『え～と、こういう場合…』
-"Hmmm. Well, in that case..."
+Hmmm. Well, in that case...
 <$00>
 
 
@@ -392,7 +392,7 @@ Good. She said her name was Maria.
 // Pos : 00005C90
 #WRITE(PTR, $00003442)
 //「Ｄｏ　ｙｏｕ　ｓｐｅａｋ$Ｊａｐａｎｅｓｅ？」
-"Dooo youuu speaaak $Japaneeese?"
+"Dooo youuu speaaak Japaneeese?"
 <$00>
 
 
@@ -528,7 +528,7 @@ I suspect she came here from another country in Asia, but...
 // Pos : 000060DB
 #WRITE(PTR, $00003EE8)
 //『濡れた衣服を通して彼女の体温を感し゛る。また゛酔っているのかな…』
-『I can feel the woman's body temperature through my soaked clothes. I'm still a little buzzed...』
+Perhaps the alcohol enhanced my senses, but I could feel how cold she was through my soaked clothes.
 <$00>
 
 

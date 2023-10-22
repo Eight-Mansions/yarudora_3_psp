@@ -59,7 +59,7 @@ Behind us, police sirens blared as police officers piled onto the scene.
 #WRITE(PTR, $0000230D)
 #WRITE(PTR, $0000238E)
 //D1ŒY–
-D1Detective
+‚c‚PDetective
 <$00>
 
 
@@ -173,7 +173,7 @@ My brother-in-law called an acquaintance of his in the Metropolitan Police Depar
 #WRITE(PTR, $00002B35)
 #WRITE(PTR, $000031B6)
 //D1…“‡
-D1Mizushima
+‚c‚PHideo Mizushima
 <$00>
 
 
@@ -182,7 +182,7 @@ D1Mizushima
 // Pos : 000056DF
 #WRITE(PTR, $000027A9)
 //uŒ‹‹Ç‚Í‚È‚í’£‚è‚ÆA–ƒ–ò‚Ì—˜Œ ‚ÉŠÖ‚·‚é‘ˆ‚¢‚½J‚Èv
-"Ultimately, the conflict had stemmed from a terf war. A dispute over narcotics."
+"Ultimately, the conflict had stemmed from a turf war. A dispute over narcotics."
 <$00>
 
 
@@ -291,7 +291,7 @@ There's no one waiting for me at my apartment.
 #WRITE(PTR, $00002E04)
 #WRITE(PTR, $00002E6C)
 //D1—«‚Ìº
-D1Female Voice
+‚c‚PFemale Voice
 <$00>
 
 
@@ -354,7 +354,7 @@ I'd called to get Maria's flight reservation transferred over in my name.
 // Pos : 00005D90
 #WRITE(PTR, $00003148)
 //D1“¯—»
-D1Associate
+‚c‚PAssociate
 <$00>
 
 
@@ -561,7 +561,7 @@ I'm certain I'll find Maria! I can see it already!
 // Pos : 00006591
 #WRITE(PTR, $00003D2A)
 //w”Ş—‚É‰ï‚¦‚½‚ç‚Ü‚½‘‚«‚Ü‚·x
-I'll write you again the moment I do."
+I'll write you again the moment I do.
 <$00>
 
 
@@ -570,7 +570,7 @@ I'll write you again the moment I do."
 // Pos : 000065C4
 #WRITE(PTR, $00003D8D)
 //w‹`ŒZ‚³‚ñ‚ÌD‚«‚½J‚Á‚½“ì‚Ì‘‚ÌÂ‚¢‹ó‚Ì‰º‚©‚çcx
-Here, beneath the blue skies of the country you adored so much.
+Here, beneath the blue skies of the country you adored so much."
 <$00>
 
 

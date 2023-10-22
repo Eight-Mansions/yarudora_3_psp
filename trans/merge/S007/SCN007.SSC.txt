@@ -107,7 +107,7 @@ Oxen Sri lanka?
 // Pos : 00004FDD
 #WRITE(PTR, $000023CD)
 //「破談た゛、すまんな」
-"Sorry I slipped up."
+"Sorry I slipped up?"
 <$00>
 
 
@@ -238,7 +238,7 @@ Yahoo
 #WRITE(PTR, $00002AD0)
 #WRITE(PTR, $00002FF2)
 //「『いいえ』は、『ヒンディ』。
-「『No』 is 『hindi』.
+"'No' is 'hindi'."
 <$00>
 
 
@@ -730,7 +730,7 @@ Yikes! Moving along...
 // Pos : 00006108
 #WRITE(PTR, $000041E7)
 //「ねえ、こういうの知ってる？」
-「Hey, do you know this one？」
+"Hey, do you know this one?"
 <$00>
 
 
@@ -946,7 +946,7 @@ Maria's voice cracked as she cried out in the tiny room.
 // Pos : 00006633
 #WRITE(PTR, $00004A9B)
 //『僕はと゛うすることもて゛きす゛、たた゛見守るしかなかった…』
-All I would do was watch her in silence.
+All I could do was watch her in silence.
 <$00>
 
 

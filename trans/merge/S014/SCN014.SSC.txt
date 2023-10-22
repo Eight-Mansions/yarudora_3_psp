@@ -148,7 +148,7 @@ Dwell on Maria's purse
 // Pos : 00006D33
 #WRITE(PTR, $000023C0)
 //ランディを訪ねてみる
-Visit
+Visit Randy's restaurant
 <$00>
 
 
@@ -166,7 +166,7 @@ I lined up the contents from Maria's purse across the table.
 // Pos : 00006DE4
 #WRITE(PTR, $0000248A)
 //『僕はもう一度話を聞こうと、ランディの店を訪ねた』
-I stopped by Randy's store in hopes to check in.
+I stopped by Randy's restaurant in hopes to check in.
 <$00>
 
 
@@ -175,7 +175,7 @@ I stopped by Randy's store in hopes to check in.
 // Pos : 00006E39
 #WRITE(PTR, $000024D1)
 //D1ランディ
-D1Randy
+Ｄ１Randy Santiago
 <$00>
 
 
@@ -319,7 +319,7 @@ As I returned to the apartment, I poked through the contents of Maria's purse. I
 // Pos : 0000734D
 #WRITE(PTR, $00002AE3)
 //『口紅、コンパクト、いくつかの化粧品、$カセットテープ』
-Okay. Lipstick, hand mirror, other cosmetics, $casette tape.
+Okay. Lipstick, hand mirror, other cosmetics, casette tape...
 <$00>
 
 
@@ -467,7 +467,7 @@ I took a look at her photos.
 // Pos : 000078C1
 #WRITE(PTR, $0000329B)
 //『写真を置きかけて僕はふと、ある事を思い出す』
-Holding the photograph, and immediately rememberd something.
+When I held the photograph, I immediately thought of someone.
 <$00>
 
 
@@ -675,7 +675,7 @@ I politely thanked him for the talk before we parted ways.
 #WRITE(PTR, $00005C15)
 #WRITE(PTR, $00005CA9)
 //D1水島
-D1Mizushima
+Ｄ１Hideo Mizushima
 <$00>
 
 
@@ -738,7 +738,7 @@ D1Mizushima
 // Pos : 00007EDD
 #WRITE(PTR, $00003A3C)
 //「この子たちの面倒は、シンジケートか゛みているんた゛」
-"The crime syndicates in the area took care of them."
+"The crime sindicates in the area took care of them."
 <$00>
 
 
@@ -756,7 +756,7 @@ D1Mizushima
 // Pos : 00007F69
 #WRITE(PTR, $00003AB7)
 //$  こうしてサンパギータを売っているのも、この子たちにとっては生きていくためのビジネスなんた゛よ」
-$  In return, the children would sell these flowers for income."
+In return, the children would sell these flowers for income."
 <$00>
 
 
@@ -774,7 +774,7 @@ $  In return, the children would sell these flowers for income."
 // Pos : 00008088
 #WRITE(PTR, $00003C31)
 //「うーん、血はつなか゛っていないた゛ろうか゛、$マリアとそのボーイというのは兄妹た゛な」
-"While perhaps not by blood, $Maria and that Boy fellow are brother and sister."
+"While perhaps not by blood, Maria and that Boy fellow are brother and sister."
 <$00>
 
 
@@ -792,7 +792,7 @@ $  In return, the children would sell these flowers for income."
 // Pos : 00008191
 #WRITE(PTR, $00003D68)
 //「ところて゛その…中国系マフィアとの関連な」
-"But what if that man... has relations to the Triad?"
+"But what if that man... has relations to the triad?"
 <$00>
 
 

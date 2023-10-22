@@ -188,7 +188,7 @@ Call her name
 // Pos : 00005D81
 #WRITE(PTR, $0000269C)
 //声をかけるのはやめておこう
-End the conversation
+Leave her be
 <$00>
 
 
@@ -878,7 +878,7 @@ appreciating your handiwork."
 #WRITE(PTR, $0000423C)
 //「ア、それとネ、アノ雑誌かたつ゛けちゃったヨ」
 "Also, before I forget: I sorted your\n
-magazines collection over there."
+entire magazine collection over there."
 <$00>
 
 
@@ -896,7 +896,7 @@ magazines collection over there."
 // Pos : 00006E2F
 #WRITE(PTR, $000042DF)
 //「ウン！」
-"Yup, all of them!"
+"Mhmm!"
 <$00>
 
 
@@ -914,7 +914,7 @@ Oh, no. Oooh, no, no no...
 // Pos : 00006E62
 #WRITE(PTR, $0000437A)
 //『あ、あの…恥す゛かしい本…！？』
-Surely she didn't touch Satoh's sticky\n
+Surely she didn't touch Hikaru's sticky\n
 tomes of shame, did she?!
 <$00>
 
@@ -1018,7 +1018,7 @@ But... it's normal to look, right?
 #WRITE(PTR, $00004F20)
 #WRITE(PTR, $00004FC3)
 //D1マリアの声
-D1Maria's Voice
+Ｄ１Maria's Voice
 <$00>
 
 
@@ -1037,7 +1037,7 @@ cassette player by the window?"
 // Pos : 000070DF
 #WRITE(PTR, $0000477C)
 //「え？」
-"My purse?"
+"Huh?"
 <$00>
 
 

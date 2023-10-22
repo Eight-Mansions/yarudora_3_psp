@@ -257,8 +257,8 @@ restaurant!
 // Pos : 0000446D
 #WRITE(PTR, $00003372)
 //「な、なんた゛よ君は。乱暴に…」
-What's with this guy?! Talk about\n
-reckless.
+"What's with this guy?! Talk about\n
+reckless."
 <$00>
 
 
@@ -269,7 +269,7 @@ reckless.
 #WRITE(PTR, $000034AF)
 #WRITE(PTR, $000034E0)
 //D1ボーイ
-D1Boy
+Ｄ１Boy
 <$00>
 
 
@@ -278,7 +278,7 @@ D1Boy
 // Pos : 000044EC
 #WRITE(PTR, $00003432)
 //「マリア！！」
-「Maria！！」
+"Maria!"
 <$00>
 
 

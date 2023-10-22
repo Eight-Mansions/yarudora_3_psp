@@ -153,7 +153,7 @@ Dwell on Maria's purse
 // Pos : 00006D33
 #WRITE(PTR, $000023C0)
 //ランディを訪ねてみる
-Visit
+Visit Randy's restaurant
 <$00>
 
 
@@ -172,8 +172,8 @@ across the table.
 // Pos : 00006DE4
 #WRITE(PTR, $0000248A)
 //『僕はもう一度話を聞こうと、ランディの店を訪ねた』
-I stopped by Randy's store in hopes to check\n
-in.
+I stopped by Randy's restaurant in hopes to\n
+check in.
 <$00>
 
 
@@ -182,7 +182,7 @@ in.
 // Pos : 00006E39
 #WRITE(PTR, $000024D1)
 //D1ランディ
-D1Randy
+Ｄ１Randy Santiago
 <$00>
 
 
@@ -342,7 +342,7 @@ it.
 #WRITE(PTR, $00002AE3)
 //『口紅、コンパクト、いくつかの化粧品、$カセットテープ』
 Okay. Lipstick, hand mirror, other\n
-cosmetics, $casette tape.
+cosmetics, casette tape...
 <$00>
 
 
@@ -498,8 +498,8 @@ I took a look at her photos.
 // Pos : 000078C1
 #WRITE(PTR, $0000329B)
 //『写真を置きかけて僕はふと、ある事を思い出す』
-Holding the photograph, and immediately\n
-rememberd something.
+When I held the photograph, I\n
+immediately thought of someone.
 <$00>
 
 
@@ -720,7 +720,7 @@ before we parted ways.
 #WRITE(PTR, $00005C15)
 #WRITE(PTR, $00005CA9)
 //D1水島
-D1Mizushima
+Ｄ１Hideo Mizushima
 <$00>
 
 
@@ -787,7 +787,7 @@ kids were homeless."
 // Pos : 00007EDD
 #WRITE(PTR, $00003A3C)
 //「この子たちの面倒は、シンジケートか゛みているんた゛」
-"The crime syndicates in the area took care\n
+"The crime sindicates in the area took care\n
 of them."
 <$00>
 
@@ -807,7 +807,7 @@ sleep...
 // Pos : 00007F69
 #WRITE(PTR, $00003AB7)
 //$  こうしてサンパギータを売っているのも、この子たちにとっては生きていくためのビジネスなんた゛よ」
-\n$ In return, the children would sell these\n
+\nIn return, the children would sell these\n
 flowers for income."
 <$00>
 
@@ -827,7 +827,7 @@ girl from the Phillipines?"
 // Pos : 00008088
 #WRITE(PTR, $00003C31)
 //「うーん、血はつなか゛っていないた゛ろうか゛、$マリアとそのボーイというのは兄妹た゛な」
-"While perhaps not by blood, $Maria and\n
+"While perhaps not by blood, Maria and\n
 that Boy fellow are brother and sister."
 <$00>
 
@@ -847,7 +847,7 @@ that Boy fellow are brother and sister."
 #WRITE(PTR, $00003D68)
 //「ところて゛その…中国系マフィアとの関連な」
 "But what if that man... has relations to\n
-the Triad?"
+the triad?"
 <$00>
 
 

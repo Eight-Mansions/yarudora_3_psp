@@ -56,7 +56,7 @@ These people, along with Boy, were likely the triad members I read about in the 
 #WRITE(PTR, $000026CF)
 #WRITE(PTR, $00002B4E)
 //D1ボーイ
-D1Boy
+Ｄ１Boy
 <$00>
 
 
@@ -177,7 +177,7 @@ Eventually...
 // Pos : 00003D5A
 #WRITE(PTR, $00002A8F)
 //『拳銃を僕に返し、その扱い方を教えてくれた』
-He took my handgun and showed me out to shoot.
+He took my handgun and showed me how to shoot.
 <$00>
 
 

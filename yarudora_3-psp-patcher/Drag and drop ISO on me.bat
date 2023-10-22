@@ -7,7 +7,7 @@ pushd %~dp0
 if "%~1"=="" goto :NOISO
 
 echo Patching %file_type%...
-patch_data\xdelta.exe -d -f -s "%~1" patch_data\%patch_file% %filename%.bin
+patch_data\xdelta.exe -d -f -s "%~1" patch_data\%patch_file% %filename%.iso
 
 if errorlevel 1 goto :XDELTAERR
 goto :FIN

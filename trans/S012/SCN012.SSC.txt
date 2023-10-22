@@ -146,7 +146,7 @@ share the Filipino culture.
 #WRITE(PTR, $00002599)
 //『今日のゼミの終わり、僕は佐藤から聞いたフィリピン通た゛と言う馬場先輩を訪ねる事にした』
 After today's lecture, I spoke to Mr.\n
-Baba, whom Satoh had mentioned liked to\n
+Baba, whom Hikaru had mentioned liked to\n
 share the Filipino culture.
 <$00>
 
@@ -191,7 +191,7 @@ share the Filipino culture.
 #WRITE(PTR, $000036A4)
 #WRITE(PTR, $000036EB)
 //D1馬場
-D1Baba
+Ｄ１Kenichiro Baba
 <$00>
 
 
@@ -251,7 +251,7 @@ to learn about a place, that's for sure."
 #WRITE(PTR, $00002F4E)
 #WRITE(PTR, $00003425)
 //『………』
-"......"
+......
 <$00>
 
 
@@ -437,7 +437,7 @@ from You-Know-Who."
 #WRITE(PTR, $00003243)
 //「しかし君も大変た゛な。あいつとつきあうのは骨か゛折れるた゛ろ？」
 "Look, I get he's a pain in the ass, but can't\n
-you at least try to get along with Satoh?"
+you at least try to get along with Hikaru?"
 <$00>
 
 
@@ -585,7 +585,7 @@ strong scent of flowers.
 #WRITE(PTR, $000058D7)
 #WRITE(PTR, $00005A06)
 //D1ランディ
-D1Randy
+Ｄ１Randy Santiago
 <$00>
 
 
@@ -723,8 +723,8 @@ flower."
 // Pos : 000075F5
 #WRITE(PTR, $000040CE)
 //『ランディのおしゃへ゛りに苦笑して、僕はカウンターをなか゛める』
-I smiled wrly as Randy told his story, then\n
-turned my eyes over to the counter.
+I smiled wryly as Randy told his story,\n
+then turned my eyes over to the counter.
 <$00>
 
 
@@ -840,7 +840,7 @@ Mention the name "Maria"
 #WRITE(PTR, $00004E8C)
 #WRITE(PTR, $00004F97)
 //D1若いフィリピン人
-D1Young Filipino
+Ｄ１Young Filipino
 <$00>
 
 
@@ -860,7 +860,7 @@ D1Young Filipino
 #WRITE(PTR, $0000466B)
 #WRITE(PTR, $00004EFE)
 //「失礼て゛すか゛あなたの名前は？」
-"Excuse me, what is your name?"
+"Do you mind if I ask your name?"
 <$00>
 
 
@@ -870,7 +870,7 @@ D1Young Filipino
 #WRITE(PTR, $000046F6)
 #WRITE(PTR, $00004FA2)
 //「ワタシの名前はダニーといいます」
-「Call me Danny.」
+"Call me Danny."
 <$00>
 
 
@@ -881,7 +881,7 @@ D1Young Filipino
 #WRITE(PTR, $000049FD)
 #WRITE(PTR, $00004FF8)
 //「そうて゛すか…」
-"Danny? I see."
+"All right..."
 <$00>
 
 
@@ -919,7 +919,7 @@ acquaintance named Maria!"
 // Pos : 00007BB0
 #WRITE(PTR, $00004994)
 //D1ダニー
-D1Danny
+Ｄ１Danny
 <$00>
 
 
@@ -968,8 +968,8 @@ to the table.
 // Pos : 00007D22
 #WRITE(PTR, $00004CAA)
 //「僕の知りあいにマリアというフィリピンの子か゛いるんて゛すか゛、こ゛存し゛ありませんか？」
-"I met a named Maria around here. Any chance\n
-you know her?"
+"I met a woman named Maria around here. Any\n
+chance you know her?"
 <$00>
 
 

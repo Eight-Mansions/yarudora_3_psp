@@ -247,7 +247,7 @@ It was the Filipino man from Randy's restaurant!
 // Pos : 0000446D
 #WRITE(PTR, $00003372)
 //「な、なんた゛よ君は。乱暴に…」
-What's with this guy?! Talk about reckless.
+"What's with this guy?! Talk about reckless."
 <$00>
 
 
@@ -258,7 +258,7 @@ What's with this guy?! Talk about reckless.
 #WRITE(PTR, $000034AF)
 #WRITE(PTR, $000034E0)
 //D1ボーイ
-D1Boy
+Ｄ１Boy
 <$00>
 
 
@@ -267,7 +267,7 @@ D1Boy
 // Pos : 000044EC
 #WRITE(PTR, $00003432)
 //「マリア！！」
-「Maria！！」
+"Maria!"
 <$00>
 
 

@@ -95,7 +95,7 @@ No, no, no, no, nooo!
 // Pos : 000061B9
 #WRITE(PTR, $0000240F)
 //『不安そうな顔て゛僕を見てる…』
-"She gave me a stare of skepticism."
+She gave me a stare of straight skepticism.
 <$00>
 
 
@@ -106,8 +106,8 @@ No, no, no, no, nooo!
 #WRITE(PTR, $00002856)
 #WRITE(PTR, $00002B36)
 //「と、とにかく着替えた方か゛いいよ」
-Annnyways! Let's say we get you out of those\n
-wet clothes!
+"Annnyways! Let's say we get you out of those\n
+wet clothes!"
 <$00>
 
 
@@ -144,8 +144,8 @@ Oh, geez.
 // Pos : 00006364
 #WRITE(PTR, $00002716)
 //「こ、これはね、悪い友達か゛置いていったものて゛…」
-Yeaaah, sorry. Some creepy friend left\n
-that. Nothing to see here!
+"Yeaaah, sorry. A buddy of mine left that.\n
+Nothing to see here!"
 <$00>
 
 
@@ -182,7 +182,7 @@ Avert! Avert thine eyes!
 // Pos : 00006472
 #WRITE(PTR, $0000299B)
 //「た゛っ、た゛からさ、これは僕の友達に佐藤ってやつか゛いて、そいつか゛置いてったもんて゛…」
-"The mags are Satoh's. That miscreant\n
+"The mags are Hikaru's. That miscreant\n
 lives and breathes off the stuff."
 <$00>
 
@@ -238,7 +238,7 @@ Isn't it time you got undressed?
 // Pos : 00006631
 #WRITE(PTR, $00002CCF)
 //モ、モォ、なにか゛なんた゛か…！！
-Hey. Hey, now... What're you...?!
+Heyyy, what're you...?
 <$00>
 
 
@@ -399,8 +399,8 @@ sometime!"
 // Pos : 00006AD0
 #WRITE(PTR, $000035CD)
 //『しまった、あいつか゛置いていった雑誌か゛出しっは゜なした゛！！』
-Oh, man. Satoh WOULD leave those out in the\n
-open, wouldn't he!
+Oh, man. Hikaru WOULD leave those out in\n
+the open, wouldn't he!
 <$00>
 
 
@@ -550,7 +550,7 @@ must be disgusted!
 // Pos : 00006E54
 #WRITE(PTR, $00003DE2)
 //「こっ、これ…。風邪ひかないように早く着替えた方か゛いいよ」
-Here. You should change... before you\n
+"Here. You should change... before you\n
 catch cold."
 <$00>
 
@@ -655,7 +655,7 @@ We needed bandaids.
 // Pos : 00007154
 #WRITE(PTR, $000043AF)
 //D1警官の声
-D1Police Officer's Voice
+Ｄ１Police Officer's Voice
 <$00>
 
 
@@ -737,7 +737,7 @@ Is she not here?
 // Pos : 0000741D
 #WRITE(PTR, $0000493C)
 //「やっは゜り帰っちゃったのか……」
-Maybe she went home.
+"Maybe she went home."
 <$00>
 
 
@@ -746,7 +746,7 @@ Maybe she went home.
 // Pos : 000074F5
 #WRITE(PTR, $00004A89)
 //「なんた゛、そんなとこにいたんた゛…」
-What are you... doing in there?!
+"What are you... doing in there?!"
 <$00>
 
 
@@ -906,7 +906,7 @@ But... But...
 // Pos : 00007A5A
 #WRITE(PTR, $00005317)
 //「と゛わっ！」
-Gyack!
+"Gyack!"
 <$00>
 
 
@@ -951,7 +951,7 @@ Okay, that's enough!
 // Pos : 00007BD5
 #WRITE(PTR, $000055FA)
 //い、いやいや、もっと見たい！！
-No! No! I must see more!
+More! I must see more!
 <$00>
 
 
@@ -961,7 +961,7 @@ No! No! I must see more!
 #WRITE(PTR, $00005679)
 #WRITE(PTR, $000057A2)
 //『も、もうやめとこう！！』
-"Okay, that's enough!"
+Okay, that's enough!
 <$00>
 
 
@@ -1015,8 +1015,8 @@ RED ALERT!
 // Pos : 00007F34
 #WRITE(PTR, $00005B42)
 //『その後、気ます゛くなった僕は早々と布団を敷き、電気も消さす゛に横になった…』
-I curled up on the futon with nary a word\n
-after turning out the overhead light.
+I curled up on the futon with nary a word,\n
+ignoring the overhead light.
 <$00>
 
 
@@ -1064,7 +1064,7 @@ Boy, did I blow it.
 // Pos : 00008076
 #WRITE(PTR, $00005D30)
 //『僕は深いため息とともに、大きく肩を落とした』
-I heaved a heavy sigh and slunked my heavy\n
+I heaved a heavy sigh and slunk my heavy\n
 shoulders.
 <$00>
 
