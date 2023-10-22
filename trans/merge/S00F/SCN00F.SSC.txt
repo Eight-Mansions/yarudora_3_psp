@@ -717,7 +717,7 @@ Oh, man. What does he want from us?
 // Pos : 000097EF
 #WRITE(PTR, $00003F09)
 //「こらこら、と゛ーしたのよあの娘？  カーワイイし゛ゃん！ と゛このお店て゛見つけたのよ？」
-"You dog, WHERE did you pick up CUTIE like her? What CLUB did you go to?"
+"You dog, WHERE did you pick up a CUTIE like her? What CLUB did you go to?"
 <$00>
 
 
@@ -1144,7 +1144,7 @@ I lied through my teeth.
 // Pos : 0000A45B
 #WRITE(PTR, $00005120)
 //「フィリピンといえは゛馬場さんて゛しょう。基本よコレ、基本。ねっ、キ・ホ・ン」
-"If you ever wanted to learn Tagalog, you could ask Mr. Baba. He tought me the BASICS. The FUNDEMENTALS! The GIST!"
+"If you ever wanted to learn Tagalog, you could ask Mr. Baba. He taught me the BASICS. The FUNDEMENTALS! The GIST!"
 <$00>
 
 
@@ -1664,7 +1664,7 @@ My temper hit its boiling point.
 // Pos : 0000B04B
 #WRITE(PTR, $0000637E)
 //「とか言ってボクか゛納得すると思う？」
-"How am I supposed to understand you when you're all over the place?"
+"Wouldn't it be easier if you just said so outright?"
 <$00>
 
 
@@ -1673,7 +1673,7 @@ My temper hit its boiling point.
 // Pos : 0000B084
 #WRITE(PTR, $000063E4)
 //「今日のキミ、なんた゛かヘンた゛よ」
-"You're acting awfully funny today."
+"You're beating around the bush more than you have to."
 <$00>
 
 
@@ -1691,7 +1691,7 @@ He really is all over the place with this conversation.
 // Pos : 0000B0D9
 #WRITE(PTR, $0000647C)
 //「と、いうわけて゛し゛ゃあね」
-"So, that's why."
+"Well, whatever... Peace!"
 <$00>
 
 
@@ -1702,7 +1702,7 @@ He really is all over the place with this conversation.
 #WRITE(PTR, $00006789)
 #WRITE(PTR, $000075EF)
 //「えっ！！！」
-"HUH?!"
+"Huh?!"
 <$00>
 
 
@@ -2045,7 +2045,7 @@ Yeah, you caught me...
 // Pos : 0000B8DC
 #WRITE(PTR, $00007387)
 //「そういう意味さ。ボクをた゛まそうったって、そうはいかないそ゛」
-"You tell me! Like heck I'd let you wool over MY dazzling eyes."
+"You tell me! Like heck I'd let you pull the wool over MY dazzling eyes."
 <$00>
 
 

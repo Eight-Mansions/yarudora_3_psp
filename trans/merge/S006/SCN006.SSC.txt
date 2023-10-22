@@ -263,7 +263,7 @@ Macademia nut oil!
 #WRITE(PTR, $00002AB7)
 #WRITE(PTR, $00004D8F)
 //し゛ゃあ次」
- Now, for the next phrase...
+ Now, for the next phrase..."
 <$00>
 
 
@@ -468,7 +468,7 @@ Como estas?
 #WRITE(PTR, $000057DF)
 #WRITE(PTR, $00005A90)
 //「ア～ッ、ちか゛うヨ。
-"Bzzt! That's incorrect! 
+"Sorry. That's incorrect. 
 <$00>
 
 
@@ -560,7 +560,7 @@ Saruman
 // Pos : 0000766A
 #WRITE(PTR, $00003AEB)
 //『サラマット』て゛しょ？
-Isn't it "salamat"?
+Don't you mean 'salamat'?
 <$00>
 
 
@@ -635,7 +635,7 @@ Maria's glowing! I should thank her for teaching me.
 // Pos : 00007873
 #WRITE(PTR, $00003EBA)
 //ラマサット
-Samurott!
+Samurott
 <$00>
 
 
@@ -644,7 +644,7 @@ Samurott!
 // Pos : 0000787E
 #WRITE(PTR, $00003ECD)
 //サマラット
-Samrat!
+Samrat
 <$00>
 
 
@@ -863,7 +863,7 @@ I suck at this...
 // Pos : 00007E75
 #WRITE(PTR, $00004A09)
 //「て゛きるわけないよこんなの」
-"I doubt I'll do a good job."
+"I must not be doing a good job."
 <$00>
 
 
@@ -872,7 +872,7 @@ I suck at this...
 // Pos : 00007EB5
 #WRITE(PTR, $00004A76)
 //『怒ったかな…？』
-"Did I upset her?"
+Did I upset her?
 <$00>
 
 
@@ -992,7 +992,7 @@ Ma ga motan warau!
 #WRITE(PTR, $00005624)
 #WRITE(PTR, $0000612F)
 //「『と゛うそ゛』は、『シゲ』。
-"'Help yourself,' is "sige.'
+"'Help yourself,' is 'sige'. 
 <$00>
 
 
@@ -1064,7 +1064,7 @@ Macaroni gratin!
 // Pos : 00008616
 #WRITE(PTR, $00005B38)
 //『シゲ』て゛しょ？
-Isn't it "sige"? 
+Don't you mean 'sige'? 
 <$00>
 
 

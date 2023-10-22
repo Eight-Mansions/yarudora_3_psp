@@ -397,7 +397,7 @@ EXCEPTION HANDLING HAS OCCURED. $SEE: 27_2_1!
 {end}
 
 「ゴ、ゴメン。僕、急いて゛るから…」
-Sorry. I'm, uh... in a hurry!
+"Sorry. I'm, uh... in a hurry!"
 {end}
 
 『すか゛りつくような彼女をあとにして、僕は足早にその場を去った…』
@@ -1358,7 +1358,7 @@ I couldn't help but ask myself one thing...
 {end}
 
 「寒い夜た゛からふたりて゛身体を温めあおう」
-"It's awfully cold tonight. We should warm eachother with our bodies."
+"It's awfully cold tonight. We should warm each other with our bodies."
 {end}
 
 「と゛うしたの？ こわいの？」
@@ -1428,7 +1428,7 @@ EXCEPTION HANDLING HAS OCCURED. $SEE: 37_17_11!
 {end}
 
 「し゛ゃっ、し゛ゃあこっちなんかもっとすこ゛いんた゛よ。ホラ、ホラホラ…」
-"And those're just the nips of the iceburg, hehe. Now, look at THESE..." 
+"And those're just the tips of the iceburg, hehe. Now, look at THESE..." 
 {end}
 
 『不意に僕の頬に衝撃か゛走った』
@@ -2389,7 +2389,7 @@ EXCEPTION HANDLING HAS OCCURED. $SEE: 76_2_9!
 {end}
 
 し゛ゃあ次」
- Now, for the next phrase...
+ Now, for the next phrase..."
 {end}
 
 「『け゛んきて゛すか？』は、『クムスタ　カ？』。
@@ -2477,7 +2477,7 @@ EXCEPTION HANDLING HAS OCCURED. $SEE: 76_2_19!
 {end}
 
 「ア～ッ、ちか゛うヨ。
-"Bzzt! That's incorrect! 
+"Sorry. That's incorrect. 
 {end}
 
 『クムスタ　カ？』て゛しょ。
@@ -2525,7 +2525,7 @@ EXCEPTION HANDLING HAS OCCURED. $SEE: 76_2_29!
 {end}
 
 『サラマット』て゛しょ？
-Isn't it "salamat"?
+Don't you mean 'salamat'?
 {end}
 
 あらよっと
@@ -2561,11 +2561,11 @@ Maria's glowing! I should thank her for teaching me.
 {end}
 
 ラマサット
-Samurott!
+Samurott
 {end}
 
 サマラット
-Samrat!
+Samrat
 {end}
 
 例外処理か゛発生しました　。$発生場所は 76_2_37て゛す！
@@ -2673,11 +2673,11 @@ EXCEPTION HANDLING HAS OCCURED. $SEE: 76_2_48!
 {end}
 
 「て゛きるわけないよこんなの」
-"I doubt I'll do a good job."
+"I must not be doing a good job."
 {end}
 
 『怒ったかな…？』
-"Did I upset her?"
+Did I upset her?
 {end}
 
 「いい？ フィリピンのコトバて゛『おはよう』は、『マガンダン　ウゥマガ』」
@@ -2741,7 +2741,7 @@ EXCEPTION HANDLING HAS OCCURED. $SEE: 76_2_72!
 {end}
 
 「『と゛うそ゛』は、『シゲ』。
-"'Help yourself,' is "sige.'
+"'Help yourself,' is 'sige'. 
 {end}
 
 「わかった　洗う」
@@ -2777,7 +2777,7 @@ EXCEPTION HANDLING HAS OCCURED. $SEE: 76_2_78!
 {end}
 
 『シゲ』て゛しょ？
-Isn't it "sige"? 
+Don't you mean 'sige'? 
 {end}
 
 シゲ
@@ -2953,11 +2953,11 @@ EXCEPTION HANDLING HAS OCCURED. $SEE: 76_2_133!
 {end}
 
 『ヒンディ』て゛しょ？
-Isn't it "hindi"?
+Don't you mean 'hindi'? 
 {end}
 
  ハイ、もう一度」
- Okay, one more time."
+Try that one more time."
 {end}
 
 インディ
@@ -2973,7 +2973,7 @@ EXCEPTION HANDLING HAS OCCURED. $SEE: 76_2_136!
 {end}
 
 『あ…、怒らせちゃったかな？』
-"Uh-oh, did I upset her?"
+Uh-oh. Did I upset her?
 {end}
 
 「ヒンディ」
@@ -2985,7 +2985,7 @@ EXCEPTION HANDLING HAS OCCURED. $SEE: 76_2_136!
 {end}
 
 と゛う？ むす゛かしかった？」
-Wait, where did I go wrong?"
+See? That wasn't so hard, was it?"
 {end}
 
 例外処理か゛発生しました　。$発生場所は 76_2_141て゛す！
@@ -3281,7 +3281,7 @@ In the end, one question stuck with me more than any other:
 {end}
 
 『た゛し゛ゃれに詳しい…』
-Who tought her all of those puns?
+Who taught her all of those puns?
 {end}
 
 『そうか、わかった…』
@@ -3370,7 +3370,7 @@ Well, that's not it.
 {end}
 
 『言葉の意味なんてわかってもらえなくたっていいんた゛』
-What if she doesn't understand the meaning of the words that well.
+What if she doesn't understand the meanings of the words that well?
 {end}
 
 『中学生のときは、お笑い研究会の部長た゛ったこともある』
@@ -6801,7 +6801,7 @@ Oh, man. What does he want from us?
 {end}
 
 「こらこら、と゛ーしたのよあの娘？  カーワイイし゛ゃん！ と゛このお店て゛見つけたのよ？」
-"You dog, WHERE did you pick up CUTIE like her? What CLUB did you go to?"
+"You dog, WHERE did you pick up a CUTIE like her? What CLUB did you go to?"
 {end}
 
 「えっ、違うの？」
@@ -7001,7 +7001,7 @@ I lied through my teeth.
 {end}
 
 「フィリピンといえは゛馬場さんて゛しょう。基本よコレ、基本。ねっ、キ・ホ・ン」
-"If you ever wanted to learn Tagalog, you could ask Mr. Baba. He tought me the BASICS. The FUNDEMENTALS! The GIST!"
+"If you ever wanted to learn Tagalog, you could ask Mr. Baba. He taught me the BASICS. The FUNDEMENTALS! The GIST!"
 {end}
 
 『ふ～ん、馬場先輩か…』
@@ -7223,9 +7223,6 @@ My temper hit its boiling point.
 「ボクはないよ」
 "No, not exactly."
 {end}
-//45:48
-//https://www.youtube.com/watch?v=kf8IVSPpqOA
-// list https://www.youtube.com/results?search_query=%28%E3%82%B5%E3%83%B3%E3%83%91%E3%82%AE%E3%83%BC%E3%82%BF%29+%23BAD+ENＤ１6
 
 「佐藤にはかなわないよ」
 "I can't stand you!"
@@ -7240,11 +7237,11 @@ My temper hit its boiling point.
 {end}
 
 「とか言ってボクか゛納得すると思う？」
-"How am I supposed to understand you when you're all over the place?"
+"Wouldn't it be easier if you just said so outright?"
 {end}
 
 「今日のキミ、なんた゛かヘンた゛よ」
-"You're acting awfully funny today."
+"You're beating around the bush more than you have to."
 {end}
 
 『ちょっと言いすき゛たかな…』
@@ -7252,11 +7249,11 @@ He really is all over the place with this conversation.
 {end}
 
 「と、いうわけて゛し゛ゃあね」
-"So, that's why."
+"Well, whatever... Peace!"
 {end}
 
 「えっ！！！」
-"HUH?!"
+"Huh?!"
 {end}
 
 「なくてもいいから早くおしえろ！」
@@ -7416,7 +7413,7 @@ EXCEPTION HANDLING HAS OCCURED.
 {end}
 
 「そういう意味さ。ボクをた゛まそうったって、そうはいかないそ゛」
-"You tell me! Like heck I'd let you wool over MY dazzling eyes."
+"You tell me! Like heck I'd let you pull the wool over MY dazzling eyes."
 {end}
 
 『は゛、は゛れてる！？』
@@ -8531,7 +8528,7 @@ EXCEPTION HANDLING HAS OCCURED.
 {end}
 
 「問題はね、ああいうかわいそうな子供達に寄付て゛きるほと゛」
-"You can't just throw your money around at ever sad kid you see in the street!"
+"You can't just throw your money around at every sad kid you see in the street!"
 {end}
 
 「僕らはお金に余裕か゛あるのかな？ っていうことた゛よ」
@@ -10815,7 +10812,7 @@ That one was dorky, I'll let it slide.
 {end}
 
 「キミか゛フィリピンの子とつきあってるって言ったら、みんな騒いし゛ゃってさ」
-"If people found out YOU we're going out with a 10/10 Filipina like her, everyone would FREAK!"
+"If people found out YOU were going out with a 10/10 Filipina like her, everyone would FREAK!"
 {end}
 
 「余計な事を言うなよ！」
@@ -10891,7 +10888,7 @@ That guy sucks the life out of me, I swear.
 {end}
 
 「おっおほ゛えてろよ！ キミの悪いウワサをサークル仲間に言いふらしてやる！！」
-Oh, I'll REMEMBER this！ I'll YOU! EVERYONE'll know what you did to me!"
+Oh, I'll REMEMBER this！ I'll show YOU! EVERYONE'll know how you treated me!"
 {end}
 
 「勝手にやってろ！」
@@ -11060,7 +11057,7 @@ EXCEPTION HANDLING HAS OCCURED.
 {end}
 
 『と、突然僕は誰かの手によって、路地へ引きこまれた』
-Out of nowhere, someone grabbed my by the arm and yanked me into an alley.
+Out of nowhere, someone grabbed me by the arm and yanked me into an alley.
 {end}
 
 「さ、佐藤！」
@@ -12040,7 +12037,7 @@ Hold on! There's no way this baby can see my finger, is there?
 {end}
 
 『不意の停電た゛った』
-"Suddenly, power went out."
+Suddenly, the power went out.
 {end}
 
 『しは゛らくして電気か゛戻ったとき、ひとりのおは゛あさんか゛言ったものた゛』
@@ -12261,7 +12258,7 @@ It was five years ago to the day... that I had met my Maria for the very first t
 
 //prison scene start
 『僕は刑務所て゛春を迎える』
-I welcomed the sprintime from my cell.
+I welcomed the springtime from my cell.
 {end}
 
 『３度目の春』

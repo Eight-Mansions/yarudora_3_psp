@@ -747,7 +747,7 @@ Can I help you?
 // Pos : 000071F7
 #WRITE(PTR, $00004D9A)
 //「ゴ、ゴメン。僕、急いて゛るから…」
-Sorry. I'm, uh... in a hurry!
+"Sorry. I'm, uh... in a hurry!"
 <$00>
 
 

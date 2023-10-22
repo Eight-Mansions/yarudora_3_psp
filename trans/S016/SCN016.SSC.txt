@@ -227,7 +227,7 @@ That one was dorky, I'll let it slide.
 // Pos : 000060A1
 #WRITE(PTR, $00002732)
 //「キミか゛フィリピンの子とつきあってるって言ったら、みんな騒いし゛ゃってさ」
-"If people found out YOU we're going out\n
+"If people found out YOU were going out\n
 with a 10/10 Filipina like her, everyone\n
 would FREAK!"
 <$00>
@@ -396,8 +396,8 @@ That guy sucks the life out of me, I swear.
 // Pos : 00006587
 #WRITE(PTR, $00002E53)
 //「おっおほ゛えてろよ！ キミの悪いウワサをサークル仲間に言いふらしてやる！！」
-Oh, I'll REMEMBER this！ I'll YOU!\n
-EVERYONE'll know what you did to me!"
+Oh, I'll REMEMBER this！ I'll show YOU!\n
+EVERYONE'll know how you treated me!"
 <$00>
 
 
@@ -770,7 +770,7 @@ bustling with pedestrians.
 // Pos : 000071AF
 #WRITE(PTR, $00004413)
 //『と、突然僕は誰かの手によって、路地へ引きこまれた』
-Out of nowhere, someone grabbed my by the\n
+Out of nowhere, someone grabbed me by the\n
 arm and yanked me into an alley.
 <$00>
 

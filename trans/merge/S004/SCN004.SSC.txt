@@ -322,7 +322,7 @@ I couldn't help but ask myself one thing...
 // Pos : 000068BF
 #WRITE(PTR, $0000315E)
 //「寒い夜た゛からふたりて゛身体を温めあおう」
-"It's awfully cold tonight. We should warm eachother with our bodies."
+"It's awfully cold tonight. We should warm each other with our bodies."
 <$00>
 
 
@@ -466,7 +466,7 @@ Let this play out
 // Pos : 00006C8C
 #WRITE(PTR, $000038B3)
 //「し゛ゃっ、し゛ゃあこっちなんかもっとすこ゛いんた゛よ。ホラ、ホラホラ…」
-"And those're just the nips of the iceburg, hehe. Now, look at THESE..." 
+"And those're just the tips of the iceburg, hehe. Now, look at THESE..." 
 <$00>
 
 

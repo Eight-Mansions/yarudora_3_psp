@@ -281,7 +281,7 @@ You're right.
 #WRITE(PTR, $00002A1C)
 //「問題はね、ああいうかわいそうな子供達に寄付て゛きるほと゛」
 "You can't just throw your money around at\n
-ever sad kid you see in the street!"
+every sad kid you see in the street!"
 <$00>
 
 

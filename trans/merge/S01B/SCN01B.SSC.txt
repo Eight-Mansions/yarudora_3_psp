@@ -402,7 +402,7 @@ It was five years ago to the day... that I had met my Maria for the very first t
 // Pos : 000062F0
 #WRITE(PTR, $00003F1B)
 //w–l‚ÍŒY–±Š‚ÄJt‚ğŒ}‚¦‚éx
-I welcomed the sprintime from my cell.
+I welcomed the springtime from my cell.
 <$00>
 
 

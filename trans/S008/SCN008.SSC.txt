@@ -110,7 +110,7 @@ than any other:
 // Pos : 000039E5
 #WRITE(PTR, $00002295)
 //『た゛し゛ゃれに詳しい…』
-Who tought her all of those puns?
+Who taught her all of those puns?
 <$00>
 
 
@@ -321,8 +321,8 @@ Well, that's not it.
 // Pos : 00003E67
 #WRITE(PTR, $00002A3A)
 //『言葉の意味なんてわかってもらえなくたっていいんた゛』
-What if she doesn't understand the meaning\n
-of the words that well.
+What if she doesn't understand the\n
+meanings of the words that well?
 <$00>
 
 

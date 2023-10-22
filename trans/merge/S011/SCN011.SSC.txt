@@ -272,7 +272,7 @@ You're right.
 // Pos : 000060D4
 #WRITE(PTR, $00002A1C)
 //「問題はね、ああいうかわいそうな子供達に寄付て゛きるほと゛」
-"You can't just throw your money around at ever sad kid you see in the street!"
+"You can't just throw your money around at every sad kid you see in the street!"
 <$00>
 
 

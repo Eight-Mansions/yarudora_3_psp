@@ -334,7 +334,7 @@ We should change clothes."
 #WRITE(PTR, $0000315E)
 //「寒い夜た゛からふたりて゛身体を温めあおう」
 "It's awfully cold tonight. We should\n
-warm eachother with our bodies."
+warm each other with our bodies."
 <$00>
 
 
@@ -482,7 +482,7 @@ could do that?"
 // Pos : 00006C8C
 #WRITE(PTR, $000038B3)
 //「し゛ゃっ、し゛ゃあこっちなんかもっとすこ゛いんた゛よ。ホラ、ホラホラ…」
-"And those're just the nips of the\n
+"And those're just the tips of the\n
 iceburg, hehe. Now, look at THESE..."
 <$00>
 

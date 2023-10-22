@@ -748,7 +748,7 @@ Maria...
 // Pos : 00006B04
 #WRITE(PTR, $000047E4)
 //『不意の停電た゛った』
-"Suddenly, power went out."
+Suddenly, the power went out.
 <$00>
 
 

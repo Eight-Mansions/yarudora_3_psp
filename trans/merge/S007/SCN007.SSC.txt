@@ -76,7 +76,7 @@ Oxen Sri lanka?
 // Pos : 00004EBC
 #WRITE(PTR, $0000221A)
 //し゛ゃあ次」
- Now, for the next phrase...
+ Now, for the next phrase..."
 <$00>
 
 
@@ -266,7 +266,7 @@ Yahoo
 #WRITE(PTR, $00002C7C)
 #WRITE(PTR, $00003231)
 //「ア～ッ、ちか゛うヨ。
-"Bzzt! That's incorrect! 
+"Sorry. That's incorrect. 
 <$00>
 
 
@@ -358,7 +358,7 @@ Hickey
 // Pos : 00005893
 #WRITE(PTR, $000032D9)
 //『ヒンディ』て゛しょ？
-Isn't it "hindi"?
+Don't you mean 'hindi'? 
 <$00>
 
 
@@ -367,7 +367,7 @@ Isn't it "hindi"?
 // Pos : 000058EB
 #WRITE(PTR, $00003381)
 // ハイ、もう一度」
- Okay, one more time."
+Try that one more time."
 <$00>
 
 
@@ -403,7 +403,7 @@ Indie
 // Pos : 000059F0
 #WRITE(PTR, $00003545)
 //『あ…、怒らせちゃったかな？』
-"Uh-oh, did I upset her?"
+Uh-oh. Did I upset her?
 <$00>
 
 
@@ -431,7 +431,7 @@ Indie
 // Pos : 00005A83
 #WRITE(PTR, $00003630)
 //と゛う？ むす゛かしかった？」
-Wait, where did I go wrong?"
+See? That wasn't so hard, was it?"
 <$00>
 
 
