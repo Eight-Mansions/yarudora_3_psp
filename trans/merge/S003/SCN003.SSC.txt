@@ -485,7 +485,6 @@ Well, this is weird. What do I do?
 
 // 000010B2
 // Pos : 00005C82
-#WRITE(PTR, $00001B47)
 #WRITE(PTR, $00003FC0)
 //Ç‚Ç¡ÇÕÅKÇËâBÇÍÇΩÇŸÇ§Ç©ÅJÇ¢Ç¢
 Hide, I guess
