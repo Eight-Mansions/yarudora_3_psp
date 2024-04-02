@@ -3542,7 +3542,7 @@ Were I in her shoes, I'd want to keep the light on too.
 Understood.
 {end}
 
-You'll be fine!
+大丈夫、こわくないよ
 You'll be fine!
 {end}
 
@@ -3554,7 +3554,7 @@ I sleep in the dark!
 EXCEPTION HANDLING HAS OCCURED. $SEE: 80_1_9!
 {end}
 
-「You'll be fine!」
+「大丈夫、こわくないよ」
 "Don't be scared. You'll be fine!"
 {end}
 
@@ -6527,7 +6527,7 @@ The supermarket
 The arcade
 {end}
 
-The nature park
+自然公園へ行く
 The nature park
 {end}
 
