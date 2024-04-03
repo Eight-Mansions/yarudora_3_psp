@@ -721,3 +721,8 @@ Searching Alone
 
 
 #WARN($00106C96, "WARNME")
+
+#JMP($0010408C)
+//ƒMƒƒƒ‰ƒŠ[‚ÉV‚µ‚¢‚b‚f‚ª’Ç‰Á‚³‚ê‚Ü‚µ‚½
+New CGs added to Gallery!
+<$00>
