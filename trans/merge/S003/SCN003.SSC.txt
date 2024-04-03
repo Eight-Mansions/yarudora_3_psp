@@ -177,7 +177,7 @@ Persuade the woman
 // Pos : 000052ED
 #WRITE(PTR, $00002BB3)
 //「大丈夫た゛った？」
-"You okay back there?"
+"You okay there?"
 <$00>
 
 
@@ -234,7 +234,7 @@ Enter the park
 // Pos : 00005515
 #WRITE(PTR, $00002FEE)
 //『僕はマリアを背負って走った』
-"I ran with Maria in tow."
+I ran with Maria in tow.
 <$00>
 
 
@@ -316,7 +316,7 @@ Who in the world are you?
 // Pos : 000057D3
 #WRITE(PTR, $000035AE)
 //「アナタの背中、あたたかかったヨ」
-Your back was so warm.
+"Your back was so warm."
 <$00>
 
 
@@ -325,7 +325,7 @@ Your back was so warm.
 // Pos : 00005848
 #WRITE(PTR, $00003665)
 //「ゴメンね。せっかく知り合えたのに…」
-It's a shame we never get to know each other.
+"It's a shame we never get to know each other."
 <$00>
 
 

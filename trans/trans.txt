@@ -504,7 +504,7 @@ For both our sakes, maybe I shouldn't pry.
 Or, maybe not...
 {end}
 
-//「言葉話せる？」
+「言葉話せる？」
 "Can you speak?"
 {end}
 
@@ -512,19 +512,19 @@ D1女の子
 Ｄ１Girl
 {end}
 
-//「ン…」
+「ン…」
 "Mhmm."
 {end}
 
-//「名前は？」
+「名前は？」
 "Got a name?"
 {end}
 
-//「マリア…」
+「マリア…」
 "Maria."
 {end}
 
-//「と゛うしてあんなところに隠れていたの？」
+「と゛うしてあんなところに隠れていたの？」
 "What were you doing in that alley?"
 {end}
 
@@ -532,11 +532,11 @@ D1マリア
 Ｄ１Maria Santos
 {end}
 
-//「…わからない」
+「…わからない」
 "...I don't know."
 {end}
 
-//「わからないって、と゛ういう意味？」
+「わからないって、と゛ういう意味？」
 "What do you mean, you don't know?"
 {end}
 
@@ -956,7 +956,7 @@ EXCEPTION HANDLING HAS OCCURED. $SEE: 35_28_5!
 {end}
 
 「大丈夫た゛った？」
-"You okay back there?"
+"You okay there?"
 {end}
 
 「し゛ゃあ早く帰ろう」
@@ -984,7 +984,7 @@ EXCEPTION HANDLING HAS OCCURED. $SEE: 35_36_1!
 {end}
 
 『僕はマリアを背負って走った』
-"I ran with Maria in tow."
+I ran with Maria in tow.
 {end}
 
 『もうすく゛、あの角を曲か゛れは゛…』
@@ -1024,11 +1024,11 @@ Who in the world are you?
 {end}
 
 「アナタの背中、あたたかかったヨ」
-Your back was so warm.
+"Your back was so warm."
 {end}
 
 「ゴメンね。せっかく知り合えたのに…」
-It's a shame we never get to know each other.
+"It's a shame we never get to know each other."
 {end}
 //bad end 01
 
@@ -5469,7 +5469,7 @@ EXCEPTION HANDLING HAS OCCURED.
 {end}
 
 「プレイステーション用ソフト$　『雪割りの花』」
-"'Yukiwari No Hana', coming soon to Playstation!"
+"Coming soon to Playstation: Hepatica!"
 {end}
 
 「なにコレ？」

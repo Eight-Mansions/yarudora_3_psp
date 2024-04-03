@@ -65,10 +65,11 @@ The arcade
 
 // 0000024C
 // Pos : 0000850C
-//#WRITE(PTR, $00002101)
+#WRITE(PTR, $00002101)
 //©‘RŒö‰€‚Ös‚­
-//<$00>
-//
+The nature park
+<$00>
+
 
 
 // 0000033D
