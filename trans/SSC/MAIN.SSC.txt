@@ -13,7 +13,7 @@
 // Pos : 00004171
 #WRITE(PTR, $00001CA7)
 //ålŒö
-Protagonist
+Hero
 <$00>
 
 

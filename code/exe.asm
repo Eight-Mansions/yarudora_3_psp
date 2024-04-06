@@ -34,6 +34,12 @@ letter_table: equ 0x08B51914
 	;addiu a1,s2,0x2c
 	;nop
 
+.org 0x0881c1d4
+	j turn_off_scene_menu_vwf
+	
+.org 0x0881c1ec
+	j turn_on_scene_menu_vwf
+
 .org 0x08820F74
 	j do_scene_menu
 	nop
@@ -66,6 +72,24 @@ letter_table: equ 0x08B51914
 ; .org 0x0885D788
 	; j reset_cur_width
 	; lbu s0, 0x0(t0)
+	
+.org 0x8989540
+turn_off_scene_menu_vwf:
+	la t0, vwfOff
+	li t1, 1
+	sb t1, 0(t0)
+	jal 0x0881c1dc
+	li t0, 0x4
+	
+	j 0x0881C1E8
+	
+turn_on_scene_menu_vwf:
+	la t0, vwfOff
+	sb zero, 0(t0)
+	li t0, 0x4	
+	j 0x0881c1f4
+	
+
 
 .org 0x8989200
 ; ---------------------- VWF CODE ----------------
@@ -233,9 +257,6 @@ get_width_gallery_menu:
 	j 0x0882087C
 	addu s4, s4, v1
 
-	
-
-
 ;   ---- Original Replay Scenes Menu Code ----
 ;	lbu	v1,0x0(s2)
 ;	beq	v1,zero,pos_08821108
@@ -266,6 +287,12 @@ not_one_byte_menu:
 	;j 0x08820F80
 	or a3,a2,t0
 get_letter_width_menu:
+	la t6, vwfOff
+	lbu t6, 0(t6)
+	nop
+	bne zero, t6, not_eng_menu
+	nop
+	
 	;----- Get letter width... we'se gonna be lazy and just copy the code....
 	la t6, letter_widths	; Load up address for width table
 
@@ -286,9 +313,10 @@ get_letter_width_menu:
 	b done_menu
 	nop
 not_eng_menu:
-	addiu a1, r0, 0x10	; Poor not ascii...
+	addiu a1, r0, 0x14	; Poor not ascii...
 done_menu:
 	la t6, cur_letter_width
+	;sb r0, 1(t6)
 	j 0x08820F84
 	sb a1, 0(t6)
 ;done_fwf:
@@ -315,10 +343,9 @@ not_newline:
 	j 0x0885D794
 	nop
 
-	
-
-	
 cur_letter_width:
+	.db 00
+vwfOff:
 	.db 00
 letter_widths:	 ; Starts at 8240. Hopefully works ingame?
 	.db 10 ;<
@@ -420,6 +447,7 @@ letter_widths:	 ; Starts at 8240. Hopefully works ingame?
 	.db 0  ; nothing
 	.db 0  ; clear_vwf
 	.db 0  ; set_vwf
+
 
 	
 

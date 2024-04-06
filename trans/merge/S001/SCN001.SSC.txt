@@ -595,6 +595,14 @@ My feet grew increasingly heavier.
 
 
 
+// 0000127B
+// Pos : 00006CAB
+#WRITE(PTR, $00004119)
+//『！？』
+"?!"
+<$00>
+
+
 // 0000128B
 // Pos : 00006CBB
 #WRITE(PTR, $00004153)

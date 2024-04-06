@@ -2409,15 +2409,15 @@ EXCEPTION HANDLING HAS OCCURED. $SEE: 76_2_9!
 {end}
 
 「ア～、ちか゛うヨ。
-"Sorry! That's incorrect!
+"Sorry! That's incorrect! 
 {end}
 
 『マガンダン　ウゥマガ』。
-It's 'Magandang umaga!'"
+It's 'Magandang umaga!'\r
 {end}
 
 ハイ、もう一度」
- All right, let's try one more time."
+All right, let's try one more time."
 {end}
 
 またか゛った馬か
@@ -2481,7 +2481,7 @@ EXCEPTION HANDLING HAS OCCURED. $SEE: 76_2_19!
 {end}
 
 『クムスタ　カ？』て゛しょ。
-It's "kamusta ka?"
+It's 'kamusta ka?'\r
 {end}
 
 ガム捨てたか？
@@ -12750,7 +12750,7 @@ No
 {end}
 
 主人公
-Protagonist
+Hero
 {end}
 
 !　選択肢にヒントマークか゛表示されます。$　表示しますか？
@@ -12895,4 +12895,8 @@ DATA corrupted.
 
 !ＤＩＳＣ交換を中断します$しは゛らくお待ちくた゛さい
 !Suspending DISC change. Please wait.
+{end}
+
+『！？』
+"?!"
 {end}
