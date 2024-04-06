@@ -39,6 +39,13 @@ letter_table: equ 0x08B51914
 	
 .org 0x0881c1ec
 	j turn_on_scene_menu_vwf
+	
+.org 0x0881C244
+	j turn_off_scene_menu_vwf2
+	
+.org 0x0881C25C
+	j turn_on_scene_menu_vwf2
+
 
 .org 0x08820F74
 	j do_scene_menu
@@ -89,6 +96,20 @@ turn_on_scene_menu_vwf:
 	li t0, 0x4	
 	j 0x0881c1f4
 	
+turn_off_scene_menu_vwf2:
+	la t0, vwfOff
+	li t1, 1
+	sb t1, 0(t0)
+	j 0x0881C24C
+	lw a0, 0(t9)
+	
+turn_on_scene_menu_vwf2:
+	la t0, vwfOff
+	sb zero, 0(t0)
+	li t0, 0x4	
+	j 0x0881C264
+	slti t7, s2, 0x07
+		
 
 
 .org 0x8989200
