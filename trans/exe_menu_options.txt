@@ -154,8 +154,8 @@
 //0883933C / 353BC
 #WBB(PTR, $000353BC)
 #WUB(PTR, $000353BD)
-#WLB(PTR, $000353E0)
-#WHB(PTR, $000353E1)
+#WLB(PTR, $000353C0)
+#WHB(PTR, $000353C1)
 //<$21>ウィンドウﾉ有無ｦ設定ｼﾏｽ
 <$21>Adjust window visibility
 <$00>
