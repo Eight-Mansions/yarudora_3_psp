@@ -19,11 +19,6 @@ del graphics\data\*.arc
 
 xcopy /s graphics\_orig\* graphics
 
-del graphics\font21_arc\sys_font01.gim-nq8.png
-del graphics\font21_arc\sys_font01.gim
-tools\pngnq.exe -s 1 -n 256 -d graphics\font21_arc graphics\font21_arc\sys_font01.gim.png
-tools\gimconv graphics\font21_arc\sys_font01.gim-nq8.png --format_endian little --pixel_order faster --image_format index8 --palette_format rgba8888 -o sys_font01.gim
-
 del /q /s graphics\*.gim
 for /R "graphics" %%i in (*.png) do (tools\pngnq.exe -s 1 -n 256 -d %%~pi %%i)
 for /R "graphics" %%A in (*.gim-nq8.png) do (
