@@ -736,3 +736,65 @@ New CGs added to Gallery!
 //現在の設定は<Cffc040ff>%s<Cffffffff>です$主人公の名前を変更しますか？
 Name set to "<Cffc040ff>%s<Cffffffff>".\nChange protagonist name?
 <$00>
+
+#JMP($000FD05C)
+//%sの$セーブデータがありません
+"%s"\nsave data not found.
+<$00>
+
+#JMP($000FC7F0)
+//%sの$セーブデータがありません
+"%s"\nsave data not found.
+<$00>
+
+#JMP($000FF734)
+//%sの$セーブデータがありません
+"%s"\nsave data not found.
+<$00>
+
+#JMP($001006FC)
+//%sの$セーブデータがありません
+"%s"\nsave data not found.
+<$00>
+
+#JMP($000FA4F4)
+//サンパギータ
+Sampaguita
+<$00>
+
+#JMP($000FC514)
+//サンパギータ
+Sampaguita
+<$00>
+
+#JMP($000FCD94)
+//サンパギータ
+Sampaguita
+<$00>
+
+#JMP($000FF444)
+//サンパギータ
+Sampaguita
+<$00>
+
+#JMP($00100294)
+//サンパギータ
+Sampaguita
+<$00>
+
+#JMP($00106CEC)
+//サンパギータ
+Sampaguita
+<$00>
+
+#JMP($0016B684)
+//サンパギータ
+Sampaguita
+<$00>
+
+#JMP($0016D770)
+//サンパギータ
+Sampaguita
+<$00>
+
+
