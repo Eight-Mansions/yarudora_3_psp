@@ -726,3 +726,13 @@ Searching Alone
 //ギャラリーに新しいＣＧが追加されました
 New CGs added to Gallery!
 <$00>
+
+#JMP($001048E0)
+//<Cffc040ff>%s<Cffffffff>でよろしいですか？
+"<Cffc040ff>%s<Cffffffff>"?
+<$00>
+
+#JMP($0016C268)
+//現在の設定は<Cffc040ff>%s<Cffffffff>です$主人公の名前を変更しますか？
+Name set to "<Cffc040ff>%s<Cffffffff>".\nChange protagonist name?
+<$00>
