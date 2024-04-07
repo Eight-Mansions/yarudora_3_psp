@@ -797,4 +797,7 @@ Sampaguita
 Sampaguita
 <$00>
 
-
+#JMP($0016C2EC)
+//選択肢にヒントマークが表示されます$表示しますか？
+View hints during dialogue choices?
+<$00>

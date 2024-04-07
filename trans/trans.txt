@@ -12754,7 +12754,7 @@ Hero
 {end}
 
 !　選択肢にヒントマークか゛表示されます。$　表示しますか？
-!　Would you like to view hint marks over certain choices？
+!　View hints during dialogue choices?
 {end}
 
 !メモリーカードに$設定内容を保存しますか？
