@@ -48,25 +48,25 @@
 <$21>Skip settings
 <$00><$00>
 
-//088391B0 / 35230
-//088391B4 / 35234
-#WBB(PTR, $00035234)
-#WUB(PTR, $00035235)
-#WLB(PTR, $00035238)
-#WHB(PTR, $00035239)
-//<$21>回想
-<$21>Flashback
-<$00>
+// //088391B0 / 35230
+// //088391B4 / 35234
+// #WBB(PTR, $00035234)
+// #WUB(PTR, $00035235)
+// #WLB(PTR, $00035238)
+// #WHB(PTR, $00035239)
+// //<$21>回想
+// <$21>Flashback
+// <$00>
 
-//088391C4 / 35244
-//088391C8 / 35248
-#WBB(PTR, $00035248)
-#WUB(PTR, $00035249)
-#WLB(PTR, $0003524C)
-#WHB(PTR, $0003524D)
-//<$21>中断
-<$21>Suspend
-<$00>
+// //088391C4 / 35244
+// //088391C8 / 35248
+// #WBB(PTR, $00035248)
+// #WUB(PTR, $00035249)
+// #WLB(PTR, $0003524C)
+// #WHB(PTR, $0003524D)
+// //<$21>中断
+// <$21>Suspend
+// <$00>
 
 #JMP($0016B7F4)
 //088391D8 / 35258
@@ -408,7 +408,7 @@ Do not save changed settings?
 
 #JMP($0016BCF4)
 //始めから現地点までのストーリーを$回想します。よろしいですか？
-Begin the story from a selected flashback?
+Begin the story from a\nselected flashback?
 <$00><$00>
 
 #JMP($0016BD34)
@@ -418,7 +418,7 @@ Proceed without saving?
 
 #JMP($0016BD58)
 //セーブしないでタイトル画面へ戻ります$よろしいですか？
-Unsaved data will be lost.$
+Unsaved data will be lost.\n
 Continue?
 <$00>
 
