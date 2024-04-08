@@ -263,6 +263,19 @@ I wonder where she went...
 
 
 
+// 00000965
+// Pos : 00006B25
+#WRITE(PTR, $00002C3F)
+#WRITE(PTR, $00002CC1)
+#WRITE(PTR, $0000456E)
+#WRITE(PTR, $00005A26)
+#WRITE(PTR, $00005ABA)
+//D1ƒ}ƒŠƒA
+‚c‚PMaria Santos
+<$00>
+
+
+
 // 0000096E
 // Pos : 00006B2E
 #WRITE(PTR, $00002C4A)

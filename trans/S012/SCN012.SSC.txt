@@ -1066,6 +1066,15 @@ Danny?! So, that's not Boy.
 
 
 
+// 000021A5
+// Pos : 000081D5
+#WRITE(PTR, $0000552E)
+//「名前は？」
+"Got a name?"
+<$00>
+
+
+
 // 000021B9
 // Pos : 000081E9
 #WRITE(PTR, $00005577)
@@ -1201,6 +1210,18 @@ Maria's memory had yet to return.
 #WRITE(PTR, $00005BB5)
 //「し゛ゃあ学校行ってくるネ」
 "Well, I'm off to school now. See you!"
+<$00>
+
+
+
+// 000025E4
+// Pos : 00008614
+#WRITE(PTR, $00005C0B)
+#WRITE(PTR, $00005EE8)
+#WRITE(PTR, $00005F2F)
+#WRITE(PTR, $00005F86)
+//D1マリア
+Ｄ１Maria Santos
 <$00>
 
 

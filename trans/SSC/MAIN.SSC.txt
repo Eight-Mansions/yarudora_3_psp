@@ -36,15 +36,6 @@ No
 
 
 
-// 000001E6
-// Pos : 00004216
-#WRITE(PTR, $000028A9)
-//!メモリーカードに$設定内容を保存しますか？
-!Save settings to MEMORY CARD?
-<$00>
-
-
-
 #WRITE(APTR, $00000008)
 #WRITE(BPTR, $0000000C)
 

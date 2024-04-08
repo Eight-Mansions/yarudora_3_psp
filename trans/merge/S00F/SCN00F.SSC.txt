@@ -27,6 +27,31 @@ I decided to stay with Maria for as long as possible.
 
 
 
+// 000001D7
+// Pos : 00008497
+#WRITE(PTR, $0000203C)
+#WRITE(PTR, $0000250D)
+#WRITE(PTR, $000026F0)
+#WRITE(PTR, $00002B7C)
+#WRITE(PTR, $00002C44)
+#WRITE(PTR, $00002E86)
+#WRITE(PTR, $00002F18)
+#WRITE(PTR, $0000311A)
+#WRITE(PTR, $000031F2)
+#WRITE(PTR, $00003215)
+#WRITE(PTR, $00003348)
+#WRITE(PTR, $000034E7)
+#WRITE(PTR, $000035F2)
+#WRITE(PTR, $00003CE7)
+#WRITE(PTR, $0000809F)
+#WRITE(PTR, $00008151)
+#WRITE(PTR, $0000821F)
+//D1マリア
+Ｄ１Maria Santos
+<$00>
+
+
+
 // 000001E0
 // Pos : 000084A0
 #WRITE(PTR, $00002047)
@@ -683,6 +708,15 @@ Without a doubt, it belonged to none other than...
 #WRITE(PTR, $00003C7E)
 //『な、なに言ってんた゛、コイツ…？』
 What the heck is he saying?
+<$00>
+
+
+
+// 000013D7
+// Pos : 00009697
+#WRITE(PTR, $00003CF2)
+//「マリア…」
+"Maria."
 <$00>
 
 

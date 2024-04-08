@@ -9857,8 +9857,8 @@ D1水島
 "Gave them food, gave them a place to sleep...
 {end}
 
-$  こうしてサンパギータを売っているのも、この子たちにとっては生きていくためのビジネスなんた゛よ」
-In return, the children would sell these flowers for income."
+\n  こうしてサンパギータを売っているのも、この子たちにとっては生きていくためのビジネスなんた゛よ」
+ In return, the children would sell these flowers for income."
 {end}
 
 「ところて゛なんなんた゛問題は？ フィリピンの娘にて゛も惚れたか？」

@@ -479,6 +479,18 @@ I was too terrified to speak up.
 
 
 
+// 00000F2E
+// Pos : 0000697E
+#WRITE(PTR, $000035A1)
+#WRITE(PTR, $000054AE)
+#WRITE(PTR, $000054DF)
+#WRITE(PTR, $00005585)
+//D1ƒ}ƒŠƒA
+‚c‚PMaria Santos
+<$00>
+
+
+
 // 00000F37
 // Pos : 00006987
 #WRITE(PTR, $000035AC)

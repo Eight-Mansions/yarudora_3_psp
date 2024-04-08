@@ -9,32 +9,12 @@
 #CREATEPTR(BPTR, "LINEAR", $00000030, 32)
 #JMP(-1)
 
-// 00000120
-// Pos : 00002810
-#WRITE(PTR, $00000EA0)
-//ＤＩＳＣか゛違います
-This is the wrong DISC.
-<$00>
-
-
-
 // 00000130
 // Pos : 00002820
 #WRITE(PTR, $00000ED5)
 #WRITE(PTR, $00002507)
 //$をセットして下さい
 $ set...
-<$00>
-
-
-
-// 0000013F
-// Pos : 0000282F
-#WRITE(PTR, $00000F22)
-#WRITE(PTR, $000023F6)
-#WRITE(PTR, $00002595)
-//!ＤＩＳＣを調へ゛ています
-!Examining DISC...
 <$00>
 
 
@@ -49,24 +29,6 @@ Sampaguita
 
 
 
-// 0000020D
-// Pos : 000028FD
-#WRITE(PTR, $0000188A)
-//!データを上書きします$よろしいて゛すか？
-!DATA will be overwritten.$Are you sure?
-<$00>
-
-
-
-// 00000228
-// Pos : 00002918
-#WRITE(PTR, $000018EC)
-//!設定内容を保存しています
-!Saving SETTINGS...
-<$00>
-
-
-
 // 0000023C
 // Pos : 0000292C
 #WRITE(PTR, $000018F5)
@@ -76,17 +38,6 @@ Sampaguita
 #WRITE(PTR, $000025A4)
 //$メモリーカードを抜かないて゛下さい
 $Do not remove MEMORY CARD.
-<$00>
-
-
-
-// 00000275
-// Pos : 00002965
-#WRITE(PTR, $000019F3)
-#WRITE(PTR, $00001A04)
-#WRITE(PTR, $00001A18)
-//!セーブに失敗しました$
-!Failed to save DATA$
 <$00>
 
 
@@ -120,73 +71,12 @@ No
 
 
 
-// 00000316
-// Pos : 00002A06
-#WRITE(PTR, $00001DC9)
-//!データを調へ゛ています
-!Examining DATA...
-<$00>
-
-
-
-// 00000326
-// Pos : 00002A16
-#WRITE(PTR, $00001DF9)
-#WRITE(PTR, $00001E09)
-#WRITE(PTR, $00001E1D)
-#WRITE(PTR, $00001E31)
-#WRITE(PTR, $000022C2)
-#WRITE(PTR, $000022D3)
-#WRITE(PTR, $000022E7)
-#WRITE(PTR, $000022FB)
-//!読み込みに失敗しました$
-!Failed to read DATA.$
-<$00>
-
-
-
 // 00000338
 // Pos : 00002A28
 #WRITE(PTR, $00001E26)
 #WRITE(PTR, $000022F0)
 //データか゛壊れています
 DATA corrupted.
-<$00>
-
-
-
-// 00000347
-// Pos : 00002A37
-#WRITE(PTR, $00001FB1)
-//!削除しています
-!Erasing...
-<$00>
-
-
-
-// 00000352
-// Pos : 00002A42
-#WRITE(PTR, $00002138)
-//!コピーしています
-!Copying...
-<$00>
-
-
-
-// 0000035E
-// Pos : 00002A4E
-#WRITE(PTR, $000024D3)
-//!ＤＩＳＣか゛違います
-!This is the wrong DISC.
-<$00>
-
-
-
-// 0000036F
-// Pos : 00002A5F
-#WRITE(PTR, $000025F3)
-//!ＤＩＳＣ交換を中断します$しは゛らくお待ちくた゛さい
-!Suspending DISC change. Please wait.
 <$00>
 
 

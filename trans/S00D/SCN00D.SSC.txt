@@ -46,6 +46,26 @@ she had in her possession.
 
 
 
+// 000002D5
+// Pos : 00004275
+#WRITE(PTR, $000021D7)
+#WRITE(PTR, $00002256)
+#WRITE(PTR, $00002316)
+#WRITE(PTR, $000029B1)
+#WRITE(PTR, $00002B66)
+#WRITE(PTR, $00003077)
+#WRITE(PTR, $0000313A)
+#WRITE(PTR, $00003582)
+#WRITE(PTR, $00003625)
+#WRITE(PTR, $00003AB8)
+#WRITE(PTR, $00003B7F)
+#WRITE(PTR, $00003E6C)
+//D1マリア
+Ｄ１Maria Santos
+<$00>
+
+
+
 // 000002DE
 // Pos : 0000427E
 #WRITE(PTR, $000021E2)
@@ -343,6 +363,16 @@ to avoid onlookers as I led her to the park.
 //『そして一本の大きな樹を選んて゛、その根元に拳銃を埋めた』
 I picked out a massive tree, then buried the\n
 handgun down at its trunk.
+<$00>
+
+
+
+// 00000B21
+// Pos : 00004AC1
+#WRITE(PTR, $00002DCA)
+#WRITE(PTR, $00003321)
+//「マリア…」
+"Maria."
 <$00>
 
 
