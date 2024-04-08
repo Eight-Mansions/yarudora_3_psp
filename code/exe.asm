@@ -430,7 +430,7 @@ letter_widths:	 ; Starts at 8240. Hopefully works ingame?
 	.db 4  ;[
 	.db 10 ;\
 	.db 4  ;]
-	.db 6  ;^
+	.db 6  ;(space)
 	.db 10 ;_
 	.db 6  ;`
 	.db 16 ;UNK
