@@ -89,12 +89,13 @@ turn_off_scene_menu_vwf:
 	li t0, 0x4
 	
 	j 0x0881C1E8
+	nop
 	
 turn_on_scene_menu_vwf:
 	la t0, vwfOff
 	sb zero, 0(t0)
-	li t0, 0x4	
 	j 0x0881c1f4
+	li t0, 0x4
 	
 turn_off_scene_menu_vwf2:
 	la t0, vwfOff
