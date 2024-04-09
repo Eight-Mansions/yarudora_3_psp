@@ -484,6 +484,15 @@ I shook my head and dragged myself into the kitchen to wash my face.
 
 
 
+// 00000DBA
+// Pos : 00005D6A
+#WRITE(PTR, $000032BC)
+//『彼女のバッグた゛…』　　
+That's when I saw her purse.
+<$00>
+
+
+
 // 00000DEE
 // Pos : 00005D9E
 #WRITE(PTR, $000032FA)

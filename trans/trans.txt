@@ -1920,7 +1920,7 @@ I shook my head and dragged myself into the kitchen to wash my face.
 EXCEPTION HANDLING HAS OCCURED. $SEE: 64_4_1!
 {end}
 
-『彼女のバッグた゛…』　　　　
+『彼女のバッグた゛…』　　
 That's when I saw her purse.
 {end}
 
