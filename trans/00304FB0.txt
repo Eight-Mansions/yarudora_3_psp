@@ -801,3 +801,7 @@ Sampaguita
 //選択肢にヒントマークが表示されます$表示しますか？
 View hints during dialogue choices?
 <$00>
+
+#JMP($00100488)
+Continue?
+<$00>
