@@ -171,7 +171,7 @@ Now, you try to say it!"
 // Pos : 000050DF
 #WRITE(PTR, $00002529)
 //『マガンダン　ウゥマガ』。
-\nIt's 'Magandang umaga!'\n
+\nIt's 'Magandang umaga!'"\n
 <$00>
 
 

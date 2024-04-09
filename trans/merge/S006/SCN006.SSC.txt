@@ -369,7 +369,7 @@ Macademia nut oil!
 #WRITE(PTR, $00002CFF)
 #WRITE(PTR, $00004FFB)
 //「ア～、ちか゛うヨ。
-"Sorry! That's incorrect! 
+"Sorry! That's incorrect!
 <$00>
 
 
@@ -379,7 +379,7 @@ Macademia nut oil!
 #WRITE(PTR, $00002D62)
 #WRITE(PTR, $000050A3)
 //『マガンダン　ウゥマガ』。
-It's 'Magandang umaga!'\r
+It's 'Magandang umaga!'"\r
 <$00>
 
 
@@ -392,7 +392,7 @@ It's 'Magandang umaga!'\r
 #WRITE(PTR, $00005134)
 #WRITE(PTR, $00005BE0)
 //ハイ、もう一度」
-All right, let's try one more time."
+ All right, let's try one more time."
 <$00>
 
 
@@ -529,7 +529,7 @@ Como estas?
 // Pos : 000073D8
 #WRITE(PTR, $00003555)
 //『クムスタ　カ？』て゛しょ。
-It's 'kamusta ka?'\r
+It's "kamusta ka?"\r
 <$00>
 
 

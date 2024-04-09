@@ -160,7 +160,7 @@ Oxen Sri lanka?
 // Pos : 00005061
 #WRITE(PTR, $00002481)
 //「ア～、ちか゛うヨ。
-"Sorry! That's incorrect! 
+"Sorry! That's incorrect!
 <$00>
 
 
@@ -169,7 +169,7 @@ Oxen Sri lanka?
 // Pos : 000050DF
 #WRITE(PTR, $00002529)
 //『マガンダン　ウゥマガ』。
-It's 'Magandang umaga!'\r
+It's 'Magandang umaga!'"\r
 <$00>
 
 
@@ -179,7 +179,7 @@ It's 'Magandang umaga!'\r
 #WRITE(PTR, $000025D1)
 #WRITE(PTR, $00002DCC)
 //ハイ、もう一度」
-All right, let's try one more time."
+ All right, let's try one more time."
 <$00>
 
 

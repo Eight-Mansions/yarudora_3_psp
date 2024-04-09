@@ -387,7 +387,7 @@ Now, you try to say it!"
 #WRITE(PTR, $00002D62)
 #WRITE(PTR, $000050A3)
 //『マガンダン　ウゥマガ』。
-\nIt's 'Magandang umaga!'\n
+\nIt's 'Magandang umaga!'"\n
 <$00>
 
 
@@ -538,7 +538,7 @@ this! Now..."
 // Pos : 000073D8
 #WRITE(PTR, $00003555)
 //『クムスタ　カ？』て゛しょ。
-\nIt's 'kamusta ka?'\n
+\nIt's "kamusta ka?"\n
 <$00>
 
 
